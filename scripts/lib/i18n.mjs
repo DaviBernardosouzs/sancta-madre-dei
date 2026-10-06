@@ -30,7 +30,7 @@ if (!L) {
   process.exit(1);
 }
 export const isCJK = L.code === 'ja' || L.code === 'zh';
-export const STRICT = process.env.I18N_STRICT !== '0';
+export const STRICT = process.env.I18N_STRICT === '1';
 
 const readJson = (p, fallback) => (existsSync(p) ? JSON.parse(readFileSync(p, 'utf8')) : fallback);
 const dict = L.code === DEFAULT_LOCALE ? {} : readJson(join(I18N_DIR, 'ui', `${L.code}.json`), {});

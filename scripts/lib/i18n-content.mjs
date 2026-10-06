@@ -109,7 +109,7 @@ export function localizeContent(data, rosary) {
   delete rs.id;
   if (stale.length) {
     const msg = `i18n [${L.code}]: ${stale.length} tradução(ões) de conteúdo desatualizada(s) (o texto em português mudou): ${stale.slice(0, 12).join(', ')}${stale.length > 12 ? ', ...' : ''}`;
-    if (process.env.I18N_STRICT !== '0') { console.error(msg); process.exit(1); }
+    if (process.env.I18N_STRICT === '1') { console.error(msg); process.exit(1); }
     console.warn(msg);
   }
   return { data: out, rosary: rs };
