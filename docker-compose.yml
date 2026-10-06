@@ -1,0 +1,20 @@
+services:
+  sancta-madre-dei-app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+
+    container_name: sancta-madre-dei-dev
+    
+    ports:
+      - "5173:5173"
+
+    volumes:
+      - .:/app
+      - .:/node_modules
+      
+    environment:
+      - NODE_ENV=development
+
+
+    restart: unless-stopped
