@@ -11,6 +11,8 @@
   "scripts": {
     "validate": "node scripts/validate.mjs",
     "build": "node scripts/build.mjs",
+    "build:app": "node scripts/build.mjs --app && cap sync android",
+    "android:open": "cap open android",
     "test": "node --test tests/",
     "check": "npm run validate && npm test && npm run build && node scripts/check-links.mjs",
     "serve": "node scripts/serve.mjs",
@@ -24,7 +26,12 @@
   },
   "devDependencies": {
     "@axe-core/playwright": "^4.13.0",
+    "@capacitor/cli": "^8.5.2",
     "@playwright/test": "^1.63.0",
     "lighthouse": "^13.5.0"
+  },
+  "dependencies": {
+    "@capacitor/android": "^8.5.2",
+    "@capacitor/core": "^8.5.2"
   }
 }

@@ -9,6 +9,10 @@ Início, leitura guiada, fundamentos da fé, **dossiê documental com 32 capítu
 
 Fora do escopo, por decisão: anúncios, assinaturas, loja, comentários, coleta de testemunhos médicos, cadastro, banco de dados, autenticação e painel administrativo.
 
+## Aplicativo Android
+
+O mesmo conteúdo vira um app offline para a Play Store com Capacitor: `npm run build:app` gera `dist-app/` e atualiza `android/`. O workflow **App Android** do GitHub gera o APK de teste e o `.aab` assinado. Passo a passo, chave de assinatura, ficha da loja e política de privacidade em [docs/PLAY-STORE.md](docs/PLAY-STORE.md).
+
 ## Executar
 Requer Node 20 ou superior. Build e servidor usam apenas Node. Para as auditorias de navegador, instale as dependências de desenvolvimento com `npm ci` e o Chromium com `npx playwright install chromium`.
 

@@ -8,11 +8,22 @@ import {
 import { project, MAP } from './lib/mapa.mjs';
 import { esc, paragraphs, fmtDate, fmtPeriod, normalize, sortKey } from './lib/format.mjs';
 
-const OUT = join(ROOT, 'dist');
+// APP=1 gera a versão empacotada no aplicativo Android (Capacitor): links
+// explícitos para index.html, imagens até 1280 px e saída separada do site.
+const APP = process.env.APP === '1' || process.argv.includes('--app');
+const OUT = join(ROOT, process.env.OUT_DIR ?? (APP ? 'dist-app' : 'dist'));
 const BASE = (process.env.BASE_PATH ?? '/').replace(/\/?$/, '/');
 const SITE_URL = (process.env.SITE_URL ?? 'http://localhost:4173').replace(/\/$/, '');
 const SITE = 'Sancta Mater Dei';
-const href = (p = '') => BASE + p;
+const href = (p = '') => {
+  if (!APP) return BASE + p;
+  // O servidor local do Capacitor responde a pastas com o index.html da raiz,
+  // então no app cada link de página aponta para o arquivo index.html.
+  const i = p.indexOf('#');
+  const path = i < 0 ? p : p.slice(0, i);
+  const hash = i < 0 ? '' : p.slice(i);
+  return BASE + path + (path === '' || path.endsWith('/') ? 'index.html' : '') + hash;
+};
 
 // ---------- carga e validação ----------
 const raw = loadContent();
@@ -62,6 +73,15 @@ const NAV = [
 const UTIL = [['galeria/', 'Galeria'], ['cronologia/', 'Cronologia'], ['santuarios/', 'Santuários'], ['calendario/', 'Calendário'], ['busca/', 'Busca']];
 
 const MANIFEST = JSON.parse(readFileSync(join(ROOT, 'src', 'assets', 'img', 'obras', 'manifest.json'), 'utf8'));
+const APP_MAX_W = 1280;
+if (APP) {
+  // telas de celular não precisam das variantes de 1800 px; reduz o pacote pela metade
+  for (const m of Object.values(MANIFEST)) {
+    if (!Array.isArray(m.widths)) continue;
+    const kept = m.widths.filter((w) => w <= APP_MAX_W);
+    m.widths = kept.length ? kept : [Math.min(...m.widths)];
+  }
+}
 const imageById = Object.fromEntries(cat.images.map((i) => [i.id, i]));
 const derivedById = Object.fromEntries(cat.derivedImages.map((d) => [d.id, d]));
 const ORNAMENTO = `<div class="ornamento" data-rule aria-hidden="true"><svg viewBox="0 0 32 32"><path fill="currentColor" d="M16 2l2.4 11.6L30 16l-11.6 2.4L16 30l-2.4-11.6L2 16l11.6-2.4z"/></svg></div>`;
@@ -214,7 +234,7 @@ ${art ? (() => { const sp = splitHead(body); return abertura(art.id, sp.head, { 
     <p class="rodape__marca">Sancta Mater Dei</p>
     <p>Projeto pessoal, independente, gratuito e sem fins lucrativos. <strong>Não é um órgão oficial da Igreja Católica</strong> e não substitui o ensino do Magistério nem a orientação de um pároco ou de um diretor espiritual.</p>
     <p>O conteúdo passou por pesquisa documental, mas ainda não por revisão teológica humana. Encontrou um erro? <a href="${href('sobre/#correcoes')}">Veja como pedir uma correção</a>.</p>
-    <p class="rodape__peq">Sem anúncios, sem rastreamento e sem cadastro. <a href="${href('galeria/')}">Galeria de obras</a> · <a href="${href('biblioteca/')}">Fontes e créditos</a> · <a href="${href('sobre/')}">Sobre e metodologia</a></p>
+    <p class="rodape__peq">Sem anúncios, sem rastreamento e sem cadastro. <a href="${href('galeria/')}">Galeria de obras</a> · <a href="${href('biblioteca/')}">Fontes e créditos</a> · <a href="${href('sobre/')}">Sobre e metodologia</a> · <a href="${href('privacidade/')}">Privacidade</a></p>
     <p class="rodape__tex">As obras vêm do acervo Open Access do The Metropolitan Museum of Art (CC0) e do Wikimedia Commons; o crédito de cada uma está junto à imagem e na Biblioteca. A textura de tela do fundo foi gerada pelo projeto.</p>
   </div>
 </footer>
@@ -1202,6 +1222,23 @@ ${crumbs([['Início', ''], ['Galeria', 'galeria/']])}
   return layout({ title: 'Galeria de obras', path: 'galeria/', section: 'galeria/', body, art: { id: 'obra-reni-imaculada' }, description: 'Galeria de pinturas marianas dos séculos XV a XVII, de acervos de museus com licença aberta, com autoria, instituição e crédito de cada obra.' });
 }
 
+function pagePrivacy() {
+  const body = `<div class="miolo pagina"><h1>Política de privacidade</h1>
+<p class="lede">O Sancta Mater Dei, no site e no aplicativo para Android, não coleta, não armazena e não compartilha dados pessoais.</p>
+<h2>O que não fazemos</h2>
+<p>Não há cadastro, login, anúncios, ferramentas de análise, rastreamento, cookies de terceiros nem formulários. O aplicativo não pede permissões do aparelho, como localização, câmera, contatos ou arquivos.</p>
+<h2>Preferências de leitura</h2>
+<p>O tamanho da fonte e a opção de ler sem animações ficam guardados apenas no próprio aparelho, no armazenamento local do navegador ou do aplicativo. Esses dados nunca são enviados para nós. Para apagá-los, limpe os dados do site no navegador ou os dados do aplicativo nas configurações do Android.</p>
+<h2>Conteúdo e conexões</h2>
+<p>No aplicativo, todos os textos, imagens e fontes vêm dentro do pacote e funcionam sem internet. Ao tocar em um link externo, como a origem de uma obra no museu, a página abre no navegador do aparelho e passa a seguir a política daquele site. O site é hospedado na Cloudflare, que pode registrar dados técnicos de acesso, como endereço IP, para segurança e entrega das páginas, conforme a política dela.</p>
+<h2>Crianças</h2>
+<p>O conteúdo é adequado a todas as idades e nenhuma informação é coletada de ninguém, incluindo crianças.</p>
+<h2>Mudanças e contato</h2>
+<p>Se esta política mudar, a nova versão será publicada nesta página. Dúvidas e pedidos de correção seguem o caminho descrito em <a href="${href('sobre/#correcoes')}">Sobre e metodologia</a>.</p>
+<p class="refs">Última atualização: 6 de outubro de 2026.</p></div>`;
+  return layout({ title: 'Política de privacidade', path: 'privacidade/', body, description: 'O Sancta Mater Dei não coleta dados pessoais. Política de privacidade do site e do aplicativo.' });
+}
+
 function page404() {
   const body = `<div class="miolo pagina"><h1>Página não encontrada</h1><p class="lede">O endereço não existe ou mudou. Volte ao <a href="${href()}">início</a> ou use a <a href="${href('busca/')}">busca</a>.</p></div>`;
   return layout({ title: 'Página não encontrada', path: '404.html', body, description: 'Página não encontrada.' });
@@ -1246,6 +1283,7 @@ emit('biblioteca/', pageLibrary());
 emit('sobre/', pageAbout());
 emit('busca/', pageSearch());
 emit('galeria/', pageGallery());
+emit('privacidade/', pagePrivacy());
 mkdirSync(join(OUT, 'assets'), { recursive: true });
 writeFileSync(join(OUT, 'assets', 'obras.json'), JSON.stringify(galeriaObras.map((im) => ({ id: im.id, titulo: im.title, autor: im.author, data: im.dateText, tecnica: im.medium, instituicao: im.institution, acesso: im.accession ?? null, licenca: im.license, origem: im.origin, url: im.originUrl, alt: im.alt, legenda: im.caption, srcset: srcsetOf(im.id), src: fileOf(im.id, MANIFEST[im.id].widths.at(-1)), w: MANIFEST[im.id].width, h: MANIFEST[im.id].height, galeria: href('galeria/') + '#' + im.id }))));
 writeFileSync(join(OUT, '404.html'), page404());
@@ -1256,5 +1294,20 @@ writeFileSync(join(OUT, 'sitemap.xml'), `<?xml version="1.0" encoding="UTF-8"?>\
 writeFileSync(join(OUT, 'robots.txt'), `User-agent: *\nAllow: /\nSitemap: ${SITE_URL}${href('sitemap.xml')}\n`);
 writeFileSync(join(OUT, 'pages.json'), JSON.stringify({ pages: emitted }, null, 1));
 
-if (!process.env.SITE_URL) console.warn('Aviso: SITE_URL não definido; sitemap e canonical usam http://localhost:4173. Defina SITE_URL para produção.');
-console.log(`OK: ${emitted.length} páginas em dist/ (aparições ${cat.apparitions.length}, milagres ${cat.miracles.length}, devoções ${cat.devotions.length}, títulos ${cat.titles.length}, orações ${cat.prayers.length}, artigos ${cat.articles.length}; rascunhos excluídos: ${Object.values(drafts).reduce((a, b) => a + b, 0)})`);
+if (APP) {
+  // remove variantes grandes que nenhum arquivo do app referencia
+  const { readdirSync, statSync, unlinkSync } = await import('node:fs');
+  const texts = [];
+  const walk = (d) => { for (const f of readdirSync(d)) { const p = join(d, f); if (statSync(p).isDirectory()) walk(p); else if (/\.(html|css|js|json)$/.test(f)) texts.push(readFileSync(p, 'utf8')); } };
+  walk(OUT);
+  const all = texts.join('\n');
+  const dir = join(OUT, 'assets', 'img', 'obras');
+  let removed = 0;
+  for (const f of readdirSync(dir)) {
+    const m = f.match(/-(\d+)\.webp$/);
+    if (m && Number(m[1]) > APP_MAX_W && !all.includes(f)) { unlinkSync(join(dir, f)); removed++; }
+  }
+  console.log(`App: ${removed} imagens grandes removidas de ${OUT}.`);
+}
+if (!process.env.SITE_URL && !APP) console.warn('Aviso: SITE_URL não definido; sitemap e canonical usam http://localhost:4173. Defina SITE_URL para produção.');
+console.log(`OK: ${emitted.length} páginas em ${OUT.slice(ROOT.length + 1)}/ (aparições ${cat.apparitions.length}, milagres ${cat.miracles.length}, devoções ${cat.devotions.length}, títulos ${cat.titles.length}, orações ${cat.prayers.length}, artigos ${cat.articles.length}; rascunhos excluídos: ${Object.values(drafts).reduce((a, b) => a + b, 0)})`);
