@@ -1,0 +1,51 @@
+{
+  "id": "holy-family-route",
+  "title": "Rota da Peregrinação da Sagrada Família",
+  "segments": [
+    {
+      "id": "nazareth-to-bethlehem",
+      "order": 1,
+      "from": "nazareth",
+      "to": "bethlehem",
+      "label": "Nazaré → Belém",
+      "event": "Viagem antes do nascimento de Jesus",
+      "scripture": "Lucas 2,1-7"
+    },
+    {
+      "id": "bethlehem-to-jerusalem",
+      "order": 2,
+      "from": "bethlehem",
+      "to": "jerusalem",
+      "label": "Belém → Jerusalém",
+      "event": "Apresentação de Jesus no Templo",
+      "scripture": "Lucas 2,22-40"
+    },
+    {
+      "id": "bethlehem-to-egypt",
+      "order": 3,
+      "from": "bethlehem",
+      "to": "egypt",
+      "label": "Belém → Egito",
+      "event": "Fuga para o Egito",
+      "scripture": "Mateus 2,13-15"
+    },
+    {
+      "id": "egypt-to-nazareth",
+      "order": 4,
+      "from": "egypt",
+      "to": "nazareth-return",
+      "label": "Egito → Nazaré",
+      "event": "Retorno do Egito",
+      "scripture": "Mateus 2,19-23"
+    },
+    {
+      "id": "nazareth-to-jerusalem-annual",
+      "order": 5,
+      "from": "nazareth-return",
+      "to": "jerusalem",
+      "label": "Nazaré → Jerusalém",
+      "event": "Peregrinações anuais para a Páscoa",
+      "scripture": "Lucas 2,41"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "holy-family-waypoints",
+  "title": "Waypoints da Peregrinação da Sagrada Família",
+  "points": [
+    {
+      "id": "nazareth",
+      "order": 1,
+      "name": "Nazaré",
+      "country": "Israel",
+      "lat": 32.6996,
+      "lng": 35.3035,
+      "type": "origin",
+      "description": "Cidade onde viviam Maria e José antes da ida a Belém."
+    },
+    {
+      "id": "bethlehem",
+      "order": 2,
+      "name": "Belém",
+      "country": "Palestina",
+      "lat": 31.7054,
+      "lng": 35.2024,
+      "type": "birth",
+      "description": "Local do nascimento de Jesus."
+    },
+    {
+      "id": "jerusalem",
+      "order": 3,
+      "name": "Jerusalém",
+      "country": "Israel/Palestina",
+      "lat": 31.7683,
+      "lng": 35.2137,
+      "type": "temple",
+      "description": "Cidade da apresentação de Jesus no Templo e das peregrinações anuais."
+    },
+    {
+      "id": "egypt",
+      "order": 4,
+      "name": "Egito",
+      "country": "Egito",
+      "lat": 30.0444,
+      "lng": 31.2357,
+      "type": "refuge",
+      "description": "Região de refúgio da Sagrada Família durante a perseguição de Herodes."
+    },
+    {
+      "id": "nazareth-return",
+      "order": 5,
+      "name": "Nazaré",
+      "country": "Israel",
+      "lat": 32.6996,
+      "lng": 35.3035,
+      "type": "return",
+      "description": "Retorno e estabelecimento da Sagrada Família em Nazaré."
+    }
+  ]
+}
