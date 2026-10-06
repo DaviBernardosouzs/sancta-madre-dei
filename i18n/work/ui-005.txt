@@ -1,0 +1,320 @@
+#105
+es: Cada afirmación relevante se vincula a una fuente de la <a href="{link}">Biblioteca</a>, con la fecha de consulta.
+en: Each relevant claim is linked to a source in the <a href="{link}">Library</a>, with the date it was consulted.
+fr: Chaque affirmation importante est reliée à une source de la <a href="{link}">Bibliothèque</a>, avec la date de consultation.
+it: Ogni affermazione rilevante è collegata a una fonte della <a href="{link}">Biblioteca</a>, con la data di consultazione.
+de: Jede wesentliche Aussage ist mit einer Quelle der <a href="{link}">Bibliothek</a> verknüpft, mit Abrufdatum.
+ja: 重要な主張にはそれぞれ、<a href="{link}">資料室</a>にある出典を結びつけ、参照日を記しています。
+zh: 每项重要论述都链接到<a href="{link}">资料库</a>中的一项来源，并注明查阅日期。
+#106
+es: Cada aparición se presenta con el lugar, las fechas y el relato y, por separado, la decisión eclesial: quién decidió, cuándo y en qué documento.
+en: Each apparition is presented with its place, dates and account and, separately, the ecclesial decision: who decided, when and in which document.
+fr: Chaque apparition est présentée avec le lieu, les dates et le récit et, séparément, la décision ecclésiale : qui a décidé, quand et dans quel document.
+it: Ogni apparizione è presentata con il luogo, le date e il racconto e, separatamente, la decisione ecclesiale: chi ha deciso, quando e in quale documento.
+de: Jede Erscheinung wird mit Ort, Daten und Bericht dargestellt und, getrennt davon, mit der kirchlichen Entscheidung: wer entschieden hat, wann und in welchem Dokument.
+ja: 各出現について、場所・日付・報告の内容を示し、それとは別に教会の決定（誰が、いつ、どの文書で決めたか）を載せています。
+zh: 每一次显现都列出地点、日期和叙述，并另外列出教会的裁定：由谁、何时、在哪份文件中作出。
+#107
+es: Cada bloque de texto indica su naturaleza: Escritura, doctrina, contexto histórico, tradición devocional, revelación privada, relato o nota editorial.
+en: Each block of text states its nature: Scripture, doctrine, historical context, devotional tradition, private revelation, account or editorial note.
+fr: Chaque bloc de texte indique sa nature : Écriture, doctrine, contexte historique, tradition dévotionnelle, révélation privée, récit ou note éditoriale.
+it: Ogni blocco di testo indica la propria natura: Scrittura, dottrina, contesto storico, tradizione devozionale, rivelazione privata, racconto o nota editoriale.
+de: Jeder Textblock nennt seine Art: Schrift, Lehre, historischer Kontext, Frömmigkeitstradition, Privatoffenbarung, Bericht oder redaktionelle Anmerkung.
+ja: 各テキストブロックには、その性格（聖書、教え、歴史的背景、信心の伝統、私的啓示、報告、編集上の注記）を示しています。
+zh: 每个文字段落都标明其性质：圣经、教义、历史背景、敬礼传统、私人启示、叙述或编者按语。
+#108
+es: Cada decisión aparece con su autoridad, fecha, alcance y documento. Las decisiones anteriores a 2024 no se reclasifican con la terminología de las normas de 2024.
+en: Each decision appears with its authority, date, scope and document. Decisions before 2024 are not reclassified with the terminology of the 2024 norms.
+fr: Chaque décision figure avec son autorité, sa date, sa portée et son document. Les décisions antérieures à 2024 ne sont pas reclassées selon la terminologie des normes de 2024.
+it: Ogni decisione compare con la sua autorità, data, portata e documento. Le decisioni anteriori al 2024 non vengono riclassificate con la terminologia delle norme del 2024.
+de: Jede Entscheidung erscheint mit Autorität, Datum, Reichweite und Dokument. Entscheidungen vor 2024 werden nicht nach der Terminologie der Normen von 2024 neu eingeordnet.
+ja: 各決定は、権限者・日付・範囲・文書とともに示します。2024年より前の決定を、2024年の規範の用語で分類し直すことはしていません。
+zh: 每项裁定都附有裁定机构、日期、适用范围和文件。2024年以前的裁定不按2024年规范的术语重新归类。
+#109
+es: Cada decisión aparece con su autoridad, fecha, alcance y documento. Las distintas decisiones (reconocer una aparición, autorizar el culto, coronar, elevar a basílica, proclamar patrona) no se confunden.
+en: Each decision appears with its authority, date, scope and document. Different decisions (recognizing an apparition, authorizing worship, crowning, raising to a basilica, proclaiming a patroness) are not confused with one another.
+fr: Chaque décision figure avec son autorité, sa date, sa portée et son document. Les décisions distinctes (reconnaître une apparition, autoriser le culte, couronner, élever au rang de basilique, proclamer patronne) ne se confondent pas.
+it: Ogni decisione compare con la sua autorità, data, portata e documento. Le diverse decisioni (riconoscere un’apparizione, autorizzare il culto, incoronare, elevare a basilica, proclamare patrona) non vanno confuse.
+de: Jede Entscheidung erscheint mit Autorität, Datum, Reichweite und Dokument. Verschiedene Entscheidungen (eine Erscheinung anerkennen, den Kult erlauben, krönen, zur Basilika erheben, zur Patronin ausrufen) dürfen nicht verwechselt werden.
+ja: 各決定は、権限者・日付・範囲・文書とともに示します。決定の種類（出現の承認、崇敬の許可、戴冠、大聖堂への格上げ、守護聖人の宣言）は、互いに混同しないようにしています。
+zh: 每项裁定都附有裁定机构、日期、适用范围和文件。不同性质的裁定（承认显现、准许敬礼、加冕、升格为大殿、宣布为主保）不可混为一谈。
+#110
+es: Calendario
+en: Calendar
+fr: Calendrier
+it: Calendario
+de: Kalender
+ja: カレンダー
+zh: 日历
+#111
+es: Calendario mariano
+en: Marian calendar
+fr: Calendrier marial
+it: Calendario mariano
+de: Marianischer Kalender
+ja: 聖母の暦
+zh: 圣母日历
+#112
+es: Capítulo anterior
+en: Previous chapter
+fr: Chapitre précédent
+it: Capitolo precedente
+de: Voriges Kapitel
+ja: 前の章
+zh: 上一章
+#113
+es: Capítulos de la vida de María
+en: Chapters on the life of Mary
+fr: Chapitres sur la vie de Marie
+it: Capitoli sulla vita di Maria
+de: Kapitel zum Leben Marias
+ja: マリアの生涯の各章
+zh: 玛利亚生平各章
+#114
+es: Catecismo y Compendio
+en: Catechism and Compendium
+fr: Catéchisme et Compendium
+it: Catechismo e Compendio
+de: Katechismus und Kompendium
+ja: カテキズムとその要約
+zh: 教理与《简编》
+#115
+es: Conferencia Episcopal de Inglaterra y Gales
+en: Catholic Bishops' Conference of England and Wales
+fr: Conférence des évêques catholiques d’Angleterre et du pays de Galles
+it: Conferenza Episcopale di Inghilterra e Galles
+de: Katholische Bischofskonferenz von England und Wales
+ja: イングランド・ウェールズ司教協議会
+zh: 英格兰与威尔士天主教主教团
+#116
+es: Catálogo de apariciones marianas con lugar, periodo, relato y la decisión eclesial documentada: autoridad, fecha, alcance y fuente.
+en: Catalog of Marian apparitions with place, period, account and the documented ecclesial decision: authority, date, scope and source.
+fr: Catalogue des apparitions mariales avec lieu, période, récit et décision ecclésiale documentée : autorité, date, portée et source.
+it: Catalogo delle apparizioni mariane con luogo, periodo, racconto e decisione ecclesiale documentata: autorità, data, portata e fonte.
+de: Katalog marianischer Erscheinungen mit Ort, Zeitraum, Bericht und dokumentierter kirchlicher Entscheidung: Autorität, Datum, Reichweite und Quelle.
+ja: 聖母出現の一覧。場所、時期、報告の内容、そして資料で確認できる教会の決定（権限者、日付、範囲、出典）を載せています。
+zh: 圣母显现目录，列出地点、时期、叙述，以及有文献可查的教会裁定：裁定机构、日期、适用范围和来源。
+#117
+es: Celebración
+en: Celebration
+fr: Célébration
+it: Celebrazione
+de: Feier
+ja: 祝い
+zh: 庆典
+#118
+es: Celebración devocional o local
+en: Devotional or local celebration
+fr: Célébration dévotionnelle ou locale
+it: Celebrazione devozionale o locale
+de: Andachts- oder Ortsfeier
+ja: 信心上または地域の祝い
+zh: 敬礼性或地方性庆典
+#119
+es: Celebraciones
+en: Celebrations
+fr: Célébrations
+it: Celebrazioni
+de: Feiern
+ja: 祝い
+zh: 庆典
+#120
+es: Empezar
+en: Begin
+fr: Commencer
+it: Inizia
+de: Beginnen
+ja: はじめる
+zh: 开始
+#121
+es: Cómo ha llegado hasta nosotros
+en: How it reached us
+fr: Comment cela nous est parvenu
+it: Come è giunta fino a noi
+de: Wie es zu uns gekommen ist
+ja: 私たちに伝わった経緯
+zh: 如何传到我们手中
+#122
+es: Cómo rezar el Rosario
+en: How to pray the Rosary
+fr: Comment prier le Rosaire
+it: Come pregare il Rosario
+de: Wie man den Rosenkranz betet
+ja: ロザリオの祈り方
+zh: 如何诵念玫瑰经
+#123
+es: El Concilio de Éfeso proclama a María «Madre de Dios» (según el Catecismo)
+en: The Council of Ephesus proclaims Mary “Mother of God” (according to the Catechism)
+fr: Le concile d’Éphèse proclame Marie « Mère de Dieu » (selon le Catéchisme)
+it: Il Concilio di Efeso proclama Maria «Madre di Dio» (secondo il Catechismo)
+de: Das Konzil von Ephesus ruft Maria zur „Mutter Gottes“ aus (nach dem Katechismus)
+ja: エフェソ公会議がマリアを「神の母」と宣言（『カトリック教会のカテキズム』による）
+zh: 以弗所大公会议宣布玛利亚为“天主之母”（据《天主教教理》）
+#124
+es: Conferencia de los Obispos de Francia (eglise.catholique.fr)
+en: Bishops’ Conference of France (eglise.catholique.fr)
+fr: Conférence des évêques de France (eglise.catholique.fr)
+it: Conferenza dei Vescovi di Francia (eglise.catholique.fr)
+de: Französische Bischofskonferenz (eglise.catholique.fr)
+ja: フランス司教協議会（eglise.catholique.fr）
+zh: 法国主教团（eglise.catholique.fr）
+#125
+es: Conferencia episcopal
+en: Bishops’ conference
+fr: Conférence épiscopale
+it: Conferenza episcopale
+de: Bischofskonferenz
+ja: 司教協議会
+zh: 主教团
+#126
+es: Consultado el
+en: Consulted on
+fr: Consulté le
+it: Consultato il
+de: Abgerufen am
+ja: 参照日
+zh: 查阅日期
+#127
+es: Contenido y conexiones
+en: Content and connections
+fr: Contenu et connexions
+it: Contenuti e connessioni
+de: Inhalte und Verbindungen
+ja: コンテンツと通信
+zh: 内容与连接
+#128
+es: Coordenadas
+en: Coordinates
+fr: Coordonnées
+it: Coordinate
+de: Koordinaten
+ja: 座標
+zh: 坐标
+#129
+es: Coronación pontificia
+en: Pontifical coronation
+fr: Couronnement pontifical
+it: Incoronazione pontificia
+de: Päpstliche Krönung
+ja: 教皇による戴冠
+zh: 教宗加冕
+#130
+es: Niños
+en: Children
+fr: Enfants
+it: Bambini
+de: Kinder
+ja: 子ども
+zh: 儿童
+#131
+es: Criterios editoriales
+en: Editorial criteria
+fr: Critères éditoriaux
+it: Criteri editoriali
+de: Redaktionelle Kriterien
+ja: 編集方針
+zh: 编辑准则
+#132
+es: Cronología
+en: Timeline
+fr: Chronologie
+it: Cronologia
+de: Zeitleiste
+ja: 年表
+zh: 年表
+#133
+es: Créditos
+en: Credits
+fr: Crédits
+it: Crediti
+de: Nachweise
+ja: クレジット
+zh: 署名
+#134
+es: Créditos y correcciones
+en: Credits and corrections
+fr: Crédits et corrections
+it: Crediti e correzioni
+de: Nachweise und Korrekturen
+ja: クレジットと訂正
+zh: 署名与更正
+#135
+es: Curación inexplicada y milagro
+en: Unexplained healing and miracle
+fr: Guérison inexpliquée et miracle
+it: Guarigione inspiegata e miracolo
+de: Unerklärte Heilung und Wunder
+ja: 説明のつかない治癒と奇跡
+zh: 无法解释的治愈与奇迹
+#136
+es: Curaciones reconocidas de Lourdes
+en: Recognized healings of Lourdes
+fr: Guérisons reconnues de Lourdes
+it: Guarigioni riconosciute di Lourdes
+de: Anerkannte Heilungen von Lourdes
+ja: ルルドで認定された治癒
+zh: 露德已获承认的治愈
+#137
+es: Curaciones reconocidas de Lourdes ({n} casos)
+en: Recognized healings of Lourdes ({n} cases)
+fr: Guérisons reconnues de Lourdes ({n} cas)
+it: Guarigioni riconosciute di Lourdes ({n} casi)
+de: Anerkannte Heilungen von Lourdes ({n} Fälle)
+ja: ルルドで認定された治癒（{n}件）
+zh: 露德已获承认的治愈（{n}例）
+#138
+es: Custodia de Tierra Santa (Franciscanos)
+en: Custody of the Holy Land (Franciscans)
+fr: Custodie de Terre Sainte (Franciscains)
+it: Custodia di Terra Santa (Francescani)
+de: Kustodie des Heiligen Landes (Franziskaner)
+ja: 聖地管理委員会（フランシスコ会）
+zh: 圣地管理会（方济各会）
+#139
+es: De la Nazaret del siglo I a la Iglesia naciente. En cada capítulo, lo que dice la Escritura queda separado de la doctrina y de la tradición.
+en: From first-century Nazareth to the early Church. In each chapter, what Scripture says is kept separate from doctrine and tradition.
+fr: De Nazareth au Ier siècle à l’Église naissante. Dans chaque chapitre, ce que dit l’Écriture reste distinct de la doctrine et de la tradition.
+it: Dalla Nazaret del I secolo alla Chiesa nascente. In ogni capitolo, ciò che dice la Scrittura resta distinto dalla dottrina e dalla tradizione.
+de: Vom Nazaret des 1. Jahrhunderts bis zur entstehenden Kirche. In jedem Kapitel bleibt das, was die Schrift sagt, von Lehre und Tradition getrennt.
+ja: 1世紀のナザレから初代教会まで。各章で、聖書の記述を教えや伝承から切り分けています。
+zh: 从一世纪的纳匝肋到初期教会。每一章都把圣经所说的与教义、传统分开。
+#140
+es: Fecha
+en: Date
+fr: Date
+it: Data
+de: Datum
+ja: 日付
+zh: 日期
+#141
+es: Fecha del documento
+en: Document date
+fr: Date du document
+it: Data del documento
+de: Datum des Dokuments
+ja: 文書の日付
+zh: 文件日期
+#142
+es: Fechas móviles
+en: Movable dates
+fr: Dates mobiles
+it: Date mobili
+de: Bewegliche Termine
+ja: 移動祝日
+zh: 活动日期
+#143
+es: Hijas de la Caridad (de San Vicente de Paúl)
+en: Daughters of Charity (of Saint Vincent de Paul)
+fr: Filles de la Charité (de Saint Vincent de Paul)
+it: Figlie della Carità (di San Vincenzo de’ Paoli)
+de: Töchter der christlichen Liebe (vom hl. Vinzenz von Paul)
+ja: 愛徳姉妹会（聖ヴィンセンシオ・ア・パウロ）
+zh: 仁爱女修会（圣味增森·德·保禄）
+#144
+es: Decisión del obispo de la diócesis donde ocurrió el hecho. No equivale a una decisión de la Santa Sede.
+en: A decision of the bishop of the diocese where the event took place. It is not the same as a decision of the Holy See.
+fr: Décision de l’évêque du diocèse où les faits se sont produits. Ce n’est pas la même chose qu’une décision du Saint-Siège.
+it: Decisione del vescovo della diocesi in cui è avvenuto il fatto. Non equivale a una decisione della Santa Sede.
+de: Entscheidung des Bischofs der Diözese, in der sich das Ereignis zugetragen hat. Sie ist nicht dasselbe wie eine Entscheidung des Heiligen Stuhls.
+ja: 出来事のあった教区の司教による決定です。教皇庁（聖座）の決定とは異なります。
+zh: 事件发生地教区的主教所作的裁定。这不等同于圣座的裁定。

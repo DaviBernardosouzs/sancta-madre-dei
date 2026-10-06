@@ -1,0 +1,456 @@
+#266
+es: María en la fe católica
+en: Mary in the Catholic faith
+fr: Marie dans la foi catholique
+it: Maria nella fede cattolica
+de: Maria im katholischen Glauben
+ja: カトリック信仰におけるマリア
+zh: 天主教信仰中的玛利亚
+#267
+es: María en el mundo
+en: Mary around the world
+fr: Marie à travers le monde
+it: Maria nel mondo
+de: Maria in der Welt
+ja: 世界のマリア
+zh: 世界各地的玛利亚
+#268
+es: Marianas
+en: Marian
+fr: Mariales
+it: Mariane
+de: Marianische
+ja: 聖母の祈り
+zh: 圣母祷文
+#269
+es: Memoria
+en: Memorial
+fr: Mémoire
+it: Memoria
+de: Gedenktag
+ja: 記念日
+zh: 纪念日
+#270
+es: Memoria libre
+en: Optional memorial
+fr: Mémoire facultative
+it: Memoria facoltativa
+de: Nichtgebotener Gedenktag
+ja: 任意の記念日
+zh: 任意纪念日
+#271
+es: Mensaje atribuido (relato de un vidente)
+en: Attributed message (account of a visionary)
+fr: Message attribué (récit d’un voyant)
+it: Messaggio attribuito (racconto di un veggente)
+de: Zugeschriebene Botschaft (Bericht eines Sehers)
+ja: 帰せられたメッセージ（霊視者の報告）
+zh: 被归于圣母的讯息（见证者的叙述）
+#272
+es: Mensaje atribuido a una persona después del tiempo de los apóstoles. Según el Catecismo (n. 67), no pertenece al depósito de la fe.
+en: A message attributed to a person after the time of the apostles. According to the Catechism (§ 67), it does not belong to the deposit of faith.
+fr: Message attribué à une personne après le temps des apôtres. Selon le Catéchisme (n° 67), il n’appartient pas au dépôt de la foi.
+it: Messaggio attribuito a una persona dopo il tempo degli apostoli. Secondo il Catechismo (n. 67), non appartiene al deposito della fede.
+de: Eine Botschaft, die einer Person nach der Zeit der Apostel zugeschrieben wird. Nach dem Katechismus (Nr. 67) gehört sie nicht zum Glaubensgut.
+ja: 使徒の時代より後に、ある人に帰せられたメッセージ。『カトリック教会のカテキズム』（67項）によれば、信仰の遺産には含まれません。
+zh: 在使徒时代之后被归于某人的讯息。依《天主教教理》（第67条），它不属于信仰的宝库。
+#273
+es: Menú
+en: Menu
+fr: Menu
+it: Menu
+de: Menü
+ja: メニュー
+zh: 菜单
+#274
+es: Metodología
+en: Methodology
+fr: Méthodologie
+it: Metodologia
+de: Methodik
+ja: 方法
+zh: 方法
+#275
+es: Milagro
+en: Miracle
+fr: Miracle
+it: Miracolo
+de: Wunder
+ja: 奇跡
+zh: 奇迹
+#276
+es: Milagros
+en: Miracles
+fr: Miracles
+it: Miracoli
+de: Wunder
+ja: 奇跡
+zh: 奇迹
+#277
+es: Milagros atribuidos a la intercesión de María, distinguiendo el hecho relatado, la investigación médica y la decisión eclesiástica.
+en: Miracles attributed to the intercession of Mary, distinguishing the reported event, the medical investigation and the ecclesiastical decision.
+fr: Miracles attribués à l’intercession de Marie, en distinguant l’événement rapporté, l’enquête médicale et la décision ecclésiastique.
+it: Miracoli attribuiti all’intercessione di Maria, distinguendo l’evento riferito, l’indagine medica e la decisione ecclesiastica.
+de: Wunder, die der Fürbitte Marias zugeschrieben werden, mit Trennung von berichtetem Ereignis, medizinischer Untersuchung und kirchlicher Entscheidung.
+ja: マリアのとりなしによるとされる奇跡。報告された出来事、医学的な調査、教会の決定を区別して示します。
+zh: 被归因于玛利亚代祷的奇迹，区分所述事件、医学调查和教会裁定。
+#278
+es: Miracle Hunter (sitio de documentación, fuente secundaria)
+en: Miracle Hunter (documentation website, secondary source)
+fr: Miracle Hunter (site de documentation, source secondaire)
+it: Miracle Hunter (sito di documentazione, fonte secondaria)
+de: Miracle Hunter (Dokumentationswebsite, Sekundärquelle)
+ja: Miracle Hunter（資料サイト、二次資料）
+zh: Miracle Hunter（资料网站，二手来源）
+#279
+es: Modo de lectura sin distracciones
+en: Distraction-free reading mode
+fr: Mode lecture sans distraction
+it: Modalità di lettura senza distrazioni
+de: Ablenkungsfreier Lesemodus
+ja: 集中して読むモード
+zh: 专注阅读模式
+#280
+es: Movimiento reducido por el sistema
+en: Reduced motion set by the system
+fr: Mouvement réduit par le système
+it: Movimento ridotto dal sistema
+de: Bewegung vom System reduziert
+ja: システム設定で動きを抑えています
+zh: 系统已减少动态效果
+#281
+es: Cambios y contacto
+en: Changes and contact
+fr: Modifications et contact
+it: Modifiche e contatti
+de: Änderungen und Kontakt
+ja: 変更とお問い合わせ
+zh: 变更与联系
+#282
+es: Mundo
+en: World
+fr: Monde
+it: Mondo
+de: Welt
+ja: 世界
+zh: 全球
+#283
+es: En la Escritura
+en: In Scripture
+fr: Dans l’Écriture
+it: Nella Scrittura
+de: In der Schrift
+ja: 聖書の中で
+zh: 圣经中
+#284
+es: Narración apócrifa
+en: Apocryphal narrative
+fr: Récit apocryphe
+it: Racconto apocrifo
+de: Apokryphe Erzählung
+ja: 外典の物語
+zh: 伪经叙述
+#285
+es: Naturaleza
+en: Nature
+fr: Nature
+it: Natura
+de: Art
+ja: 性格
+zh: 性质
+#286
+es: Naturaleza del título
+en: Nature of the title
+fr: Nature du titre
+it: Natura del titolo
+de: Art des Titels
+ja: 称号の性格
+zh: 称号的性质
+#287
+es: Navegación entre capítulos
+en: Chapter navigation
+fr: Navigation entre les chapitres
+it: Navigazione tra i capitoli
+de: Navigation zwischen den Kapiteln
+ja: 章の移動
+zh: 章节导航
+#288
+es: Hoy ningún caso cumple nuestro criterio mínimo para publicarse como milagro reconocido: <strong>autoridad, fecha y documento de la decisión, leídos en la fuente</strong>. Hay {n} casos en borrador (fuera del catálogo) a la espera de esa verificación.
+en: No case currently meets our minimum criterion for publication as a recognized miracle: <strong>the authority, date and document of the decision, read at the source</strong>. There are {n} cases in draft (outside the catalog) awaiting that verification.
+fr: Aucun cas ne remplit aujourd’hui notre critère minimal pour être publié comme miracle reconnu : <strong>autorité, date et document de la décision, lus à la source</strong>. {n} cas à l’état de brouillon (hors du catalogue) attendent cette vérification.
+it: Oggi nessun caso soddisfa il nostro criterio minimo per essere pubblicato come miracolo riconosciuto: <strong>autorità, data e documento della decisione, letti alla fonte</strong>. Ci sono {n} casi in bozza (fuori dal catalogo) in attesa di questa verifica.
+de: Derzeit erfüllt kein Fall unser Mindestkriterium für die Veröffentlichung als anerkanntes Wunder: <strong>Autorität, Datum und Dokument der Entscheidung, an der Quelle gelesen</strong>. {n} Fälle liegen als Entwurf (außerhalb des Katalogs) vor und warten auf diese Überprüfung.
+ja: 現時点で、認定された奇跡として公開するための最低基準（<strong>決定の権限者・日付・文書を、出典で確認していること</strong>）を満たす事例はありません。この確認を待っている下書きの事例が{n}件あります（カタログには含めていません）。
+zh: 目前没有任何案例达到我们作为“已获承认的奇迹”发布的最低标准：<strong>裁定的机构、日期和文件，须在来源中核实</strong>。另有 {n} 个案例处于草稿阶段（未列入目录），等待核实。
+#289
+es: No se encontró ningún caso.
+en: No cases found.
+fr: Aucun cas trouvé.
+it: Nessun caso trovato.
+de: Kein Fall gefunden.
+ja: 該当する事例はありません。
+zh: 没有找到任何案例。
+#290
+es: Sin resultados. Pruebe con menos palabras u otro tipo de registro. El archivo es inicial y aún no cubre todos los temas.
+en: No results. Try fewer words or another type of record. The collection is at an early stage and does not yet cover every topic.
+fr: Aucun résultat. Essayez avec moins de mots ou un autre type de fiche. Le fonds est encore à ses débuts et ne couvre pas encore tous les sujets.
+it: Nessun risultato. Prova con meno parole o con un altro tipo di scheda. L’archivio è agli inizi e non copre ancora tutti i temi.
+de: Keine Ergebnisse. Versuchen Sie es mit weniger Wörtern oder einer anderen Art von Eintrag. Der Bestand ist noch am Anfang und deckt noch nicht alle Themen ab.
+ja: 該当なし。語数を減らすか、別の種類の項目でお試しください。収録内容はまだ初期段階で、すべてのテーマには及んでいません。
+zh: 没有结果。请减少关键词，或换一种条目类型。资料库尚处初期，还没有涵盖所有主题。
+#291
+es: Sin resultados. Pruebe otra grafía del nombre o limpie los filtros.
+en: No results. Try another spelling of the name or clear the filters.
+fr: Aucun résultat. Essayez une autre graphie du nom ou effacez les filtres.
+it: Nessun risultato. Prova un’altra grafia del nome o azzera i filtri.
+de: Keine Ergebnisse. Versuchen Sie eine andere Schreibweise des Namens oder setzen Sie die Filter zurück.
+ja: 該当なし。名前の別の表記を試すか、絞り込みを解除してください。
+zh: 没有结果。请试试名称的其他写法，或清除筛选。
+#292
+es: No se encontró ningún santuario.
+en: No shrines found.
+fr: Aucun sanctuaire trouvé.
+it: Nessun santuario trovato.
+de: Kein Heiligtum gefunden.
+ja: 該当する聖地はありません。
+zh: 没有找到任何圣地。
+#293
+es: No se encontró ningún título para esta búsqueda.
+en: No titles found for this search.
+fr: Aucun titre trouvé pour cette recherche.
+it: Nessun titolo trovato per questa ricerca.
+de: Für diese Suche wurde kein Titel gefunden.
+ja: この検索に該当する称号はありません。
+zh: 没有找到符合此搜索的称号。
+#294
+es: Ninguna aparición coincide con estos filtros. Limpie los filtros o pruebe otro término. El archivo inicial es pequeño.
+en: No apparition matches these filters. Clear the filters or try another term. The initial collection is small.
+fr: Aucune apparition ne correspond à ces filtres. Effacez les filtres ou essayez un autre terme. Le fonds initial est restreint.
+it: Nessuna apparizione corrisponde a questi filtri. Azzera i filtri o prova un altro termine. L’archivio iniziale è piccolo.
+de: Keine Erscheinung entspricht diesen Filtern. Setzen Sie die Filter zurück oder versuchen Sie einen anderen Begriff. Der anfängliche Bestand ist klein.
+ja: この条件に合う出現はありません。絞り込みを解除するか、別の語でお試しください。収録内容はまだ少数です。
+zh: 没有符合这些筛选条件的显现。请清除筛选或换个词试试。目前的资料库规模很小。
+#295
+es: No se encontró ninguna oración. Limpie los filtros.
+en: No prayers found. Clear the filters.
+fr: Aucune prière trouvée. Effacez les filtres.
+it: Nessuna preghiera trovata. Azzera i filtri.
+de: Kein Gebet gefunden. Setzen Sie die Filter zurück.
+ja: 該当する祈りはありません。絞り込みを解除してください。
+zh: 没有找到任何祷文。请清除筛选。
+#296
+es: En esta página
+en: On this page
+fr: Sur cette page
+it: In questa pagina
+de: Auf dieser Seite
+ja: このページの内容
+zh: 本页内容
+#297
+es: En este capítulo
+en: In this chapter
+fr: Dans ce chapitre
+it: In questo capitolo
+de: In diesem Kapitel
+ja: この章の内容
+zh: 本章内容
+#298
+es: New Advent (transcripción de una traducción de dominio público)
+en: New Advent (transcription of a public-domain translation)
+fr: New Advent (transcription d’une traduction du domaine public)
+it: New Advent (trascrizione di una traduzione di pubblico dominio)
+de: New Advent (Transkription einer gemeinfreien Übersetzung)
+ja: New Advent（パブリックドメインの翻訳の転記）
+zh: New Advent（公有领域译本的转录）
+#299
+es: Nihil obstat
+en: Nihil obstat
+fr: Nihil obstat
+it: Nihil obstat
+de: Nihil obstat
+ja: ニヒル・オブスタット（異議なし）
+zh: 无异议（Nihil obstat）
+#300
+es: En el archivo inicial, {milagres} registros de milagros y {devocoes} de promesas esperan verificación y quedan fuera del catálogo público. <a href="{link}">Conozca el método</a>.
+en: In the initial collection, {milagres} miracle records and {devocoes} promise records await verification and are kept out of the public catalog. <a href="{link}">Learn about the method</a>.
+fr: Dans le fonds initial, {milagres} fiches de miracles et {devocoes} de promesses attendent une vérification et restent hors du catalogue public. <a href="{link}">Découvrez la méthode</a>.
+it: Nell’archivio iniziale, {milagres} schede di miracoli e {devocoes} di promesse attendono verifica e restano fuori dal catalogo pubblico. <a href="{link}">Scopri il metodo</a>.
+de: Im anfänglichen Bestand warten {milagres} Wunder-Einträge und {devocoes} Einträge zu Verheißungen auf Überprüfung und bleiben außerhalb des öffentlichen Katalogs. <a href="{link}">Mehr zur Methode</a>.
+ja: 収録内容の初期段階では、奇跡の項目{milagres}件と約束の項目{devocoes}件が確認待ちで、公開カタログには含めていません。<a href="{link}">方法を見る</a>。
+zh: 在初始资料库中，有 {milagres} 条奇迹记录和 {devocoes} 条许诺记录等待核实，暂不列入公开目录。<a href="{link}">了解方法</a>。
+#301
+es: En la aplicación, todos los textos, imágenes y fuentes vienen dentro del paquete y funcionan sin internet. Al pulsar un enlace externo, como el origen de una obra en el museo, la página se abre en el navegador del dispositivo y pasa a regirse por la política de ese sitio. El sitio web está alojado en Cloudflare, que puede registrar datos técnicos de acceso, como la dirección IP, para la seguridad y la entrega de las páginas, según su propia política.
+en: In the app, all texts, images and sources come inside the package and work without internet. When you tap an external link, such as the origin of an artwork at the museum, the page opens in the device’s browser and is then governed by that site’s policy. The website is hosted on Cloudflare, which may record technical access data, such as the IP address, for security and page delivery, according to its own policy.
+fr: Dans l’application, tous les textes, images et sources sont inclus dans le paquet et fonctionnent sans internet. Lorsque vous touchez un lien externe, comme l’origine d’une œuvre au musée, la page s’ouvre dans le navigateur de l’appareil et relève alors de la politique de ce site. Le site web est hébergé chez Cloudflare, qui peut enregistrer des données techniques d’accès, comme l’adresse IP, pour la sécurité et la diffusion des pages, selon sa propre politique.
+it: Nell’app, tutti i testi, le immagini e le fonti sono inclusi nel pacchetto e funzionano senza internet. Toccando un link esterno, come l’origine di un’opera nel museo, la pagina si apre nel browser del dispositivo e passa a seguire la politica di quel sito. Il sito web è ospitato su Cloudflare, che può registrare dati tecnici di accesso, come l’indirizzo IP, per la sicurezza e la consegna delle pagine, secondo la propria politica.
+de: In der App sind alle Texte, Bilder und Quellen im Paket enthalten und funktionieren ohne Internet. Tippen Sie auf einen externen Link, etwa zur Herkunft eines Kunstwerks im Museum, öffnet sich die Seite im Browser des Geräts und unterliegt dann den Richtlinien dieser Website. Die Website wird bei Cloudflare gehostet, das nach eigener Richtlinie technische Zugriffsdaten wie die IP-Adresse zur Sicherheit und Auslieferung der Seiten protokollieren kann.
+ja: アプリでは、すべてのテキスト・画像・出典がパッケージに含まれ、インターネットなしで動作します。美術館にある作品の出典ページなど外部リンクをタップすると、端末のブラウザで開き、そのサイトの方針に従うことになります。ウェブサイトはCloudflareでホストされており、同社は自社の方針に従い、安全性とページ配信のためにIPアドレスなどの技術的なアクセス情報を記録することがあります。
+zh: 在应用中，所有文字、图像和来源都包含在安装包内，无需联网即可使用。点按外部链接（例如博物馆中某件作品的出处）时，页面会在设备的浏览器中打开，并适用该网站自己的政策。本网站托管在 Cloudflare，该公司可能依其自身政策记录IP地址等技术性访问数据，用于安全防护和页面分发。
+#302
+es: Norma
+en: Norm
+fr: Norme
+it: Norma
+de: Norm
+ja: 規範
+zh: 规范
+#303
+es: Nuestra Señora de Lourdes, de Aparecida, de Guadalupe, de China… Los títulos se refieren a la <strong>misma María</strong>, madre de Jesús. Cada uno nombra un lugar, una historia o un aspecto de la fe, y cada página dice qué está documentado, qué es tradición y qué decidió la Iglesia.
+en: Our Lady of Lourdes, of Aparecida, of Guadalupe, of China… The titles refer to the <strong>same Mary</strong>, mother of Jesus. Each one names a place, a story or an aspect of the faith, and each page says what is documented, what is tradition and what the Church has decided.
+fr: Notre-Dame de Lourdes, d’Aparecida, de Guadalupe, de Chine… Les titres désignent la <strong>même Marie</strong>, mère de Jésus. Chacun nomme un lieu, une histoire ou un aspect de la foi, et chaque page dit ce qui est documenté, ce qui relève de la tradition et ce que l’Église a décidé.
+it: Nostra Signora di Lourdes, di Aparecida, di Guadalupe, della Cina… I titoli si riferiscono alla <strong>stessa Maria</strong>, madre di Gesù. Ognuno nomina un luogo, una storia o un aspetto della fede, e ogni pagina dice che cosa è documentato, che cosa è tradizione e che cosa ha deciso la Chiesa.
+de: Unsere Liebe Frau von Lourdes, von Aparecida, von Guadalupe, von China … Die Titel beziehen sich auf <strong>dieselbe Maria</strong>, die Mutter Jesu. Jeder nennt einen Ort, eine Geschichte oder einen Aspekt des Glaubens, und jede Seite sagt, was dokumentiert ist, was Tradition ist und was die Kirche entschieden hat.
+ja: ルルドの聖母、アパレシーダの聖母、グアダルペの聖母、中国の聖母……。これらの称号はすべて、イエスの母である<strong>同じマリア</strong>を指しています。それぞれが場所、物語、信仰の一面を表し、各ページで、資料で確認できること、伝承であること、教会が決めたことを区別して示します。
+zh: 露德圣母、阿帕雷西达圣母、瓜达卢佩圣母、中国之后……这些称号所指的，都是耶稣的母亲<strong>同一位玛利亚</strong>。每个称号都对应一个地点、一段历史或信仰的一个侧面；每一页都会说明哪些有文献可查、哪些属于传统、教会作了怎样的裁定。
+#304
+es: Nota editorial
+en: Editorial note
+fr: Note éditoriale
+it: Nota editoriale
+de: Redaktionelle Anmerkung
+ja: 編集上の注記
+zh: 编者按语
+#305
+es: Noticias oficiales (apoyo)
+en: Official news (supporting)
+fr: Actualités officielles (appui)
+it: Notizie ufficiali (supporto)
+de: Offizielle Nachrichten (unterstützend)
+ja: 公式ニュース（補助資料）
+zh: 官方新闻（辅助）
+#306
+es: No encontrar una fuente no significa que la Iglesia haya rechazado algo ni que haya dejado de pronunciarse. Significa solo que no se leyó en esta edición.
+en: Not finding a source does not mean that the Church has rejected something or has failed to pronounce on it. It only means that it was not read in this edition.
+fr: Ne pas trouver de source ne signifie pas que l’Église ait rejeté quelque chose ni qu’elle ne se soit pas prononcée. Cela signifie seulement qu’elle n’a pas été lue dans cette édition.
+it: Non trovare una fonte non significa che la Chiesa abbia respinto qualcosa o non si sia pronunciata. Significa solo che non è stata letta in questa edizione.
+de: Wenn keine Quelle gefunden wird, heißt das nicht, dass die Kirche etwas abgelehnt oder sich nicht geäußert hätte. Es heißt nur, dass sie in dieser Ausgabe nicht gelesen wurde.
+ja: 出典が見つからなかったからといって、教会が否定した、あるいは判断を示していないという意味ではありません。この版では確認していない、というだけのことです。
+zh: 找不到来源，并不意味着教会已经否定，或没有表态；只是说明本版没有查阅到。
+#307
+es: No hay registro, inicio de sesión, anuncios, herramientas de análisis, seguimiento, cookies de terceros ni formularios. La aplicación no solicita permisos del dispositivo, como ubicación, cámara, contactos o archivos.
+en: There is no registration, login, ads, analytics tools, tracking, third-party cookies or forms. The app does not ask for device permissions such as location, camera, contacts or files.
+fr: Il n’y a ni inscription, ni connexion, ni publicité, ni outil d’analyse, ni suivi, ni cookies tiers, ni formulaires. L’application ne demande aucune autorisation de l’appareil, comme la localisation, l’appareil photo, les contacts ou les fichiers.
+it: Non ci sono registrazione, login, pubblicità, strumenti di analisi, tracciamento, cookie di terze parti né moduli. L’app non richiede permessi del dispositivo, come posizione, fotocamera, contatti o file.
+de: Es gibt keine Registrierung, keine Anmeldung, keine Werbung, keine Analysewerkzeuge, kein Tracking, keine Cookies von Dritten und keine Formulare. Die App verlangt keine Berechtigungen des Geräts wie Standort, Kamera, Kontakte oder Dateien.
+ja: 会員登録、ログイン、広告、アクセス解析ツール、追跡、第三者のCookie、入力フォームはありません。アプリは、位置情報、カメラ、連絡先、ファイルなど、端末の権限を一切求めません。
+zh: 没有注册、登录、广告、分析工具、跟踪、第三方 Cookie，也没有表单。应用不会请求定位、相机、通讯录或文件等设备权限。
+#308
+es: No se inventan fechas, palabras de María, documentos, cifras ni decisiones. Lo que no se leyó queda como laguna visible.
+en: No dates, words of Mary, documents, numbers or decisions are invented. What was not read becomes a visible gap.
+fr: Aucune date, parole de Marie, document, chiffre ni décision n’est inventé. Ce qui n’a pas été lu devient une lacune visible.
+it: Non si inventano date, parole di Maria, documenti, numeri o decisioni. Ciò che non è stato letto diventa una lacuna visibile.
+de: Es werden keine Daten, Worte Marias, Dokumente, Zahlen oder Entscheidungen erfunden. Was nicht gelesen wurde, bleibt als sichtbare Lücke stehen.
+ja: 日付、マリアの言葉、文書、数字、決定を作り上げることはしません。確認していないことは、はっきり分かる「空白」として残します。
+zh: 绝不编造日期、玛利亚的话语、文件、数字或裁定。没有查阅到的内容，会作为明显的空白留着。
+#309
+es: Número de inventario
+en: Accession number
+fr: Numéro d’inventaire
+it: Numero di inventario
+de: Inventarnummer
+ja: 受入番号
+zh: 登录号
+#310
+es: Número de inventario:
+en: Accession number:
+fr: Numéro d’inventaire :
+it: Numero di inventario:
+de: Inventarnummer:
+ja: 受入番号：
+zh: 登录号：
+#311
+es: Número de inventario: {acesso}
+en: Accession number: {acesso}
+fr: Numéro d’inventaire : {acesso}
+it: Numero di inventario: {acesso}
+de: Inventarnummer: {acesso}
+ja: 受入番号：{acesso}
+zh: 登录号：{acesso}
+#312
+es: El Rosario es meditación y confianza en Dios por intercesión de María, no un mecanismo que garantice resultados.
+en: The Rosary is meditation and trust in God through the intercession of Mary, not a mechanism that guarantees results.
+fr: Le Rosaire est méditation et confiance en Dieu par l’intercession de Marie, non un mécanisme qui garantit des résultats.
+it: Il Rosario è meditazione e fiducia in Dio per intercessione di Maria, non un meccanismo che garantisca risultati.
+de: Der Rosenkranz ist Betrachtung und Vertrauen auf Gott durch die Fürbitte Marias, kein Mechanismus, der Ergebnisse garantiert.
+ja: ロザリオは、マリアのとりなしによる黙想と神への信頼であり、結果を保証する仕組みではありません。
+zh: 玫瑰经是借着玛利亚的代祷所作的默想和对天主的信赖，并不是保证结果的机制。
+#313
+es: Sancta Mater Dei no recoge datos personales. Política de privacidad del sitio y de la aplicación.
+en: Sancta Mater Dei does not collect personal data. Privacy policy of the website and the app.
+fr: Sancta Mater Dei ne collecte aucune donnée personnelle. Politique de confidentialité du site et de l’application.
+it: Sancta Mater Dei non raccoglie dati personali. Informativa sulla privacy del sito e dell’app.
+de: Sancta Mater Dei erhebt keine personenbezogenen Daten. Datenschutzerklärung der Website und der App.
+ja: Sancta Mater Deiは個人情報を収集しません。ウェブサイトとアプリのプライバシーポリシー。
+zh: Sancta Mater Dei 不收集个人数据。网站和应用的隐私政策。
+#314
+es: Sancta Mater Dei, en el sitio web y en la aplicación para Android, no recoge, no almacena y no comparte datos personales.
+en: Sancta Mater Dei, on the website and in the Android app, does not collect, store or share personal data.
+fr: Sancta Mater Dei, sur le site web et dans l’application Android, ne collecte, ne stocke et ne partage aucune donnée personnelle.
+it: Sancta Mater Dei, sul sito web e nell’app per Android, non raccoglie, non conserva e non condivide dati personali.
+de: Sancta Mater Dei erhebt, speichert und teilt auf der Website und in der Android-App keine personenbezogenen Daten.
+ja: Sancta Mater Deiは、ウェブサイトでもAndroidアプリでも、個人情報を収集・保存・共有しません。
+zh: Sancta Mater Dei 无论在网站还是 Android 应用中，都不收集、不存储、不分享个人数据。
+#315
+es: El archivo es inicial: {aparicoes} apariciones, {titulos} títulos, {oracoes} oraciones, {artigos} artículos y {fontes} fuentes. Los milagros y las promesas esperan verificación.
+en: The collection is at an early stage: {aparicoes} apparitions, {titulos} titles, {oracoes} prayers, {artigos} articles and {fontes} sources. Miracles and promises await verification.
+fr: Le fonds est encore à ses débuts : {aparicoes} apparitions, {titulos} titres, {oracoes} prières, {artigos} articles et {fontes} sources. Les miracles et les promesses attendent une vérification.
+it: L’archivio è agli inizi: {aparicoes} apparizioni, {titulos} titoli, {oracoes} preghiere, {artigos} articoli e {fontes} fonti. I miracoli e le promesse attendono verifica.
+de: Der Bestand ist noch am Anfang: {aparicoes} Erscheinungen, {titulos} Titel, {oracoes} Gebete, {artigos} Artikel und {fontes} Quellen. Wunder und Verheißungen warten auf Überprüfung.
+ja: 収録内容はまだ初期段階です：出現{aparicoes}件、称号{titulos}件、祈り{oracoes}件、記事{artigos}件、出典{fontes}件。奇跡と約束は確認待ちです。
+zh: 资料库尚处初期：{aparicoes} 项显现、{titulos} 个称号、{oracoes} 篇祷文、{artigos} 篇文章和 {fontes} 条来源。奇迹和许诺尚待核实。
+#316
+es: La compilación del sitio valida el archivo y <strong>falla</strong> si un registro publicado como decisión eclesial o milagro no tiene autoridad y fuente.
+en: The site build validates the collection and <strong>fails</strong> if a record published as an ecclesial decision or miracle lacks an authority and a source.
+fr: La compilation du site valide le fonds et <strong>échoue</strong> si une fiche publiée comme décision ecclésiale ou miracle n’a pas d’autorité ni de source.
+it: La compilazione del sito convalida l’archivio e <strong>fallisce</strong> se una scheda pubblicata come decisione ecclesiale o miracolo non ha autorità e fonte.
+de: Der Build der Website prüft den Bestand und <strong>bricht ab</strong>, wenn ein als kirchliche Entscheidung oder Wunder veröffentlichter Eintrag keine Autorität und keine Quelle hat.
+ja: サイトのビルドは収録内容を検証し、教会の決定または奇跡として公開される項目に権限者と出典がない場合は<strong>失敗</strong>します。
+zh: 网站构建时会校验资料库；如果某条被发布为教会裁定或奇迹的记录缺少裁定机构和来源，构建就会<strong>失败</strong>。
+#317
+es: El calendario cambia con el tiempo y varía según el país y la diócesis; consulte siempre el calendario litúrgico de su lugar. Muestra documentada, no una lista completa.
+en: The calendar changes over time and varies by country and diocese; always check the liturgical calendar of your own place. A documented sample, not a complete list.
+fr: Le calendrier change avec le temps et varie selon les pays et les diocèses ; consultez toujours le calendrier liturgique de votre lieu. Échantillon documenté, non liste complète.
+it: Il calendario cambia nel tempo e varia secondo il paese e la diocesi; consulta sempre il calendario liturgico del tuo luogo. Campione documentato, non elenco completo.
+de: Der Kalender ändert sich mit der Zeit und unterscheidet sich je nach Land und Diözese; prüfen Sie stets den liturgischen Kalender Ihres Ortes. Dokumentierte Auswahl, keine vollständige Liste.
+ja: 暦は時代とともに変わり、国や教区によっても異なります。必ずお住まいの地域の典礼暦をご確認ください。資料に基づく一部の例であり、完全な一覧ではありません。
+zh: 日历会随时间变化，并因国家和教区而异；请务必查阅您所在地的礼仪日历。这是有据可查的选样，并非完整名单。
+#318
+es: El camino de cada caso tiene tres partes distintas. Primero, la Oficina Médica de Lourdes examina si la enfermedad fue grave y si la curación es real y duradera. Después, el Comité Médico Internacional de Lourdes juzga el carácter inexplicado de la curación según criterios fijados. Por último, quien reconoce públicamente la curación como milagro es el <strong>obispo de la diócesis de la persona curada</strong>, y no el santuario ni los médicos.
+en: The path of each case has three distinct parts. First, the Lourdes Medical Bureau examines whether the illness was serious and whether the healing is real and lasting. Then the International Medical Committee of Lourdes judges whether the healing is unexplained according to set criteria. Finally, the one who publicly recognizes the healing as a miracle is the <strong>bishop of the healed person’s diocese</strong>, not the shrine or the doctors.
+fr: Le parcours de chaque cas comporte trois étapes distinctes. D’abord, le Bureau médical de Lourdes examine si la maladie était grave et si la guérison est réelle et durable. Ensuite, le Comité médical international de Lourdes juge du caractère inexpliqué de la guérison selon des critères fixés. Enfin, celui qui reconnaît publiquement la guérison comme miracle est l’<strong>évêque du diocèse de la personne guérie</strong>, et non le sanctuaire ni les médecins.
+it: Il percorso di ogni caso ha tre parti distinte. Prima, l’Ufficio medico di Lourdes esamina se la malattia era grave e se la guarigione è reale e duratura. Poi, il Comitato medico internazionale di Lourdes giudica il carattere inspiegato della guarigione secondo criteri stabiliti. Infine, chi riconosce pubblicamente la guarigione come miracolo è il <strong>vescovo della diocesi della persona guarita</strong>, e non il santuario né i medici.
+de: Der Weg jedes Falles hat drei getrennte Teile. Zuerst prüft das Ärztebüro von Lourdes, ob die Krankheit schwer war und ob die Heilung echt und dauerhaft ist. Dann beurteilt das Internationale Ärztekomitee von Lourdes nach festgelegten Kriterien, ob die Heilung unerklärt bleibt. Schließlich erkennt die Heilung öffentlich als Wunder der <strong>Bischof der Diözese der geheilten Person</strong> an, nicht das Heiligtum und nicht die Ärzte.
+ja: 各症例の手順は、はっきり区別された三つの段階からなります。まず、ルルド医務局が、病気が重いものであったか、治癒が本物で持続的かを調べます。次に、ルルド国際医学委員会が、定められた基準に従って、治癒が説明のつかないものかどうかを判断します。最後に、治癒を奇跡として公に認めるのは、<strong>治癒した人の属する教区の司教</strong>であり、聖地でも医師でもありません。
+zh: 每个案例的程序分为三个不同的部分。首先，露德医学办公室审查疾病是否严重、治愈是否真实而持久。然后，露德国际医学委员会依既定标准判断治愈是否无法解释。最后，公开承认该治愈为奇迹的，是<strong>治愈者所属教区的主教</strong>，而不是圣地，也不是医生。
+#319
+es: El contenido ha pasado por una investigación documental, pero todavía no por una revisión teológica humana. ¿Encontró un error? <a href="{link}">Vea cómo solicitar una corrección</a>.
+en: The content has gone through documentary research, but not yet through human theological review. Found an error? <a href="{link}">See how to request a correction</a>.
+fr: Le contenu a fait l’objet d’une recherche documentaire, mais pas encore d’une relecture théologique humaine. Vous avez trouvé une erreur ? <a href="{link}">Voyez comment demander une correction</a>.
+it: Il contenuto ha seguito una ricerca documentale, ma non ancora una revisione teologica umana. Hai trovato un errore? <a href="{link}">Scopri come chiedere una correzione</a>.
+de: Die Inhalte wurden dokumentarisch recherchiert, aber noch nicht von Menschen theologisch geprüft. Einen Fehler gefunden? <a href="{link}">So bitten Sie um eine Korrektur</a>.
+ja: 内容は文献調査を経ていますが、人による神学的な確認はまだ受けていません。誤りを見つけましたか？<a href="{link}">訂正の依頼方法はこちら</a>。
+zh: 内容经过文献研究，但尚未经过人工神学审阅。发现错误？<a href="{link}">查看如何申请更正</a>。
+#320
+es: El contenido es adecuado para todas las edades y no se recoge información de nadie, incluidos los niños.
+en: The content is suitable for all ages, and no information is collected from anyone, including children.
+fr: Le contenu convient à tous les âges et aucune information n’est collectée auprès de qui que ce soit, y compris les enfants.
+it: I contenuti sono adatti a tutte le età e non vengono raccolte informazioni da nessuno, bambini compresi.
+de: Die Inhalte sind für alle Altersgruppen geeignet, und von niemandem werden Informationen erhoben, auch nicht von Kindern.
+ja: 内容はどの年齢の方にも適しており、子どもを含め、誰からも情報を収集しません。
+zh: 内容适合所有年龄，不向任何人（包括儿童）收集信息。
+#321
+es: El mapa todavía no está disponible: las coordenadas deben comprobarse en una fuente antes de mostrarse, para no sugerir una precisión que no tenemos. Mientras tanto, esta lista es la alternativa completa.
+en: The map is not yet available: the coordinates must be checked against a source before being shown, so as not to suggest a precision we do not have. In the meantime, this list is the complete alternative.
+fr: La carte n’est pas encore disponible : les coordonnées doivent être vérifiées à la source avant d’être affichées, pour ne pas suggérer une précision que nous n’avons pas. En attendant, cette liste en est l’alternative complète.
+it: La mappa non è ancora disponibile: le coordinate devono essere verificate su una fonte prima di essere mostrate, per non suggerire una precisione che non abbiamo. Nel frattempo, questo elenco è l’alternativa completa.
+de: Die Karte ist noch nicht verfügbar: Die Koordinaten müssen vor der Anzeige an einer Quelle geprüft werden, um keine Genauigkeit vorzutäuschen, die wir nicht haben. Bis dahin ist diese Liste die vollständige Alternative.
+ja: 地図はまだ利用できません。実際にはない精度を示してしまわないよう、座標は出典で確認してから表示します。それまでは、この一覧が完全な代わりになります。
+zh: 地图尚未提供：坐标须先对照来源核实后才能显示，以免显得有我们并不具备的精确度。在此之前，这份列表就是完整的替代。
+#322
+es: El mapa interactivo queda aplazado hasta contar con coordenadas verificadas; la lista de lugares y la cronología son las alternativas.
+en: The interactive map is postponed until verified coordinates are available; the list of places and the timeline are the alternatives.
+fr: La carte interactive est reportée jusqu’à ce que des coordonnées vérifiées soient disponibles ; la liste des lieux et la chronologie en sont les alternatives.
+it: La mappa interattiva è rinviata fino a quando non saranno disponibili coordinate verificate; l’elenco dei luoghi e la cronologia ne sono le alternative.
+de: Die interaktive Karte wird zurückgestellt, bis geprüfte Koordinaten vorliegen; die Ortsliste und die Zeitleiste sind die Alternativen.
+ja: インタラクティブな地図は、確認済みの座標が揃うまで見送っています。代わりに、場所の一覧と年表をご利用ください。
+zh: 交互式地图暂缓提供，待有经核实的坐标后再做；地点列表和年表是替代办法。

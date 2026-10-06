@@ -1,0 +1,749 @@
+@@ images/obra-bellini-madona
+## title
+Madona com o Menino
+## alt
+Maria em manto azul profundo, com véu claro, segura o Menino Jesus nu diante de um pano vermelho; à esquerda, uma janela abre para céu com nuvens, montanhas e uma vila.
+## caption
+Giovanni Bellini, Madona com o Menino, fins da década de 1480.
+@@ images/obra-memling-anunciacao
+## title
+A Anunciação
+## alt
+O anjo Gabriel, em vestes bordadas de ouro, e Maria, de manto azul sobre vestido vermelho, ajoelhada diante de um livro, num quarto com cortina vermelha e janela aberta.
+## caption
+Hans Memling, A Anunciação, cerca de 1465-70.
+@@ images/obra-ram-visitacao
+## title
+A Visitação (painel do retábulo de São João)
+## alt
+Maria, de manto azul e auréola dourada, abraça e beija Isabel, de manto verde; ao lado, uma mulher de rosa e um ancião de túnica dourada, em pátio de piso rosado.
+## caption
+Domingo Ram, A Visitação (painel do retábulo de São João), século XV.
+@@ images/obra-david-natividade
+## title
+A Natividade
+## alt
+Maria e José ajoelhados em adoração diante do Menino deitado no chão, entre ruínas com arcos que se abrem para uma paisagem; pastores observam ao fundo.
+## caption
+Gerard David, A Natividade, início da década de 1480.
+@@ images/obra-flandes-cana
+## title
+As Bodas de Caná
+## alt
+Convivas à mesa coberta de branco numa sala de colunas; Jesus e Maria, de véu, sentam-se à esquerda, e um servo derrama água de uma jarra junto às grandes talhas.
+## caption
+Juan de Flandes, As Bodas de Caná, cerca de 1497.
+@@ images/obra-david-crucificacao
+## title
+A Crucificação
+## alt
+Cristo na cruz sobre uma paisagem com cidade ao longe; à esquerda, Maria, de véu claro e manto escuro, e João; à direita, São Jerônimo e uma santa ajoelhada.
+## caption
+Gerard David, A Crucificação, cerca de 1495.
+@@ images/obra-saraceni-dormicao
+## title
+A Dormição da Virgem
+## alt
+Maria, de manto azul e mãos postas, rodeada pelos apóstolos de vestes vermelhas, ocres e verdes, numa grande sala com colunas.
+## caption
+Carlo Saraceni, A Dormição da Virgem, cerca de 1612.
+@@ images/obra-reni-imaculada
+## title
+A Imaculada Conceição
+## alt
+Maria de pé sobre uma lua crescente, em vestido rosa e manto azul, mãos postas e olhar ao alto, num céu dourado com nuvens, entre dois anjos.
+## caption
+Guido Reni, A Imaculada Conceição, 1627.
+@@ images/obra-signorelli-assuncao
+## title
+A Assunção da Virgem com São Miguel e São Bento
+## alt
+Maria entronizada sobre nuvens, de manto azul-acinzentado e mãos postas, cercada por anjos músicos; embaixo, São Miguel de armadura, vencendo o demônio, e São Bento.
+## caption
+Luca Signorelli, A Assunção da Virgem com São Miguel e São Bento, cerca de 1493-96.
+@@ images/obra-durer-virgem
+## title
+A Virgem e o Menino
+## alt
+Maria de rosto inclinado e olhos baixos, em manto vermelho, segura o Menino Jesus nu no colo, sobre fundo escuro.
+## caption
+Albrecht Dürer, A Virgem e o Menino, 1516.
+@@ images/obra-david-virgem-paisagem
+## title
+A Virgem e o Menino
+## alt
+Maria, de cabelos longos e manto escuro, segura o Menino de túnica clara, diante de uma paisagem com árvores, lago e montanhas azuladas.
+## caption
+Gerard David, A Virgem e o Menino, cerca de 1520.
+@@ images/obra-raphael-entronizada
+## title
+Madona com o Menino entronizados, com santos
+## alt
+Maria entronizada com o Menino, entre santos, sob um arco dourado coroado por Deus Pai e anjos, em moldura arquitetônica sobre fundo cinza.
+## caption
+Rafael, Madona com o Menino entronizados, com santos, cerca de 1504.
+@@ images/obra-david-descanso
+## title
+O Descanso na Fuga para o Egito
+## alt
+Maria, de manto azul, sentada num outeiro com o Menino ao colo, sob árvores altas, diante de uma paisagem aberta com cidade e céu claro.
+## caption
+Gerard David, O Descanso na Fuga para o Egito, cerca de 1512-15.
+@@ images/obra-rosario-misterios
+## title
+Os Quinze Mistérios e a Virgem do Rosário
+## alt
+Painel com quinze pequenas cenas da vida de Jesus e Maria, em três filas, sobre a Virgem do Rosário em nicho dourado, entre devotos.
+## caption
+Pintor neerlandês (Bruxelas), Os Quinze Mistérios e a Virgem do Rosário, cerca de 1515-20.
+@@ images/obra-bellini-dormindo
+## title
+Madona adorando o Menino adormecido
+## alt
+Maria de mãos postas, em manto azul-acinzentado e véu claro, sob um arco com céu, contempla o Menino Jesus adormecido diante dela.
+## caption
+Giovanni Bellini, Madona adorando o Menino adormecido, início da década de 1460.
+@@ images/img-virgem-em-oracao
+## title
+A Virgem em oração (The Virgin in Prayer)
+## alt
+Pintura de Maria em oração: véu claro sobre a cabeça, manto azul, mãos postas e olhos baixos, diante de um fundo escuro.
+## caption
+Sassoferrato, A Virgem em oração, cerca de 1640-50.
+@@ images/img-gruta-lourdes
+## title
+La grotte miraculeuse à Lourdes (vers 1860)
+## alt
+Estampa antiga em tons de sépia que mostra a gruta de Massabielle, em Lourdes, entre rochedos e árvores, com algumas figuras pequenas à margem do rio.
+## caption
+A gruta de Massabielle, em Lourdes, em estampa de cerca de 1860.
+@@ images/img-criancas-fatima
+## title
+Children of Fátima portrait (Attributed to Joshua Benoliel), Ilustração Portuguesa, 1917
+## alt
+Fotografia antiga em tons de sépia de três crianças em pé diante de um muro de pedra: duas meninas de véu escuro e um menino de chapéu ao centro.
+## caption
+As três crianças de Fátima, em fotografia atribuída a Joshua Benoliel, publicada na Ilustração Portuguesa em 1917.
+@@ images/durer-rejeicao-joaquim
+## title
+A Rejeição da Oferta de Joaquim
+## alt
+Gravura em preto e branco: sob um grande arco, diante de cortinas, sacerdotes e outras pessoas reunidos em torno de uma mesa-altar onde se faz uma oferta.
+## caption
+Albrecht Dürer, A Rejeição da Oferta de Joaquim, da série A Vida da Virgem, cerca de 1504.
+@@ images/durer-joaquim-anjo
+## title
+Joaquim e o Anjo
+## alt
+Gravura em preto e branco: um homem ajoelhado numa paisagem com árvores e um rebanho olha para o alto, onde um anjo de grandes asas desce entre os ramos; ao fundo, pastores e um lago.
+## caption
+Albrecht Dürer, Joaquim e o Anjo, da série A Vida da Virgem, cerca de 1504.
+@@ images/durer-porta-dourada
+## title
+Joaquim e Ana na Porta Dourada
+## alt
+Gravura em preto e branco: sob um arco ornamentado, um homem e uma mulher de mantos longos se abraçam; à esquerda, outras figuras observam; ao fundo, muralha e paisagem.
+## caption
+Albrecht Dürer, Joaquim e Ana na Porta Dourada, da série A Vida da Virgem, cerca de 1504.
+@@ images/durer-nascimento-maria
+## title
+O Nascimento da Virgem
+## alt
+Gravura em preto e branco: interior com cama de dossel onde repousa a mãe; um anjo em voo sob o arco, mulheres em primeiro plano cuidando da recém-nascida.
+## caption
+Albrecht Dürer, O Nascimento da Virgem, da série A Vida da Virgem, cerca de 1503.
+@@ images/durer-apresentacao-maria
+## title
+A Apresentação da Virgem no Templo
+## alt
+Gravura em preto e branco: em um pátio de colunas e arcos, uma criança diante de sacerdotes à entrada do templo, com muitos fiéis em primeiro plano.
+## caption
+Albrecht Dürer, A Apresentação da Virgem no Templo, da série A Vida da Virgem, cerca de 1503.
+@@ images/durer-desposorios
+## title
+Os Desposórios da Virgem
+## alt
+Gravura em preto e branco: sob um grande arco, um sacerdote une as mãos de um casal diante de testemunhas.
+## caption
+Albrecht Dürer, Os Desposórios da Virgem, da série A Vida da Virgem, cerca de 1504.
+@@ images/durer-anunciacao
+## title
+A Anunciação
+## alt
+Gravura em preto e branco: em uma grande sala abobadada, o anjo e Maria estão ajoelhados em lados opostos; no alto, uma pomba.
+## caption
+Albrecht Dürer, A Anunciação, da série A Vida da Virgem, 1511.
+@@ images/durer-visitacao
+## title
+A Visitação
+## alt
+Gravura em preto e branco: duas mulheres se abraçam diante de uma casa, em paisagem de montanhas e árvores; à porta, um homem observa.
+## caption
+Albrecht Dürer, A Visitação, da série A Vida da Virgem, 1503-4.
+@@ images/durer-natividade
+## title
+A Natividade
+## alt
+Gravura em preto e branco: estábulo de telhado em ruínas, Maria ajoelhada diante do Menino, anjos no alto e uma estrela.
+## caption
+Albrecht Dürer, A Natividade, da série A Vida da Virgem, 1502-3.
+@@ images/durer-circuncisao
+## title
+A Circuncisão
+## alt
+Gravura em preto e branco: no interior de um templo, um sacerdote e muitos fiéis reunidos em torno do Menino; Maria entre eles.
+## caption
+Albrecht Dürer, A Circuncisão, da série A Vida da Virgem, cerca de 1504.
+@@ images/durer-magos
+## title
+A Adoração dos Magos
+## alt
+Gravura em preto e branco: sob um telhado de madeira, Maria com o Menino recebe homens que se ajoelham em primeiro plano; no alto, uma estrela.
+## caption
+Albrecht Dürer, A Adoração dos Magos, da série A Vida da Virgem, cerca de 1502.
+@@ images/durer-apresentacao-jesus
+## title
+A Apresentação de Jesus no Templo
+## alt
+Gravura em preto e branco: em um grande salão de colunas, uma mulher ajoelhada junto a uma mesa-altar, com sacerdote e outras pessoas em volta.
+## caption
+Albrecht Dürer, A Apresentação de Jesus no Templo, da série A Vida da Virgem, cerca de 1505.
+@@ images/durer-fuga-egito
+## title
+A Fuga para o Egito
+## alt
+Gravura em preto e branco: Maria, montada num jumento com o Menino, e José à frente caminham por um bosque com palmeira.
+## caption
+Albrecht Dürer, A Fuga para o Egito, da série A Vida da Virgem, 1511.
+@@ images/durer-egito-sagrada-familia
+## title
+A Sagrada Família no Egito
+## alt
+Gravura em preto e branco: diante de casas, Maria sentada com o Menino e José trabalhando a madeira; anjinhos recolhem cavacos.
+## caption
+Albrecht Dürer, A Sagrada Família no Egito, da série A Vida da Virgem, 1511.
+@@ images/durer-entre-doutores
+## title
+Jesus entre os Doutores
+## alt
+Gravura em preto e branco: Jesus jovem diante de um grupo de doutores, em um espaço de arcos e colunas; Maria e José à esquerda.
+## caption
+Albrecht Dürer, Jesus entre os Doutores, da série A Vida da Virgem, 1511.
+@@ images/durer-despedida
+## title
+Cristo se despede de sua Mãe
+## alt
+Gravura em preto e branco: ao ar livre, junto a um cercado e a uma árvore, uma mulher ajoelhada, amparada por outras, diante de Cristo em pé.
+## caption
+Albrecht Dürer, Cristo se despede de sua Mãe, da série A Vida da Virgem, 1511.
+@@ images/durer-dormicao
+## title
+A Morte da Virgem
+## alt
+Gravura em preto e branco: Maria deitada em leito com dossel, cercada pelos apóstolos, um deles em primeiro plano com um bastão.
+## caption
+Albrecht Dürer, A Morte da Virgem, da série A Vida da Virgem, 1511.
+@@ images/durer-assuncao-coroacao
+## title
+A Assunção e a Coroação da Virgem
+## alt
+Gravura em preto e branco: Maria é coroada entre nuvens por duas figuras, com uma pomba; embaixo, apóstolos em torno de um sepulcro aberto.
+## caption
+Albrecht Dürer, A Assunção e a Coroação da Virgem, da série A Vida da Virgem, 1510.
+@@ images/durer-glorificacao
+## title
+A Glorificação da Virgem
+## alt
+Gravura em preto e branco com texto em latim abaixo: grande sala de arcos e colunas com muitas figuras reunidas em torno de Maria.
+## caption
+Albrecht Dürer, A Glorificação da Virgem, da série A Vida da Virgem, 1511.
+@@ images/durer-madona-crescente
+## title
+A Madona na Lua Crescente, frontispício
+## alt
+Gravura em preto e branco: a Virgem com o Menino sentada sobre uma lua crescente, em auréola de raios; texto em latim no alto.
+## caption
+Albrecht Dürer, A Madona na Lua Crescente, frontispício, da série A Vida da Virgem, cerca de 1511.
+@@ images/obra-carnevale-nascimento
+## title
+O Nascimento da Virgem
+## alt
+Pintura de uma arquitetura clássica de colunas e arcos em tons de cinza sob céu azul; mulheres de vestes azuis e rosadas cruzam o piso em primeiro plano e, ao fundo, outras cuidam de uma recém-nascida.
+## caption
+Fra Carnevale, O Nascimento da Virgem, 1467.
+@@ images/obra-pieta-alema
+## title
+Pietà
+## alt
+Escultura policromada: Maria, de manto dourado e véu, sentada, sustenta sobre o colo o corpo de Cristo morto, de cabeça inclinada para trás.
+## caption
+Pietà, escultura alemã em madeira policromada, 1435-40 (The Cloisters).
+@@ images/durer-pentecostes
+## title
+Pentecostes
+## alt
+Gravura em preto e branco: uma pomba irradia luz no alto; abaixo, apóstolos reunidos, e no centro uma figura feminina sentada, de véu, com um livro no colo.
+## caption
+Albrecht Dürer, Pentecostes, da série A Pequena Paixão, cerca de 1510.
+@@ images/foto-aparecida
+## title
+Catedral Basílica de Aparecida
+## alt
+A basílica de Aparecida, de tijolos, com cúpula e torre alta, vista de longe.
+## caption
+Santuário Nacional de Nossa Senhora Aparecida: fotografia do lugar.
+@@ images/foto-guadalupe-mexico
+## title
+Nacional Basílica de Santa María de Guadalupe, Mexico City, Mexico
+## alt
+A basílica moderna de Guadalupe, de planta circular e teto verde, diante de uma grande praça.
+## caption
+Basílica de Nossa Senhora de Guadalupe (Cidade do México): fotografia do lugar.
+@@ images/foto-rue-du-bac
+## title
+La maison des Filles de la charité, 136-140 rue du Bac, à Paris.
+## alt
+Fachada da casa-mãe das Filhas da Caridade na rua do Bac, em Paris.
+## caption
+Capela de Nossa Senhora da Medalha Milagrosa (Rue du Bac, Paris): fotografia do lugar.
+@@ images/foto-santa-maria-maior
+## title
+Basilica di Santa Maria Maggiore
+## alt
+Fotografia de Basílica de Santa Maria Maior (Roma), vista de fora ou do lugar de peregrinação.
+## caption
+Basílica de Santa Maria Maior (Roma): fotografia do lugar.
+@@ images/foto-loreto
+## title
+Basilica del Santuario di Loreto
+## alt
+Fotografia de Santuário da Santa Casa de Loreto, vista de fora ou do lugar de peregrinação.
+## caption
+Santuário da Santa Casa de Loreto: fotografia do lugar.
+@@ images/foto-notre-dame-paris
+## title
+Cathedral Notre Dame de Paris, West view, Paris, France
+## alt
+Fotografia de Catedral de Notre-Dame de Paris, vista de fora ou do lugar de peregrinação.
+## caption
+Catedral de Notre-Dame de Paris: fotografia do lugar.
+@@ images/foto-chartres
+## title
+west facade
+## alt
+Fotografia de Catedral de Notre-Dame de Chartres, vista de fora ou do lugar de peregrinação.
+## caption
+Catedral de Notre-Dame de Chartres: fotografia do lugar.
+@@ images/foto-montserrat
+## title
+Basilica de Montserrat
+## alt
+O mosteiro de Montserrat ao pé de grandes paredões de rocha.
+## caption
+Abadia de Santa Maria de Montserrat: fotografia do lugar.
+@@ images/foto-pilar
+## title
+Zaragoza - Basilica de Nuestra Señora del Pilar
+## alt
+Fotografia de Catedral-Basílica de Nossa Senhora do Pilar (Saragoça), vista de fora ou do lugar de peregrinação.
+## caption
+Catedral-Basílica de Nossa Senhora do Pilar (Saragoça): fotografia do lugar.
+@@ images/foto-guadalupe-extremadura
+## title
+Claustro mudéjar en el Monasterio de Guadalupe
+## alt
+Fotografia de Real Mosteiro de Santa Maria de Guadalupe (Extremadura), vista de fora ou do lugar de peregrinação.
+## caption
+Real Mosteiro de Santa Maria de Guadalupe (Extremadura): fotografia do lugar.
+@@ images/foto-covadonga
+## title
+Vista de cerca de la "Santa Cueva"La Santa cueva 2
+## alt
+A capela da Santa Gruta de Covadonga, encaixada numa caverna na rocha.
+## caption
+Santa Gruta de Covadonga: fotografia do lugar.
+@@ images/foto-altotting
+## title
+Chapel of Grace and St. Magdalena, Altoetting
+## alt
+Fotografia de Santuário de Nossa Senhora de Altötting (Capela da Graça), vista de fora ou do lugar de peregrinação.
+## caption
+Santuário de Nossa Senhora de Altötting (Capela da Graça): fotografia do lugar.
+@@ images/foto-einsiedeln
+## title
+Einsiedeln Abbey with Lady Fountain, Canton of Schwyz (Switzerland)
+## alt
+Fotografia de Abadia de Einsiedeln (Madona Negra), vista de fora ou do lugar de peregrinação.
+## caption
+Abadia de Einsiedeln (Madona Negra): fotografia do lugar.
+@@ images/foto-mariazell
+## title
+Die Nordwestansicht der Basilika, Pfarr- und Wallfahrtskirche Maria Geburt in der obersteirischen Stadt Mariazell.
+## alt
+Fotografia de Basílica de Mariazell (Natividade de Maria), vista de fora ou do lugar de peregrinação.
+## caption
+Basílica de Mariazell (Natividade de Maria): fotografia do lugar.
+@@ images/foto-jasna-gora
+## title
+Częstochowa, zespół klasztorny oo. Paulinów na Jasnej Górze
+## alt
+Fotografia de Santuário de Jasna Góra (Częstochowa), vista de fora ou do lugar de peregrinação.
+## caption
+Santuário de Jasna Góra (Częstochowa): fotografia do lugar.
+@@ images/foto-lichen
+## title
+View at dusk of the Basilica of Our Lady of Sorrows, Queen of Poland, located in the village of Licheń Stary, near Konin
+## alt
+Fotografia de Basílica de Nossa Senhora de Licheń, vista de fora ou do lugar de peregrinação.
+## caption
+Basílica de Nossa Senhora de Licheń: fotografia do lugar.
+@@ images/foto-pompeia
+## title
+Le Santuario della Beata Vergine del Rosario de Pompei (Italie).
+## alt
+Fotografia de Santuário Pontifício da Virgem do Rosário de Pompeia, vista de fora ou do lugar de peregrinação.
+## caption
+Santuário Pontifício da Virgem do Rosário de Pompeia: fotografia do lugar.
+@@ images/foto-siracusa
+## title
+Basilica Santuario Madonna delle Lacrime di Siracusa
+## alt
+Vista aérea do santuário de Siracusa, uma grande cobertura cônica de concreto entre os prédios da cidade.
+## caption
+Santuário de Nossa Senhora das Lágrimas (Siracusa): fotografia do lugar.
+@@ images/foto-fourviere
+## title
+The first place we were to visit..... The Basilica of Notre-Dame de Fourvière is a minor basilica in Lyon. It was built 
+## alt
+Fotografia de Basílica de Notre-Dame de Fourvière (Lyon), vista de fora ou do lugar de peregrinação.
+## caption
+Basílica de Notre-Dame de Fourvière (Lyon): fotografia do lugar.
+@@ images/foto-notre-dame-de-la-garde
+## title
+Notre-Dame de la Garde
+## alt
+Fotografia de Basílica de Notre-Dame de la Garde (Marselha), vista de fora ou do lugar de peregrinação.
+## caption
+Basílica de Notre-Dame de la Garde (Marselha): fotografia do lugar.
+@@ images/foto-sameiro
+## title
+Our Lady of Sameiro sanctuary in Braga, Braga District, Portugal This building is classified as Sem proteção legal.It is
+## alt
+Fotografia de Santuário de Nossa Senhora do Sameiro (Braga), vista de fora ou do lugar de peregrinação.
+## caption
+Santuário de Nossa Senhora do Sameiro (Braga): fotografia do lugar.
+@@ images/foto-lujan
+## title
+Marienbasilika von Luján, Argentinien
+## alt
+Fotografia de Basílica de Nossa Senhora de Luján, vista de fora ou do lugar de peregrinação.
+## caption
+Basílica de Nossa Senhora de Luján: fotografia do lugar.
+@@ images/foto-notre-dame-montreal
+## title
+Basilique Notre-Dame de Montréal
+## alt
+Fotografia de Basílica de Notre-Dame de Montréal, vista de fora ou do lugar de peregrinação.
+## caption
+Basílica de Notre-Dame de Montréal: fotografia do lugar.
+@@ images/foto-washington
+## title
+The Basilica of the National Shrine of the Immaculate Conception located next to The Catholic University of America camp
+## alt
+Fotografia de Basílica do Santuário Nacional da Imaculada Conceição (Washington), vista de fora ou do lugar de peregrinação.
+## caption
+Basílica do Santuário Nacional da Imaculada Conceição (Washington): fotografia do lugar.
+@@ images/foto-caacupe
+## title
+Basilica of Caacupé.
+## alt
+Fotografia de Catedral-Basílica de Nossa Senhora dos Milagres (Caacupé), vista de fora ou do lugar de peregrinação.
+## caption
+Catedral-Basílica de Nossa Senhora dos Milagres (Caacupé): fotografia do lugar.
+@@ images/foto-copacabana
+## title
+Panoramic view of Copacabana, Bolivia, on the lake Titicaca. Photo taken from Calvario hill.
+## alt
+Vista da cidade de Copacabana, na Bolívia, à beira do lago Titicaca, entre montanhas.
+## caption
+Basílica de Nossa Senhora de Copacabana (Bolívia): fotografia do lugar.
+@@ images/foto-cartago
+## title
+Basilica of Our Lady of the Angels, Cartago, Costa Rica
+## alt
+Fotografia de Basílica de Nossa Senhora dos Anjos (Cartago), vista de fora ou do lugar de peregrinação.
+## caption
+Basílica de Nossa Senhora dos Anjos (Cartago): fotografia do lugar.
+@@ images/foto-belem-nazare
+## title
+Conjunto Arquitetônico de Nazaré (CAN), tendo ao fundo a Basílica de Nossa Senhora de Nazaré, um dos mais importantes te
+## alt
+Fotografia de Basílica Santuário de Nossa Senhora de Nazaré (Belém), vista de fora ou do lugar de peregrinação.
+## caption
+Basílica Santuário de Nossa Senhora de Nazaré (Belém): fotografia do lugar.
+@@ images/foto-altagracia
+## title
+Basílica Nuestra Señora de la Altagracia
+## alt
+Fotografia de Basílica-Catedral de Nossa Senhora da Altagracia (Higüey), vista de fora ou do lugar de peregrinação.
+## caption
+Basílica-Catedral de Nossa Senhora da Altagracia (Higüey): fotografia do lugar.
+@@ images/foto-nazare-anunciacao
+## title
+Church of the Annunciation, Nazareth, Israel
+## alt
+Fotografia de Basílica da Anunciação (Nazaré), vista de fora ou do lugar de peregrinação.
+## caption
+Basílica da Anunciação (Nazaré): fotografia do lugar.
+@@ images/foto-tumba-maria
+## title
+Mary's tomb - outside view
+## alt
+Portal de pedra em arco da igreja do Sepulcro de Maria, em Jerusalém.
+## caption
+Igreja do Sepulcro de Santa Maria (Jerusalém): fotografia do lugar.
+@@ images/foto-efeso
+## title
+Exterior of "The House of the Virgin Mary" near Ephesus, Selçuk in Turkey. Photographer: Martin H. Fryc. A note: the pho
+## alt
+A pequena casa de pedra de Meryem Ana, entre árvores, perto de Éfeso.
+## caption
+Casa de Maria (Meryem Ana Evi), Éfeso: fotografia do lugar.
+@@ images/foto-harissa
+## title
+Statue of Our Lady of Lebanon in Harissa, Lebanon.
+## alt
+A grande estátua branca de Nossa Senhora do Líbano no alto de uma torre, contra o céu azul.
+## caption
+Santuário de Nossa Senhora do Líbano (Harissa): fotografia do lugar.
+@@ images/foto-yamoussoukro
+## title
+La photo du dessus de la Basilique notre Dame de la Paix de Yamoussoukro
+## alt
+A enorme cúpula da basílica de Nossa Senhora da Paz, em Yamoussoukro.
+## caption
+Basílica de Nossa Senhora da Paz (Yamoussoukro): fotografia do lugar.
+@@ images/foto-notre-dame-afrique
+## title
+Notre-Dame d'Afrique, Algiers
+## alt
+Fotografia de Basílica de Nossa Senhora da África (Argel), vista de fora ou do lugar de peregrinação.
+## caption
+Basílica de Nossa Senhora da África (Argel): fotografia do lugar.
+@@ images/foto-sheshan
+## title
+The She Shan Basilica in Shanghai, China
+## alt
+A basílica de Sheshan no alto de uma colina coberta de árvores.
+## caption
+Basílica de Nossa Senhora de Sheshan (Xangai): fotografia do lugar.
+@@ images/foto-antipolo
+## title
+Antipolo Cathedral facade 2014
+## alt
+Fotografia de Santuário Internacional de Nossa Senhora da Paz e da Boa Viagem (Antipolo), vista de fora ou do lugar de peregrinação.
+## caption
+Santuário Internacional de Nossa Senhora da Paz e da Boa Viagem (Antipolo): fotografia do lugar.
+@@ images/foto-manaoag
+## title
+This is a photo of a cultural heritage property in the Philippines with ID
+## alt
+Fotografia de Santuário de Nossa Senhora do Santo Rosário de Manaoag, vista de fora ou do lugar de peregrinação.
+## caption
+Santuário de Nossa Senhora do Santo Rosário de Manaoag: fotografia do lugar.
+@@ images/foto-sydney
+## title
+St Mary's Cathedral, Sydney, Australia
+## alt
+Fotografia de Catedral de Santa Maria (Sydney), Maria Auxiliadora, vista de fora ou do lugar de peregrinação.
+## caption
+Catedral de Santa Maria (Sydney), Maria Auxiliadora: fotografia do lugar.
+@@ images/foto-lourdes
+## title
+La basilique de l'Immaculée-Conception et la basilique Notre-Dame du Rosaire, Lourdes, Hautes-Pyrénées, France.
+## alt
+Vale de Lourdes visto do alto, com a esplanada verde e a basílica ao fundo, entre montanhas.
+## caption
+Santuário de Nossa Senhora de Lourdes: fotografia do lugar.
+@@ images/foto-fatima
+## title
+em1018_2083257
+## alt
+A ampla esplanada do Santuário de Fátima, com a basílica e sua torre ao fundo.
+## caption
+Santuário de Fátima (Cova da Iria): fotografia do lugar.
+@@ images/retrato-aparecida
+## title
+Devoção à imagem, na Basílica do Santuário Nacional de Nossa Senhora da Conceição Aparecida.
+## alt
+Devotos rezam diante do nicho dourado onde fica a pequena imagem escura de Nossa Senhora Aparecida.
+## caption
+A imagem de Nossa Senhora Aparecida na Basílica do Santuário Nacional, em Aparecida (Brasil).
+@@ images/retrato-guadalupe-mexico
+## title
+Original Picture of Our Lady of Guadalupe (also known as the Virgin of Guadalupe) shown in the Basilica of Our Lady of G
+## alt
+Maria de pé sobre a lua, com manto azul-esverdeado coberto de estrelas, mãos postas e raios dourados ao redor, sustentada por um anjo.
+## caption
+A imagem de Nossa Senhora de Guadalupe venerada na Basílica de Guadalupe, Cidade do México.
+@@ images/retrato-nossa-senhora-da-china
+## title
+An apparition of the Blessed Virgin Mary in Donglu, China, first appearing in 190
+## alt
+Maria com o Menino, ambos com vestes e coroas imperiais chinesas, em pintura antiga.
+## caption
+Nossa Senhora da China, em imagem de cerca de 1900, com vestes imperiais.
+@@ images/retrato-jasna-gora
+## title
+Obraz Matki Bożej Częstochowskiej
+## alt
+Ícone de rosto escuro: Maria segura o Menino no braço esquerdo e aponta para ele; duas cicatrizes marcam sua face direita.
+## caption
+O ícone de Nossa Senhora de Częstochowa (Jasna Góra, Polônia), sem a moldura.
+@@ images/retrato-santa-maria-maior
+## title
+Salus Populi Romani icon after restoration, completed by the work of the Vatican Museum conservators in 2018.
+## alt
+Ícone de Maria em manto azul-escuro com borda dourada, segurando o Menino, que traz um livro; fundo dourado.
+## caption
+O ícone Salus Populi Romani (Basílica de Santa Maria Maior, Roma), depois da restauração dos Museus Vaticanos concluída em 2018.
+@@ images/retrato-lourdes
+## title
+The grotto where St Bernadette's visions took place is very simple and stark. Above the main recess is the niche where t
+## alt
+Estátua branca de Maria com faixa azul, mãos postas, no alto de um nicho na rocha da gruta.
+## caption
+A estátua de Nossa Senhora no nicho da gruta de Massabielle, em Lourdes (França).
+@@ images/retrato-fatima
+## title
+Fatima
+## alt
+Estátua de Maria vestida de branco com bordas douradas, mãos postas e terço pendente, sob uma coroa.
+## caption
+A primeira imagem de Nossa Senhora de Fátima (Portugal).
+@@ images/retrato-montserrat
+## title
+The Virgin of Montserrat
+## alt
+Escultura de Maria de rosto escuro, sentada, com o Menino no colo, ambos com coroas e vestes douradas.
+## caption
+A Virgem de Montserrat, a «Moreneta» (Catalunha, Espanha).
+@@ images/retrato-lujan
+## title
+Statue of Our Lady of Lujan in the Institute's seminary in the United States.
+## alt
+Pequena imagem de Maria em manto azul e branco com raios dourados ao redor, num pedestal.
+## caption
+Réplica da imagem de Nossa Senhora de Luján (Argentina), num seminário nos Estados Unidos. Não é a imagem original da basílica.
+@@ images/retrato-cartago
+## title
+Sculpture of the Virgen de los Ángeles in the Basilica of Our Lady of the Angels, Cartago, Costa Rica
+## alt
+Pequena imagem escura de Maria com o Menino, sobre uma pedra, com flores ao lado.
+## caption
+A Virgem dos Anjos, a «Negrita», na basílica de Cartago (Costa Rica).
+@@ images/retrato-suyapa
+## title
+Artistic representation of the Virgin of Suyapa, Patron of Honduras and central America.
+## alt
+Desenho da pequena imagem de Maria de mãos postas, com manto e resplendor.
+## caption
+Representação artística da Virgem de Suyapa (Honduras). Não é fotografia da imagem venerada.
+@@ images/retrato-altagracia
+## title
+Imagen oficial de Nuestra Señora de la Altagracia.
+## alt
+Pintura de Maria de mãos postas, com manto azul estrelado e coroa, diante do Menino deitado; José aparece ao fundo, à esquerda.
+## caption
+A imagem de Nossa Senhora da Altagracia (Higüey, República Dominicana).
+@@ images/retrato-kibeho
+## title
+Ishusho ya Bikira Mariya Nyina wa Jambo, akaba kandi yitwa Mwamikazi wa Kibeho, iherereye mu cyanya cy'Ingoro ya Yezu Ny
+## alt
+Estátua de Maria com manto azul e veste branca, de mãos postas, sobre um pedestal com a inscrição «Kibeho».
+## caption
+Imagem de Nossa Senhora de Kibeho («Nyina wa Jambo», Mãe do Verbo), no santuário de Ruhango (Ruanda). Não é a imagem de Kibeho.
+@@ images/retrato-akita
+## title
+Our Lady of Akita Japan
+## alt
+Escultura de madeira de Maria diante de uma cruz, com os braços abertos para baixo.
+## caption
+A estátua de Nossa Senhora de Akita (Japão).
+@@ images/retrato-boa-saude-vailankanni
+## title
+Our Lady of Vailankanni, a statue in the crypt of Basilique Notre-Dame de Fourvière, Lyon, France.
+## alt
+Imagem de Maria com o Menino, ambos com coroas douradas altas, diante de um fundo vermelho.
+## caption
+Imagem de Nossa Senhora de Vailankanni na cripta da basílica de Fourvière, em Lyon (França). Não é a imagem do santuário indiano.
+@@ images/retrato-antipolo
+## title
+The Black Madonna image of Our Lady of Peace and Good Voyage, also known as Our Lady of Antipolo, enshrined at the Antip
+## alt
+Imagem escura de Maria com rico manto bordado, coroa e resplendor dourados.
+## caption
+Nossa Senhora da Paz e da Boa Viagem, na catedral de Antipolo (Filipinas).
+@@ images/retrato-manaoag
+## title
+Our lady of Manaoag
+## alt
+Imagem de Maria com vestes douradas e coroa, num nicho ricamente ornamentado com flores brancas à frente.
+## caption
+Nossa Senhora do Santo Rosário de Manaoag (Filipinas).
+@@ images/retrato-harissa
+## title
+Statue of Our Lady of Lebanon in Harissa, Lebanon.
+## alt
+Grande estátua branca de Maria de braços abertos sobre um pedestal, contra o céu.
+## caption
+A estátua de Nossa Senhora do Líbano, em Harissa (Líbano).
+@@ images/retrato-walsingham
+## title
+The statue of Our Lady of Walsingham, the Slipper Chapel, Walsingham, Norfolk, England.
+## alt
+Imagem coroada de Maria com o Menino, também coroado, e um ramo de lírios.
+## caption
+A imagem de Nossa Senhora de Walsingham na Slipper Chapel (Inglaterra).
+@@ images/retrato-banneux
+## title
+The statue and source of Mary Virgin of the poor at Banneux
+## alt
+Pequena estátua branca de Maria num nicho de pedra, acima de uma fonte, com flores ao redor.
+## caption
+A estátua da Virgem dos Pobres junto à fonte de Banneux (Bélgica).
+@@ images/retrato-la-salette
+## title
+Statue de la Vierge de la Salette avec les enfants (détail), intérieur de l'église de Corps.
+## alt
+Estátua de Maria com coroa de rosas, crucifixo e corrente sobre o peito, diante de duas crianças.
+## caption
+Estátua de Nossa Senhora de La Salette com as crianças, na igreja de Corps (França).
+@@ images/retrato-covadonga
+## title
+Imaxe de la Virxe de Cuadonga, la Santina, con mantu blancu.
+## alt
+Pequena imagem de Maria com o Menino, com manto branco bordado e coroa.
+## caption
+A Virgem de Covadonga, «la Santina», nas Astúrias (Espanha).
+@@ images/retrato-einsiedeln
+## title
+Schwarze Madonna von Einsiedeln, mit Kind. Steht in der Klosterkirche von Einsiedeln in der Schweiz. Liegt an einem Weg 
+## alt
+A capela da graça, de mármore negro, dentro da igreja da abadia; ao centro, a pequena imagem escura de Maria, e fiéis sentados à frente.
+## caption
+A Madona Negra de Einsiedeln (Suíça).
+@@ images/retrato-mariazell
+## title
+Gnadenstatue von Mariazell, "Magna Mater Austriae"
+## alt
+Pequena imagem de Maria com manto vermelho, num altar de prata cercado de colunas douradas.
+## caption
+A imagem da graça de Mariazell, «Magna Mater Austriae» (Áustria).
+@@ images/retrato-pompeia
+## title
+Basilica di San Gennaro ad Antignano (Napoli) - Nella navata destra, sulla parete destra, in corrispondenza della 2° col
+## alt
+Pintura de Maria entronizada com o Menino, entregando o rosário a São Domingos e a Santa Catarina.
+## caption
+Cópia do quadro de Nossa Senhora do Rosário de Pompeia, na basílica de San Gennaro ad Antignano, em Nápoles. Não é o original de Pompeia.

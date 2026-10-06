@@ -10,8 +10,8 @@
   },
   "scripts": {
     "validate": "node scripts/validate.mjs",
-    "build": "node scripts/build.mjs",
-    "build:app": "node scripts/build.mjs --app && cap sync android",
+    "build": "node scripts/build-all.mjs",
+    "build:app": "node scripts/build-all.mjs --app && cap sync android",
     "android:open": "cap open android",
     "test": "node --test tests/",
     "check": "npm run validate && npm test && npm run build && node scripts/check-links.mjs",
@@ -22,7 +22,10 @@
     "import:dossie": "node scripts/import-dossie.mjs",
     "audit:visual": "node scripts/visual-audit.mjs",
     "audit:interactions": "node scripts/interaction-audit.mjs",
-    "audit:performance": "node scripts/performance-audit.mjs"
+    "audit:performance": "node scripts/performance-audit.mjs",
+    "build:pt": "node scripts/build.mjs",
+    "i18n": "node scripts/i18n.mjs",
+    "i18n:keys": "I18N_COLLECT=1 LOCALE=pt node scripts/build.mjs"
   },
   "devDependencies": {
     "@axe-core/playwright": "^4.13.0",

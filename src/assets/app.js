@@ -12,6 +12,30 @@
     get: function (k) { try { return localStorage.getItem(k); } catch (e) { return null; } },
     set: function (k, v) { try { localStorage.setItem(k, v); } catch (e) { /* ignorado */ } }
   };
+  /* textos de interface no idioma da página (injetados pelo build em window.SMD) */
+  var SMD = window.SMD || { lang: 'pt-BR', t: {}, n: {} };
+  function T(key, fallback, vars) {
+    var s = SMD.t && SMD.t[key] != null ? SMD.t[key] : fallback;
+    if (vars) s = s.replace(/\{(\w+)\}/g, function (m, k) { return k in vars ? vars[k] : m; });
+    return s;
+  }
+  var pluralRules; try { pluralRules = new Intl.PluralRules(SMD.lang); } catch (e) { pluralRules = null; }
+  function N(key, n, fallbackOne, fallbackMany) {
+    var f = SMD.n && SMD.n[key];
+    var s = f ? (f[pluralRules ? pluralRules.select(n) : 'other'] || f.other) : (n === 1 ? fallbackOne : fallbackMany);
+    return s.replace('{n}', n);
+  }
+
+  /* idioma escolhido manualmente: lembrado só neste aparelho */
+  Array.prototype.forEach.call(document.querySelectorAll('[data-idioma]'), function (a) {
+    a.addEventListener('click', function () { store.set('smd-lang', a.getAttribute('data-idioma')); });
+  });
+  var langMenu = document.querySelector('[data-idioma-menu]');
+  if (langMenu) {
+    document.addEventListener('click', function (e) { if (langMenu.open && !langMenu.contains(e.target)) langMenu.open = false; });
+    document.addEventListener('keydown', function (e) { if (e.key === 'Escape' && langMenu.open) { langMenu.open = false; var sm = langMenu.querySelector('summary'); if (sm) sm.focus(); } });
+  }
+
   var motionQuery = matchMedia('(prefers-reduced-motion: reduce)');
   var userMotionOff = store.get('smd-movimento') === 'off';
   var reduced = motionQuery.matches || userMotionOff;
@@ -54,7 +78,7 @@
     tg.addEventListener('click', function () {
       var on = document.body.classList.toggle('modo-leitura');
       tg.setAttribute('aria-pressed', on ? 'true' : 'false');
-      tg.textContent = on ? 'Sair do modo de leitura' : 'Modo de leitura sem distrações';
+      tg.textContent = on ? T('leituraSair', 'Sair do modo de leitura') : T('leituraEntrar', 'Modo de leitura sem distrações');
       if (window.ScrollTrigger) window.ScrollTrigger.refresh();
     });
     document.addEventListener('keydown', function (e) {
@@ -86,7 +110,7 @@
         if (ok) shown++;
       });
       main.querySelectorAll('[data-ponto]').forEach(function (pt) { var it = byRef[pt.getAttribute('data-ponto')]; pt.style.display = it && it.hidden ? 'none' : ''; });
-      if (count) count.textContent = shown + (shown === 1 ? ' resultado' : ' resultados');
+      if (count) count.textContent = N('resultados', shown, '{n} resultado', '{n} resultados');
       if (empty) empty.hidden = shown !== 0;
       var rostos = main.querySelectorAll('[data-retrato]');
       if (rostos.length) {
@@ -99,7 +123,7 @@
         var rl = main.querySelector('[data-rostos-rotulo]');
         if (rl) {
           var sp = form.querySelector('select[data-field="pais"]'), sr = form.querySelector('select[data-field="regiao"]');
-          rl.textContent = sp && sp.value ? 'em ' + sp.options[sp.selectedIndex].text : sr && sr.value ? 'em ' + sr.options[sr.selectedIndex].text : 'pelo mundo';
+          rl.textContent = sp && sp.value ? T('emLugar', 'em {lugar}', { lugar: sp.options[sp.selectedIndex].text }) : sr && sr.value ? T('emLugar', 'em {lugar}', { lugar: sr.options[sr.selectedIndex].text }) : T('pelomundo', 'pelo mundo');
         }
       }
       if (window.ScrollTrigger) window.ScrollTrigger.refresh();
@@ -263,9 +287,9 @@
       $('[data-lb-titulo]').textContent = o.titulo;
       $('[data-lb-meta]').textContent = o.autor + ', ' + o.data + '. ' + o.tecnica + '. ' + o.instituicao + '.';
       $('[data-lb-alt]').textContent = o.alt;
-      $('[data-lb-cred]').textContent = 'Licença: ' + o.licenca + (o.acesso ? '. Número de acesso: ' + o.acesso : '') + '. Origem: ' + o.origem + '.';
+      $('[data-lb-cred]').textContent = T('lbLicenca', 'Licença: {licenca}', { licenca: o.licenca }) + (o.acesso ? '. ' + T('lbAcesso', 'Número de acesso: {acesso}', { acesso: o.acesso }) : '') + '. ' + T('lbOrigem', 'Origem: {origem}', { origem: o.origem }) + '.';
       $('[data-lb-link]').href = o.url;
-      $('[data-lb-contagem]').textContent = 'Obra ' + (i + 1) + ' de ' + obras.length;
+      $('[data-lb-contagem]').textContent = T('lbContagem', 'Obra {n} de {total}', { n: i + 1, total: obras.length });
       var prox = obras[(i + 1) % obras.length], ant = obras[(i - 1 + obras.length) % obras.length];
       [prox, ant].forEach(function (x) { var p = new Image(); p.src = x.src; });
     };
@@ -330,13 +354,13 @@
     motionButtons.forEach(function (button) {
       button.hidden = false;
       button.setAttribute('aria-pressed', String(reduced));
-      button.textContent = reduced ? (motionQuery.matches ? 'Movimento reduzido pelo sistema' : 'Ativar animações') : 'Ler sem animações';
+      button.textContent = reduced ? (motionQuery.matches ? T('movSistema', 'Movimento reduzido pelo sistema') : T('movAtivar', 'Ativar animações')) : T('movLer', 'Ler sem animações');
       button.disabled = motionQuery.matches;
     });
     if (clothButton) {
       clothButton.hidden = reduced || !window.gsap || !window.ScrollTrigger;
       clothButton.setAttribute('aria-pressed', String(clothPaused));
-      clothButton.textContent = clothPaused ? 'Retomar o céu estrelado' : 'Pausar o céu estrelado';
+      clothButton.textContent = clothPaused ? T('retomar', 'Retomar o céu estrelado') : T('pausar', 'Pausar o céu estrelado');
     }
   }
 

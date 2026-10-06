@@ -1,0 +1,106 @@
+@@ apparitions/apar-lourdes-1858
+## title
+Lourdes (França), 1858
+## summary
+Entre 11 de fevereiro e 16 de julho de 1858, uma jovem chamada Bernadette Soubirous relatou dezoito aparições da Mãe de Deus na gruta de Massabielle. Em 1862, o bispo local reconheceu as aparições e autorizou o culto.
+## place.name
+Gruta de Massabielle
+## place.locality
+Lourdes
+## place.region
+Altos Pireneus
+## place.coordinatesNote
+Coordenadas ainda não verificadas em fonte consultada; mapa adiado.
+## people.0.name
+Bernadette Soubirous
+## people.0.role
+Jovem que relatou as aparições
+## blocks.0.heading
+O que foi relatado
+## blocks.1.heading
+Palavras atribuídas à Virgem, segundo o relato de Bernadette
+## blocks.2.heading
+O inquérito da Igreja
+## blocks.3.heading
+Como a Igreja entende um acontecimento assim
+## blocks.0.text
+Segundo o santuário de Lourdes, as aparições ocorreram entre 11 de fevereiro e 16 de julho de 1858, na gruta de Massabielle, e Bernadette Soubirous contemplou a Mãe de Deus dezoito vezes. Na última, em 16 de julho, ela contou que a Virgem não falou e estava mais bela do que nunca.
+## blocks.1.text
+O santuário apresenta estas palavras como relatadas por Bernadette: na 3ª aparição (18 de fevereiro de 1858), «o que tenho a dizer-te não precisa de ser escrito» (em inglês no original consultado: «what I have to say to you does not have to be written down»); depois, «Penitência, penitência, penitência. Rezai pelos pecadores»; na 9ª aparição, o pedido de ir à fonte, beber e lavar-se; na 13ª, o pedido de vir em procissão e de construir uma capela. As traduções para o português são nossas, a partir da página em inglês do santuário.
+## blocks.2.text
+O reconhecimento apoiou-se no trabalho de uma Comissão de Inquérito constituída em 1858, encarregada de verificar a autenticidade e a natureza dos fatos. Quase quatro anos depois das aparições, em 18 de janeiro de 1862, o Bispo de Tarbes publicou o seu mandamento.
+## blocks.3.text
+Mesmo quando a Igreja reconhece uma aparição, isso não a transforma em parte da Revelação. O Catecismo (§ 67) ensina que as revelações privadas «não pertencem ao depósito da fé» e que o seu papel é ajudar a viver a Revelação de Cristo mais plenamente numa época. Em outras palavras, segundo esse ensino, a fé católica não se apoia em aparições particulares: esta é a leitura do projeto, e não uma citação do Catecismo.
+## decisions.0.authority
+Mons. Laurence, Bispo de Tarbes
+## decisions.0.scope
+Decisão de um bispo diocesano (mandamento). Não se trata de um pronunciamento do Dicastério para a Doutrina da Fé; decisões e atos posteriores da Santa Sé sobre Lourdes não foram pesquisados nesta versão.
+## decisions.0.document
+Mandamento do Bispo de Tarbes, 18 de janeiro de 1862
+## decisions.0.plain
+Em 1862, o bispo da diocese de Tarbes julgou que a Imaculada Maria, Mãe de Deus, realmente apareceu a Bernadette Soubirous, e a decisão autorizou o culto no local. Quem decidiu foi o bispo local, não o Papa. É um reconhecimento de uma revelação privada, que não obriga os fiéis a crer.
+## decisions.0.sourceNote
+A fonte é a página do santuário que cita o mandamento. O texto integral do mandamento ainda precisa ser localizado e lido.
+## gaps.0
+Texto integral do mandamento de 1862 não consultado.
+## gaps.1
+Contexto histórico e social da França de 1858 e estudos acadêmicos sobre Lourdes: pesquisa pendente.
+## gaps.2
+Coordenadas verificadas da gruta: pendentes.
+@@ apparitions/apar-fatima-1917
+## title
+Fátima (Portugal), 1917
+## summary
+A partir de 13 de maio de 1917, três crianças relataram aparições na Cova da Iria, na paróquia de Fátima. Em 13 de outubro de 1930, o Bispo de Leiria declarou dignas de crédito as visões e permitiu oficialmente o culto de Nossa Senhora de Fátima.
+## place.name
+Cova da Iria
+## place.locality
+Fátima
+## place.region
+Santarém (Diocese de Leiria-Fátima)
+## place.coordinatesNote
+Coordenadas ainda não verificadas em fonte consultada; mapa adiado.
+## people.0.name
+Lúcia (de Jesus)
+## people.1.name
+Francisco
+## people.2.name
+Jacinta
+## people.0.role
+Criança vidente; 10 anos em 1917, segundo a carta pastoral de 1930
+## people.1.role
+Criança vidente; 9 anos em 1917, segundo a carta pastoral de 1930
+## people.2.role
+Criança vidente; 7 anos em 1917, segundo a carta pastoral de 1930
+## blocks.0.heading
+O que foi relatado
+## blocks.1.heading
+O fenômeno de 13 de outubro
+## blocks.2.heading
+O processo canônico
+## blocks.3.heading
+O lugar das aparições na fé católica
+## blocks.0.text
+Segundo a carta pastoral do Bispo de Leiria, em 13 de maio de 1917 três crianças da paróquia de Fátima, que cuidavam de um rebanho de ovelhas na Cova da Iria, relataram uma aparição. Francisco e Jacinta eram irmãos, e Lúcia era prima deles. A carta fala de seis aparições, uma no dia 13 de cada mês, exceto em agosto.
+## blocks.1.text
+A carta pastoral de 1930 refere o fenômeno solar de 13 de outubro de 1917, descrito nos jornais da época, como algo maravilhoso que causou grande impressão. Este site relata o que o documento afirma; não faz, aqui, avaliação científica nem teológica do fenômeno.
+## blocks.2.text
+Por ordem de 6 de maio de 1922, o bispo nomeou uma comissão de sacerdotes para recolher depoimentos livremente. A decisão foi publicada em 13 de outubro de 1930.
+## blocks.3.text
+As aparições aprovadas pela Igreja pertencem ao campo das revelações privadas. O Catecismo (§ 67) afirma que elas não pertencem ao depósito da fé e não completam a Revelação de Cristo.
+## decisions.0.authority
+Dom José Alves Correia da Silva, Bispo de Leiria
+## decisions.0.scope
+Decisão de um bispo diocesano. A fórmula usada foi declarar 'dignas de crédito' as visões e permitir oficialmente o culto; não é uma declaração de que a Igreja obriga os fiéis a crer, nem um pronunciamento do Dicastério. Atos posteriores da Santa Sé relativos a Fátima não foram pesquisados nesta versão.
+## decisions.0.document
+Carta pastoral «A Providência Divina», 13 de outubro de 1930
+## decisions.0.plain
+Em 1930, o bispo de Leiria declarou dignas de crédito as visões das três crianças na Cova da Iria e permitiu oficialmente o culto de Nossa Senhora de Fátima. Quem decidiu foi o bispo da diocese, depois de uma comissão ouvir testemunhos. É uma decisão sobre uma revelação privada, que não obriga os fiéis a crer.
+## decisions.0.sourceNote
+Tradução inglesa hospedada em site de terceiros; conferir com o original em português.
+## gaps.0
+Texto original em português da carta de 1930 ainda não conferido.
+## gaps.1
+Conteúdo das mensagens atribuídas às aparições, outras datas (incluindo agosto) e documentos da Santa Sé: pesquisa pendente.
+## gaps.2
+Coordenadas verificadas: pendentes.

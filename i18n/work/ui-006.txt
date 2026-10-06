@@ -1,0 +1,440 @@
+#145
+es: Decisión documentada
+en: Documented decision
+fr: Décision documentée
+it: Decisione documentata
+de: Dokumentierte Entscheidung
+ja: 記録のある決定
+zh: 有文献可查的裁定
+#146
+es: Decisión eclesial
+en: Ecclesial decision
+fr: Décision ecclésiale
+it: Decisione ecclesiale
+de: Kirchliche Entscheidung
+ja: 教会の決定
+zh: 教会裁定
+#147
+es: Decisión eclesial documentada: {tipos}
+en: Documented ecclesial decision: {tipos}
+fr: Décision ecclésiale documentée : {tipos}
+it: Decisione ecclesiale documentata: {tipos}
+de: Dokumentierte kirchliche Entscheidung: {tipos}
+ja: 記録のある教会の決定：{tipos}
+zh: 有文献可查的教会裁定：{tipos}
+#148
+es: Las decisiones antiguas conservan la terminología de su época; no se reclasifican con las normas de 2024.
+en: Older decisions keep the terminology of their time; they are not reclassified under the 2024 norms.
+fr: Les décisions anciennes gardent la terminologie de leur époque ; elles ne sont pas reclassées selon les normes de 2024.
+it: Le decisioni più antiche mantengono la terminologia dell’epoca; non vengono riclassificate secondo le norme del 2024.
+de: Ältere Entscheidungen behalten die Terminologie ihrer Zeit; sie werden nicht nach den Normen von 2024 neu eingeordnet.
+ja: 古い決定は当時の用語のままとし、2024年の規範で分類し直すことはしません。
+zh: 较早的裁定保留当时的术语，不按2024年规范重新归类。
+#149
+es: Decisiones eclesiales
+en: Ecclesial decisions
+fr: Décisions ecclésiales
+it: Decisioni ecclesiali
+de: Kirchliche Entscheidungen
+ja: 教会の決定
+zh: 教会裁定
+#150
+es: Las decisiones eclesiales aparecen con su autoridad, fecha, alcance y documento. No existe un sello único de «aprobado».
+en: Ecclesial decisions appear with their authority, date, scope and document. There is no single “approved” stamp.
+fr: Les décisions ecclésiales figurent avec leur autorité, leur date, leur portée et leur document. Il n’existe pas de sceau unique d’« approuvé ».
+it: Le decisioni ecclesiali compaiono con la loro autorità, data, portata e documento. Non esiste un unico bollino di «approvato».
+de: Kirchliche Entscheidungen erscheinen mit Autorität, Datum, Reichweite und Dokument. Ein einheitliches Gütesiegel „genehmigt“ gibt es nicht.
+ja: 教会の決定は、権限者・日付・範囲・文書とともに示します。「承認済み」という一つの印があるわけではありません。
+zh: 教会裁定都附有裁定机构、日期、适用范围和文件。并没有一个统一的“已批准”印记。
+#151
+es: Declaración negativa o restrictiva
+en: Negative or restrictive statement
+fr: Déclaration négative ou restrictive
+it: Dichiarazione negativa o restrittiva
+de: Negative oder einschränkende Erklärung
+ja: 否定的または制限的な声明
+zh: 否定性或限制性的声明
+#152
+es: Decretos y comunicaciones diocesanas
+en: Diocesan decrees and communications
+fr: Décrets et communications diocésains
+it: Decreti e comunicazioni diocesane
+de: Diözesane Dekrete und Mitteilungen
+ja: 教区の教令と通達
+zh: 教区的法令与公告
+#153
+es: Definiciones editoriales sencillas; en caso de duda, vale el documento oficial.
+en: Simple editorial definitions; in case of doubt, the official document prevails.
+fr: Définitions éditoriales simples ; en cas de doute, le document officiel fait foi.
+it: Definizioni editoriali semplici; in caso di dubbio vale il documento ufficiale.
+de: Einfache redaktionelle Erläuterungen; im Zweifel gilt das offizielle Dokument.
+ja: 編集上の簡単な説明です。疑問がある場合は、公式文書が優先します。
+zh: 这是编者作的简明释义；如有疑问，以官方文件为准。
+#154
+es: Devoción
+en: Devotion
+fr: Dévotion
+it: Devozione
+de: Andacht
+ja: 信心
+zh: 敬礼
+#155
+es: Devoción a María y adoración a Dios
+en: Devotion to Mary and worship of God
+fr: Dévotion envers Marie et adoration de Dieu
+it: Devozione a Maria e adorazione di Dio
+de: Marienverehrung und Anbetung Gottes
+ja: マリアへの崇敬と神への礼拝
+zh: 对玛利亚的敬礼与对天主的钦崇
+#156
+es: Devociones
+en: Devotions
+fr: Dévotions
+it: Devozioni
+de: Andachten
+ja: 信心
+zh: 敬礼
+#157
+es: Devociones marianas y promesas atribuidas, con origen, atribución, fuente y límites documentales.
+en: Marian devotions and attributed promises, with origin, attribution, source and documentary limits.
+fr: Dévotions mariales et promesses attribuées, avec origine, attribution, source et limites documentaires.
+it: Devozioni mariane e promesse attribuite, con origine, attribuzione, fonte e limiti documentali.
+de: Marianische Andachten und zugeschriebene Verheißungen, mit Herkunft, Zuschreibung, Quelle und dokumentarischen Grenzen.
+ja: 聖母の信心と、聖母に帰せられる約束。由来・帰属・出典・資料上の限界を示します。
+zh: 圣母敬礼与被归于圣母的许诺，附有来源、归属、资料出处和文献上的限度。
+#158
+es: Devociones registradas
+en: Recorded devotions
+fr: Dévotions répertoriées
+it: Devozioni registrate
+de: Verzeichnete Andachten
+ja: 収録している信心
+zh: 已收录的敬礼
+#159
+es: Dicasterio para la Doctrina de la Fe
+en: Dicastery for the Doctrine of the Faith
+fr: Dicastère pour la Doctrine de la Foi
+it: Dicastero per la Dottrina della Fede
+de: Dikasterium für die Glaubenslehre
+ja: 教理省
+zh: 教理部
+#160
+es: Dicasterio para la Doctrina de la Fe (Santa Sede)
+en: Dicastery for the Doctrine of the Faith (Holy See)
+fr: Dicastère pour la Doctrine de la Foi (Saint-Siège)
+it: Dicastero per la Dottrina della Fede (Santa Sede)
+de: Dikasterium für die Glaubenslehre (Heiliger Stuhl)
+ja: 教理省（教皇庁）
+zh: 教理部（圣座）
+#161
+es: El Dicasterio para la Doctrina de la Fe publica nuevas normas para el discernimiento de fenómenos sobrenaturales (en vigor desde el 19 de mayo de 2024)
+en: The Dicastery for the Doctrine of the Faith publishes new norms for discerning supernatural phenomena (in force since 19 May 2024)
+fr: Le Dicastère pour la Doctrine de la Foi publie de nouvelles normes pour le discernement des phénomènes surnaturels (en vigueur depuis le 19 mai 2024)
+it: Il Dicastero per la Dottrina della Fede pubblica nuove norme per il discernimento dei fenomeni soprannaturali (in vigore dal 19 maggio 2024)
+de: Das Dikasterium für die Glaubenslehre veröffentlicht neue Normen für die Unterscheidung übernatürlicher Phänomene (in Kraft seit dem 19. Mai 2024)
+ja: 教理省が超自然的現象の識別に関する新しい規範を公表（2024年5月19日施行）
+zh: 教理部公布辨别超自然现象的新规范（自2024年5月19日起生效）
+#162
+es: Reducir el texto
+en: Decrease text size
+fr: Réduire le texte
+it: Riduci il testo
+de: Text verkleinern
+ja: 文字を小さくする
+zh: 缩小文字
+#163
+es: Diócesis de Gikongoro, Ruanda (texto en inglés publicado en L'Osservatore Romano, edición semanal en inglés, 11 de julio de 2001, p. 8; reproducido por Miracle Hunter)
+en: Diocese of Gikongoro, Rwanda (text in English published in L'Osservatore Romano, weekly English edition, 11 July 2001, p. 8; reproduced by Miracle Hunter)
+fr: Diocèse de Gikongoro, Rwanda (texte en anglais publié dans L'Osservatore Romano, édition hebdomadaire en anglais, 11 juillet 2001, p. 8 ; reproduit par Miracle Hunter)
+it: Diocesi di Gikongoro, Ruanda (testo in inglese pubblicato su L'Osservatore Romano, edizione settimanale in inglese, 11 luglio 2001, p. 8; riprodotto da Miracle Hunter)
+de: Diözese Gikongoro, Ruanda (englischer Text, veröffentlicht im L'Osservatore Romano, englische Wochenausgabe, 11. Juli 2001, S. 8; wiedergegeben von Miracle Hunter)
+ja: ルワンダ・ギコンゴロ教区（英語の文書。『オッセルヴァトーレ・ロマーノ』英語週刊版2001年7月11日号8頁に掲載、Miracle Hunterが転載）
+zh: 卢旺达吉贡戈罗教区（英文文本，刊于《罗马观察报》英文周刊2001年7月11日第8页；由 Miracle Hunter 转载）
+#164
+es: Diócesis de Green Bay (texto reproducido por CatholicCulture.org)
+en: Diocese of Green Bay (text reproduced by CatholicCulture.org)
+fr: Diocèse de Green Bay (texte reproduit par CatholicCulture.org)
+it: Diocesi di Green Bay (testo riprodotto da CatholicCulture.org)
+de: Diözese Green Bay (Text wiedergegeben von CatholicCulture.org)
+ja: グリーンベイ教区（CatholicCulture.orgが転載した文書）
+zh: 绿湾教区（文本由 CatholicCulture.org 转载）
+#165
+es: Diócesis de Grenoble (texto en inglés reproducido por Miracle Hunter)
+en: Diocese of Grenoble (text in English reproduced by Miracle Hunter)
+fr: Diocèse de Grenoble (texte en anglais reproduit par Miracle Hunter)
+it: Diocesi di Grenoble (testo in inglese riprodotto da Miracle Hunter)
+de: Diözese Grenoble (englischer Text, wiedergegeben von Miracle Hunter)
+ja: グルノーブル教区（英語の文書をMiracle Hunterが転載）
+zh: 格勒诺布尔教区（英文文本由 Miracle Hunter 转载）
+#166
+es: Diócesis de Niigata, Japón (texto en inglés, tomado del libro de F. M. Fukushima, «Akita: Mother of God as CoRedemptrix», 1997, y reproducido por Miracle Hunter)
+en: Diocese of Niigata, Japan (text in English, taken from the book by F. M. Fukushima, “Akita: Mother of God as CoRedemptrix”, 1997, and reproduced by Miracle Hunter)
+fr: Diocèse de Niigata, Japon (texte en anglais, tiré du livre de F. M. Fukushima, « Akita : Mother of God as CoRedemptrix », 1997, et reproduit par Miracle Hunter)
+it: Diocesi di Niigata, Giappone (testo in inglese, tratto dal libro di F. M. Fukushima, «Akita: Mother of God as CoRedemptrix», 1997, e riprodotto da Miracle Hunter)
+de: Diözese Niigata, Japan (englischer Text, entnommen dem Buch von F. M. Fukushima, „Akita: Mother of God as CoRedemptrix“, 1997, und wiedergegeben von Miracle Hunter)
+ja: 日本・新潟教区（英語の文書。F・M・福島の著書『Akita: Mother of God as CoRedemptrix』（1997年）から取り、Miracle Hunterが転載）
+zh: 日本新潟教区（英文文本，取自 F. M. 福岛的著作《Akita: Mother of God as CoRedemptrix》（1997年），由 Miracle Hunter 转载）
+#167
+es: Derechos
+en: Rights
+fr: Droits
+it: Diritti
+de: Rechte
+ja: 権利
+zh: 权利
+#168
+es: Disposición litúrgica (misa, oficio o fiesta propios)
+en: Liturgical provision (proper Mass, office or feast)
+fr: Disposition liturgique (messe, office ou fête propres)
+it: Disposizione liturgica (Messa, ufficio o festa propri)
+de: Liturgische Verfügung (eigene Messe, eigenes Offizium oder eigenes Fest)
+ja: 典礼上の定め（固有のミサ、聖務日課、祝日）
+zh: 礼仪上的规定（专属弥撒、日课或庆日）
+#169
+es: Documentación de santuarios y custodias
+en: Documentation of shrines and custodies
+fr: Documentation des sanctuaires et des custodies
+it: Documentazione di santuari e custodie
+de: Dokumentation von Heiligtümern und Kustodien
+ja: 聖地・管理団体の文書
+zh: 圣地与管理机构的文献
+#170
+es: Documento
+en: Document
+fr: Document
+it: Documento
+de: Dokument
+ja: 文書
+zh: 文件
+#171
+es: Dogma
+en: Dogma
+fr: Dogme
+it: Dogma
+de: Dogma
+ja: 教義（ドグマ）
+zh: 信理
+#172
+es: Mons. José Alves Correia da Silva, obispo de Leiría
+en: Bishop José Alves Correia da Silva of Leiria
+fr: Mgr José Alves Correia da Silva, évêque de Leiria
+it: Mons. José Alves Correia da Silva, vescovo di Leiria
+de: Bischof José Alves Correia da Silva von Leiria
+ja: レイリア司教ジョゼ・アルヴェス・コレイア・ダ・シルヴァ
+zh: 莱里亚主教若泽·阿尔维斯·科雷亚·达·席尔瓦
+#173
+es: Dominio público (según lo declarado en la página del archivo en Wikimedia Commons)
+en: Public domain (as declared on the file page at Wikimedia Commons)
+fr: Domaine public (tel que déclaré sur la page du fichier sur Wikimedia Commons)
+it: Pubblico dominio (come dichiarato nella pagina del file su Wikimedia Commons)
+de: Gemeinfrei (laut Angabe auf der Dateiseite bei Wikimedia Commons)
+ja: パブリックドメイン（ウィキメディア・コモンズのファイルページの表示による）
+zh: 公有领域（依维基共享资源文件页面的声明）
+#174
+es: Dosier
+en: Dossier
+fr: Dossier
+it: Dossier
+de: Dossier
+ja: 調査資料
+zh: 研究档案
+#175
+es: Dosier de investigación
+en: Research dossier
+fr: Dossier de recherche
+it: Dossier di ricerca
+de: Recherche-Dossier
+ja: 調査資料
+zh: 研究档案
+#176
+es: Doctrina
+en: Doctrine
+fr: Doctrine
+it: Dottrina
+de: Lehre
+ja: 教え
+zh: 教义
+#177
+es: Doctrina de la Iglesia
+en: Church doctrine
+fr: Doctrine de l’Église
+it: Dottrina della Chiesa
+de: Lehre der Kirche
+ja: 教会の教え
+zh: 教会的教义
+#178
+es: Década del reconocimiento
+en: Decade of recognition
+fr: Décennie de la reconnaissance
+it: Decennio del riconoscimento
+de: Jahrzehnt der Anerkennung
+ja: 認定された年代
+zh: 获承认的年代
+#179
+es: En lenguaje sencillo
+en: In plain language
+fr: En langage simple
+it: In parole semplici
+de: In einfachen Worten
+ja: やさしい言葉で
+zh: 通俗说明
+#180
+es: En investigación, fuera del catálogo: {n} registro(s) de apariciones en borrador.
+en: Under research, outside the catalog: {n} apparition record(s) in draft.
+fr: En cours d’étude, hors du catalogue : {n} fiche(s) d’apparitions à l’état de brouillon.
+it: In fase di ricerca, fuori dal catalogo: {n} scheda/e di apparizioni in bozza.
+de: In Recherche, außerhalb des Katalogs: {n} Erscheinungs-Eintrag/-Einträge im Entwurf.
+ja: 調査中でカタログには含めていないもの：下書きの出現項目が{n}件。
+zh: 研究中、未列入目录：{n} 条显现记录尚在草稿阶段。
+#181
+es: Dirección
+en: Address
+fr: Adresse
+it: Indirizzo
+de: Adresse
+ja: アドレス
+zh: 网址
+#182
+es: Mientras tanto, lea lo que informa el santuario de Lourdes y lo que aún no hemos podido confirmar:
+en: In the meantime, read what the Lourdes shrine reports and what we have not yet been able to confirm:
+fr: En attendant, lisez ce que le sanctuaire de Lourdes indique et ce que nous n’avons pas encore pu confirmer :
+it: Nel frattempo, leggi ciò che riferisce il santuario di Lourdes e ciò che non siamo ancora riusciti a confermare:
+de: Lesen Sie in der Zwischenzeit, was das Heiligtum von Lourdes mitteilt und was wir noch nicht bestätigen konnten:
+ja: それまでの間、ルルドの聖地が伝えていること、そしてまだ確認できていないことをお読みください。
+zh: 在此期间，请阅读露德圣地所公布的内容，以及我们尚未能证实的部分：
+#183
+es: Elija un país en el mapa (o en la lista de países) para ver las apariciones relatadas, los títulos y los santuarios ya investigados allí. La misma María, madre de Jesús, es honrada en culturas y lenguas muy diferentes.
+en: Choose a country on the map (or in the list of countries) to see the reported apparitions, titles and shrines already researched there. The same Mary, mother of Jesus, is honored in very different cultures and languages.
+fr: Choisissez un pays sur la carte (ou dans la liste des pays) pour voir les apparitions rapportées, les titres et les sanctuaires déjà étudiés. La même Marie, mère de Jésus, est honorée dans des cultures et des langues très différentes.
+it: Scegli un paese sulla mappa (o nell’elenco dei paesi) per vedere le apparizioni riferite, i titoli e i santuari già studiati lì. La stessa Maria, madre di Gesù, è onorata in culture e lingue molto diverse.
+de: Wählen Sie auf der Karte (oder in der Länderliste) ein Land, um die dort bereits erforschten berichteten Erscheinungen, Titel und Heiligtümer zu sehen. Dieselbe Maria, die Mutter Jesu, wird in sehr verschiedenen Kulturen und Sprachen verehrt.
+ja: 地図（または国のリスト）で国を選ぶと、その国で調べた出現の報告、称号、聖地が表示されます。イエスの母である同じマリアが、まったく異なる文化と言語の中で敬われています。
+zh: 在地图上（或国家列表中）选择一个国家，即可查看那里已研究的显现报告、称号和圣地。同一位耶稣的母亲玛利亚，在迥然不同的文化和语言中受到尊崇。
+#184
+es: Escritura
+en: Scripture
+fr: Écriture
+it: Scrittura
+de: Schrift
+ja: 聖書
+zh: 圣经
+#185
+es: Escritura: {refs}
+en: Scripture: {refs}
+fr: Écriture : {refs}
+it: Scrittura: {refs}
+de: Schrift: {refs}
+ja: 聖書：{refs}
+zh: 圣经：{refs}
+#186
+es: Esta es una muestra documentada, no un catálogo completo: hay miles de títulos e invocaciones en el mundo. Lo que aún no se ha investigado figura en <a href="{sobre}">Acerca de y pendientes</a>. Vea también el <a href="{atlas}">atlas María en el mundo</a>.
+en: This is a documented sample, not a complete catalog: there are thousands of titles and invocations in the world. What has not yet been researched is listed in <a href="{sobre}">About and open items</a>. See also the <a href="{atlas}">Mary around the world atlas</a>.
+fr: Il s’agit d’un échantillon documenté, non d’un catalogue complet : il existe des milliers de titres et d’invocations dans le monde. Ce qui n’a pas encore été étudié figure dans <a href="{sobre}">À propos et points en suspens</a>. Voir aussi l’<a href="{atlas}">atlas Marie à travers le monde</a>.
+it: Questo è un campione documentato, non un catalogo completo: nel mondo ci sono migliaia di titoli e invocazioni. Ciò che non è ancora stato studiato è indicato in <a href="{sobre}">Informazioni e questioni aperte</a>. Vedi anche l’<a href="{atlas}">atlante Maria nel mondo</a>.
+de: Dies ist eine dokumentierte Auswahl, kein vollständiger Katalog: Es gibt weltweit Tausende von Titeln und Anrufungen. Was noch nicht erforscht wurde, steht unter <a href="{sobre}">Über das Projekt und offene Punkte</a>. Siehe auch den <a href="{atlas}">Atlas „Maria in der Welt“</a>.
+ja: これは資料に基づく一部の例であり、完全なカタログではありません。世界には何千もの称号や呼び名があります。まだ調べていない事項は<a href="{sobre}">このプロジェクトについてと未完の課題</a>に載せています。<a href="{atlas}">アトラス「世界のマリア」</a>もご覧ください。
+zh: 这是有据可查的选样，并非完整目录：世界上的称号和祈求名号数以千计。尚未研究的内容见<a href="{sobre}">关于本站与待办事项</a>。另请参阅<a href="{atlas}">“世界各地的玛利亚”地图集</a>。
+#187
+es: Este título se refiere a la misma María, madre de Jesús, honrada en todos los demás títulos.
+en: This title refers to the same Mary, mother of Jesus, honored in all the other titles.
+fr: Ce titre désigne la même Marie, mère de Jésus, honorée sous tous les autres titres.
+it: Questo titolo si riferisce alla stessa Maria, madre di Gesù, onorata in tutti gli altri titoli.
+de: Dieser Titel bezieht sich auf dieselbe Maria, die Mutter Jesu, die in allen anderen Titeln verehrt wird.
+ja: この称号は、ほかのすべての称号で敬われているのと同じ、イエスの母マリアを指しています。
+zh: 这一称号所指的，就是在所有其他称号中受到尊崇的同一位耶稣的母亲玛利亚。
+#188
+es: Estudios, enciclopedias, museos y archivos
+en: Studies, encyclopedias, museums and collections
+fr: Études, encyclopédies, musées et collections
+it: Studi, enciclopedie, musei e collezioni
+de: Studien, Enzyklopädien, Museen und Sammlungen
+ja: 研究書、事典、美術館・博物館、コレクション
+zh: 研究著作、百科全书、博物馆与藏品
+#189
+es: Europa
+en: Europe
+fr: Europe
+it: Europa
+de: Europa
+ja: ヨーロッパ
+zh: 欧洲
+#190
+es: Cerrar
+en: Close
+fr: Fermer
+it: Chiudi
+de: Schließen
+ja: 閉じる
+zh: 关闭
+#191
+es: Fiesta
+en: Feast
+fr: Fête
+it: Festa
+de: Fest
+ja: 祝日
+zh: 庆日
+#192
+es: Fiestas y memorias de María, con grado, ámbito y fuente de cada fecha.
+en: Feasts and memorials of Mary, with the rank, scope and source of each date.
+fr: Fêtes et mémoires de Marie, avec le degré, la portée et la source de chaque date.
+it: Feste e memorie di Maria, con grado, ambito e fonte di ogni data.
+de: Feste und Gedenktage Marias, mit Rang, Geltungsbereich und Quelle jedes Datums.
+ja: マリアの祝日と記念日。各日付の格式、適用範囲、出典を載せています。
+zh: 玛利亚的庆日与纪念日，附有各日期的等级、适用范围和来源。
+#193
+es: Fiestas y memorias de María. Cada entrada indica el grado (solemnidad, fiesta, memoria), el ámbito (universal, nacional o local) y la fuente.
+en: Feasts and memorials of Mary. Each entry gives the rank (solemnity, feast, memorial), the scope (universal, national or local) and the source.
+fr: Fêtes et mémoires de Marie. Chaque entrée indique le degré (solennité, fête, mémoire), la portée (universelle, nationale ou locale) et la source.
+it: Feste e memorie di Maria. Ogni voce indica il grado (solennità, festa, memoria), l’ambito (universale, nazionale o locale) e la fonte.
+de: Feste und Gedenktage Marias. Jeder Eintrag nennt den Rang (Hochfest, Fest, Gedenktag), den Geltungsbereich (weltkirchlich, national oder lokal) und die Quelle.
+ja: マリアの祝日と記念日。各項目に、格式（祭日・祝日・記念日）、適用範囲（普遍・国・地域）、出典を記しています。
+zh: 玛利亚的庆日与纪念日。每一条都注明等级（节日、庆日、纪念日）、适用范围（普世、全国或地方）和来源。
+#194
+es: Ficha del registro
+en: Record details
+fr: Fiche de la notice
+it: Scheda del record
+de: Steckbrief des Eintrags
+ja: 項目の概要
+zh: 条目概要
+#195
+es: Ficha del santuario
+en: Shrine details
+fr: Fiche du sanctuaire
+it: Scheda del santuario
+de: Steckbrief des Heiligtums
+ja: 聖地の概要
+zh: 圣地概要
+#196
+es: Ficha del título
+en: Title details
+fr: Fiche du titre
+it: Scheda del titolo
+de: Steckbrief des Titels
+ja: 称号の概要
+zh: 称号概要
+#197
+es: Filtrar apariciones
+en: Filter apparitions
+fr: Filtrer les apparitions
+it: Filtra le apparizioni
+de: Erscheinungen filtern
+ja: 出現を絞り込む
+zh: 筛选显现
+#198
+es: Filtrar curaciones
+en: Filter healings
+fr: Filtrer les guérisons
+it: Filtra le guarigioni
+de: Heilungen filtern
+ja: 治癒を絞り込む
+zh: 筛选治愈
+#199
+es: Filtrar el atlas
+en: Filter the atlas
+fr: Filtrer l’atlas
+it: Filtra l’atlante
+de: Atlas filtern
+ja: アトラスを絞り込む
+zh: 筛选地图集

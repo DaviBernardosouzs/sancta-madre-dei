@@ -1,0 +1,528 @@
+#200
+es: Filtrar oraciones
+en: Filter prayers
+fr: Filtrer les prières
+it: Filtra le preghiere
+de: Gebete filtern
+ja: 祈りを絞り込む
+zh: 筛选祷文
+#201
+es: Filtrar santuarios
+en: Filter shrines
+fr: Filtrer les sanctuaires
+it: Filtra i santuari
+de: Heiligtümer filtern
+ja: 聖地を絞り込む
+zh: 筛选圣地
+#202
+es: Filtrar títulos
+en: Filter titles
+fr: Filtrer les titres
+it: Filtra i titoli
+de: Titel filtern
+ja: 称号を絞り込む
+zh: 筛选称号
+#203
+es: Fin de la presentación
+en: End of the presentation
+fr: Fin de la présentation
+it: Fine della presentazione
+de: Ende der Präsentation
+ja: 紹介はここまで
+zh: 演示结束
+#204
+es: Se realizó una investigación documental en fuentes oficiales; <strong>no hubo revisión teológica, canónica ni médica por parte de especialistas</strong>.
+en: Documentary research was carried out in official sources; <strong>there was no theological, canonical or medical review by specialists</strong>.
+fr: Une recherche documentaire a été menée dans des sources officielles ; <strong>il n’y a eu ni relecture théologique, ni canonique, ni médicale par des spécialistes</strong>.
+it: È stata condotta una ricerca documentale su fonti ufficiali; <strong>non c’è stata una revisione teologica, canonica o medica da parte di specialisti</strong>.
+de: Es wurde eine Dokumentenrecherche in offiziellen Quellen durchgeführt; <strong>eine theologische, kirchenrechtliche oder medizinische Prüfung durch Fachleute hat nicht stattgefunden</strong>.
+ja: 公式の資料に基づく文献調査を行いました。<strong>専門家による神学的・教会法的・医学的な確認は行っていません</strong>。
+zh: 本站依据官方资料做了文献研究；<strong>没有经过专家的神学、教会法或医学审阅</strong>。
+#205
+es: Fuente consultada
+en: Source consulted
+fr: Source consultée
+it: Fonte consultata
+de: Eingesehene Quelle
+ja: 参照した出典
+zh: 所查阅的来源
+#206
+es: Fuente: {fonte}.
+en: Source: {fonte}.
+fr: Source : {fonte}.
+it: Fonte: {fonte}.
+de: Quelle: {fonte}.
+ja: 出典：{fonte}。
+zh: 来源：{fonte}。
+#207
+es: Fuentes usadas por Sancta Mater Dei, organizadas por tipo, con criterios editoriales y explicación de los términos eclesiales.
+en: Sources used by Sancta Mater Dei, organized by type, with editorial criteria and an explanation of church terms.
+fr: Sources utilisées par Sancta Mater Dei, classées par type, avec les critères éditoriaux et l’explication des termes ecclésiaux.
+it: Fonti usate da Sancta Mater Dei, organizzate per tipo, con criteri editoriali e spiegazione dei termini ecclesiali.
+de: Quellen, die Sancta Mater Dei verwendet, nach Art geordnet, mit redaktionellen Kriterien und Erläuterung kirchlicher Begriffe.
+ja: Sancta Mater Deiが使った出典を種類別に整理し、編集方針と教会用語の説明を付けています。
+zh: Sancta Mater Dei 所用的资料来源，按类型整理，并附编辑准则和教会术语的说明。
+#208
+es: Fuentes, documentos y licencias completos en la <a href="{link}">Biblioteca</a>.
+en: Full sources, documents and licenses in the <a href="{link}">Library</a>.
+fr: Sources, documents et licences complets dans la <a href="{link}">Bibliothèque</a>.
+it: Fonti, documenti e licenze complete nella <a href="{link}">Biblioteca</a>.
+de: Vollständige Quellen, Dokumente und Lizenzen in der <a href="{link}">Bibliothek</a>.
+ja: 出典・文書・ライセンスの詳細は<a href="{link}">資料室</a>にあります。
+zh: 完整的来源、文件和许可见<a href="{link}">资料库</a>。
+#209
+es: Fuentes: {lista}
+en: Sources: {lista}
+fr: Sources : {lista}
+it: Fonti: {lista}
+de: Quellen: {lista}
+ja: 出典：{lista}
+zh: 来源：{lista}
+#210
+es: Foto: {autor} · {licenca}
+en: Photo: {autor} · {licenca}
+fr: Photo : {autor} · {licenca}
+it: Foto: {autor} · {licenca}
+de: Foto: {autor} · {licenca}
+ja: 写真：{autor} · {licenca}
+zh: 照片：{autor} · {licenca}
+#211
+es: Francia
+en: France
+fr: France
+it: Francia
+de: Frankreich
+ja: フランス
+zh: 法国
+#212
+es: Fondo: detalle de {autor}, {titulo}, {data}. {acervo}. {licenca}. <a href="{link}">Ver la obra completa</a>
+en: Background: detail of {autor}, {titulo}, {data}. {acervo}. {licenca}. <a href="{link}">See the whole work</a>
+fr: Arrière-plan : détail de {autor}, {titulo}, {data}. {acervo}. {licenca}. <a href="{link}">Voir l’œuvre entière</a>
+it: Sfondo: dettaglio di {autor}, {titulo}, {data}. {acervo}. {licenca}. <a href="{link}">Vedi l’opera intera</a>
+de: Hintergrund: Ausschnitt aus {autor}, {titulo}, {data}. {acervo}. {licenca}. <a href="{link}">Das ganze Werk ansehen</a>
+ja: 背景：{autor}「{titulo}」（{data}）の部分。{acervo}。{licenca}。<a href="{link}">作品全体を見る</a>
+zh: 背景：{autor}《{titulo}》（{data}）局部。{acervo}。{licenca}。<a href="{link}">查看整幅作品</a>
+#213
+es: Fe católica
+en: Catholic faith
+fr: Foi catholique
+it: Fede cattolica
+de: Katholischer Glaube
+ja: カトリックの信仰
+zh: 天主教信仰
+#214
+es: Fórmula usada en decisiones más antiguas (como la de Fátima, 1930). Es un juicio del obispo sobre la credibilidad, conservado aquí tal como fue escrito, sin traducirlo a la terminología de 2024.
+en: A formula used in older decisions (such as that of Fátima, 1930). It is the bishop’s judgment on credibility, preserved here as it was written, without translating it into the terminology of 2024.
+fr: Formule employée dans des décisions plus anciennes (comme celle de Fátima, 1930). C’est un jugement de l’évêque sur la crédibilité, conservé ici tel qu’il a été écrit, sans le traduire dans la terminologie de 2024.
+it: Formula usata in decisioni più antiche (come quella di Fátima, 1930). È un giudizio del vescovo sulla credibilità, conservato qui com’è stato scritto, senza tradurlo nella terminologia del 2024.
+de: Formel aus älteren Entscheidungen (wie der von Fátima, 1930). Es ist ein Urteil des Bischofs über die Glaubwürdigkeit, hier so bewahrt, wie es geschrieben wurde, ohne Übertragung in die Terminologie von 2024.
+ja: 古い決定で使われた表現です（1930年のファティマの決定など）。信憑性についての司教の判断で、2024年の用語に置き換えず、書かれたとおりに残しています。
+zh: 较早的裁定中使用的措辞（如1930年法蒂玛的裁定）。这是主教对可信性所作的判断，此处照原文保留，没有改写成2024年的术语。
+#215
+es: Galería
+en: Gallery
+fr: Galerie
+it: Galleria
+de: Galerie
+ja: ギャラリー
+zh: 画廊
+#216
+es: Galería de obras
+en: Gallery of artworks
+fr: Galerie d’œuvres
+it: Galleria delle opere
+de: Galerie der Werke
+ja: 作品ギャラリー
+zh: 作品画廊
+#217
+es: Galería de pinturas marianas de los siglos XV a XVII, de colecciones de museos con licencia abierta, con autoría, institución y crédito de cada obra.
+en: Gallery of Marian paintings from the 15th to the 17th century, from museum collections with open licenses, with the artist, institution and credit of each work.
+fr: Galerie de peintures mariales des XVe au XVIIe siècles, issues de collections de musées sous licence ouverte, avec l’auteur, l’institution et le crédit de chaque œuvre.
+it: Galleria di dipinti mariani dei secoli XV–XVII, da collezioni di musei con licenza aperta, con autore, istituzione e credito di ogni opera.
+de: Galerie marianischer Gemälde des 15. bis 17. Jahrhunderts aus Museumssammlungen mit offener Lizenz, mit Urheber, Institution und Nachweis jedes Werks.
+ja: 15〜17世紀の聖母画のギャラリー。オープンライセンスの美術館コレクションから、作者・所蔵機関・クレジットを添えて紹介します。
+zh: 15至17世纪圣母绘画画廊，作品取自采用开放许可的博物馆藏品，并注明每件作品的作者、收藏机构和署名。
+#218
+es: Generales
+en: General
+fr: Générales
+it: Generali
+de: Allgemeine
+ja: 一般
+zh: 通用
+#219
+es: Guía del Rosario
+en: Rosary guide
+fr: Guide du Rosaire
+it: Guida al Rosario
+de: Rosenkranz-Anleitung
+ja: ロザリオの手引き
+zh: 玫瑰经指南
+#220
+es: Guía paso a paso del Santo Rosario con los veinte misterios y los pasajes bíblicos indicados por el Vaticano.
+en: Step-by-step guide to the Holy Rosary with the twenty mysteries and the Bible passages indicated by the Vatican.
+fr: Guide pas à pas du saint Rosaire avec les vingt mystères et les passages bibliques indiqués par le Vatican.
+it: Guida passo passo al Santo Rosario con i venti misteri e i passi biblici indicati dal Vaticano.
+de: Schritt-für-Schritt-Anleitung zum heiligen Rosenkranz mit den zwanzig Geheimnissen und den vom Vatikan angegebenen Bibelstellen.
+ja: 聖なるロザリオを順を追って案内します。20の神秘と、バチカンが示す聖書の箇所を載せています。
+zh: 圣玫瑰经分步指南，含二十端奥迹和梵蒂冈所标明的圣经经文。
+#221
+es: Historial de decisiones eclesiales
+en: History of ecclesial decisions
+fr: Historique des décisions ecclésiales
+it: Storia delle decisioni ecclesiali
+de: Verlauf der kirchlichen Entscheidungen
+ja: 教会の決定の経過
+zh: 教会裁定的历程
+#222
+es: Idioma
+en: Language
+fr: Langue
+it: Lingua
+de: Sprache
+ja: 言語
+zh: 语言
+#223
+es: Idioma: {idioma}
+en: Language: {idioma}
+fr: Langue : {idioma}
+it: Lingua: {idioma}
+de: Sprache: {idioma}
+ja: 言語：{idioma}
+zh: 语言：{idioma}
+#224
+es: Iglesia universal
+en: Universal Church
+fr: Église universelle
+it: Chiesa universale
+de: Weltkirche
+ja: 普遍教会
+zh: 普世教会
+#225
+es: Imagen encontrada
+en: Image found
+fr: Image retrouvée
+it: Immagine ritrovata
+de: Aufgefundenes Bild
+ja: 発見された聖像
+zh: 被发现的圣像
+#226
+es: Imagen o icono venerado
+en: Venerated image or icon
+fr: Image ou icône vénérée
+it: Immagine o icona venerata
+de: Verehrtes Bild oder Ikone
+ja: 崇敬される聖像・イコン
+zh: 受敬礼的圣像或圣像画
+#227
+es: Imágenes y créditos
+en: Images and credits
+fr: Images et crédits
+it: Immagini e crediti
+de: Bilder und Nachweise
+ja: 画像とクレジット
+zh: 图像与署名
+#228
+es: Indian Christian Heritage (sitio de divulgación histórica)
+en: Indian Christian Heritage (history outreach website)
+fr: Indian Christian Heritage (site de vulgarisation historique)
+it: Indian Christian Heritage (sito di divulgazione storica)
+de: Indian Christian Heritage (Website zur Geschichtsvermittlung)
+ja: Indian Christian Heritage（歴史啓発サイト）
+zh: Indian Christian Heritage（历史普及网站）
+#229
+es: Información histórica documentada
+en: Documented historical information
+fr: Information historique documentée
+it: Informazione storica documentata
+de: Dokumentierte historische Information
+ja: 資料で確認できる歴史情報
+zh: 有文献可查的历史信息
+#230
+es: Institución
+en: Institution
+fr: Institution
+it: Istituzione
+de: Institution
+ja: 機関
+zh: 机构
+#231
+es: Invocación devocional
+en: Devotional invocation
+fr: Invocation dévotionnelle
+it: Invocazione devozionale
+de: Andachtsanrufung
+ja: 信心上の呼び名
+zh: 敬礼性的祈求名号
+#232
+es: Inicio
+en: Home
+fr: Accueil
+it: Home
+de: Startseite
+ja: ホーム
+zh: 首页
+#233
+es: Inicio del periodo de las apariciones: {titulo}
+en: Start of the apparition period: {titulo}
+fr: Début de la période des apparitions : {titulo}
+it: Inizio del periodo delle apparizioni: {titulo}
+de: Beginn der Erscheinungszeit: {titulo}
+ja: 出現の始まり：{titulo}
+zh: 显现时期开始：{titulo}
+#234
+es: Ir al contenido
+en: Skip to content
+fr: Aller au contenu
+it: Vai al contenuto
+de: Zum Inhalt springen
+ja: 本文へ移動
+zh: 跳到正文
+#235
+es: Esto lo describe la Iglesia en Francia. En esta edición <strong>no se han leído los decretos individuales</strong>: por eso la lista no da, caso por caso, el nombre del obispo, el documento, la enfermedad ni la fecha de la curación. Las fechas de reconocimiento son las de la lista del santuario.
+en: This is described by the Church in France. In this edition <strong>the individual decrees were not read</strong>: that is why the list does not give, case by case, the bishop’s name, the document, the illness or the date of the healing. The recognition dates are those of the shrine’s list.
+fr: Cela est décrit par l’Église en France. Dans cette édition, <strong>les décrets individuels n’ont pas été lus</strong> : c’est pourquoi la liste ne donne pas, cas par cas, le nom de l’évêque, le document, la maladie ni la date de la guérison. Les dates de reconnaissance sont celles de la liste du sanctuaire.
+it: Questo è descritto dalla Chiesa in Francia. In questa edizione <strong>i decreti individuali non sono stati letti</strong>: per questo l’elenco non indica, caso per caso, il nome del vescovo, il documento, la malattia né la data della guarigione. Le date di riconoscimento sono quelle dell’elenco del santuario.
+de: Dies beschreibt die Kirche in Frankreich. In dieser Ausgabe <strong>wurden die einzelnen Dekrete nicht gelesen</strong>: Deshalb nennt die Liste nicht von Fall zu Fall den Namen des Bischofs, das Dokument, die Krankheit oder das Datum der Heilung. Die Anerkennungsdaten stammen aus der Liste des Heiligtums.
+ja: これはフランスの教会による説明です。この版では<strong>個々の教令は読んでいません</strong>。そのため、リストには症例ごとの司教名、文書、病名、治癒の日付は載せていません。認定の日付は聖地のリストのものです。
+zh: 这是法国教会的说明。本版<strong>没有查阅各个案例的法令</strong>，因此名单中没有逐例列出主教姓名、文件、病情和治愈日期。承认日期取自圣地的名单。
+#236
+es: Italia
+en: Italy
+fr: Italie
+it: Italia
+de: Italien
+ja: イタリア
+zh: 意大利
+#237
+es: Santuario de Knock (archidiócesis de Tuam, Irlanda)
+en: Knock Shrine (Archdiocese of Tuam, Ireland)
+fr: Sanctuaire de Knock (archidiocèse de Tuam, Irlande)
+it: Santuario di Knock (arcidiocesi di Tuam, Irlanda)
+de: Heiligtum Knock (Erzdiözese Tuam, Irland)
+ja: ノック聖地（アイルランド・テューアム大司教区）
+zh: 诺克圣地（爱尔兰图阿姆总教区）
+#238
+es: Legislación civil (no eclesial)
+en: Civil legislation (not ecclesial)
+fr: Législation civile (non ecclésiale)
+it: Legislazione civile (non ecclesiale)
+de: Zivilrechtliche Gesetzgebung (nicht kirchlich)
+ja: 世俗の法令（教会のものではない）
+zh: 世俗法律（非教会法）
+#239
+es: Leer este capítulo
+en: Read this chapter
+fr: Lire ce chapitre
+it: Leggi questo capitolo
+de: Dieses Kapitel lesen
+ja: この章を読む
+zh: 阅读本章
+#240
+es: Leer sin animaciones
+en: Read without animations
+fr: Lire sans animations
+it: Leggi senza animazioni
+de: Ohne Animationen lesen
+ja: アニメーションなしで読む
+zh: 关闭动画阅读
+#241
+es: Licencia
+en: License
+fr: Licence
+it: Licenza
+de: Lizenz
+ja: ライセンス
+zh: 许可
+#242
+es: Licencia leída en la página del archivo en Commons el 2026-10-06; sin auditoría jurídica independiente. La imagen se redimensionó y se convirtió a WebP.
+en: License read on the file page at Commons on 2026-10-06; no independent legal audit. The image was resized and converted to WebP.
+fr: Licence lue sur la page du fichier sur Commons le 2026-10-06 ; sans audit juridique indépendant. L’image a été redimensionnée et convertie en WebP.
+it: Licenza letta nella pagina del file su Commons il 2026-10-06; senza verifica legale indipendente. L’immagine è stata ridimensionata e convertita in WebP.
+de: Lizenz am 2026-10-06 auf der Dateiseite bei Commons gelesen; keine unabhängige rechtliche Prüfung. Das Bild wurde in der Größe verändert und in WebP umgewandelt.
+ja: ライセンスは2026-10-06にコモンズのファイルページで確認しました。独立した法的監査は行っていません。画像はリサイズし、WebPに変換しています。
+zh: 许可协议于2026-10-06在共享资源（Commons）的文件页面读取；未经独立的法律审核。图像已缩放并转换为 WebP 格式。
+#243
+es: Licencia leída en la página del archivo en Commons el 2026-10-06; sin auditoría jurídica independiente. La imagen se redimensionó y se convirtió a WebP. Licencia CC BY-SA: la reproducción mantiene la misma licencia.
+en: License read on the file page at Commons on 2026-10-06; no independent legal audit. The image was resized and converted to WebP. CC BY-SA license: reproductions keep the same license.
+fr: Licence lue sur la page du fichier sur Commons le 2026-10-06 ; sans audit juridique indépendant. L’image a été redimensionnée et convertie en WebP. Licence CC BY-SA : la reproduction conserve la même licence.
+it: Licenza letta nella pagina del file su Commons il 2026-10-06; senza verifica legale indipendente. L’immagine è stata ridimensionata e convertita in WebP. Licenza CC BY-SA: la riproduzione mantiene la stessa licenza.
+de: Lizenz am 2026-10-06 auf der Dateiseite bei Commons gelesen; keine unabhängige rechtliche Prüfung. Das Bild wurde in der Größe verändert und in WebP umgewandelt. Lizenz CC BY-SA: Die Weitergabe behält dieselbe Lizenz bei.
+ja: ライセンスは2026-10-06にコモンズのファイルページで確認しました。独立した法的監査は行っていません。画像はリサイズし、WebPに変換しています。CC BY-SAライセンス：複製にも同じライセンスが適用されます。
+zh: 许可协议于2026-10-06在共享资源（Commons）的文件页面读取；未经独立的法律审核。图像已缩放并转换为 WebP 格式。CC BY-SA 许可：复制品须沿用相同的许可。
+#244
+es: Licencia:
+en: License:
+fr: Licence :
+it: Licenza:
+de: Lizenz:
+ja: ライセンス：
+zh: 许可：
+#245
+es: Licencia: {licenca}
+en: License: {licenca}
+fr: Licence : {licenca}
+it: Licenza: {licenca}
+de: Lizenz: {licenca}
+ja: ライセンス：{licenca}
+zh: 许可：{licenca}
+#246
+es: Liebieghaus Skulpturensammlung, Fráncfort
+en: Liebieghaus Skulpturensammlung, Frankfurt
+fr: Liebieghaus Skulpturensammlung, Francfort
+it: Liebieghaus Skulpturensammlung, Francoforte
+de: Liebieghaus Skulpturensammlung, Frankfurt
+ja: リービークハウス彫刻コレクション（フランクフルト）
+zh: 利比赫宫雕塑馆（法兰克福）
+#247
+es: Relacionada con:
+en: Linked to:
+fr: Liée à :
+it: Collegata a:
+de: Verknüpft mit:
+ja: 関連項目：
+zh: 相关条目：
+#248
+es: Límites de esta edición
+en: Limits of this edition
+fr: Limites de cette édition
+it: Limiti di questa edizione
+de: Grenzen dieser Ausgabe
+ja: この版の限界
+zh: 本版的局限
+#249
+es: Límites documentales
+en: Documentary limits
+fr: Limites documentaires
+it: Limiti documentali
+de: Dokumentarische Grenzen
+ja: 資料上の限界
+zh: 文献上的限度
+#250
+es: Límites: {limites}
+en: Limits: {limites}
+fr: Limites : {limites}
+it: Limiti: {limites}
+de: Grenzen: {limites}
+ja: 限界：{limites}
+zh: 限度：{limites}
+#251
+es: Limpiar
+en: Clear
+fr: Effacer
+it: Azzera
+de: Zurücksetzen
+ja: クリア
+zh: 清除
+#252
+es: Limpiar filtros
+en: Clear filters
+fr: Effacer les filtres
+it: Azzera i filtri
+de: Filter zurücksetzen
+ja: 絞り込みを解除
+zh: 清除筛选
+#253
+es: Línea de tiempo de dogmas, apariciones y decisiones eclesiales del archivo, con la precisión de las fechas preservada.
+en: Timeline of dogmas, apparitions and ecclesial decisions in the collection, with the precision of the dates preserved.
+fr: Frise chronologique des dogmes, apparitions et décisions ecclésiales du fonds, avec la précision des dates préservée.
+it: Linea del tempo di dogmi, apparizioni e decisioni ecclesiali dell’archivio, con la precisione delle date preservata.
+de: Zeitleiste der Dogmen, Erscheinungen und kirchlichen Entscheidungen des Bestands, mit unverändert gewahrter Genauigkeit der Daten.
+ja: 収録した教義、出現、教会の決定の年表。日付の精度は出典のままです。
+zh: 本资料库中信理、显现和教会裁定的年表，保留各日期的原有精度。
+#254
+es: Lista de las curaciones reconocidas por la Iglesia en Lourdes, con la fecha de reconocimiento y la explicación de quién decide cada caso.
+en: List of the healings recognized by the Church at Lourdes, with the date of recognition and an explanation of who decides each case.
+fr: Liste des guérisons reconnues par l’Église à Lourdes, avec la date de reconnaissance et l’explication de qui décide chaque cas.
+it: Elenco delle guarigioni riconosciute dalla Chiesa a Lourdes, con la data di riconoscimento e la spiegazione di chi decide ogni caso.
+de: Liste der von der Kirche in Lourdes anerkannten Heilungen, mit dem Datum der Anerkennung und der Erklärung, wer jeden Fall entscheidet.
+ja: ルルドで教会が認定した治癒の一覧。認定の日付と、各症例を誰が決めるのかの説明つきです。
+zh: 教会在露德承认的治愈名单，附承认日期，并说明每个案例由谁裁定。
+#255
+es: Lista de créditos de las obras
+en: List of artwork credits
+fr: Liste des crédits des œuvres
+it: Elenco dei crediti delle opere
+de: Liste der Werknachweise
+ja: 作品クレジット一覧
+zh: 作品署名列表
+#256
+es: Lista de curaciones que la Iglesia reconoció como milagrosas tras el examen del Santuario de Lourdes. Cada línea trae el nombre, la procedencia y la fecha del reconocimiento, tal como en la lista oficial.
+en: List of healings that the Church recognized as miraculous after examination by the Lourdes Sanctuary. Each line gives the name, the place of origin and the date of recognition, as in the official list.
+fr: Liste des guérisons que l’Église a reconnues comme miraculeuses après l’examen du Sanctuaire de Lourdes. Chaque ligne indique le nom, la provenance et la date de reconnaissance, comme dans la liste officielle.
+it: Elenco delle guarigioni che la Chiesa ha riconosciuto come miracolose dopo l’esame del Santuario di Lourdes. Ogni riga riporta il nome, la provenienza e la data del riconoscimento, come nell’elenco ufficiale.
+de: Liste der Heilungen, die die Kirche nach der Prüfung durch das Heiligtum von Lourdes als wunderbar anerkannt hat. Jede Zeile nennt den Namen, die Herkunft und das Datum der Anerkennung, wie in der offiziellen Liste.
+ja: ルルドの聖地の審査を経て、教会が奇跡的と認めた治癒の一覧です。各行には、公式リストと同じく、名前・出身地・認定の日付を載せています。
+zh: 经露德圣地审查后，教会承认为奇迹的治愈名单。每一行都与官方名单一致，列出姓名、籍贯和承认日期。
+#257
+es: Liturgia y calendario
+en: Liturgy and calendar
+fr: Liturgie et calendrier
+it: Liturgia e calendario
+de: Liturgie und Kalender
+ja: 典礼と暦
+zh: 礼仪与日历
+#258
+es: Liturgy Office de la Conferencia Episcopal de Inglaterra y Gales (reproducción del Calendario Romano General)
+en: Liturgy Office of the Bishops' Conference of England and Wales (reproduction of the General Roman Calendar)
+fr: Liturgy Office de la Conférence des évêques d’Angleterre et du pays de Galles (reproduction du Calendrier romain général)
+it: Liturgy Office della Conferenza Episcopale di Inghilterra e Galles (riproduzione del Calendario Romano Generale)
+de: Liturgy Office der Bischofskonferenz von England und Wales (Wiedergabe des Allgemeinen Römischen Kalenders)
+ja: イングランド・ウェールズ司教協議会典礼事務局（ローマ典礼暦の転載）
+zh: 英格兰与威尔士主教团礼仪办公室（转载《罗马通用历》）
+#259
+es: Libro digital independiente sobre María: su vida según la Escritura, la fe católica, las apariciones, los santuarios, las devociones y las oraciones, con las fuentes y la autoridad de cada decisión.
+en: An independent digital book about Mary: her life according to Scripture, the Catholic faith, apparitions, shrines, devotions and prayers, with the sources and the authority behind each decision.
+fr: Livre numérique indépendant sur Marie : sa vie selon l’Écriture, la foi catholique, les apparitions, les sanctuaires, les dévotions et les prières, avec les sources et l’autorité de chaque décision.
+it: Libro digitale indipendente su Maria: la sua vita secondo la Scrittura, la fede cattolica, le apparizioni, i santuari, le devozioni e le preghiere, con le fonti e l’autorità di ogni decisione.
+de: Ein unabhängiges digitales Buch über Maria: ihr Leben nach der Schrift, der katholische Glaube, Erscheinungen, Heiligtümer, Andachten und Gebete, mit den Quellen und der Autorität hinter jeder Entscheidung.
+ja: マリアについての独立したデジタルブック。聖書に基づく生涯、カトリックの信仰、出現、聖地、信心、祈りを、出典と各決定の権限者とともに紹介します。
+zh: 一部关于玛利亚的独立数字图书：依据圣经叙述的生平、天主教信仰、显现、圣地、敬礼与祷文，并附有来源及每项裁定的裁定机构。
+#260
+es: Lugares
+en: Places
+fr: Lieux
+it: Luoghi
+de: Orte
+ja: 場所
+zh: 地点
+#261
+es: Lugar
+en: Place
+fr: Lieu
+it: Luogo
+de: Ort
+ja: 場所
+zh: 地点
+#262
+es: Lugar
+en: Place
+fr: Lieu
+it: Luogo
+de: Ort
+ja: 場所
+zh: 地点
+#263
+es: Lugares de peregrinación y oración. Cada página distingue el lugar, la imagen y el título, y registra lo que la Iglesia decidió sobre el santuario.
+en: Places of pilgrimage and prayer. Each page distinguishes the place, the image and the title, and records what the Church decided about the shrine.
+fr: Lieux de pèlerinage et de prière. Chaque page distingue le lieu, l’image et le titre, et consigne ce que l’Église a décidé au sujet du sanctuaire.
+it: Luoghi di pellegrinaggio e di preghiera. Ogni pagina distingue il luogo, l’immagine e il titolo, e registra ciò che la Chiesa ha deciso sul santuario.
+de: Orte der Wallfahrt und des Gebets. Jede Seite unterscheidet zwischen Ort, Bild und Titel und verzeichnet, was die Kirche über das Heiligtum entschieden hat.
+ja: 巡礼と祈りの場所です。各ページでは、場所・聖像・称号を区別し、その聖地について教会が決めたことを記録しています。
+zh: 朝圣与祈祷的地方。每一页都区分地点、圣像和称号，并记录教会对该圣地所作的裁定。
+#264
+es: Mapamundi con {n} lugares marianos investigados
+en: World map with {n} researched Marian places
+fr: Planisphère avec {n} lieux mariaux étudiés
+it: Mappamondo con {n} luoghi mariani studiati
+de: Weltkarte mit {n} erforschten marianischen Orten
+ja: 調査した{n}か所の聖母ゆかりの地を示す世界地図
+zh: 标有 {n} 处已研究圣母地点的世界地图
+#265
+es: Mapamundi. Los países con registro son pulsables; el selector de país de arriba es equivalente
+en: World map. Countries with records are clickable; the country selector above is equivalent
+fr: Planisphère. Les pays avec fiche sont cliquables ; le sélecteur de pays ci-dessus est équivalent
+it: Mappamondo. I paesi con scheda sono cliccabili; il selettore di paese qui sopra è equivalente
+de: Weltkarte. Länder mit Einträgen sind anklickbar; die Länderauswahl oben ist gleichwertig
+ja: 世界地図。記録のある国はクリックできます。上の国の選択も同じ働きをします
+zh: 世界地图。有记录的国家可以点击；上方的国家选择器作用相同

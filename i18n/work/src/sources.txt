@@ -1,0 +1,835 @@
+@@ sources/ddf-normas-2024
+## title
+Normas para proceder no discernimento de presumíveis fenômenos sobrenaturais
+## note
+Aprovadas pelo Papa Francisco em 4 de maio de 2024; em vigor desde 19 de maio de 2024. Substituem as normas de 1978.
+@@ sources/ccc-pt-50-141
+## title
+Catecismo da Igreja Católica, §§ 50-141 (Revelação e Escritura)
+## note
+Versão em português no sítio do Vaticano.
+@@ sources/ccc-pt-422-682
+## title
+Catecismo da Igreja Católica, §§ 422-682 (Cristo; Maria)
+## note
+Versão em português (Portugal) no sítio do Vaticano.
+@@ sources/ccc-pt-683-1065
+## title
+Catecismo da Igreja Católica, §§ 683-1065 (Espírito Santo, Igreja; Maria)
+## note
+Versão em português (Portugal) no sítio do Vaticano.
+@@ sources/ineffabilis-deus
+## title
+Constituição Apostólica Ineffabilis Deus
+## note
+Texto consultado em italiano no sítio do Vaticano.
+@@ sources/munificentissimus-deus
+## title
+Constituição Apostólica Munificentissimus Deus
+## note
+Texto consultado em latim no sítio do Vaticano (§ 44, fórmula de definição).
+@@ sources/vaticano-misterios-rosario
+## title
+Os Mistérios do Santo Rosário (gozosos, luminosos, dolorosos e gloriosos)
+## note
+Quatro páginas, uma por ciclo: misteri_gaudiosi_po, misteri_luminosi_po, misteri_dolorosi_po, misteri_gloriosi_po. As passagens bíblicas em português citadas no site vêm dessas páginas.
+@@ sources/compendio-ccc-oracoes
+## title
+Compêndio do Catecismo da Igreja Católica - Apêndice: Orações comuns
+## note
+Versão em português (Portugal). O Apêndice traz Sinal da Cruz, Glória ao Pai, Avé Maria, Angelus, Salve Rainha, Magnificat, Sob a Tua Protecção, entre outras.
+@@ sources/fatima-carta-1930
+## title
+Carta Pastoral 'A Providência Divina' sobre o culto de Nossa Senhora de Fátima
+## note
+ATENÇÃO: tradução em inglês hospedada em site de terceiros. O original é do Santuário/Diocese de Leiria-Fátima (Voz da Fátima de 13/10/1930 e Documentação Crítica de Fátima, fatima.pt). Conferir o texto no original em português antes de qualquer citação literal.
+@@ sources/lourdes-reconhecimento
+## title
+La reconnaissance des apparitions de Lourdes
+## note
+Página do santuário oficial, em francês. Cita o mandamento do Bispo de Tarbes; o texto integral do mandamento não foi consultado nesta sessão.
+@@ sources/lourdes-aparicoes
+## title
+The apparitions in Lourdes
+## note
+Página do santuário oficial, em inglês.
+@@ sources/lourdes-mensagem
+## title
+The message of Lourdes
+## note
+Página do santuário oficial, em inglês. Palavras atribuídas à Virgem segundo o relato de Bernadette, tal como apresentadas pelo santuário.
+@@ sources/lourdes-curas
+## title
+Miraculous healings
+## note
+Página do santuário oficial. Em consultas diferentes, a síntese automática da página trouxe datas divergentes para o caso mais recente (Antonia Raco); por isso as datas de reconhecimento NÃO são afirmadas neste projeto até conferência humana da página.
+@@ sources/lourdes-milagres
+## title
+The Miracles (Lourdes)
+## note
+Página do santuário oficial. A seção sobre o procedimento completo (Comitê Médico Internacional e bispo) não pôde ser lida na consulta.
+@@ sources/biblia-passagens
+## title
+Sagrada Escritura - passagens marianas (Lc 1-2; Mt 1-2; Jo 2; Jo 19; At 1)
+## note
+Os trechos entre aspas vêm das páginas de mistérios do Rosário no Vaticano. As demais referências bíblicas são apenas indicadas por capítulo e versículo e precisam de conferência na edição adotada (ver Metodologia).
+@@ sources/nv-lucas
+## title
+Evangelho segundo Lucas (Nova Vulgata)
+## note
+Texto oficial da Nova Vulgata (latim) no sítio do Vaticano; as paráfrases em português são do projeto e as passagens citadas literalmente em português vêm das páginas do Rosário no Vaticano. Conferir na edição bíblica adotada.
+@@ sources/nv-mateus
+## title
+Evangelho segundo Mateus (Nova Vulgata)
+## note
+Texto oficial da Nova Vulgata (latim) no sítio do Vaticano; as paráfrases em português são do projeto e as passagens citadas literalmente em português vêm das páginas do Rosário no Vaticano. Conferir na edição bíblica adotada.
+@@ sources/nv-marcos
+## title
+Evangelho segundo Marcos (Nova Vulgata)
+## note
+Texto oficial da Nova Vulgata (latim) no sítio do Vaticano; as paráfrases em português são do projeto e as passagens citadas literalmente em português vêm das páginas do Rosário no Vaticano. Conferir na edição bíblica adotada.
+@@ sources/nv-joao
+## title
+Evangelho segundo João (Nova Vulgata)
+## note
+Texto oficial da Nova Vulgata (latim) no sítio do Vaticano; as paráfrases em português são do projeto e as passagens citadas literalmente em português vêm das páginas do Rosário no Vaticano. Conferir na edição bíblica adotada.
+@@ sources/nv-atos
+## title
+Atos dos Apóstolos (Nova Vulgata)
+## note
+Texto oficial da Nova Vulgata (latim) no sítio do Vaticano; as paráfrases em português são do projeto e as passagens citadas literalmente em português vêm das páginas do Rosário no Vaticano. Conferir na edição bíblica adotada.
+@@ sources/proto-tiago
+## title
+Protoevangelho de Tiago (tradução em inglês)
+## note
+Texto apócrifo, não pertence ao cânon bíblico. Segundo a Enciclopédia Católica de 1907, sua forma mais antiga remonta a cerca do ano 150. Consultado em tradução inglesa em site de terceiros; conferir com edição crítica.
+@@ sources/pseudo-mateus
+## title
+Evangelho do Pseudo-Mateus (tradução em inglês)
+## note
+Texto apócrifo latino, apresentado como escrito por Mateus e traduzido por Jerônimo, atribuição que os estudiosos não aceitam. Consultado em tradução inglesa em site de terceiros; conferir com edição crítica.
+@@ sources/ce-santa-ana
+## title
+St. Anne (Enciclopédia Católica, 1907)
+## note
+Obra de referência antiga (1907). Útil como apoio histórico; não substitui estudos acadêmicos recentes.
+@@ sources/calendario-romano-geral
+## title
+General Roman Calendar (Calendário Romano Geral)
+## note
+Reprodução do Calendário Romano Geral publicada por uma conferência episcopal; o arquivo é de 2012 e não inclui a memória de Maria, Mãe da Igreja, instituída em 2018. Conferir o calendário vigente e os calendários nacionais e diocesanos (o do Brasil, por exemplo, difere em graus).
+@@ sources/vaticannews-mae-da-igreja
+## title
+Celebração da bem-aventurada Virgem Maria, Mãe da Igreja (Vatican News)
+## note
+Notícia oficial de apoio. O texto original do decreto (Congregação para o Culto Divino, 11 de fevereiro de 2018) não foi localizado em português no sítio do Vaticano nesta consulta.
+@@ sources/vaticannews-mae-da-igreja-1964
+## title
+Maria, Mãe da Igreja (Vatican News, 2020)
+## note
+Notícia oficial de apoio. O discurso original de Paulo VI (21 de novembro de 1964) não foi localizado no sítio do Vaticano nesta consulta.
+@@ sources/lumen-gentium-pt
+## title
+Constituição dogmática Lumen Gentium, capítulo VIII (Concílio Vaticano II)
+## note
+Texto em português no sítio do Vaticano.
+@@ sources/munificentissimus-deus-pt
+## title
+Constituição Apostólica Munificentissimus Deus (texto em português)
+## note
+Texto em português no sítio do Vaticano.
+@@ sources/custodia-nazare
+## title
+Nazareth (Custódia da Terra Santa)
+## note
+Página de santuário oficial dos franciscanos, que conduziram as escavações em Nazaré.
+@@ sources/dark-nazare-2020
+## title
+The Archaeology of Nazareth in the Early First Century (Ken Dark)
+## note
+Artigo acadêmico de divulgação por especialista em arqueologia de Nazaré.
+@@ sources/custodia-belem
+## title
+Bethlehem (Custódia da Terra Santa)
+## note
+Página de santuário oficial dos franciscanos.
+@@ sources/ce-tumba-maria
+## title
+Tomb of the Blessed Virgin Mary (Enciclopédia Católica, 1912)
+## note
+Obra de referência antiga (1912). Opiniões do autor sobre Éfeso e Jerusalém refletem o debate da época.
+@@ sources/bento-xvi-efeso-2006
+## title
+Homilia de Bento XVI diante do Santuário de Meryem Ana Evi, em Éfeso (29/11/2006)
+## note
+Texto em inglês no sítio do Vaticano.
+@@ sources/liebieghaus-pieta
+## title
+Pietà (Liebieghaus Skulpturensammlung)
+## note
+Texto de museu.
+@@ sources/nv-1samuel
+## title
+Primeiro Livro de Samuel (Nova Vulgata)
+## note
+Texto oficial da Nova Vulgata (latim) no sítio do Vaticano; paráfrases em português do projeto.
+@@ sources/met-colecao-temas-marianos
+## title
+Acervo Open Access do Metropolitan Museum of Art: obras sobre a vida de Maria
+## note
+Consulta feita pela API pública do museu em 4 de outubro de 2026. Os resultados abaixo são títulos e datas dos objetos catalogados pelo museu.
+@@ sources/wikidata
+## title
+Wikidata: coordenadas geográficas de santuários e lugares
+## note
+Conjunto de dados aberto e colaborativo. Usado só para localizar santuários e lugares (propriedade P625, coordenadas). Cada coordenada registra o identificador Q do Wikidata. A precisão é a de um ponto no santuário ou povoado, não de um endereço.
+@@ sources/a12-aparecida-1717
+## title
+História de Nossa Senhora Aparecida: 1717
+## note
+Página do santuário oficial. O A12 reserva direitos autorais; este projeto resume em palavras próprias e cita a fonte, sem reproduzir o texto.
+@@ sources/a12-aparecida-1900
+## title
+História de Nossa Senhora Aparecida: 1900
+## note
+Página do santuário oficial. Direitos autorais reservados; resumo em palavras próprias.
+@@ sources/a12-aparecida-2000
+## title
+História de Nossa Senhora Aparecida: 2000
+## note
+Página do santuário oficial. Direitos autorais reservados; resumo em palavras próprias.
+@@ sources/vaticannews-aparecida-2021
+## title
+Senhora Aparecida, 90 anos de padroeira (Vatican News)
+## note
+Notícia oficial de apoio, com o testemunho do arcebispo do Rio de Janeiro. O texto original do decreto de 1930 (Acta Apostolicae Sedis) não foi localizado.
+@@ sources/vaticannews-aparecida-2025
+## title
+Nossa Senhora Aparecida: culto e devoção à imagem (Vatican News)
+## note
+Notícia oficial de apoio. Difere do santuário em alguns detalhes (data de inauguração da igreja de 1888, por exemplo).
+@@ sources/jp2-aparecida-1980
+## title
+Homilia de João Paulo II na Basílica de Aparecida (4 de julho de 1980)
+## note
+Texto em inglês no sítio do Vaticano.
+@@ sources/lei-6802-1980
+## title
+Lei nº 6.802, de 30 de junho de 1980
+## note
+Lei civil; não é ato eclesial.
+@@ sources/vaticano-juan-diego-bio
+## title
+Juan Diego Cuauhtlatoatzin: biografia (Santa Sé)
+## note
+Texto em inglês publicado em ocasião da canonização.
+@@ sources/jp2-canonizacao-juan-diego
+## title
+Homilia de João Paulo II na canonização de Juan Diego (31 de julho de 2002)
+## note
+Texto em inglês no sítio do Vaticano.
+@@ sources/ecclesia-in-america
+## title
+Exortação apostólica pós-sinodal Ecclesia in America (22 de janeiro de 1999)
+## note
+Texto em inglês no sítio do Vaticano.
+@@ sources/wiki-huei-tlamahuicoltica
+## title
+Huei tlamahuiçoltica (Wikipédia em inglês)
+## note
+Usada apenas para localizar o debate acadêmico e as obras citadas (León-Portilla, O'Gorman, Poole, Sousa e Lockhart, Brading); essas obras não foram lidas diretamente nesta edição.
+@@ sources/ucanews-maria-china
+## title
+Mary Help of Christians, protector of Chinese Catholics (UCA News)
+## note
+Notícia católica de apoio, não documento eclesial. Contém um erro evidente de data (diz que Bento XVI instituiu o Dia de Oração em 27 de maio de 2017; a carta é de 27 de maio de 2007). A data da notícia é inferida do texto (13º Dia de Oração).
+@@ sources/cbcew-donglu
+## title
+Boxer Rebellion and Our Lady of China (Conferência Episcopal da Inglaterra e do País de Gales)
+## note
+Página de uma conferência episcopal, com texto de um capelão da comunidade chinesa em Londres; nível de divulgação. Localiza Donglü na «província de Hubei», o que é erro: Donglü fica em Hebei.
+@@ sources/wiki-donglu
+## title
+Donglü (Wikipédia em inglês)
+## note
+Fonte terciária, usada para a grafia do nome e dados do lugar. Suas alegações eclesiais exigem documento primário, que não foi localizado.
+@@ sources/wiki-our-lady-of-china
+## title
+Our Lady of China (Wikipédia em inglês)
+## note
+Fonte terciária. Contém afirmações que divergem de outras fontes (por exemplo, fala em estátua e em pintor francês de Xangai em 1908); trate-as como relatos a conferir.
+@@ sources/bento-xvi-carta-china-2007
+## title
+Carta do Papa Bento XVI aos católicos da China (27 de maio de 2007)
+## note
+Texto em inglês no sítio do Vaticano.
+@@ sources/dossie-s01
+## title
+Catecismo da Igreja Católica, §§ 466, 484-511 e 531-534. Santa Sé.
+## note
+Referência S01 incorporada do dossiê de pesquisa.
+@@ sources/dossie-s02
+## title
+Concílio Vaticano II, Lumen gentium, capítulo VIII, §§ 52-69; 21 de novembro de 1964.
+## note
+Referência S02 incorporada do dossiê de pesquisa.
+@@ sources/dossie-s03
+## title
+Catecismo, §§ 963-975: Maria, Mãe de Cristo e da Igreja. Santa Sé, edição espanhola.
+## note
+Referência S03 incorporada do dossiê de pesquisa.
+@@ sources/dossie-s04
+## title
+Vatican News, São Joaquim e Santa Ana, pais da Virgem Maria. Fonte eclesial sobre a tradição, não testemunho contemporâneo dos acontecimentos.
+## note
+Referência S04 incorporada do dossiê de pesquisa.
+@@ sources/dossie-s05
+## title
+Vatican News, Natividade de Nossa Senhora: calendário e origem tradicional das narrativas.
+## note
+Referência S05 incorporada do dossiê de pesquisa.
+@@ sources/dossie-b01
+## title
+Evangelho segundo Lucas, capítulo 1; especialmente 1,26-56. Texto bíblico antigo, resumido em redação própria; consulta complementar à KJV, de domínio público nos EUA.
+## note
+Referência B01 incorporada do dossiê de pesquisa.
+@@ sources/dossie-b02
+## title
+Evangelho segundo Mateus, capítulo 1, especialmente 1,16-25. Consulta do texto na USCCB.
+## note
+Referência B02 incorporada do dossiê de pesquisa.
+@@ sources/dossie-b03
+## title
+Evangelho segundo Lucas, capítulo 2. Texto bíblico antigo, resumido em redação própria; consulta complementar à KJV, de domínio público nos EUA.
+## note
+Referência B03 incorporada do dossiê de pesquisa.
+@@ sources/dossie-b04
+## title
+Evangelho segundo Mateus, capítulo 2. Consulta do texto na USCCB.
+## note
+Referência B04 incorporada do dossiê de pesquisa.
+@@ sources/dossie-b05
+## title
+Evangelho segundo João, capítulo 2, especialmente 2,1-12. USCCB.
+## note
+Referência B05 incorporada do dossiê de pesquisa.
+@@ sources/dossie-b06
+## title
+Evangelho segundo João, capítulo 19, especialmente 19,25-27. USCCB.
+## note
+Referência B06 incorporada do dossiê de pesquisa.
+@@ sources/dossie-b07
+## title
+Atos dos Apóstolos, capítulo 1, especialmente 1,12-14. USCCB.
+## note
+Referência B07 incorporada do dossiê de pesquisa.
+@@ sources/dossie-s06
+## title
+João Paulo II, audiência de 21 de maio de 1997: Maria e a ressurreição de Cristo.
+## note
+Referência S06 incorporada do dossiê de pesquisa.
+@@ sources/dossie-s07
+## title
+Pio XII, Munificentissimus Deus, especialmente § 44; 1º de novembro de 1950.
+## note
+Referência S07 incorporada do dossiê de pesquisa.
+@@ sources/dossie-s08
+## title
+Compêndio do Catecismo da Igreja Católica, questões sobre a concepção de Cristo, Maria e a Igreja.
+## note
+Referência S08 incorporada do dossiê de pesquisa.
+@@ sources/dossie-s09
+## title
+João Paulo II, Rosarium Virginis Mariae; 16 de outubro de 2002.
+## note
+Referência S09 incorporada do dossiê de pesquisa.
+@@ sources/dossie-s10
+## title
+Paulo VI, Marialis Cultus; 2 de fevereiro de 1974.
+## note
+Referência S10 incorporada do dossiê de pesquisa.
+@@ sources/dossie-s11
+## title
+Santa Sé, Ladainha de Loreto, versão inglesa; títulos vertidos livremente para o português.
+## note
+Referência S11 incorporada do dossiê de pesquisa.
+@@ sources/dossie-s12
+## title
+Santuário Nacional de Aparecida/A12, História de Nossa Senhora Aparecida: 1717 e desenvolvimento inicial.
+## note
+Referência S12 incorporada do dossiê de pesquisa.
+@@ sources/dossie-s13
+## title
+A12, Os pescadores da imagem de Aparecida no Santuário Nacional.
+## note
+Referência S13 incorporada do dossiê de pesquisa.
+@@ sources/dossie-s14
+## title
+Francisco, audiência geral de 23 de agosto de 2023: Juan Diego e Guadalupe.
+## note
+Referência S14 incorporada do dossiê de pesquisa.
+@@ sources/dossie-s15
+## title
+João Paulo II, homilia da canonização de Juan Diego, México; 31 de julho de 2002.
+## note
+Referência S15 incorporada do dossiê de pesquisa.
+@@ sources/dossie-s16
+## title
+Santuário de Fátima, Narrativa das aparições, com referências às memórias e à documentação crítica.
+## note
+Referência S16 incorporada do dossiê de pesquisa.
+@@ sources/dossie-s17
+## title
+Santuário de Fátima, Cronologia; decisão episcopal de 13 de outubro de 1930.
+## note
+Referência S17 incorporada do dossiê de pesquisa.
+@@ sources/dossie-s18
+## title
+Santuário de Lourdes, Reconhecimento das aparições; documento episcopal de 18 de janeiro de 1862.
+## note
+Referência S18 incorporada do dossiê de pesquisa.
+@@ sources/dossie-s19
+## title
+Santuário de Lourdes, As dezoito aparições de 1858.
+## note
+Referência S19 incorporada do dossiê de pesquisa.
+@@ sources/dossie-s20
+## title
+Santuário de Lourdes, Recognition of a miracle: processo médico e decisão episcopal.
+## note
+Referência S20 incorporada do dossiê de pesquisa.
+@@ sources/dossie-s21
+## title
+Santuário de Lourdes, Miraculous healings: catálogo nominal de curas reconhecidas, consultado em outubro de 2026.
+## note
+Referência S21 incorporada do dossiê de pesquisa.
+@@ sources/dossie-s22
+## title
+Santuário de Lourdes, John Traynor, 71st miracle at Lourdes; 8 de dezembro de 2024.
+## note
+Referência S22 incorporada do dossiê de pesquisa.
+@@ sources/dossie-s23
+## title
+Santuário de Lourdes, Antonia Raco, 72nd Lourdes miracle; reconhecimento de 16 de abril de 2025, página publicada em 18 de julho de 2025.
+## note
+Referência S23 incorporada do dossiê de pesquisa.
+@@ sources/dossie-s24
+## title
+João Paulo II, dedicação do Santuário de Nossa Senhora das Lágrimas, Siracusa; 6 de novembro de 1994.
+## note
+Referência S24 incorporada do dossiê de pesquisa.
+@@ sources/dossie-s25
+## title
+Vatican News, carta de Francisco pelo septuagésimo aniversário das lacrimações de Siracusa; dezembro de 2023.
+## note
+Referência S25 incorporada do dossiê de pesquisa.
+@@ sources/dossie-s26
+## title
+Santuário de Nossa Senhora de La Salette, History: narrativa e decisões episcopais.
+## note
+Referência S26 incorporada do dossiê de pesquisa.
+@@ sources/dossie-s27
+## title
+Knock Shrine, A Pilgrim’s Guide, especialmente a história na página final do PDF.
+## note
+Referência S27 incorporada do dossiê de pesquisa.
+@@ sources/dossie-s28
+## title
+Santuário de Banneux, The apparitions (1933), com data do reconhecimento episcopal.
+## note
+Referência S28 incorporada do dossiê de pesquisa.
+@@ sources/dossie-s29
+## title
+Santuário de Beauraing, Récit des apparitions: narrativa e reconhecimento.
+## note
+Referência S29 incorporada do dossiê de pesquisa.
+@@ sources/dossie-s30
+## title
+Sala de Imprensa da Santa Sé, declaração do bispo de Gikongoro sobre Kibeho; 29 de junho de 2001.
+## note
+Referência S30 incorporada do dossiê de pesquisa.
+@@ sources/dossie-s31
+## title
+Agência Fides, On the Eve of Mother’s Day: Chinese Catholic Communities Celebrate Our Lady of China; 11 de maio de 2026.
+## note
+Referência S31 incorporada do dossiê de pesquisa.
+@@ sources/dossie-s32
+## title
+Bento XVI, oração a Nossa Senhora de Sheshan; 15 de maio de 2008, para a jornada de 24 de maio.
+## note
+Referência S32 incorporada do dossiê de pesquisa.
+@@ sources/dossie-s33
+## title
+Vatican News, Igreja vietnamita e Nossa Senhora de La Vang; agosto de 2021.
+## note
+Referência S33 incorporada do dossiê de pesquisa.
+@@ sources/dossie-s34
+## title
+Vatican News, carta sobre Vailankanni e o acolhimento dos peregrinos; 6 de agosto de 2024.
+## note
+Referência S34 incorporada do dossiê de pesquisa.
+@@ sources/dossie-s35
+## title
+Vatican News, celebração no Santuário Internacional de Antipolo; 26 de fevereiro de 2024.
+## note
+Referência S35 incorporada do dossiê de pesquisa.
+@@ sources/dossie-s36
+## title
+João Paulo II, Angelus de 22 de março de 1992: Nossa Senhora de Luján.
+## note
+Referência S36 incorporada do dossiê de pesquisa.
+@@ sources/dossie-s37
+## title
+Francisco, homilia em Caacupé, Paraguai; 11 de julho de 2015.
+## note
+Referência S37 incorporada do dossiê de pesquisa.
+@@ sources/dossie-s38
+## title
+Francisco, homilia no Santuário da Virgem da Caridade do Cobre, Cuba; 22 de setembro de 2015.
+## note
+Referência S38 incorporada do dossiê de pesquisa.
+@@ sources/dossie-s39
+## title
+Francisco, Angelus em Cartagena, Colômbia; 10 de setembro de 2017.
+## note
+Referência S39 incorporada do dossiê de pesquisa.
+@@ sources/dossie-s40
+## title
+Santuário Nacional Católico de Walsingham, Our Story.
+## note
+Referência S40 incorporada do dossiê de pesquisa.
+@@ sources/dossie-s41
+## title
+Leão XIV, oração do Rosário em Montserrat; 10 de junho de 2026.
+## note
+Referência S41 incorporada do dossiê de pesquisa.
+@@ sources/dossie-s42
+## title
+João Paulo II, homilia e consagração em Jasna Góra; 4 de junho de 1979.
+## note
+Referência S42 incorporada do dossiê de pesquisa.
+@@ sources/dossie-s43
+## title
+Vatican News, Rosário e devoção em Muxima, Angola; abril de 2026.
+## note
+Referência S43 incorporada do dossiê de pesquisa.
+@@ sources/dossie-s44
+## title
+Vatican News, Nossa Senhora da África e a visita a Argel; abril de 2026.
+## note
+Referência S44 incorporada do dossiê de pesquisa.
+@@ sources/dossie-s45
+## title
+Conferência Episcopal Católica Australiana, recurso sobre a entrega a Maria Auxiliadora; 2021.
+## note
+Referência S45 incorporada do dossiê de pesquisa.
+@@ sources/dossie-b08
+## title
+Apocalipse, capítulo 12, texto e notas explicativas. USCCB.
+## note
+Referência B08 incorporada do dossiê de pesquisa.
+@@ sources/dossie-s46
+## title
+National Gallery, Giovanni Bellini, The Virgin and Child, NG280: análise do manto e do pigmento.
+## note
+Referência S46 incorporada do dossiê de pesquisa.
+@@ sources/dossie-s47
+## title
+National Gallery, Domenico Ghirlandaio, The Virgin and Child, NG3937: azurita e conservação.
+## note
+Referência S47 incorporada do dossiê de pesquisa.
+@@ sources/dossie-s48
+## title
+Catecismo, §§ 2129-2132, sobre imagens; edição espanhola da Santa Sé.
+## note
+Referência S48 incorporada do dossiê de pesquisa.
+@@ sources/dossie-s49
+## title
+Dicastério para a Doutrina da Fé, normas sobre presumidos fenômenos sobrenaturais; 17 de maio de 2024.
+## note
+Referência S49 incorporada do dossiê de pesquisa.
+@@ sources/dossie-s50
+## title
+Dicastério para a Doutrina da Fé, A Rainha da Paz: nota sobre Medjugorje; 19 de setembro de 2024.
+## note
+Referência S50 incorporada do dossiê de pesquisa.
+@@ sources/dossie-s51
+## title
+Dicastério para a Doutrina da Fé, Mater Populi fidelis, especialmente § 22; 4 de novembro de 2025.
+## note
+Referência S51 incorporada do dossiê de pesquisa.
+@@ sources/dossie-s52
+## title
+Catecismo, §§ 66-67: revelação definitiva e revelações privadas.
+## note
+Referência S52 incorporada do dossiê de pesquisa.
+@@ sources/champion-decreto-2010
+## title
+Decree on the Authenticity of the Apparitions of 1859 at the Shrine of Our Lady of Good Help (8 de dezembro de 2010)
+## note
+Texto em inglês, reproduzido por um site católico de documentação, que indica a Diocese de Green Bay como origem. O arquivo original da diocese não foi aberto nesta edição.
+@@ sources/kibeho-declaracao-2001
+## title
+Declaração do bispo de Gikongoro sobre as aparições de Kibeho (29 de junho de 2001)
+## note
+Tradução em inglês reproduzida por um site de documentação mariana, que cita o L'Osservatore Romano como origem. A edição impressa não foi consultada.
+@@ sources/lasalette-bruillard-1851
+## title
+Carta pastoral de Dom de Bruillard, bispo de Grenoble, no quinto aniversário da aparição de La Salette (19 de setembro de 1851)
+## note
+Tradução em inglês reproduzida por um site de documentação mariana; o original em francês não foi consultado.
+@@ sources/akita-ito-1984
+## title
+Carta pastoral de Dom John Shojiro Ito, bispo de Niigata, sobre os acontecimentos de Akita (22 de abril de 1984)
+## note
+Tradução em inglês reproduzida de um livro devocional; o original em japonês não foi consultado. O livro citado como origem é de autor ligado à divulgação do caso.
+@@ sources/banneux-kerkhofs-1949
+## title
+Aparições de Banneux: decisões da Igreja (Miracle Hunter, citando Dessain, «Notre Dame de Banneux», 1967, p. 207)
+## note
+Compilação secundária: a declaração de 1949 é citada de um livro de 1967 e não foi lida no original. Datas de 1942, 1947 e 1952 aparecem na página, mas sem o texto das decisões.
+@@ sources/knock-historia
+## title
+História de Knock (site do santuário)
+## note
+Página do santuário oficial, em inglês. Direitos reservados; resumo em palavras próprias.
+@@ sources/knock-comissoes
+## title
+As comissões de inquérito (site do santuário de Knock)
+## note
+Página do santuário oficial, em inglês. Direitos reservados; resumo em palavras próprias.
+@@ sources/jp2-knock-1979
+## title
+Homilia de João Paulo II no Santuário de Knock (30 de setembro de 1979)
+## note
+Texto em inglês no sítio do Vaticano.
+@@ sources/lourdes-curas-lista
+## title
+Miraculous healings (lista oficial do Santuário de Lourdes, em inglês)
+## note
+Página oficial do santuário. A página lida trazia 70 casos; a lista dá nome, procedência e data de reconhecimento de cada um. Não informa, no texto lido, a data da cura, a doença nem o bispo que decidiu. Casos posteriores (2024 e 2025) podem não constar da versão lida.
+@@ sources/egl-fr-enquete-lourdes
+## title
+Guérison miraculeuse de Lourdes: comment se passe une enquête ? (Igreja Católica na França)
+## note
+Página oficial da Igreja na França, em francês.
+@@ sources/vaticannews-traynor-2024
+## title
+À Lourdes, un Britannique est pour la première fois reconnu miraculé (Vatican News)
+## note
+Notícia oficial de apoio, em francês.
+@@ sources/filhas-caridade-medalha
+## title
+Santa Catarina Labouré e a Medalha Milagrosa (Filhas da Caridade, EUA)
+## note
+Página da congregação a que Catarina Labouré pertenceu, em inglês. A página não traz a data de 18 de julho de 1830, nem as datas de beatificação e canonização.
+@@ sources/icheritage-vailankanni
+## title
+Basilica of Our Lady of Good Health, Velankanni (Indian Christian Heritage)
+## note
+Site de divulgação, não documento eclesial; lista oito referências (obras acadêmicas e sítios do santuário e da diocese), que não foram lidas.
+@@ sources/basilica-sm-maggiore-salus
+## title
+Salus Populi Romani (site da Basílica Papal de Santa Maria Maior)
+## note
+Página oficial, em italiano. A página não menciona a doação de Sisto III nem uma datação do ícone.
+@@ sources/nationalshrine-oficial
+## title
+What is the National Shrine? (site do santuário)
+## note
+Página oficial, em inglês. Não traz as datas de 1913 e de 1920, que aparecem em outras páginas do mesmo site e não foram lidas.
+@@ sources/jp2-jasna-gora-1979
+## title
+Homilia de João Paulo II em Jasna Góra (4 de junho de 1979)
+## note
+Texto em inglês no sítio do Vaticano.
+@@ sources/wp-sh-santa-maria-maior
+## title
+Santa Maria Maggiore (Wikipédia em inglês)
+## note
+Fonte terciária, lida em 5 de outubro de 2026 para localizar o santuário e resumir dados básicos. Não é documento eclesial; títulos, decisões e datas de culto exigem fonte primária, ainda não lida.
+@@ sources/wp-sh-loreto
+## title
+Basilica della Santa Casa (Wikipédia em inglês)
+## note
+Fonte terciária, lida em 5 de outubro de 2026 para localizar o santuário e resumir dados básicos. Não é documento eclesial; títulos, decisões e datas de culto exigem fonte primária, ainda não lida.
+@@ sources/wp-sh-notre-dame-paris
+## title
+Notre-Dame de Paris (Wikipédia em inglês)
+## note
+Fonte terciária, lida em 5 de outubro de 2026 para localizar o santuário e resumir dados básicos. Não é documento eclesial; títulos, decisões e datas de culto exigem fonte primária, ainda não lida.
+@@ sources/wp-sh-chartres
+## title
+Chartres Cathedral (Wikipédia em inglês)
+## note
+Fonte terciária, lida em 5 de outubro de 2026 para localizar o santuário e resumir dados básicos. Não é documento eclesial; títulos, decisões e datas de culto exigem fonte primária, ainda não lida.
+@@ sources/wp-sh-walsingham
+## title
+Our Lady of Walsingham (Wikipédia em inglês)
+## note
+Fonte terciária, lida em 5 de outubro de 2026 para localizar o santuário e resumir dados básicos. Não é documento eclesial; títulos, decisões e datas de culto exigem fonte primária, ainda não lida.
+@@ sources/wp-sh-montserrat
+## title
+Santa Maria de Montserrat Abbey (Wikipédia em inglês)
+## note
+Fonte terciária, lida em 5 de outubro de 2026 para localizar o santuário e resumir dados básicos. Não é documento eclesial; títulos, decisões e datas de culto exigem fonte primária, ainda não lida.
+@@ sources/wp-sh-pilar
+## title
+Cathedral-Basilica of Our Lady of the Pillar (Wikipédia em inglês)
+## note
+Fonte terciária, lida em 5 de outubro de 2026 para localizar o santuário e resumir dados básicos. Não é documento eclesial; títulos, decisões e datas de culto exigem fonte primária, ainda não lida.
+@@ sources/wp-sh-guadalupe-extremadura
+## title
+Monastery of Saint Mary of Guadalupe (Wikipédia em inglês)
+## note
+Fonte terciária, lida em 5 de outubro de 2026 para localizar o santuário e resumir dados básicos. Não é documento eclesial; títulos, decisões e datas de culto exigem fonte primária, ainda não lida.
+@@ sources/wp-sh-covadonga
+## title
+Santa Cueva de Covadonga (Wikipédia em inglês)
+## note
+Fonte terciária, lida em 5 de outubro de 2026 para localizar o santuário e resumir dados básicos. Não é documento eclesial; títulos, decisões e datas de culto exigem fonte primária, ainda não lida.
+@@ sources/wp-sh-altotting
+## title
+Shrine of Our Lady of Altötting (Wikipédia em inglês)
+## note
+Fonte terciária, lida em 5 de outubro de 2026 para localizar o santuário e resumir dados básicos. Não é documento eclesial; títulos, decisões e datas de culto exigem fonte primária, ainda não lida.
+@@ sources/wp-sh-einsiedeln
+## title
+Einsiedeln Abbey (Wikipédia em inglês)
+## note
+Fonte terciária, lida em 5 de outubro de 2026 para localizar o santuário e resumir dados básicos. Não é documento eclesial; títulos, decisões e datas de culto exigem fonte primária, ainda não lida.
+@@ sources/wp-sh-mariazell
+## title
+Mariazell Basilica (Wikipédia em inglês)
+## note
+Fonte terciária, lida em 5 de outubro de 2026 para localizar o santuário e resumir dados básicos. Não é documento eclesial; títulos, decisões e datas de culto exigem fonte primária, ainda não lida.
+@@ sources/wp-sh-jasna-gora
+## title
+Jasna Góra Monastery (Wikipédia em inglês)
+## note
+Fonte terciária, lida em 5 de outubro de 2026 para localizar o santuário e resumir dados básicos. Não é documento eclesial; títulos, decisões e datas de culto exigem fonte primária, ainda não lida.
+@@ sources/wp-sh-lichen
+## title
+Basilica of Our Lady of Licheń (Wikipédia em inglês)
+## note
+Fonte terciária, lida em 5 de outubro de 2026 para localizar o santuário e resumir dados básicos. Não é documento eclesial; títulos, decisões e datas de culto exigem fonte primária, ainda não lida.
+@@ sources/wp-sh-pompeia
+## title
+Shrine of the Virgin of the Rosary of Pompei (Wikipédia em inglês)
+## note
+Fonte terciária, lida em 5 de outubro de 2026 para localizar o santuário e resumir dados básicos. Não é documento eclesial; títulos, decisões e datas de culto exigem fonte primária, ainda não lida.
+@@ sources/wp-sh-siracusa
+## title
+Madonna delle Lacrime, Siracusa (Wikipédia em inglês)
+## note
+Fonte terciária, lida em 5 de outubro de 2026 para localizar o santuário e resumir dados básicos. Não é documento eclesial; títulos, decisões e datas de culto exigem fonte primária, ainda não lida.
+@@ sources/wp-sh-fourviere
+## title
+Basilica of Notre-Dame de Fourvière (Wikipédia em inglês)
+## note
+Fonte terciária, lida em 5 de outubro de 2026 para localizar o santuário e resumir dados básicos. Não é documento eclesial; títulos, decisões e datas de culto exigem fonte primária, ainda não lida.
+@@ sources/wp-sh-notre-dame-de-la-garde
+## title
+Notre-Dame de la Garde (Wikipédia em inglês)
+## note
+Fonte terciária, lida em 5 de outubro de 2026 para localizar o santuário e resumir dados básicos. Não é documento eclesial; títulos, decisões e datas de culto exigem fonte primária, ainda não lida.
+@@ sources/wp-sh-sameiro
+## title
+Sanctuary of Our Lady of Sameiro (Wikipédia em inglês)
+## note
+Fonte terciária, lida em 5 de outubro de 2026 para localizar o santuário e resumir dados básicos. Não é documento eclesial; títulos, decisões e datas de culto exigem fonte primária, ainda não lida.
+@@ sources/wp-sh-lujan
+## title
+Basilica of Our Lady of Luján (Wikipédia em inglês)
+## note
+Fonte terciária, lida em 5 de outubro de 2026 para localizar o santuário e resumir dados básicos. Não é documento eclesial; títulos, decisões e datas de culto exigem fonte primária, ainda não lida.
+@@ sources/wp-sh-notre-dame-montreal
+## title
+Notre-Dame Basilica (Montreal) (Wikipédia em inglês)
+## note
+Fonte terciária, lida em 5 de outubro de 2026 para localizar o santuário e resumir dados básicos. Não é documento eclesial; títulos, decisões e datas de culto exigem fonte primária, ainda não lida.
+@@ sources/wp-sh-washington
+## title
+Basilica of the National Shrine of the Immaculate Conception (Wikipédia em inglês)
+## note
+Fonte terciária, lida em 5 de outubro de 2026 para localizar o santuário e resumir dados básicos. Não é documento eclesial; títulos, decisões e datas de culto exigem fonte primária, ainda não lida.
+@@ sources/wp-sh-caacupe
+## title
+Cathedral Basilica of Our Lady of Miracles, Caacupé (Wikipédia em inglês)
+## note
+Fonte terciária, lida em 5 de outubro de 2026 para localizar o santuário e resumir dados básicos. Não é documento eclesial; títulos, decisões e datas de culto exigem fonte primária, ainda não lida.
+@@ sources/wp-sh-copacabana
+## title
+Copacabana, Bolivia (Wikipédia em inglês)
+## note
+Fonte terciária, lida em 5 de outubro de 2026 para localizar o santuário e resumir dados básicos. Não é documento eclesial; títulos, decisões e datas de culto exigem fonte primária, ainda não lida.
+@@ sources/wp-sh-cartago
+## title
+Basilica of Our Lady of the Angels, Cartago (Wikipédia em inglês)
+## note
+Fonte terciária, lida em 5 de outubro de 2026 para localizar o santuário e resumir dados básicos. Não é documento eclesial; títulos, decisões e datas de culto exigem fonte primária, ainda não lida.
+@@ sources/wp-sh-belem-nazare
+## title
+Basilica of Our Lady of Nazareth of Exile (Wikipédia em inglês)
+## note
+Fonte terciária, lida em 5 de outubro de 2026 para localizar o santuário e resumir dados básicos. Não é documento eclesial; títulos, decisões e datas de culto exigem fonte primária, ainda não lida.
+@@ sources/wp-sh-suyapa
+## title
+Our Lady of Suyapa (Wikipédia em inglês)
+## note
+Fonte terciária, lida em 5 de outubro de 2026 para localizar o santuário e resumir dados básicos. Não é documento eclesial; títulos, decisões e datas de culto exigem fonte primária, ainda não lida.
+@@ sources/wp-sh-altagracia
+## title
+Basilica-Cathedral of Our Lady of Altagracia (Wikipédia em inglês)
+## note
+Fonte terciária, lida em 5 de outubro de 2026 para localizar o santuário e resumir dados básicos. Não é documento eclesial; títulos, decisões e datas de culto exigem fonte primária, ainda não lida.
+@@ sources/wp-sh-nazare-anunciacao
+## title
+Basilica of the Annunciation (Wikipédia em inglês)
+## note
+Fonte terciária, lida em 5 de outubro de 2026 para localizar o santuário e resumir dados básicos. Não é documento eclesial; títulos, decisões e datas de culto exigem fonte primária, ainda não lida.
+@@ sources/wp-sh-tumba-maria
+## title
+Tomb of the Virgin Mary (Wikipédia em inglês)
+## note
+Fonte terciária, lida em 5 de outubro de 2026 para localizar o santuário e resumir dados básicos. Não é documento eclesial; títulos, decisões e datas de culto exigem fonte primária, ainda não lida.
+@@ sources/wp-sh-efeso
+## title
+House of the Virgin Mary (Wikipédia em inglês)
+## note
+Fonte terciária, lida em 5 de outubro de 2026 para localizar o santuário e resumir dados básicos. Não é documento eclesial; títulos, decisões e datas de culto exigem fonte primária, ainda não lida.
+@@ sources/wp-sh-harissa
+## title
+Our Lady of Lebanon (Wikipédia em inglês)
+## note
+Fonte terciária, lida em 5 de outubro de 2026 para localizar o santuário e resumir dados básicos. Não é documento eclesial; títulos, decisões e datas de culto exigem fonte primária, ainda não lida.
+@@ sources/wp-sh-yamoussoukro
+## title
+Basilica of Our Lady of Peace (Wikipédia em inglês)
+## note
+Fonte terciária, lida em 5 de outubro de 2026 para localizar o santuário e resumir dados básicos. Não é documento eclesial; títulos, decisões e datas de culto exigem fonte primária, ainda não lida.
+@@ sources/wp-sh-notre-dame-afrique
+## title
+Notre-Dame d'Afrique (Wikipédia em inglês)
+## note
+Fonte terciária, lida em 5 de outubro de 2026 para localizar o santuário e resumir dados básicos. Não é documento eclesial; títulos, decisões e datas de culto exigem fonte primária, ainda não lida.
+@@ sources/wp-sh-sheshan
+## title
+Sheshan Basilica (Wikipédia em inglês)
+## note
+Fonte terciária, lida em 5 de outubro de 2026 para localizar o santuário e resumir dados básicos. Não é documento eclesial; títulos, decisões e datas de culto exigem fonte primária, ainda não lida.
+@@ sources/wp-sh-antipolo
+## title
+Antipolo Cathedral (Wikipédia em inglês)
+## note
+Fonte terciária, lida em 5 de outubro de 2026 para localizar o santuário e resumir dados básicos. Não é documento eclesial; títulos, decisões e datas de culto exigem fonte primária, ainda não lida.
+@@ sources/wp-sh-manaoag
+## title
+Our Lady of Manaoag (Wikipédia em inglês)
+## note
+Fonte terciária, lida em 5 de outubro de 2026 para localizar o santuário e resumir dados básicos. Não é documento eclesial; títulos, decisões e datas de culto exigem fonte primária, ainda não lida.
+@@ sources/wp-sh-sydney
+## title
+St Mary's Cathedral, Sydney (Wikipédia em inglês)
+## note
+Fonte terciária, lida em 5 de outubro de 2026 para localizar o santuário e resumir dados básicos. Não é documento eclesial; títulos, decisões e datas de culto exigem fonte primária, ainda não lida.

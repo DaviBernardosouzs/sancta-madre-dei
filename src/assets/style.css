@@ -533,3 +533,41 @@ body.modo-leitura h1 { font-size: 1.7rem; }
 :root[data-theme="dark"] .pais--com { fill: #7a5a1e; stroke: #d9b36a; }
 .lista-celeb { list-style: none; padding: 0; }
 .simbolos dt { font-weight: 600; margin-top: .75rem; }
+
+/* ---------- idiomas ---------- */
+.idioma { position: relative; }
+.idioma summary { list-style: none; display: inline-flex; align-items: center; gap: 0.35rem; min-height: 44px; min-width: 44px; padding: 0 0.55rem; cursor: pointer; border: 1px solid var(--filete); background: var(--papel-3); color: var(--ultramar); font-weight: 700; font-size: 0.875rem; letter-spacing: 0.04em; }
+.idioma summary::-webkit-details-marker { display: none; }
+.idioma summary:hover { background: var(--papel-2); }
+.idioma__icone { flex: none; }
+.idioma ul { position: absolute; right: 0; top: calc(100% + 0.25rem); z-index: 60; margin: 0; padding: 0.35rem 0; list-style: none; min-width: 11rem; background: var(--papel); border: 1px solid var(--filete); box-shadow: 0 0.6rem 1.6rem rgb(0 0 0 / 0.28); }
+.idioma li { margin: 0; }
+.idioma a { display: flex; align-items: center; min-height: 44px; padding: 0 1rem; color: var(--tinta); text-decoration: none; justify-content: flex-start; }
+.idioma a:hover { background: var(--papel-2); }
+.idioma a[aria-current="true"] { color: var(--ultramar); font-weight: 700; box-shadow: inset 3px 0 0 var(--ouro-filete); }
+.rodape__idiomas { margin-top: var(--e2); font-size: 0.875rem; line-height: 2.2; }
+.rodape__idiomas a { white-space: nowrap; display: inline-block; padding: 0.15rem 0.1rem; }
+.rodape__idiomas a[aria-current="true"] { font-weight: 700; text-decoration: none; }
+@media (max-width: 40rem) { .idioma ul { right: auto; left: auto; } }
+
+/* ---------- japonês e chinês: pilhas de fontes do sistema, sem itálico nem espaçamento entre letras ---------- */
+:lang(ja) {
+  --sans: "Atkinson Hyperlegible", "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Yu Gothic UI", "Yu Gothic", "Meiryo", "Noto Sans CJK JP", "Noto Sans JP", system-ui, sans-serif;
+  --serifa: "Cormorant Garamond", "Hiragino Mincho ProN", "Yu Mincho", "Noto Serif CJK JP", "Noto Serif JP", serif;
+  quotes: "「" "」" "『" "』";
+}
+:lang(zh) {
+  --sans: "Atkinson Hyperlegible", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", "Noto Sans CJK SC", "Noto Sans SC", system-ui, sans-serif;
+  --serifa: "Cormorant Garamond", "Songti SC", "STSong", "SimSun", "Noto Serif CJK SC", "Noto Serif SC", serif;
+  quotes: "“" "”" "‘" "’";
+}
+:is(:lang(ja), :lang(zh)) body, html:is(:lang(ja), :lang(zh)) { line-height: 1.85; }
+:is(:lang(ja), :lang(zh)) :is(h1, h2, h3, h4, .sobretitulo, .marca__sub, .meta, .bloco__rotulo, .f-sobre, .f-ato) { letter-spacing: 0; font-style: normal; }
+:is(:lang(ja), :lang(zh)) :is(em, i, .heroi__sub, .f-subtitulo) { font-style: normal; }
+:is(:lang(ja), :lang(zh)) :is(p, li, dd, figcaption) { line-break: strict; overflow-wrap: anywhere; }
+:is(:lang(ja), :lang(zh)) .lede { max-width: 38em; }
+
+/* ---------- alemão e outros idiomas de palavras longas ---------- */
+:is(:lang(de), :lang(fr), :lang(es), :lang(it)) :is(p, li, dd, dt, h1, h2, h3, h4, figcaption, .item-t) { hyphens: auto; overflow-wrap: break-word; }
+:lang(de) :is(h1, h2, h3, .marca__nome) { hyphens: manual; overflow-wrap: anywhere; }
+:lang(de) .menu a, :lang(de) .utilidades a { hyphens: none; }

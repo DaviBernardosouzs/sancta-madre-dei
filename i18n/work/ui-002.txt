@@ -1,0 +1,272 @@
+#14
+es: La lista oficial consultada tenía 70 casos; el 71.º (John Traynor, 2024) procede de Vatican News. La página del santuario y otras fuentes hablan de 72 casos en 2025; el caso 72 no se ha leído aquí. Esta página no invita a abandonar un tratamiento médico: el examen de Lourdes parte de casos tratados por médicos.
+en: The official list consulted had 70 cases; the 71st (John Traynor, 2024) comes from Vatican News. The shrine’s page and other sources speak of 72 cases in 2025; the 72nd case was not read here. This page does not advise abandoning medical treatment: the Lourdes examination starts from cases treated by doctors.
+fr: La liste officielle consultée comptait 70 cas ; le 71e (John Traynor, 2024) provient de Vatican News. La page du sanctuaire et d’autres sources parlent de 72 cas en 2025 ; le 72e cas n’a pas été lu ici. Cette page n’invite pas à abandonner un traitement médical : l’examen de Lourdes part de cas suivis par des médecins.
+it: L’elenco ufficiale consultato contava 70 casi; il 71º (John Traynor, 2024) proviene da Vatican News. La pagina del santuario e altre fonti parlano di 72 casi nel 2025; il 72º caso non è stato letto qui. Questa pagina non invita ad abbandonare le cure mediche: l’esame di Lourdes parte da casi seguiti da medici.
+de: Die konsultierte offizielle Liste umfasste 70 Fälle; der 71. (John Traynor, 2024) stammt von Vatican News. Die Seite des Heiligtums und andere Quellen sprechen von 72 Fällen im Jahr 2025; der 72. Fall wurde hier nicht gelesen. Diese Seite rät nicht dazu, eine medizinische Behandlung abzubrechen: Die Prüfung in Lourdes geht von Fällen aus, die ärztlich behandelt wurden.
+ja: 参照した公式リストには70件が載っていました。71件目（ジョン・トレイナー、2024年）はバチカン・ニュースによるものです。聖地のページやほかの資料は2025年に72件としていますが、72件目はここでは確認していません。このページは医療をやめるよう勧めるものではありません。ルルドの審査は、医師の治療を受けた症例から始まります。
+zh: 所查阅的官方名单共有70例；第71例（约翰·特雷诺，2024年）出自梵蒂冈新闻网。圣地的页面和其他资料提到2025年共有72例；第72例在此未能查阅。本页不建议放弃医疗：露德的审查是从接受过医生治疗的病例开始的。
+#15
+es: La misma María, madre de Jesús, honrada en lenguas y culturas muy distintas. Cada lugar del mapa tiene su página, sus fuentes y lo que la Iglesia ha decidido.
+en: The same Mary, mother of Jesus, honored in very different languages and cultures. Each place on the map has a page, its sources and what the Church has decided.
+fr: La même Marie, mère de Jésus, honorée dans des langues et des cultures très différentes. Chaque lieu de la carte a sa page, ses sources et ce que l’Église a décidé.
+it: La stessa Maria, madre di Gesù, onorata in lingue e culture molto diverse. Ogni luogo sulla mappa ha una pagina, le sue fonti e ciò che la Chiesa ha deciso.
+de: Dieselbe Maria, die Mutter Jesu, verehrt in ganz verschiedenen Sprachen und Kulturen. Jeder Ort auf der Karte hat eine eigene Seite, seine Quellen und das, was die Kirche entschieden hat.
+ja: イエスの母である同じマリアが、さまざまな言語と文化の中で敬われています。地図上の各地には、専用のページと出典、そして教会の判断を載せています。
+zh: 同一位耶稣的母亲玛利亚，在不同的语言和文化中受到尊崇。地图上的每个地点都有专页，附有资料来源和教会的裁定。
+#16
+es: La misma María, venerada en cada lugar con una imagen propia, en el arte y el estilo de ese pueblo. Elija un país o una región para ver solo las imágenes de allí. Solo se incluyen imágenes con licencia libre comprobada en Wikimedia Commons; donde no la hubo, el lugar queda sin retrato.
+en: The same Mary, venerated in each place with an image of its own, in the art and style of that people. Choose a country or a region to see only the images from there. Only images with a freely licensed status checked on Wikimedia Commons are included; where there was none, the place is left without a portrait.
+fr: La même Marie, vénérée en chaque lieu par une image propre, dans l’art et le style de ce peuple. Choisissez un pays ou une région pour ne voir que les images de là-bas. Seules figurent les images dont la licence libre a été vérifiée sur Wikimedia Commons ; là où il n’y en a pas, le lieu reste sans portrait.
+it: La stessa Maria, venerata in ogni luogo con un’immagine propria, nell’arte e nello stile di quel popolo. Scegli un paese o una regione per vedere solo le immagini di quel luogo. Compaiono solo immagini con licenza libera verificata su Wikimedia Commons; dove non c’era, il luogo resta senza ritratto.
+de: Dieselbe Maria, an jedem Ort mit einem eigenen Bild verehrt, in Kunst und Stil des jeweiligen Volkes. Wählen Sie ein Land oder eine Region, um nur die Bilder von dort zu sehen. Aufgenommen sind nur Bilder, deren freie Lizenz auf Wikimedia Commons geprüft wurde; wo es keines gab, bleibt der Ort ohne Bildnis.
+ja: 同じマリアが、それぞれの土地で、その民の芸術と様式による固有の聖像として崇敬されています。国または地域を選ぶと、その土地の画像だけが表示されます。ウィキメディア・コモンズで自由なライセンスを確認できた画像のみを掲載しており、確認できなかった土地には画像を載せていません。
+zh: 同一位玛利亚，在各地以各自的圣像受到敬礼，带着当地民族的艺术与风格。选择一个国家或地区，即可只看那里的图像。仅收录已在维基共享资源（Wikimedia Commons）上核实为自由许可的图像；没有的地方则不配肖像。
+#17
+es: La textura de lienzo del fondo del sitio es un archivo decorativo generado de forma procedimental por el proyecto (ruido sobre un color de sombra). No reproduce ninguna obra.
+en: The canvas texture in the site background is a decorative file generated procedurally by the project (noise over an umber color). It does not reproduce any artwork.
+fr: La texture de toile du fond du site est un fichier décoratif généré de façon procédurale par le projet (bruit sur une teinte d’ombre). Elle ne reproduit aucune œuvre.
+it: La texture di tela dello sfondo del sito è un file decorativo generato proceduralmente dal progetto (rumore su un colore terra d’ombra). Non riproduce alcuna opera.
+de: Die Leinwandtextur im Hintergrund der Website ist eine dekorative Datei, die das Projekt prozedural erzeugt hat (Rauschen auf Umbra-Farbton). Sie gibt kein Kunstwerk wieder.
+ja: サイトの背景にあるキャンバス風のテクスチャは、プロジェクトがプログラムで生成した装飾用のファイルです（アンバー色の上のノイズ）。特定の作品を複製したものではありません。
+zh: 网站背景的画布纹理是本项目以程序生成的装饰文件（在赭褐色上叠加噪点），并不复制任何作品。
+#18
+es: La vida de María
+en: The life of Mary
+fr: La vie de Marie
+it: La vita di Maria
+de: Das Leben Marias
+ja: マリアの生涯
+zh: 玛利亚的生平
+#19
+es: La vida de María según la Escritura, su lugar en la fe católica, las apariciones, los santuarios y las oraciones. Cada fuente a la vista.
+en: The life of Mary according to Scripture, her place in the Catholic faith, apparitions, shrines and prayers. Every source in plain view.
+fr: La vie de Marie selon l’Écriture, sa place dans la foi catholique, les apparitions, les sanctuaires et les prières. Chaque source est visible.
+it: La vita di Maria secondo la Scrittura, il suo posto nella fede cattolica, le apparizioni, i santuari e le preghiere. Ogni fonte è in vista.
+de: Das Leben Marias nach der Schrift, ihr Platz im katholischen Glauben, Erscheinungen, Heiligtümer und Gebete. Jede Quelle liegt offen.
+ja: 聖書に基づくマリアの生涯、カトリックの信仰における位置づけ、出現、聖地、祈り。すべての出典を明示しています。
+zh: 依据圣经叙述的玛利亚生平、她在天主教信仰中的地位，以及显现、圣地与祷文。每一项资料来源都清楚列出。
+#20
+es: Abrir el atlas
+en: Open the atlas
+fr: Ouvrir l’atlas
+it: Apri l’atlante
+de: Atlas öffnen
+ja: アトラスを開く
+zh: 打开地图集
+#21
+es: Accesibilidad
+en: Accessibility
+fr: Accessibilité
+it: Accessibilità
+de: Barrierefreiheit
+ja: アクセシビリティ
+zh: 无障碍
+#22
+es: Acontecimiento extraordinario asociado a una imagen
+en: Extraordinary event associated with an image
+fr: Événement extraordinaire associé à une image
+it: Evento straordinario legato a un’immagine
+de: Außergewöhnliches Ereignis im Zusammenhang mit einem Bild
+ja: 聖像にまつわる特異な出来事
+zh: 与某幅圣像相关的非凡事件
+#23
+es: Acontecimientos y decisiones del archivo en orden de fecha. La precisión de cada fecha es la de la fuente: si solo conocemos el año, mostramos solo el año.
+en: Events and decisions in the collection, in date order. The precision of each date is that of the source: if we only know the year, we show only the year.
+fr: Événements et décisions du fonds, par ordre de date. La précision de chaque date est celle de la source : si l’on ne connaît que l’année, on n’affiche que l’année.
+it: Avvenimenti e decisioni dell’archivio in ordine di data. La precisione di ogni data è quella della fonte: se conosciamo solo l’anno, mostriamo solo l’anno.
+de: Ereignisse und Entscheidungen des Bestands in zeitlicher Reihenfolge. Die Genauigkeit jedes Datums entspricht der der Quelle: Kennen wir nur das Jahr, zeigen wir nur das Jahr.
+ja: 収録した出来事と決定を日付順に並べています。日付の精度は出典のとおりで、年しか分からない場合は年だけを表示します。
+zh: 本资料库中的事件与裁定，按日期先后排列。每个日期的精确程度与来源一致：只知道年份的，就只显示年份。
+#24
+es: Afirmaciones que sustenta
+en: Claims it supports
+fr: Affirmations qu’elle appuie
+it: Affermazioni che sostiene
+de: Aussagen, die sie belegt
+ja: 裏付けている主張
+zh: 所支持的论述
+#25
+es: Todavía no hay fichas individuales publicadas
+en: No individual entries have been published yet
+fr: Aucune fiche individuelle n’est encore publiée
+it: Non ci sono ancora schede individuali pubblicate
+de: Es sind noch keine Einzelseiten veröffentlicht
+ja: 個別の項目はまだ公開されていません
+zh: 尚未发布任何单独条目
+#26
+es: Todavía no hay una imagen con licencia libre comprobada para este lugar.
+en: There is not yet an image with a verified free license for this place.
+fr: Il n’existe pas encore d’image dont la licence libre ait été vérifiée pour ce lieu.
+it: Non c’è ancora un’immagine con licenza libera verificata per questo luogo.
+de: Für diesen Ort gibt es noch kein Bild mit geprüfter freier Lizenz.
+ja: この土地については、自由なライセンスを確認できた画像がまだありません。
+zh: 这个地方暂时还没有核实为自由许可的图像。
+#27
+es: Aún no incluido: el Padrenuestro (texto por contrastar con una fuente antes de publicarlo) y otras oraciones marianas tradicionales, como las Letanías de Nuestra Señora.
+en: Not yet included: the Our Father (text to be checked against a source before publishing) and other traditional Marian prayers, such as the Litany of Our Lady.
+fr: Pas encore inclus : le Notre Père (texte à vérifier à la source avant publication) et d’autres prières mariales traditionnelles, comme les Litanies de Notre-Dame.
+it: Non ancora incluso: il Padre Nostro (testo da verificare su una fonte prima della pubblicazione) e altre preghiere mariane tradizionali, come le Litanie della Madonna.
+de: Noch nicht enthalten: das Vaterunser (Text vor der Veröffentlichung an einer Quelle zu prüfen) und weitere traditionelle Mariengebete, etwa die Lauretanische Litanei.
+ja: まだ収録していないもの：主の祈り（公開前に出典で本文を確認する必要があります）、および「聖母の連祷」などの伝統的な聖母の祈り。
+zh: 尚未收录：天主经（发布前须对照来源核对文本），以及圣母德叙祷文等其他传统圣母祷文。
+#28
+es: Alcance y límites
+en: Scope and limits
+fr: Portée et limites
+it: Portata e limiti
+de: Reichweite und Grenzen
+ja: 適用範囲と限界
+zh: 范围与限度
+#29
+es: Alemania
+en: Germany
+fr: Allemagne
+it: Germania
+de: Deutschland
+ja: ドイツ
+zh: 德国
+#30
+es: Muestra documentada, no una lista completa.
+en: A documented sample, not a complete list.
+fr: Échantillon documenté, et non liste complète.
+it: Campione documentato, non elenco completo.
+de: Dokumentierte Auswahl, keine vollständige Liste.
+ja: 資料に基づく一部の例であり、完全な一覧ではありません。
+zh: 这是有据可查的选样，并非完整名单。
+#31
+es: Muestra investigada, no el mundo entero. Tierras: Natural Earth (dominio público). Coordenadas: Wikidata (CC0).
+en: A researched sample, not the whole world. Land: Natural Earth (public domain). Coordinates: Wikidata (CC0).
+fr: Échantillon étudié, non le monde entier. Terres : Natural Earth (domaine public). Coordonnées : Wikidata (CC0).
+it: Campione studiato, non il mondo intero. Terre: Natural Earth (pubblico dominio). Coordinate: Wikidata (CC0).
+de: Untersuchte Auswahl, nicht die ganze Welt. Landflächen: Natural Earth (gemeinfrei). Koordinaten: Wikidata (CC0).
+ja: 調査済みの一部であり、世界全体ではありません。陸地：Natural Earth（パブリックドメイン）。座標：Wikidata（CC0）。
+zh: 这是已研究的样本，并非整个世界。陆地：Natural Earth（公有领域）。坐标：Wikidata（CC0）。
+#32
+es: Ampliar la obra: {title}
+en: Enlarge the artwork: {title}
+fr: Agrandir l’œuvre : {title}
+it: Ingrandisci l’opera: {title}
+de: Werk vergrößern: {title}
+ja: 作品を拡大：{title}
+zh: 放大作品：{title}
+#33
+es: América Latina
+en: Latin America
+fr: Amérique latine
+it: America Latina
+de: Lateinamerika
+ja: ラテンアメリカ
+zh: 拉丁美洲
+#34
+es: América del Norte
+en: North America
+fr: Amérique du Nord
+it: America del Nord
+de: Nordamerika
+ja: 北アメリカ
+zh: 北美洲
+#35
+es: Aparición
+en: Apparition
+fr: Apparition
+it: Apparizione
+de: Erscheinung
+ja: 聖母出現
+zh: 圣母显现
+#36
+es: Aparición relatada
+en: Reported apparition
+fr: Apparition rapportée
+it: Apparizione riferita
+de: Berichtete Erscheinung
+ja: 報告された出現
+zh: 所报告的显现
+#37
+es: Aparición, {pais}
+en: Apparition, {pais}
+fr: Apparition, {pais}
+it: Apparizione, {pais}
+de: Erscheinung, {pais}
+ja: 聖母出現（{pais}）
+zh: 圣母显现，{pais}
+#38
+es: Apariciones
+en: Apparitions
+fr: Apparitions
+it: Apparizioni
+de: Erscheinungen
+ja: 聖母出現
+zh: 圣母显现
+#39
+es: Las apariciones y la decisión de la Iglesia
+en: Apparitions and the Church’s decision
+fr: Les apparitions et la décision de l’Église
+it: Le apparizioni e la decisione della Chiesa
+de: Die Erscheinungen und die Entscheidung der Kirche
+ja: 聖母出現と教会の判断
+zh: 显现与教会的裁定
+#40
+es: Apariciones relatadas
+en: Reported apparitions
+fr: Apparitions rapportées
+it: Apparizioni riferite
+de: Berichtete Erscheinungen
+ja: 報告された出現
+zh: 所报告的显现
+#41
+es: Aprobación de una devoción o de una imagen
+en: Approval of a devotion or of an image
+fr: Approbation d’une dévotion ou d’une image
+it: Approvazione di una devozione o di un’immagine
+de: Approbation einer Andacht oder eines Bildes
+ja: 信心または聖像の承認
+zh: 对某项敬礼或圣像的认可
+#42
+es: Acercar una región del mapa
+en: Zoom to a region of the map
+fr: Zoomer sur une région de la carte
+it: Ingrandisci una regione della mappa
+de: Eine Region der Karte heranzoomen
+ja: 地図の地域を拡大
+zh: 放大地图上的某个地区
+#43
+es: Arzobispo de Liverpool (anuncio del 8 de diciembre de 2024, según Vatican News)
+en: Archbishop of Liverpool (announcement of 8 December 2024, according to Vatican News)
+fr: Archevêque de Liverpool (annonce du 8 décembre 2024, selon Vatican News)
+it: Arcivescovo di Liverpool (annuncio dell’8 dicembre 2024, secondo Vatican News)
+de: Erzbischof von Liverpool (Ankündigung vom 8. Dezember 2024, laut Vatican News)
+ja: リヴァプール大司教（2024年12月8日の発表、バチカン・ニュースによる）
+zh: 利物浦总主教（2024年12月8日公布，据梵蒂冈新闻网）
+#44
+es: Argelia
+en: Algeria
+fr: Algérie
+it: Algeria
+de: Algerien
+ja: アルジェリア
+zh: 阿尔及利亚
+#45
+es: Arte e iconografía
+en: Art and iconography
+fr: Art et iconographie
+it: Arte e iconografia
+de: Kunst und Ikonographie
+ja: 芸術と図像
+zh: 艺术与圣像学
+#46
+es: Artículo
+en: Article
+fr: Article
+it: Articolo
+de: Artikel
+ja: 記事
+zh: 文章
+#47
+es: Artículos
+en: Articles
+fr: Articles
+it: Articoli
+de: Artikel
+ja: 記事
+zh: 文章

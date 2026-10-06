@@ -1,0 +1,824 @@
+#522
+es: a12.com
+en: a12.com
+fr: a12.com
+it: a12.com
+de: a12.com
+ja: a12.com
+zh: a12.com
+#524
+es: banneux-nd.be
+en: banneux-nd.be
+fr: banneux-nd.be
+it: banneux-nd.be
+de: banneux-nd.be
+ja: banneux-nd.be
+zh: banneux-nd.be
+#525
+es: bernadette-usa.lourdes-france.com
+en: bernadette-usa.lourdes-france.com
+fr: bernadette-usa.lourdes-france.com
+it: bernadette-usa.lourdes-france.com
+de: bernadette-usa.lourdes-france.com
+ja: bernadette-usa.lourdes-france.com
+zh: bernadette-usa.lourdes-france.com
+#526
+es: bible.usccb.org
+en: bible.usccb.org
+fr: bible.usccb.org
+it: bible.usccb.org
+de: bible.usccb.org
+ja: bible.usccb.org
+zh: bible.usccb.org
+#527
+es: biblegateway.com
+en: biblegateway.com
+fr: biblegateway.com
+it: biblegateway.com
+de: biblegateway.com
+ja: biblegateway.com
+zh: biblegateway.com
+#535
+es: fatima.pt
+en: fatima.pt
+fr: fatima.pt
+it: fatima.pt
+de: fatima.pt
+ja: fatima.pt
+zh: fatima.pt
+#536
+es: fides.org
+en: fides.org
+fr: fides.org
+it: fides.org
+de: fides.org
+ja: fides.org
+zh: fides.org
+#544
+es: knockshrine.ie
+en: knockshrine.ie
+fr: knockshrine.ie
+it: knockshrine.ie
+de: knockshrine.ie
+ja: knockshrine.ie
+zh: knockshrine.ie
+#545
+es: lasalette.cef.fr
+en: lasalette.cef.fr
+fr: lasalette.cef.fr
+it: lasalette.cef.fr
+de: lasalette.cef.fr
+ja: lasalette.cef.fr
+zh: lasalette.cef.fr
+#546
+es: lourdes-france.com
+en: lourdes-france.com
+fr: lourdes-france.com
+it: lourdes-france.com
+de: lourdes-france.com
+ja: lourdes-france.com
+zh: lourdes-france.com
+#547
+es: lourdes-france.org
+en: lourdes-france.org
+fr: lourdes-france.org
+it: lourdes-france.org
+de: lourdes-france.org
+ja: lourdes-france.org
+zh: lourdes-france.org
+#549
+es: nationalgallery.org.uk
+en: nationalgallery.org.uk
+fr: nationalgallery.org.uk
+it: nationalgallery.org.uk
+de: nationalgallery.org.uk
+ja: nationalgallery.org.uk
+zh: nationalgallery.org.uk
+#553
+es: press.vatican.va
+en: press.vatican.va
+fr: press.vatican.va
+it: press.vatican.va
+de: press.vatican.va
+ja: press.vatican.va
+zh: press.vatican.va
+#555
+es: sanctuairedebeauraing.be
+en: sanctuairedebeauraing.be
+fr: sanctuairedebeauraing.be
+it: sanctuairedebeauraing.be
+de: sanctuairedebeauraing.be
+ja: sanctuairedebeauraing.be
+zh: sanctuairedebeauraing.be
+#557
+es: socialjustice.catholic.org.au
+en: socialjustice.catholic.org.au
+fr: socialjustice.catholic.org.au
+it: socialjustice.catholic.org.au
+de: socialjustice.catholic.org.au
+ja: socialjustice.catholic.org.au
+zh: socialjustice.catholic.org.au
+#563
+es: vatican.va
+en: vatican.va
+fr: vatican.va
+it: vatican.va
+de: vatican.va
+ja: vatican.va
+zh: vatican.va
+#564
+es: vaticannews.va
+en: vaticannews.va
+fr: vaticannews.va
+it: vaticannews.va
+de: vaticannews.va
+ja: vaticannews.va
+zh: vaticannews.va
+#565
+es: walsingham.org.uk
+en: walsingham.org.uk
+fr: walsingham.org.uk
+it: walsingham.org.uk
+de: walsingham.org.uk
+ja: walsingham.org.uk
+zh: walsingham.org.uk
+#501
+es: Una curación sin explicación médica actual no es automáticamente un milagro. El reconocimiento de un milagro es una decisión eclesiástica, posterior a la investigación médica.
+en: A healing with no current medical explanation is not automatically a miracle. Recognizing a miracle is an ecclesiastical decision, made after the medical investigation.
+fr: Une guérison sans explication médicale actuelle n’est pas automatiquement un miracle. La reconnaissance d’un miracle est une décision ecclésiastique, postérieure à l’enquête médicale.
+it: Una guarigione senza spiegazione medica attuale non è automaticamente un miracolo. Il riconoscimento di un miracolo è una decisione ecclesiastica, successiva all’indagine medica.
+de: Eine Heilung ohne gegenwärtige medizinische Erklärung ist nicht automatisch ein Wunder. Die Anerkennung eines Wunders ist eine kirchliche Entscheidung, die nach der medizinischen Untersuchung getroffen wird.
+ja: 現時点で医学的に説明のつかない治癒が、そのまま奇跡になるわけではありません。奇跡の認定は教会による決定であり、医学的調査のあとに行われます。
+zh: 目前无法用医学解释的痊愈，并不自动等于奇迹。奇迹的认定是教会的决定，在医学调查之后作出。
+#502
+es: Una historia contada en pinturas
+en: A story told in paintings
+fr: Une histoire racontée en peintures
+it: Una storia raccontata in dipinti
+de: Eine Geschichte in Gemälden erzählt
+ja: 絵画で語られる物語
+zh: 用绘画讲述的故事
+#503
+es: Una historia que el arte invita a contemplar y que la Escritura invita a conocer.
+en: A story that art invites us to contemplate, and that Scripture invites us to know.
+fr: Une histoire que l’art invite à contempler et que l’Écriture invite à connaître.
+it: Una storia che l’arte invita a contemplare e che la Scrittura invita a conoscere.
+de: Eine Geschichte, die die Kunst zur Betrachtung einlädt und die die Schrift zu kennen einlädt.
+ja: 芸術が観想へと誘い、聖書が知るよう招いている物語。
+zh: 一段艺术邀人默观、圣经邀人认识的故事。
+#504
+es: Una lectura guiada
+en: A guided reading
+fr: Une lecture guidée
+it: Una lettura guidata
+de: Eine geführte Lektüre
+ja: ガイド付きの読み物
+zh: 导读
+#505
+es: Una lectura guiada en orden narrativo, siguiendo la Escritura. En cada capítulo, lo que dice la Biblia queda separado de la doctrina de la Iglesia, de la tradición y de las notas del proyecto.
+en: A guided reading in narrative order, following Scripture. In each chapter, what the Bible says is kept separate from the Church’s teaching, from tradition, and from the project’s notes.
+fr: Une lecture guidée dans l’ordre du récit, à la suite de l’Écriture. Dans chaque chapitre, ce que dit la Bible est distingué de la doctrine de l’Église, de la tradition et des notes du projet.
+it: Una lettura guidata in ordine narrativo, che segue la Scrittura. In ogni capitolo, ciò che dice la Bibbia è tenuto distinto dalla dottrina della Chiesa, dalla tradizione e dalle note del progetto.
+de: Eine geführte Lektüre in erzählerischer Reihenfolge, entlang der Schrift. In jedem Kapitel wird getrennt, was die Bibel sagt, was die Lehre der Kirche ist, was die Tradition überliefert und was die Anmerkungen des Projekts beisteuern.
+ja: 聖書に沿って、物語の順に進むガイド付きの読み物です。各章では、聖書が語っていること、教会の教え、伝承、そしてこのプロジェクトの注記を、分けて示しています。
+zh: 按叙事顺序、顺着圣经展开的导读。每一章都把圣经所说、教会的教导、传统以及本站的注释分开呈现。
+#506
+es: Una oración
+en: A prayer
+fr: Une prière
+it: Una preghiera
+de: Ein Gebet
+ja: ひとつの祈り
+zh: 一篇祷文
+#507
+es: Una oración sencilla que recorre, con María, los misterios de la vida de Jesús. Se puede rezar despacio, en poco o mucho tiempo.
+en: A simple prayer that walks, with Mary, through the mysteries of the life of Jesus. It can be prayed slowly, in a little time or a lot.
+fr: Une prière simple qui parcourt, avec Marie, les mystères de la vie de Jésus. On peut la prier lentement, en peu ou en beaucoup de temps.
+it: Una preghiera semplice che percorre, con Maria, i misteri della vita di Gesù. Si può recitare lentamente, in poco o in molto tempo.
+de: Ein schlichtes Gebet, das mit Maria die Geheimnisse des Lebens Jesu durchschreitet. Es lässt sich langsam beten, in kurzer oder in langer Zeit.
+ja: マリアとともに、イエスの生涯の神秘をたどる素朴な祈りです。時間の長短を問わず、ゆっくりと唱えることができます。
+zh: 一篇朴素的祷文，与玛利亚一同默想耶稣生平的奥迹。可以慢慢地念，时间长短皆宜。
+#508
+es: Usada en
+en: Used in
+fr: Utilisée dans
+it: Usata in
+de: Verwendet in
+ja: 使用される場面
+zh: 用于
+#509
+es: Vatican News (Dicasterio para la Comunicación)
+en: Vatican News (Dicastery for Communication)
+fr: Vatican News (Dicastère pour la Communication)
+it: Vatican News (Dicastero per la Comunicazione)
+de: Vatican News (Dikasterium für die Kommunikation)
+ja: バチカン・ニュース（広報省）
+zh: 梵蒂冈新闻网（传播部）
+#510
+es: Ver la obra completa
+en: See the whole artwork
+fr: Voir l’œuvre entière
+it: Vedi l’opera intera
+de: Das ganze Werk ansehen
+ja: 作品全体を見る
+zh: 查看作品全貌
+#511
+es: Ver el catálogo de apariciones
+en: See the catalog of apparitions
+fr: Voir le catalogue des apparitions
+it: Vedi il catalogo delle apparizioni
+de: Katalog der Erscheinungen ansehen
+ja: 聖母出現の一覧を見る
+zh: 查看圣母显现目录
+#512
+es: Ver el mundo entero
+en: See the whole world
+fr: Voir le monde entier
+it: Vedi il mondo intero
+de: Die ganze Welt ansehen
+ja: 世界全体を見る
+zh: 查看全世界
+#513
+es: Ver los capítulos en lista
+en: See the chapters as a list
+fr: Voir les chapitres en liste
+it: Vedi i capitoli in elenco
+de: Kapitel als Liste ansehen
+ja: 章を一覧で見る
+zh: 以列表查看各章
+#514
+es: Ver toda la galería
+en: See the whole gallery
+fr: Voir toute la galerie
+it: Vedi tutta la galleria
+de: Die ganze Galerie ansehen
+ja: ギャラリーをすべて見る
+zh: 查看全部图库
+#515
+es: Ver todos los capítulos
+en: See all chapters
+fr: Voir tous les chapitres
+it: Vedi tutti i capitoli
+de: Alle Kapitel ansehen
+ja: すべての章を見る
+zh: 查看全部章节
+#516
+es: Ver: {lista}
+en: See: {lista}
+fr: Voir : {lista}
+it: Vedi: {lista}
+de: Siehe: {lista}
+ja: 参照：{lista}
+zh: 参见：{lista}
+#517
+es: Verdad propuesta por la Iglesia de modo definitivo como revelada por Dios (por ejemplo, la Inmaculada Concepción y la Asunción).
+en: A truth proposed by the Church in a definitive way as revealed by God (for example, the Immaculate Conception and the Assumption).
+fr: Vérité proposée par l’Église de manière définitive comme révélée par Dieu (par exemple, l’Immaculée Conception et l’Assomption).
+it: Verità proposta dalla Chiesa in modo definitivo come rivelata da Dio (per esempio, l’Immacolata Concezione e l’Assunzione).
+de: Eine Wahrheit, die die Kirche endgültig als von Gott geoffenbart vorlegt (zum Beispiel die Unbefleckte Empfängnis und die Aufnahme in den Himmel).
+ja: 神から啓示されたものとして、教会が決定的な仕方で示す真理（たとえば無原罪の御宿りと聖母の被昇天）。
+zh: 教会以终局方式提出、作为天主所启示的真理（例如圣母无原罪始胎和圣母升天）。
+#518
+es: Estás en
+en: You are in
+fr: Vous êtes à
+it: Ti trovi in
+de: Du bist in
+ja: 現在地：
+zh: 您当前位置：
+#519
+es: Wikimedia Commons
+en: Wikimedia Commons
+fr: Wikimedia Commons
+it: Wikimedia Commons
+de: Wikimedia Commons
+ja: ウィキメディア・コモンズ
+zh: 维基共享资源
+#520
+es: Fundación Wikimedia (datos abiertos, licencia CC0)
+en: Wikimedia Foundation (open data, CC0 license)
+fr: Fondation Wikimedia (données ouvertes, licence CC0)
+it: Wikimedia Foundation (dati aperti, licenza CC0)
+de: Wikimedia Foundation (offene Daten, Lizenz CC0)
+ja: ウィキメディア財団（オープンデータ、CC0ライセンス）
+zh: 维基媒体基金会（开放数据，CC0 许可）
+#521
+es: Wikipedia (enciclopedia colaborativa, fuente terciaria)
+en: Wikipedia (collaborative encyclopedia, tertiary source)
+fr: Wikipédia (encyclopédie collaborative, source tertiaire)
+it: Wikipedia (enciclopedia collaborativa, fonte terziaria)
+de: Wikipedia (kollaborative Enzyklopädie, Tertiärquelle)
+ja: ウィキペディア（共同編集の百科事典、三次資料）
+zh: 维基百科（协作式百科全书，三级来源）
+#523
+es: aún no realizada
+en: not yet carried out
+fr: pas encore réalisée
+it: non ancora svolta
+de: noch nicht durchgeführt
+ja: 未実施
+zh: 尚未进行
+#529
+es: hacia {x}
+en: c. {x}
+fr: vers {x}
+it: circa {x}
+de: um {x}
+ja: {x}年頃
+zh: 约 {x} 年
+#531
+es: fecha no indicada
+en: date not given
+fr: date non indiquée
+it: data non indicata
+de: Datum nicht angegeben
+ja: 日付の記載なし
+zh: 未注明日期
+#532
+es: digitalización de la Bibliothèque de Toulouse, indicada en el archivo de Commons
+en: scan from the Bibliothèque de Toulouse, as indicated in the Commons file
+fr: numérisation de la Bibliothèque de Toulouse, indiquée dans le fichier de Commons
+it: digitalizzazione della Bibliothèque de Toulouse, indicata nel file di Commons
+de: Digitalisat der Bibliothèque de Toulouse, laut Angabe in der Commons-Datei
+ja: トゥールーズ図書館によるデジタル化（コモンズのファイルに記載）
+zh: 图卢兹图书馆的数字化版本（见共享资源文件说明）
+#533
+es: en {lugar}
+en: in {lugar}
+fr: à {lugar}
+it: a {lugar}
+de: in {lugar}
+ja: {lugar}
+zh: 位于{lugar}
+#534
+es: grabado
+en: print
+fr: estampe
+it: stampa
+de: Druck
+ja: 版画
+zh: 版画
+#537
+es: finales de la década de 1480
+en: late 1480s
+fr: fin des années 1480
+it: fine degli anni Ottanta del Quattrocento
+de: späte 1480er-Jahre
+ja: 1480年代後半
+zh: 15世纪80年代末
+#538
+es: fotografía
+en: photograph
+fr: photographie
+it: fotografia
+de: Fotografie
+ja: 写真
+zh: 照片
+#539
+es: fotografía de la imagen venerada
+en: photograph of the venerated image
+fr: photographie de l’image vénérée
+it: fotografia dell’immagine venerata
+de: Fotografie des verehrten Bildes
+ja: 崇敬されている聖像の写真
+zh: 受敬礼圣像的照片
+#540
+es: Iglesia universal
+en: universal Church
+fr: Église universelle
+it: Chiesa universale
+de: Weltkirche
+ja: 普遍教会
+zh: 普世教会
+#541
+es: indicación de crédito en el archivo: página de la causa de beatificación de la Hermana Lucía
+en: credit given in the file: page of the cause for beatification of Sister Lúcia
+fr: mention de crédit dans le fichier : page de la cause de béatification de sœur Lucie
+it: indicazione di credito nel file: pagina della causa di beatificazione di suor Lucia
+de: Urhebervermerk in der Datei: Seite des Seligsprechungsverfahrens von Schwester Lúcia
+ja: ファイルに記載されたクレジット：シスター・ルシアの列福調査のページ
+zh: 文件中标明的出处：露西亚修女列福案的网页
+#542
+es: comienzos de la década de 1460
+en: early 1460s
+fr: début des années 1460
+it: inizio degli anni Sessanta del Quattrocento
+de: frühe 1460er-Jahre
+ja: 1460年代前半
+zh: 15世纪60年代初
+#543
+es: comienzos de la década de 1480
+en: early 1480s
+fr: début des années 1480
+it: inizio degli anni Ottanta del Quattrocento
+de: frühe 1480er-Jahre
+ja: 1480年代前半
+zh: 15世纪80年代初
+#548
+es: madera policromada y dorada
+en: polychrome and gilded wood
+fr: bois polychrome et doré
+it: legno policromo e dorato
+de: gefasstes und vergoldetes Holz
+ja: 彩色・金箔の木彫
+zh: 彩绘贴金木雕
+#550
+es: no informada en la fuente
+en: not given in the source
+fr: non indiquée dans la source
+it: non indicata nella fonte
+de: in der Quelle nicht angegeben
+ja: 出典に記載なし
+zh: 来源未说明
+#551
+es: países
+en: countries
+fr: pays
+it: paesi
+de: Länder
+ja: 国
+zh: 国家
+#552
+es: en el mundo
+en: around the world
+fr: dans le monde
+it: nel mondo
+de: weltweit
+ja: 世界各地
+zh: 世界各地
+#554
+es: reproducción disponible en Wikimedia Commons; archivo identificado como de la National Gallery de Londres
+en: reproduction available on Wikimedia Commons; file identified as from the National Gallery, London
+fr: reproduction disponible sur Wikimedia Commons ; fichier identifié comme provenant de la National Gallery de Londres
+it: riproduzione disponibile su Wikimedia Commons; file identificato come della National Gallery di Londra
+de: Reproduktion auf Wikimedia Commons verfügbar; Datei als zur National Gallery in London gehörig gekennzeichnet
+ja: ウィキメディア・コモンズで入手できる複製。ファイルはロンドンのナショナル・ギャラリー所蔵として記載されている
+zh: 可在维基共享资源获得的复制品；文件注明属于伦敦国家美术馆
+#556
+es: santuarios
+en: shrines
+fr: sanctuaires
+it: santuari
+de: Heiligtümer
+ja: 聖地
+zh: 圣地
+#558
+es: siglo XV
+en: 15th century
+fr: XVe siècle
+it: XV secolo
+de: 15. Jahrhundert
+ja: 15世紀
+zh: 15世纪
+#559
+es: temple y óleo sobre tabla
+en: tempera and oil on panel
+fr: détrempe et huile sur bois
+it: tempera e olio su tavola
+de: Tempera und Öl auf Holz
+ja: 板に描かれたテンペラと油彩
+zh: 木板蛋彩与油彩
+#560
+es: temple sobre tabla
+en: tempera on panel
+fr: détrempe sur bois
+it: tempera su tavola
+de: Tempera auf Holz
+ja: 板にテンペラ
+zh: 木板蛋彩
+#561
+es: temple sobre tabla, fondo dorado
+en: tempera on panel, gold ground
+fr: détrempe sur bois, fond d’or
+it: tempera su tavola, fondo oro
+de: Tempera auf Holz, Goldgrund
+ja: 板にテンペラ、金地
+zh: 木板蛋彩，金色背景
+#562
+es: títulos investigados
+en: titles researched
+fr: titres étudiés
+it: titoli studiati
+de: erforschte Titel
+ja: 調査した称号
+zh: 已研究的称号
+#566
+es: xilografía
+en: woodcut
+fr: gravure sur bois
+it: xilografia
+de: Holzschnitt
+ja: 木版画
+zh: 木刻版画
+#567
+es: {autoridade} ({nivel})
+en: {autoridade} ({nivel})
+fr: {autoridade} ({nivel})
+it: {autoridade} ({nivel})
+de: {autoridade} ({nivel})
+ja: {autoridade}（{nivel}）
+zh: {autoridade}（{nivel}）
+#568
+es: {autoridade}: {tipos} ({titulo})
+en: {autoridade}: {tipos} ({titulo})
+fr: {autoridade} : {tipos} ({titulo})
+it: {autoridade}: {tipos} ({titulo})
+de: {autoridade}: {tipos} ({titulo})
+ja: {autoridade}：{tipos}（{titulo}）
+zh: {autoridade}：{tipos}（{titulo}）
+#569
+es: {autor}, {data}. {tecnica}. {instituicao}.
+en: {autor}, {data}. {tecnica}. {instituicao}.
+fr: {autor}, {data}. {tecnica}. {instituicao}.
+it: {autor}, {data}. {tecnica}. {instituicao}.
+de: {autor}, {data}. {tecnica}. {instituicao}.
+ja: {autor}、{data}。{tecnica}。{instituicao}。
+zh: {autor}，{data}。{tecnica}。{instituicao}。
+#570
+es: {a} a {b}
+en: {a} to {b}
+fr: {a} à {b}
+it: da {a} a {b}
+de: {a} bis {b}
+ja: {a}〜{b}
+zh: {a}至{b}
+#571
+es: {cat}, parte {i} de {n}
+en: {cat}, part {i} of {n}
+fr: {cat}, partie {i} sur {n}
+it: {cat}, parte {i} di {n}
+de: {cat}, Teil {i} von {n}
+ja: {cat}（{i}/{n}）
+zh: {cat}，第 {i} 部分，共 {n} 部分
+#572
+es: {cat}: {n} páginas con fuentes identificadas.
+en: {cat}: {n} pages with identified sources.
+fr: {cat} : {n} pages avec sources identifiées.
+it: {cat}: {n} pagine con fonti identificate.
+de: {cat}: {n} Seiten mit nachgewiesenen Quellen.
+ja: {cat}：出典を明示したページが{n}件。
+zh: {cat}：共 {n} 个附有明确来源的页面。
+#573
+es: {data}. {autoridade}
+en: {data}. {autoridade}
+fr: {data}. {autoridade}
+it: {data}. {autoridade}
+de: {data}. {autoridade}
+ja: {data}。{autoridade}
+zh: {data}。{autoridade}
+#574
+es: {lugar} ({pais}) · reconocimiento: {data}
+en: {lugar} ({pais}) · recognized: {data}
+fr: {lugar} ({pais}) · reconnaissance : {data}
+it: {lugar} ({pais}) · riconoscimento: {data}
+de: {lugar} ({pais}) · Anerkennung: {data}
+ja: {lugar}（{pais}）· 認定：{data}
+zh: {lugar}（{pais}）· 认可：{data}
+#575
+es: {lugar}, {localidade} ({pais}), <a href="{link}">{titulo}</a>
+en: {lugar}, {localidade} ({pais}), <a href="{link}">{titulo}</a>
+fr: {lugar}, {localidade} ({pais}), <a href="{link}">{titulo}</a>
+it: {lugar}, {localidade} ({pais}), <a href="{link}">{titulo}</a>
+de: {lugar}, {localidade} ({pais}), <a href="{link}">{titulo}</a>
+ja: {lugar}、{localidade}（{pais}）、<a href="{link}">{titulo}</a>
+zh: {lugar}，{localidade}（{pais}），<a href="{link}">{titulo}</a>
+#576
+es: {n} capítulos, en el orden de la narración. En cada uno, lo que dice la Biblia queda separado de la doctrina de la Iglesia y de la tradición posterior.
+en: {n} chapters, in narrative order. In each one, what the Bible says is kept separate from the Church’s teaching and from later tradition.
+fr: {n} chapitres, dans l’ordre du récit. Dans chacun, ce que dit la Bible est distingué de la doctrine de l’Église et de la tradition postérieure.
+it: {n} capitoli, in ordine narrativo. In ciascuno, ciò che dice la Bibbia è tenuto distinto dalla dottrina della Chiesa e dalla tradizione successiva.
+de: {n} Kapitel in erzählerischer Reihenfolge. In jedem wird getrennt, was die Bibel sagt, was die Lehre der Kirche ist und was die spätere Tradition überliefert.
+ja: 物語の順に{n}章。各章では、聖書が語っていることを、教会の教えや後代の伝承と分けて示しています。
+zh: 共 {n} 章，按叙事顺序排列。每一章都把圣经所说与教会的教导及后世传统分开呈现。
+#577
+es: {n} oración(es)
+en: {n} prayer(s)
+fr: {n} prière(s)
+it: {n} preghiera/e
+de: {n} Gebet(e)
+ja: 祈り{n}件
+zh: {n} 篇祷文
+#578
+es: {n} registro(s)
+en: {n} record(s)
+fr: {n} fiche(s)
+it: {n} scheda/e
+de: {n} Eintrag/Einträge
+ja: {n}件
+zh: {n} 条记录
+#579
+es: {n} resultado(s)
+en: {n} result(s)
+fr: {n} résultat(s)
+it: {n} risultato/i
+de: {n} Ergebnis(se)
+ja: {n}件の結果
+zh: {n} 条结果
+#580
+es: {oracao}, en la redacción del Compendio del Catecismo en el sitio web del Vaticano.
+en: {oracao}, in the wording of the Compendium of the Catechism on the Vatican website.
+fr: {oracao}, dans la rédaction du Compendium du Catéchisme sur le site du Vatican.
+it: {oracao}, nella formulazione del Compendio del Catechismo sul sito del Vaticano.
+de: {oracao}, in der Fassung des Kompendiums des Katechismus auf der Website des Vatikans.
+ja: {oracao}。バチカンのウェブサイトにある『カトリック教会のカテキズムのコンペンディウム』の文言による。
+zh: {oracao}，依梵蒂冈网站上《天主教教理简编》的文本。
+#581
+es: {quando} · {grau} · {ambito}
+en: {quando} · {grau} · {ambito}
+fr: {quando} · {grau} · {ambito}
+it: {quando} · {grau} · {ambito}
+de: {quando} · {grau} · {ambito}
+ja: {quando} · {grau} · {ambito}
+zh: {quando} · {grau} · {ambito}
+#582
+es: {site} ({sub}) es un proyecto personal de devoción a Nuestra Señora, público, gratuito y sin fines de lucro.
+en: {site} ({sub}) is a personal project of devotion to Our Lady, public, free of charge and not for profit.
+fr: {site} ({sub}) est un projet personnel de dévotion à Notre-Dame, public, gratuit et à but non lucratif.
+it: {site} ({sub}) è un progetto personale di devozione alla Madonna, pubblico, gratuito e senza scopo di lucro.
+de: {site} ({sub}) ist ein persönliches Projekt der Marienverehrung – öffentlich, kostenlos und ohne Gewinnabsicht.
+ja: {site}（{sub}）は、聖母への信心にもとづく個人のプロジェクトで、公開・無料・非営利です。
+zh: {site}（{sub}）是一个出于对圣母的敬爱而做的个人项目，公开、免费、非营利。
+#583
+es: {tipos}: {nivel}, {data}
+en: {tipos}: {nivel}, {data}
+fr: {tipos} : {nivel}, {data}
+it: {tipos}: {nivel}, {data}
+de: {tipos}: {nivel}, {data}
+ja: {tipos}：{nivel}、{data}
+zh: {tipos}：{nivel}，{data}
+#584
+es: {value} (aproximada)
+en: {value} (approximate)
+fr: {value} (approximative)
+it: {value} (approssimata)
+de: {value} (ungefähr)
+ja: {value}（概算）
+zh: {value}（约数）
+#585
+es: África
+en: Africa
+fr: Afrique
+it: Africa
+de: Afrika
+ja: アフリカ
+zh: 非洲
+#586
+es: Asia
+en: Asia
+fr: Asie
+it: Asia
+de: Asien
+ja: アジア
+zh: 亚洲
+#587
+es: Austria
+en: Austria
+fr: Autriche
+it: Austria
+de: Österreich
+ja: オーストリア
+zh: 奥地利
+#588
+es: Ámbito continental
+en: Continental scope
+fr: Portée continentale
+it: Ambito continentale
+de: Kontinentaler Rahmen
+ja: 大陸規模
+zh: 大陆范围
+#589
+es: Ámbito local
+en: Local scope
+fr: Portée locale
+it: Ambito locale
+de: Lokaler Rahmen
+ja: 地方規模
+zh: 地方范围
+#590
+es: Ámbito nacional
+en: National scope
+fr: Portée nationale
+it: Ambito nazionale
+de: Nationaler Rahmen
+ja: 国規模
+zh: 国家范围
+#591
+es: Es un esfuerzo independiente por reunir, con fuentes, la historia de María, su lugar en la fe católica, las apariciones, las devociones y los milagros atribuidos a su intercesión. <strong>No es un órgano oficial de la Iglesia católica</strong>, no habla en nombre de ninguna diócesis, santuario o institución y no tiene vínculo institucional declarado. Tampoco tiene anuncios, tienda, suscripciones, comentarios públicos, recopilación de testimonios médicos ni registro de usuarios.
+en: This is an independent effort to gather, with sources, the story of Mary, her place in the Catholic faith, the apparitions, the devotions, and the miracles attributed to her intercession. <strong>It is not an official body of the Catholic Church</strong>, does not speak on behalf of any diocese, shrine, or institution, and has no declared institutional affiliation. It also has no ads, no shop, no subscriptions, no public comments, no collection of medical testimonies, and no sign-up.
+fr: Il s’agit d’un effort indépendant pour rassembler, avec ses sources, l’histoire de Marie, sa place dans la foi catholique, les apparitions, les dévotions et les miracles attribués à son intercession. <strong>Ce n’est pas un organe officiel de l’Église catholique</strong> ; il ne parle au nom d’aucun diocèse, sanctuaire ou institution et n’a aucun lien institutionnel déclaré. Il n’a ni publicité, ni boutique, ni abonnement, ni commentaires publics, ni collecte de témoignages médicaux, ni inscription.
+it: È uno sforzo indipendente per raccogliere, con le fonti, la storia di Maria, il suo posto nella fede cattolica, le apparizioni, le devozioni e i miracoli attribuiti alla sua intercessione. <strong>Non è un organo ufficiale della Chiesa cattolica</strong>, non parla a nome di alcuna diocesi, santuario o istituzione e non ha alcun legame istituzionale dichiarato. Non ha neppure pubblicità, negozio, abbonamenti, commenti pubblici, raccolta di testimonianze mediche né registrazione.
+de: Dies ist ein unabhängiges Vorhaben, die Geschichte Marias, ihren Platz im katholischen Glauben, die Erscheinungen, die Andachten und die ihrer Fürsprache zugeschriebenen Wunder mit Quellen zusammenzutragen. <strong>Es ist keine offizielle Stelle der katholischen Kirche</strong>, spricht nicht im Namen eines Bistums, Heiligtums oder einer Einrichtung und hat keine erklärte institutionelle Anbindung. Es gibt auch keine Werbung, keinen Shop, keine Abos, keine öffentlichen Kommentare, keine Sammlung medizinischer Zeugnisse und keine Registrierung.
+ja: これは、マリアの物語、カトリック信仰における位置づけ、聖母出現、信心、そしてその取り次ぎによるとされる奇跡を、出典とともにまとめようとする独立した取り組みです。<strong>カトリック教会の公式機関ではなく</strong>、いかなる教区・聖地・団体の名においても発言しておらず、団体としての所属も表明していません。広告、ショップ、購読、公開コメント、医療に関する証言の収集、会員登録もありません。
+zh: 这是一项独立的尝试，旨在附上来源，汇集玛利亚的故事、她在天主教信仰中的地位、圣母显现、各种敬礼，以及被归于她代祷的奇迹。<strong>本站不是天主教会的官方机构</strong>，不代表任何教区、圣地或组织发言，也没有声明与任何机构有隶属关系。本站没有广告、商店、订阅、公开评论、医疗见证征集，也无需注册。
+#592
+es: Órgano de la Curia Romana que, entre otras tareas, publica las normas para el discernimiento de fenómenos sobrenaturales (2024).
+en: Body of the Roman Curia that, among other tasks, publishes the norms for the discernment of supernatural phenomena (2024).
+fr: Organisme de la Curie romaine qui, entre autres tâches, publie les normes pour le discernement des phénomènes surnaturels (2024).
+it: Organismo della Curia Romana che, tra le altre funzioni, pubblica le norme per il discernimento dei fenomeni soprannaturali (2024).
+de: Behörde der Römischen Kurie, die unter anderem die Normen zur Unterscheidung übernatürlicher Phänomene veröffentlicht (2024).
+ja: ローマ教皇庁（ローマ・クリア）の機関で、さまざまな任務のなかでも、超自然的とされる現象を識別するための規範（2024年）を公布しています。
+zh: 罗马教廷的机构，职责之一是颁布辨别超自然现象的规范（2024年）。
+#593
+es: Última actualización: {data}.
+en: Last updated: {data}.
+fr: Dernière mise à jour : {data}.
+it: Ultimo aggiornamento: {data}.
+de: Zuletzt aktualisiert: {data}.
+ja: 最終更新：{data}。
+zh: 最后更新：{data}。
+#594
+es: Última verificación
+en: Last verified
+fr: Dernière vérification
+it: Ultima verifica
+de: Zuletzt geprüft
+ja: 最終確認
+zh: 最后核对
+#595
+es: Última verificación documental: <time datetime="{iso}">{data}</time> · Revisión teológica humana: {estado}.
+en: Last documentary check: <time datetime="{iso}">{data}</time> · Human theological review: {estado}.
+fr: Dernière vérification documentaire : <time datetime="{iso}">{data}</time> · Relecture théologique humaine : {estado}.
+it: Ultima verifica documentale: <time datetime="{iso}">{data}</time> · Revisione teologica umana: {estado}.
+de: Letzte Quellenprüfung: <time datetime="{iso}">{data}</time> · Menschliche theologische Prüfung: {estado}.
+ja: 最終の文献確認：<time datetime="{iso}">{data}</time> · 人による神学的な確認：{estado}。
+zh: 最后一次文献核对：<time datetime="{iso}">{data}</time> · 人工神学审阅：{estado}。
+#596
+es: ámbito continental
+en: continental scope
+fr: portée continentale
+it: ambito continentale
+de: kontinentaler Rahmen
+ja: 大陸規模
+zh: 大陆范围
+#597
+es: ámbito local
+en: local scope
+fr: portée locale
+it: ambito locale
+de: lokaler Rahmen
+ja: 地方規模
+zh: 地方范围
+#598
+es: ámbito nacional
+en: national scope
+fr: portée nationale
+it: ambito nazionale
+de: nationaler Rahmen
+ja: 国規模
+zh: 国家范围
+#599
+es: óleo y oro sobre tabla
+en: oil and gold on panel
+fr: huile et or sur bois
+it: olio e oro su tavola
+de: Öl und Gold auf Holz
+ja: 板に油彩と金
+zh: 木板油彩与金
+#600
+es: óleo sobre tabla
+en: oil on panel
+fr: huile sur bois
+it: olio su tavola
+de: Öl auf Holz
+ja: 板に油彩
+zh: 木板油彩
+#601
+es: óleo sobre pícea
+en: oil on spruce
+fr: huile sur épicéa
+it: olio su abete rosso
+de: Öl auf Fichtenholz
+ja: トウヒ材に油彩
+zh: 云杉木板油彩
+#602
+es: óleo sobre lienzo
+en: oil on canvas
+fr: huile sur toile
+it: olio su tela
+de: Öl auf Leinwand
+ja: キャンバスに油彩
+zh: 布面油彩
+#=12 de junho de 2005 (segundo os dados Exif)
+es: 12 de junio de 2005 (según los datos Exif)
+en: 12 June 2005 (according to Exif data)
+fr: 12 juin 2005 (d’après les données Exif)
+it: 12 giugno 2005 (secondo i dati Exif)
+de: 12. Juni 2005 (laut Exif-Daten)
+ja: 2005年6月12日（Exifデータによる）
+zh: 2005年6月12日（据 Exif 数据）
+#=1531 ou antes
+es: 1531 o antes
+en: 1531 or earlier
+fr: 1531 ou avant
+it: 1531 o prima
+de: 1531 oder früher
+ja: 1531年またはそれ以前
+zh: 1531年或更早
+#=até 1385
+es: hasta 1385
+en: by 1385
+fr: au plus tard en 1385
+it: entro il 1385
+de: spätestens 1385
+ja: 1385年までに
+zh: 不晚于1385年
