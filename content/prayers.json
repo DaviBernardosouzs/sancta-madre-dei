@@ -1,0 +1,224 @@
+[
+  {
+    "id": "ora-sinal-da-cruz",
+    "slug": "sinal-da-cruz",
+    "type": "oracao",
+    "status": "published",
+    "title": "Sinal da Cruz",
+    "summary": "A oração com que começa e termina a oração cristã.",
+    "text": [
+      "Em nome do Pai e do Filho e do Espírito Santo.",
+      "Ámen."
+    ],
+    "provenance": "Compêndio do Catecismo da Igreja Católica, Apêndice (versão em português, sítio do Vaticano).",
+    "rights": "Oração tradicional da Igreja. A redação em português segue a edição do Compêndio no sítio do Vaticano, de uso comum; direitos autorais da tradução/edição não foram objeto de parecer jurídico. Reproduzida em extensão curta com indicação da fonte.",
+    "sources": [
+      "compendio-ccc-oracoes"
+    ],
+    "marian": false,
+    "relations": {
+      "devotions": [
+        "dev-rosario"
+      ]
+    },
+    "review": {
+      "state": "texto-conferido-na-fonte",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    },
+    "banner": "img-virgem-em-oracao"
+  },
+  {
+    "id": "ora-gloria",
+    "slug": "gloria-ao-pai",
+    "type": "oracao",
+    "status": "published",
+    "title": "Glória ao Pai",
+    "summary": "Doxologia trinitária rezada ao fim de cada dezena do Rosário.",
+    "text": [
+      "Glória ao Pai e ao Filho e ao Espírito Santo.",
+      "Como era, no princípio, agora e sempre.",
+      "Ámen."
+    ],
+    "provenance": "Compêndio do Catecismo da Igreja Católica, Apêndice (versão em português, sítio do Vaticano).",
+    "rights": "Oração tradicional da Igreja. Redação conforme a edição do Compêndio no Vaticano; direitos da tradução/edição não verificados juridicamente.",
+    "sources": [
+      "compendio-ccc-oracoes"
+    ],
+    "marian": false,
+    "relations": {
+      "devotions": [
+        "dev-rosario"
+      ]
+    },
+    "review": {
+      "state": "texto-conferido-na-fonte",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    },
+    "banner": "img-virgem-em-oracao"
+  },
+  {
+    "id": "ora-ave-maria",
+    "slug": "ave-maria",
+    "type": "oracao",
+    "status": "published",
+    "title": "Avé Maria",
+    "summary": "A saudação a Maria que combina palavras do Evangelho e um pedido de intercessão; núcleo do Rosário.",
+    "text": [
+      "Avé Maria, cheia de graça, o Senhor é convosco, bendita sois vós entre as mulheres e bendito é o fruto do vosso ventre, Jesus.",
+      "Santa Maria, Mãe de Deus, rogai por nós pecadores, agora e na hora da nossa morte.",
+      "Ámen."
+    ],
+    "provenance": "Compêndio do Catecismo da Igreja Católica, Apêndice (versão em português de Portugal). A primeira parte reúne palavras de Lc 1,28 e Lc 1,42 (ver Vaticano, mistérios gozosos, que cita Lc 1,42).",
+    "rights": "Oração tradicional. Redação conforme o Compêndio no sítio do Vaticano; direitos da edição/tradução não verificados juridicamente. Em português do Brasil é comum «Ave-Maria» e «Santa Maria, Mãe de Deus, rogai por nós, pecadores...»; a redação adotada nas paróquias pode variar.",
+    "sources": [
+      "compendio-ccc-oracoes",
+      "vaticano-misterios-rosario"
+    ],
+    "marian": true,
+    "relations": {
+      "devotions": [
+        "dev-rosario"
+      ]
+    },
+    "review": {
+      "state": "texto-conferido-na-fonte",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    },
+    "banner": "img-virgem-em-oracao"
+  },
+  {
+    "id": "ora-salve-rainha",
+    "slug": "salve-rainha",
+    "type": "oracao",
+    "status": "published",
+    "title": "Salve Rainha",
+    "summary": "Antífona mariana tradicional, frequentemente rezada ao final do Rosário.",
+    "text": [
+      "Salve, Rainha, mãe de misericórdia, vida, doçura, esperança nossa, salve!",
+      "A Vós bradamos, os degredados filhos de Eva.",
+      "A Vós suspiramos, gemendo e chorando neste vale de lágrimas.",
+      "Eia, pois, advogada nossa, esses Vossos olhos misericordiosos a nós volvei.",
+      "E, depois deste desterro, nos mostrai Jesus, bendito fruto do Vosso ventre.",
+      "Ó clemente, ó piedosa, ó doce Virgem Maria.",
+      "Rogai por nós, Santa Mãe de Deus, para que sejamos dignos das promessas de Cristo."
+    ],
+    "provenance": "Compêndio do Catecismo da Igreja Católica, Apêndice (versão em português, sítio do Vaticano).",
+    "rights": "Oração tradicional. Redação conforme o Compêndio no Vaticano; direitos da edição/tradução não verificados juridicamente.",
+    "sources": [
+      "compendio-ccc-oracoes"
+    ],
+    "marian": true,
+    "relations": {
+      "devotions": [
+        "dev-rosario"
+      ]
+    },
+    "review": {
+      "state": "texto-conferido-na-fonte",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    },
+    "banner": "img-virgem-em-oracao"
+  },
+  {
+    "id": "ora-sob-a-vossa-protecao",
+    "slug": "sob-a-tua-protecao",
+    "type": "oracao",
+    "status": "published",
+    "title": "Sob a Tua Protecção",
+    "summary": "Antiga prece de confiança em Maria nas necessidades.",
+    "text": [
+      "À Vossa protecção, recorremos, Santa Mãe de Deus; não desprezeis as nossas súplicas em nossas necessidades; mas livrai-nos de todos os perigos, ó Virgem gloriosa e bendita."
+    ],
+    "provenance": "Compêndio do Catecismo da Igreja Católica, Apêndice (versão em português, sítio do Vaticano).",
+    "rights": "Oração tradicional. Redação conforme o Compêndio no Vaticano; direitos da edição/tradução não verificados juridicamente.",
+    "sources": [
+      "compendio-ccc-oracoes"
+    ],
+    "marian": true,
+    "relations": {
+      "devotions": []
+    },
+    "review": {
+      "state": "texto-conferido-na-fonte",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    },
+    "banner": "img-virgem-em-oracao"
+  },
+  {
+    "id": "ora-magnificat",
+    "slug": "magnificat",
+    "type": "oracao",
+    "status": "published",
+    "title": "Magnificat",
+    "summary": "O cântico de Maria em Lc 1,46-55, rezado na liturgia das horas.",
+    "text": [
+      "A minha alma glorifica ao Senhor e o meu espírito se alegra em Deus, meu Salvador.",
+      "Porque pôs os olhos na humildade da sua serva: de hoje em diante me chamarão bem-aventurada todas as gerações.",
+      "O Todo-Poderoso fez em mim maravilhas: Santo é o seu nome.",
+      "A sua misericórdia se estende de geração em geração sobre aqueles que O temem.",
+      "Manifestou o poder do seu braço e dispersou os soberbos.",
+      "Derrubou os poderosos de seus tronos e exaltou os humildes.",
+      "Aos famintos encheu de bens e aos ricos despediu de mãos vazias.",
+      "Acolheu Israel seu servo, lembrado da sua misericórdia, como tinha prometido a nossos pais, a Abraão e à sua descendência para sempre.",
+      "Glória ao Pai e ao Filho e ao Espírito Santo.",
+      "Como era no princípio, agora e sempre. Ámen."
+    ],
+    "provenance": "Compêndio do Catecismo da Igreja Católica, Apêndice (versão em português, sítio do Vaticano). Texto bíblico em Lc 1,46-55.",
+    "rights": "Texto bíblico e oração tradicional. Redação conforme o Compêndio no Vaticano; direitos da edição/tradução não verificados juridicamente.",
+    "sources": [
+      "compendio-ccc-oracoes"
+    ],
+    "marian": true,
+    "relations": {
+      "devotions": []
+    },
+    "review": {
+      "state": "texto-conferido-na-fonte",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    },
+    "banner": "img-virgem-em-oracao"
+  },
+  {
+    "id": "ora-angelus",
+    "slug": "angelus",
+    "type": "oracao",
+    "status": "published",
+    "title": "Angelus",
+    "summary": "Oração que recorda a Anunciação e a Encarnação.",
+    "text": [
+      "V. O Anjo do Senhor anunciou a Maria",
+      "R. E Ela concebeu pelo Espírito Santo.",
+      "Avé Maria...",
+      "V. Eis a escrava do Senhor.",
+      "R. Faça-se em mim, segundo a Vossa palavra.",
+      "Avé Maria...",
+      "V. E o Verbo Divino encarnou.",
+      "R. E habitou entre nós.",
+      "Avé Maria...",
+      "V. Rogai por nós, santa Mãe de Deus.",
+      "R. Para que sejamos dignos das promessas de Cristo.",
+      "Oremos: Infundi, Senhor, a vossa graça, em nossas almas, para que nós, que, pela anunciação do Anjo, conhecemos a encarnação de Cristo, vosso Filho, pela sua paixão e morte na cruz, sejamos conduzidos à glória da Ressurreição. Pelo mesmo Cristo Senhor nosso. Ámen."
+    ],
+    "provenance": "Compêndio do Catecismo da Igreja Católica, Apêndice (versão em português, sítio do Vaticano).",
+    "rights": "Oração tradicional. Redação conforme o Compêndio no Vaticano; direitos da edição/tradução não verificados juridicamente.",
+    "sources": [
+      "compendio-ccc-oracoes"
+    ],
+    "marian": true,
+    "relations": {
+      "devotions": []
+    },
+    "review": {
+      "state": "texto-conferido-na-fonte",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    },
+    "banner": "img-virgem-em-oracao"
+  }
+]

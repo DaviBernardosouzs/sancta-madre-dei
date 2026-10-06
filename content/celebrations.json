@@ -1,0 +1,659 @@
+[
+  {
+    "id": "cel-aparecida",
+    "slug": "nossa-senhora-aparecida-12-de-outubro",
+    "type": "celebracao",
+    "status": "published",
+    "title": "Nossa Senhora Aparecida, padroeira do Brasil",
+    "summary": "Festa da padroeira do Brasil; 12 de outubro é também feriado nacional no Brasil.",
+    "date": {
+      "month": 10,
+      "day": 12
+    },
+    "rank": "festa",
+    "scope": "nacional",
+    "calendar": "Calendário no Brasil",
+    "note": "O grau litúrgico exato no calendário brasileiro não foi conferido nesta edição.",
+    "sources": [
+      "a12-aparecida-1900",
+      "lei-6802-1980"
+    ],
+    "relations": {
+      "titles": [
+        "tit-aparecida"
+      ],
+      "articles": [],
+      "apparitions": [],
+      "devotions": [],
+      "prayers": [],
+      "shrines": [],
+      "celebrations": [],
+      "miracles": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    }
+  },
+  {
+    "id": "cel-guadalupe",
+    "slug": "nossa-senhora-de-guadalupe-12-de-dezembro",
+    "type": "celebracao",
+    "status": "published",
+    "title": "Nossa Senhora de Guadalupe",
+    "summary": "Festa de Nossa Senhora de Guadalupe, em 12 de dezembro.",
+    "date": {
+      "month": 12,
+      "day": 12
+    },
+    "rank": "festa",
+    "scope": "continental",
+    "calendar": "Calendário na América",
+    "note": "A exortação de 1999 acolhe a proposta de celebrar a festa em todo o continente americano; o grau litúrgico em cada país não foi conferido.",
+    "sources": [
+      "ecclesia-in-america"
+    ],
+    "relations": {
+      "titles": [
+        "tit-guadalupe-mexico"
+      ],
+      "articles": [],
+      "apparitions": [],
+      "devotions": [],
+      "prayers": [],
+      "shrines": [],
+      "celebrations": [],
+      "miracles": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    }
+  },
+  {
+    "id": "cel-mae-de-deus",
+    "slug": "santa-maria-mae-de-deus",
+    "type": "celebracao",
+    "status": "published",
+    "title": "Santa Maria, Mãe de Deus",
+    "summary": "Solenidade que abre o ano civil, em honra da maternidade divina de Maria.",
+    "date": {
+      "month": 1,
+      "day": 1
+    },
+    "rank": "solenidade",
+    "scope": "universal",
+    "calendar": "Calendário Romano Geral",
+    "note": "Grau conforme a reprodução do Calendário Romano Geral consultada (arquivo anterior a 2018); calendários nacionais e diocesanos podem diferir, por exemplo no Brasil. Confira o calendário do seu lugar.",
+    "sources": [
+      "calendario-romano-geral"
+    ],
+    "relations": {
+      "titles": [
+        "tit-mae-de-deus"
+      ],
+      "articles": [],
+      "apparitions": [],
+      "devotions": [],
+      "prayers": [],
+      "shrines": [],
+      "celebrations": [],
+      "miracles": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    }
+  },
+  {
+    "id": "cel-lourdes",
+    "slug": "nossa-senhora-de-lourdes-11-de-fevereiro",
+    "type": "celebracao",
+    "status": "published",
+    "title": "Nossa Senhora de Lourdes",
+    "summary": "Memória facultativa ligada a Lourdes.",
+    "date": {
+      "month": 2,
+      "day": 11
+    },
+    "rank": "memoria-facultativa",
+    "scope": "universal",
+    "calendar": "Calendário Romano Geral",
+    "note": "Grau conforme a reprodução do Calendário Romano Geral consultada (arquivo anterior a 2018); calendários nacionais e diocesanos podem diferir, por exemplo no Brasil. Confira o calendário do seu lugar.",
+    "sources": [
+      "calendario-romano-geral"
+    ],
+    "relations": {
+      "titles": [
+        "tit-lourdes"
+      ],
+      "articles": [],
+      "apparitions": [],
+      "devotions": [],
+      "prayers": [],
+      "shrines": [],
+      "celebrations": [],
+      "miracles": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    }
+  },
+  {
+    "id": "cel-anunciacao",
+    "slug": "anunciacao-do-senhor",
+    "type": "celebracao",
+    "status": "published",
+    "title": "Anunciação do Senhor",
+    "summary": "Solenidade do anúncio do anjo a Maria (Lc 1,26-38); é festa do Senhor com forte dimensão mariana.",
+    "date": {
+      "month": 3,
+      "day": 25
+    },
+    "rank": "solenidade",
+    "scope": "universal",
+    "calendar": "Calendário Romano Geral",
+    "note": "Grau conforme a reprodução do Calendário Romano Geral consultada (arquivo anterior a 2018); calendários nacionais e diocesanos podem diferir, por exemplo no Brasil. Confira o calendário do seu lugar.",
+    "sources": [
+      "calendario-romano-geral"
+    ],
+    "relations": {
+      "titles": [],
+      "articles": [],
+      "apparitions": [],
+      "devotions": [],
+      "prayers": [],
+      "shrines": [],
+      "celebrations": [],
+      "miracles": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    }
+  },
+  {
+    "id": "cel-fatima",
+    "slug": "nossa-senhora-de-fatima-13-de-maio",
+    "type": "celebracao",
+    "status": "published",
+    "title": "Nossa Senhora de Fátima",
+    "summary": "Memória facultativa ligada a Fátima.",
+    "date": {
+      "month": 5,
+      "day": 13
+    },
+    "rank": "memoria-facultativa",
+    "scope": "universal",
+    "calendar": "Calendário Romano Geral",
+    "note": "Grau conforme a reprodução do Calendário Romano Geral consultada (arquivo anterior a 2018); calendários nacionais e diocesanos podem diferir, por exemplo no Brasil. Confira o calendário do seu lugar.",
+    "sources": [
+      "calendario-romano-geral"
+    ],
+    "relations": {
+      "titles": [
+        "tit-fatima"
+      ],
+      "articles": [],
+      "apparitions": [],
+      "devotions": [],
+      "prayers": [],
+      "shrines": [],
+      "celebrations": [],
+      "miracles": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    }
+  },
+  {
+    "id": "cel-visitacao",
+    "slug": "visitacao-da-virgem-maria",
+    "type": "celebracao",
+    "status": "published",
+    "title": "Visitação da Virgem Maria",
+    "summary": "Festa da visita de Maria a Isabel (Lc 1,39-56).",
+    "date": {
+      "month": 5,
+      "day": 31
+    },
+    "rank": "festa",
+    "scope": "universal",
+    "calendar": "Calendário Romano Geral",
+    "note": "Grau conforme a reprodução do Calendário Romano Geral consultada (arquivo anterior a 2018); calendários nacionais e diocesanos podem diferir, por exemplo no Brasil. Confira o calendário do seu lugar.",
+    "sources": [
+      "calendario-romano-geral"
+    ],
+    "relations": {
+      "titles": [],
+      "articles": [],
+      "apparitions": [],
+      "devotions": [],
+      "prayers": [],
+      "shrines": [],
+      "celebrations": [],
+      "miracles": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    }
+  },
+  {
+    "id": "cel-carmo",
+    "slug": "nossa-senhora-do-monte-carmelo",
+    "type": "celebracao",
+    "status": "published",
+    "title": "Nossa Senhora do Monte Carmelo",
+    "summary": "Memória facultativa de Maria sob o título do Monte Carmelo.",
+    "date": {
+      "month": 7,
+      "day": 16
+    },
+    "rank": "memoria-facultativa",
+    "scope": "universal",
+    "calendar": "Calendário Romano Geral",
+    "note": "Grau conforme a reprodução do Calendário Romano Geral consultada (arquivo anterior a 2018); calendários nacionais e diocesanos podem diferir, por exemplo no Brasil. Confira o calendário do seu lugar.",
+    "sources": [
+      "calendario-romano-geral"
+    ],
+    "relations": {
+      "titles": [],
+      "articles": [],
+      "apparitions": [],
+      "devotions": [],
+      "prayers": [],
+      "shrines": [],
+      "celebrations": [],
+      "miracles": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    }
+  },
+  {
+    "id": "cel-joaquim-ana",
+    "slug": "santos-joaquim-e-ana",
+    "type": "celebracao",
+    "status": "published",
+    "title": "Santos Joaquim e Ana, pais da Virgem Maria",
+    "summary": "Memória dos pais de Maria, segundo a tradição (não nomeados no Novo Testamento).",
+    "date": {
+      "month": 7,
+      "day": 26
+    },
+    "rank": "memoria",
+    "scope": "universal",
+    "calendar": "Calendário Romano Geral",
+    "note": "Grau conforme a reprodução do Calendário Romano Geral consultada (arquivo anterior a 2018); calendários nacionais e diocesanos podem diferir, por exemplo no Brasil. Confira o calendário do seu lugar.",
+    "sources": [
+      "calendario-romano-geral"
+    ],
+    "relations": {
+      "titles": [],
+      "articles": [],
+      "apparitions": [],
+      "devotions": [],
+      "prayers": [],
+      "shrines": [],
+      "celebrations": [],
+      "miracles": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    }
+  },
+  {
+    "id": "cel-assuncao",
+    "slug": "assuncao-da-virgem-maria",
+    "type": "celebracao",
+    "status": "published",
+    "title": "Assunção da Virgem Maria",
+    "summary": "Solenidade da Assunção.",
+    "date": {
+      "month": 8,
+      "day": 15
+    },
+    "rank": "solenidade",
+    "scope": "universal",
+    "calendar": "Calendário Romano Geral",
+    "note": "Grau conforme a reprodução do Calendário Romano Geral consultada (arquivo anterior a 2018); calendários nacionais e diocesanos podem diferir, por exemplo no Brasil. Confira o calendário do seu lugar.",
+    "sources": [
+      "calendario-romano-geral"
+    ],
+    "relations": {
+      "titles": [],
+      "articles": [],
+      "apparitions": [],
+      "devotions": [],
+      "prayers": [],
+      "shrines": [],
+      "celebrations": [],
+      "miracles": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    }
+  },
+  {
+    "id": "cel-realeza",
+    "slug": "realeza-da-virgem-maria",
+    "type": "celebracao",
+    "status": "published",
+    "title": "Realeza da Virgem Maria",
+    "summary": "Memória de Maria como Rainha.",
+    "date": {
+      "month": 8,
+      "day": 22
+    },
+    "rank": "memoria",
+    "scope": "universal",
+    "calendar": "Calendário Romano Geral",
+    "note": "Grau conforme a reprodução do Calendário Romano Geral consultada (arquivo anterior a 2018); calendários nacionais e diocesanos podem diferir, por exemplo no Brasil. Confira o calendário do seu lugar.",
+    "sources": [
+      "calendario-romano-geral"
+    ],
+    "relations": {
+      "titles": [],
+      "articles": [],
+      "apparitions": [],
+      "devotions": [],
+      "prayers": [],
+      "shrines": [],
+      "celebrations": [],
+      "miracles": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    }
+  },
+  {
+    "id": "cel-natividade",
+    "slug": "natividade-da-virgem-maria",
+    "type": "celebracao",
+    "status": "published",
+    "title": "Natividade da Virgem Maria",
+    "summary": "Festa do nascimento de Maria.",
+    "date": {
+      "month": 9,
+      "day": 8
+    },
+    "rank": "festa",
+    "scope": "universal",
+    "calendar": "Calendário Romano Geral",
+    "note": "Grau conforme a reprodução do Calendário Romano Geral consultada (arquivo anterior a 2018); calendários nacionais e diocesanos podem diferir, por exemplo no Brasil. Confira o calendário do seu lugar.",
+    "sources": [
+      "calendario-romano-geral"
+    ],
+    "relations": {
+      "titles": [],
+      "articles": [],
+      "apparitions": [],
+      "devotions": [],
+      "prayers": [],
+      "shrines": [],
+      "celebrations": [],
+      "miracles": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    }
+  },
+  {
+    "id": "cel-nome-de-maria",
+    "slug": "santissimo-nome-de-maria",
+    "type": "celebracao",
+    "status": "published",
+    "title": "Santíssimo Nome de Maria",
+    "summary": "Memória facultativa do nome de Maria.",
+    "date": {
+      "month": 9,
+      "day": 12
+    },
+    "rank": "memoria-facultativa",
+    "scope": "universal",
+    "calendar": "Calendário Romano Geral",
+    "note": "Grau conforme a reprodução do Calendário Romano Geral consultada (arquivo anterior a 2018); calendários nacionais e diocesanos podem diferir, por exemplo no Brasil. Confira o calendário do seu lugar.",
+    "sources": [
+      "calendario-romano-geral"
+    ],
+    "relations": {
+      "titles": [],
+      "articles": [],
+      "apparitions": [],
+      "devotions": [],
+      "prayers": [],
+      "shrines": [],
+      "celebrations": [],
+      "miracles": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    }
+  },
+  {
+    "id": "cel-dores",
+    "slug": "nossa-senhora-das-dores",
+    "type": "celebracao",
+    "status": "published",
+    "title": "Nossa Senhora das Dores",
+    "summary": "Memória de Maria junto à cruz de Jesus.",
+    "date": {
+      "month": 9,
+      "day": 15
+    },
+    "rank": "memoria",
+    "scope": "universal",
+    "calendar": "Calendário Romano Geral",
+    "note": "Grau conforme a reprodução do Calendário Romano Geral consultada (arquivo anterior a 2018); calendários nacionais e diocesanos podem diferir, por exemplo no Brasil. Confira o calendário do seu lugar.",
+    "sources": [
+      "calendario-romano-geral"
+    ],
+    "relations": {
+      "titles": [],
+      "articles": [],
+      "apparitions": [],
+      "devotions": [],
+      "prayers": [],
+      "shrines": [],
+      "celebrations": [],
+      "miracles": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    }
+  },
+  {
+    "id": "cel-rosario",
+    "slug": "nossa-senhora-do-rosario",
+    "type": "celebracao",
+    "status": "published",
+    "title": "Nossa Senhora do Rosário",
+    "summary": "Memória ligada à devoção do Rosário.",
+    "date": {
+      "month": 10,
+      "day": 7
+    },
+    "rank": "memoria",
+    "scope": "universal",
+    "calendar": "Calendário Romano Geral",
+    "note": "Grau conforme a reprodução do Calendário Romano Geral consultada (arquivo anterior a 2018); calendários nacionais e diocesanos podem diferir, por exemplo no Brasil. Confira o calendário do seu lugar.",
+    "sources": [
+      "calendario-romano-geral"
+    ],
+    "relations": {
+      "titles": [],
+      "articles": [],
+      "apparitions": [],
+      "devotions": [],
+      "prayers": [],
+      "shrines": [],
+      "celebrations": [],
+      "miracles": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    }
+  },
+  {
+    "id": "cel-apresentacao",
+    "slug": "apresentacao-da-virgem-maria",
+    "type": "celebracao",
+    "status": "published",
+    "title": "Apresentação da Virgem Maria",
+    "summary": "Memória da apresentação de Maria no Templo.",
+    "date": {
+      "month": 11,
+      "day": 21
+    },
+    "rank": "memoria",
+    "scope": "universal",
+    "calendar": "Calendário Romano Geral",
+    "note": "Grau conforme a reprodução do Calendário Romano Geral consultada (arquivo anterior a 2018); calendários nacionais e diocesanos podem diferir, por exemplo no Brasil. Confira o calendário do seu lugar.",
+    "sources": [
+      "calendario-romano-geral"
+    ],
+    "relations": {
+      "titles": [],
+      "articles": [],
+      "apparitions": [],
+      "devotions": [],
+      "prayers": [],
+      "shrines": [],
+      "celebrations": [],
+      "miracles": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    }
+  },
+  {
+    "id": "cel-imaculada",
+    "slug": "imaculada-conceicao",
+    "type": "celebracao",
+    "status": "published",
+    "title": "Imaculada Conceição",
+    "summary": "Solenidade da Imaculada Conceição de Maria.",
+    "date": {
+      "month": 12,
+      "day": 8
+    },
+    "rank": "solenidade",
+    "scope": "universal",
+    "calendar": "Calendário Romano Geral",
+    "note": "Grau conforme a reprodução do Calendário Romano Geral consultada (arquivo anterior a 2018); calendários nacionais e diocesanos podem diferir, por exemplo no Brasil. Confira o calendário do seu lugar.",
+    "sources": [
+      "calendario-romano-geral"
+    ],
+    "relations": {
+      "titles": [
+        "tit-imaculada-conceicao"
+      ],
+      "articles": [],
+      "apparitions": [],
+      "devotions": [],
+      "prayers": [],
+      "shrines": [],
+      "celebrations": [],
+      "miracles": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    }
+  },
+  {
+    "id": "cel-imaculado-coracao",
+    "slug": "imaculado-coracao-de-maria",
+    "type": "celebracao",
+    "status": "published",
+    "title": "Imaculado Coração de Maria",
+    "summary": "Memória celebrada no sábado depois do Sagrado Coração de Jesus.",
+    "date": {
+      "movable": "Sábado depois do Sagrado Coração de Jesus"
+    },
+    "rank": "memoria",
+    "scope": "universal",
+    "calendar": "Calendário Romano Geral",
+    "note": "Grau conforme a reprodução do Calendário Romano Geral consultada (arquivo anterior a 2018); calendários nacionais e diocesanos podem diferir, por exemplo no Brasil. Confira o calendário do seu lugar.",
+    "sources": [
+      "calendario-romano-geral"
+    ],
+    "relations": {
+      "titles": [],
+      "articles": [],
+      "apparitions": [],
+      "devotions": [],
+      "prayers": [],
+      "shrines": [],
+      "celebrations": [],
+      "miracles": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    }
+  },
+  {
+    "id": "cel-mae-da-igreja",
+    "slug": "maria-mae-da-igreja",
+    "type": "celebracao",
+    "status": "published",
+    "title": "Bem-aventurada Virgem Maria, Mãe da Igreja",
+    "summary": "Memória instituída pelo papa Francisco em 2018, na segunda-feira depois de Pentecostes.",
+    "date": {
+      "movable": "Segunda-feira depois de Pentecostes"
+    },
+    "rank": "memoria",
+    "scope": "universal",
+    "calendar": "Calendário Romano (decreto de 11 de fevereiro de 2018)",
+    "note": "Decreto da Congregação para o Culto Divino e a Disciplina dos Sacramentos, apresentado em 11 de fevereiro de 2018; o texto original do decreto não foi lido, só a notícia oficial.",
+    "sources": [
+      "vaticannews-mae-da-igreja"
+    ],
+    "relations": {
+      "titles": [],
+      "articles": [],
+      "apparitions": [],
+      "devotions": [],
+      "prayers": [],
+      "shrines": [],
+      "celebrations": [],
+      "miracles": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    }
+  }
+]

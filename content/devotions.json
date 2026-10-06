@@ -1,0 +1,222 @@
+[
+  {
+    "id": "dev-rosario",
+    "slug": "santo-rosario",
+    "type": "devocao",
+    "status": "published",
+    "title": "O Santo Rosário",
+    "summary": "Oração que percorre, com Maria, os mistérios da vida de Jesus: uma sequência de Pai-Nosso, Ave-Marias e Glórias, meditando vinte mistérios em quatro ciclos.",
+    "nature": "pratica-de-oracao",
+    "origin": null,
+    "attribution": null,
+    "blocks": [
+      {
+        "kind": "doutrina",
+        "heading": "O que é",
+        "text": "O Vaticano apresenta o Rosário em quatro ciclos de cinco mistérios cada (gozosos, luminosos, dolorosos e gloriosos), com uma passagem bíblica proposta para cada mistério. Em cada mistério, anuncia-se o tema, reza-se um Pai-Nosso, dez Ave-Marias meditando o mistério e um Glória ao Pai.",
+        "sources": [
+          "vaticano-misterios-rosario"
+        ]
+      },
+      {
+        "kind": "nota",
+        "heading": "Uma oração de meditação, não um mecanismo",
+        "text": "O Rosário é um modo de contemplar Cristo junto de Maria. Este projeto não o apresenta como mecanismo que garante cura, riqueza, proteção física ou salvação. A fé católica coloca a esperança na graça de Deus, e a devoção a Maria não substitui o cuidado médico nem os sacramentos.",
+        "sources": [
+          "ccc-pt-683-1065"
+        ]
+      }
+    ],
+    "promises": [],
+    "gaps": [
+      "Origem histórica do Rosário (séculos, personagens, tradições): não pesquisada nesta versão. Registro pendente.",
+      "Promessas atribuídas ao Rosário: nenhuma verificada; ver página de promessas."
+    ],
+    "relations": {
+      "apparitions": [
+        "apar-lourdes-1858",
+        "apar-fatima-1917"
+      ],
+      "titles": [
+        "tit-fatima"
+      ],
+      "prayers": [
+        "ora-ave-maria",
+        "ora-gloria",
+        "ora-sinal-da-cruz",
+        "ora-salve-rainha"
+      ],
+      "articles": [
+        "fe-devocao-e-adoracao"
+      ],
+      "miracles": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    },
+    "banner": "obra-rosario-misterios"
+  },
+  {
+    "id": "dev-mensagem-lourdes",
+    "slug": "mensagem-de-lourdes",
+    "type": "devocao",
+    "status": "published",
+    "title": "A mensagem de Lourdes: penitência, oração, a fonte e a procissão",
+    "summary": "Convites que o santuário de Lourdes apresenta como transmitidos a Bernadette: conversão, oração pelos pecadores, a fonte e a procissão.",
+    "nature": "mensagem-atribuida",
+    "origin": {
+      "locality": "Lourdes",
+      "country": "França",
+      "period": "1858",
+      "periodPrecision": "ano"
+    },
+    "attribution": {
+      "kind": "relato de vidente",
+      "who": "Bernadette Soubirous",
+      "how": "Palavras e pedidos relatados por Bernadette e apresentados como a 'mensagem de Lourdes' pelo santuário oficial.",
+      "limits": "Não há registro sonoro nem texto escrito pela Virgem. As palavras vêm do relato da vidente. O reconhecimento de 1862 diz respeito à realidade das aparições, não valida cada frase como texto doutrinal."
+    },
+    "blocks": [
+      {
+        "kind": "revelacao-privada",
+        "heading": "O que o santuário apresenta",
+        "text": "Segundo o santuário: na 3ª aparição, a Virgem teria dito que o que tinha a dizer não precisava ser escrito; Bernadette relatou também as palavras «Penitência, penitência, penitência. Rezai pelos pecadores»; na 9ª aparição, o pedido de ir à fonte, beber e lavar-se; na 13ª, o pedido de vir em procissão e construir uma capela. O santuário explica a penitência como conversão do coração.",
+        "sources": [
+          "lourdes-mensagem"
+        ]
+      },
+      {
+        "kind": "nota",
+        "heading": "Como orientar a devoção",
+        "text": "A água, a procissão e a oração são sinais de conversão e de confiança em Deus. Esta página não promete efeitos automáticos. Quem está doente deve seguir o acompanhamento médico e pode, além disso, rezar.",
+        "sources": [
+          "ccc-pt-683-1065"
+        ]
+      }
+    ],
+    "promises": [],
+    "gaps": [
+      "Interpretação teológica dessas palavras por documentos da Igreja (além do santuário): pesquisa pendente."
+    ],
+    "relations": {
+      "apparitions": [
+        "apar-lourdes-1858"
+      ],
+      "titles": [
+        "tit-lourdes"
+      ],
+      "prayers": [],
+      "articles": [
+        "fe-revelacoes-privadas"
+      ],
+      "miracles": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    },
+    "banner": "obra-david-descanso"
+  },
+  {
+    "id": "dev-quinze-promessas-rosario",
+    "slug": "promessas-do-rosario",
+    "type": "devocao",
+    "status": "draft",
+    "title": "Promessas atribuídas ao Rosário",
+    "summary": "RASCUNHO. A tradição devocional atribui promessas ao Rosário. Origem, atribuição e fonte ainda não foram pesquisadas; nada será publicado antes disso.",
+    "nature": "promessa-atribuida",
+    "origin": null,
+    "attribution": null,
+    "blocks": [],
+    "promises": [],
+    "gaps": [
+      "Todo o registro: origem, atribuição, fonte primária e posição da Igreja."
+    ],
+    "relations": {
+      "apparitions": [],
+      "titles": [],
+      "prayers": [],
+      "articles": [],
+      "miracles": []
+    },
+    "review": {
+      "state": "rascunho",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    },
+    "banner": "obra-rosario-misterios"
+  },
+  {
+    "id": "dev-medalha-milagrosa",
+    "slug": "medalha-milagrosa",
+    "type": "devocao",
+    "status": "published",
+    "title": "A Medalha Milagrosa (Rue du Bac, 1830)",
+    "summary": "Devoção nascida do relato de Santa Catarina Labouré, religiosa em Paris, sobre aparições em 1830 e o pedido de que se cunhasse uma medalha.",
+    "nature": "mensagem-atribuida",
+    "origin": null,
+    "attribution": {
+      "kind": "Revelação privada (relato de uma religiosa)",
+      "who": "Santa Catarina Labouré, Filha da Caridade",
+      "how": "Segundo a congregação, a segunda aparição relatada foi em 27 de novembro de 1830 e o pedido de uma medalha foi transmitido às autoridades; as primeiras 2.000 medalhas ficaram prontas em 30 de junho de 1832, com a permissão do arcebispo de Paris.",
+      "limits": "Revelações privadas não pertencem ao depósito da fé e ninguém é obrigado a crer nelas. Não foi lido nesta edição nenhum documento do arcebispo de Paris nem da Santa Sé sobre o caso, e as datas de beatificação e canonização de Catarina não foram conferidas."
+    },
+    "blocks": [
+      {
+        "kind": "devocional",
+        "heading": "O relato",
+        "text": "Segundo a página da congregação das Filhas da Caridade, Catarina Labouré, religiosa em Paris, relatou que em 27 de novembro de 1830 viu Maria e ouviu um pedido: mandar cunhar uma medalha segundo o modelo que lhe foi mostrado. A inscrição do anverso diz: «Ó Maria, concebida sem pecado, rogai por nós que recorremos a vós»; no reverso aparecem a letra M encimada por uma cruz e os Sagrados Corações. As primeiras 2.000 medalhas ficaram prontas em 30 de junho de 1832, depois da permissão do arcebispo de Paris, Hyacinthe de Quélen.",
+        "sources": [
+          "filhas-caridade-medalha"
+        ]
+      },
+      {
+        "kind": "nota",
+        "heading": "Uma medalha não é um amuleto",
+        "text": "Este projeto não apresenta a medalha como garantia de proteção, de cura ou de qualquer resultado. Ela é um objeto devocional que ajuda a lembrar de Maria e a rezar, e a devoção não substitui o cuidado médico nem os sacramentos.",
+        "sources": []
+      }
+    ],
+    "promises": [
+      {
+        "text": "Segundo o relato da vidente, a fala atribuída a Maria é: «Todos os que a trouxerem, quando abençoada, receberão grandes graças».",
+        "attributedTo": "Santa Catarina Labouré, em seu relato da aparição de 27 de novembro de 1830",
+        "origin": "Relato de uma revelação privada, transmitido pela congregação das Filhas da Caridade; documento original não lido",
+        "natureOfAttribution": "Fala atribuída à Virgem pela vidente; não é definição da Igreja",
+        "limits": "A palavra «graças» não é promessa de resultado específico nem garantia automática. Revelações privadas não obrigam a fé. A tradução da frase é nossa, a partir do inglês.",
+        "sources": [
+          "filhas-caridade-medalha"
+        ]
+      }
+    ],
+    "gaps": [
+      "O documento do arcebispo de Paris e eventuais pronunciamentos da Santa Sé sobre a medalha não foram lidos.",
+      "A primeira aparição relatada (a datação em 18 de julho de 1830, comum em outras fontes) não consta da página lida e não é afirmada aqui.",
+      "As datas de beatificação e de canonização de Catarina Labouré não foram conferidas em fonte oficial."
+    ],
+    "relations": {
+      "apparitions": [],
+      "titles": [
+        "tit-imaculada-conceicao"
+      ],
+      "prayers": [],
+      "articles": [
+        "fe-imaculada-conceicao"
+      ],
+      "miracles": [],
+      "shrines": [
+        "sh-rue-du-bac"
+      ],
+      "celebrations": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    },
+    "banner": "obra-reni-imaculada"
+  }
+]
