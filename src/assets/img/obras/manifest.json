@@ -1,0 +1,2047 @@
+{
+ "obra-bellini-madona": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 2217,
+  "ratio": 0.8118
+ },
+ "obra-memling-anunciacao": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 2880,
+  "ratio": 0.6249
+ },
+ "obra-ram-visitacao": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 1398,
+  "ratio": 1.2872
+ },
+ "obra-david-natividade": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 2366,
+  "ratio": 0.7609
+ },
+ "obra-flandes-cana": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 2388,
+  "ratio": 0.7538
+ },
+ "obra-david-crucificacao": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 2512,
+  "ratio": 0.7166
+ },
+ "obra-saraceni-dormicao": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 2373,
+  "ratio": 0.7584
+ },
+ "obra-reni-imaculada": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 2582,
+  "ratio": 0.6972
+ },
+ "obra-signorelli-assuncao": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 2317,
+  "ratio": 0.7769
+ },
+ "obra-durer-virgem": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1324
+  ],
+  "width": 1324,
+  "height": 1869,
+  "ratio": 0.7084
+ },
+ "obra-david-virgem-paisagem": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 2171,
+  "ratio": 0.8291
+ },
+ "obra-raphael-entronizada": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 2232,
+  "ratio": 0.8063
+ },
+ "obra-david-descanso": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 2403,
+  "ratio": 0.7492
+ },
+ "obra-rosario-misterios": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 2085,
+  "ratio": 0.8632
+ },
+ "obra-bellini-dormindo": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 2775,
+  "ratio": 0.6485
+ },
+ "img-virgem-em-oracao": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 2263,
+  "ratio": 0.7954
+ },
+ "img-gruta-lourdes": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 1232,
+  "ratio": 1.4612
+ },
+ "img-criancas-fatima": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 2251,
+  "ratio": 0.7997
+ },
+ "durer-rejeicao-joaquim": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 2568,
+  "ratio": 0.701
+ },
+ "durer-joaquim-anjo": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 2569,
+  "ratio": 0.7006
+ },
+ "durer-porta-dourada": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 2583,
+  "ratio": 0.6969
+ },
+ "durer-nascimento-maria": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 2570,
+  "ratio": 0.7004
+ },
+ "durer-apresentacao-maria": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 2575,
+  "ratio": 0.6991
+ },
+ "durer-desposorios": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 2507,
+  "ratio": 0.718
+ },
+ "durer-anunciacao": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 2485,
+  "ratio": 0.7243
+ },
+ "durer-visitacao": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 2557,
+  "ratio": 0.704
+ },
+ "durer-natividade": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 2581,
+  "ratio": 0.6975
+ },
+ "durer-circuncisao": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 2585,
+  "ratio": 0.6963
+ },
+ "durer-magos": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 2475,
+  "ratio": 0.7273
+ },
+ "durer-apresentacao-jesus": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 2524,
+  "ratio": 0.7132
+ },
+ "durer-fuga-egito": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 2569,
+  "ratio": 0.7007
+ },
+ "durer-egito-sagrada-familia": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 2561,
+  "ratio": 0.7028
+ },
+ "durer-entre-doutores": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 2575,
+  "ratio": 0.6989
+ },
+ "durer-despedida": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 2556,
+  "ratio": 0.7042
+ },
+ "durer-dormicao": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 2581,
+  "ratio": 0.6974
+ },
+ "durer-assuncao-coroacao": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 2527,
+  "ratio": 0.7123
+ },
+ "durer-glorificacao": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 2573,
+  "ratio": 0.6996
+ },
+ "durer-madona-crescente": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 2608,
+  "ratio": 0.6903
+ },
+ "obra-carnevale-nascimento": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 2681,
+  "ratio": 0.6713
+ },
+ "obra-pieta-alema": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 1544,
+  "ratio": 1.166
+ },
+ "durer-pentecostes": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 2388,
+  "ratio": 0.7537
+ },
+ "foto-aparecida": {
+  "widths": [
+   480,
+   750
+  ],
+  "width": 750,
+  "height": 929,
+  "ratio": 0.8073
+ },
+ "foto-guadalupe-mexico": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 1200,
+  "ratio": 1.5
+ },
+ "foto-rue-du-bac": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 3245,
+  "ratio": 0.5548
+ },
+ "foto-santa-maria-maior": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 1397,
+  "ratio": 1.2886
+ },
+ "foto-loreto": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 1457,
+  "ratio": 1.2355
+ },
+ "foto-notre-dame-paris": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 2430,
+  "ratio": 0.7407
+ },
+ "foto-chartres": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 2775,
+  "ratio": 0.6486
+ },
+ "foto-montserrat": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 1207,
+  "ratio": 1.4918
+ },
+ "foto-pilar": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 1207,
+  "ratio": 1.4918
+ },
+ "foto-guadalupe-extremadura": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 1350,
+  "ratio": 1.3333
+ },
+ "foto-covadonga": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 1200,
+  "ratio": 1.5
+ },
+ "foto-altotting": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 1800,
+  "ratio": 1
+ },
+ "foto-einsiedeln": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 1350,
+  "ratio": 1.3333
+ },
+ "foto-mariazell": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 1303,
+  "ratio": 1.3813
+ },
+ "foto-jasna-gora": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 1350,
+  "ratio": 1.3333
+ },
+ "foto-lichen": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 1201,
+  "ratio": 1.4988
+ },
+ "foto-pompeia": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 1532,
+  "ratio": 1.1752
+ },
+ "foto-siracusa": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 1350,
+  "ratio": 1.3333
+ },
+ "foto-fourviere": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 1218,
+  "ratio": 1.4781
+ },
+ "foto-notre-dame-de-la-garde": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 2400,
+  "ratio": 0.75
+ },
+ "foto-sameiro": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 1199,
+  "ratio": 1.5012
+ },
+ "foto-lujan": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 2413,
+  "ratio": 0.7459
+ },
+ "foto-notre-dame-montreal": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 2400,
+  "ratio": 0.75
+ },
+ "foto-washington": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 1066,
+  "ratio": 1.6887
+ },
+ "foto-caacupe": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1600
+  ],
+  "width": 1600,
+  "height": 1200,
+  "ratio": 1.3333
+ },
+ "foto-copacabana": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 608,
+  "ratio": 2.963
+ },
+ "foto-cartago": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 1200,
+  "ratio": 1.5
+ },
+ "foto-belem-nazare": {
+  "widths": [
+   480,
+   800,
+   1256
+  ],
+  "width": 1256,
+  "height": 827,
+  "ratio": 1.5187
+ },
+ "foto-altagracia": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 1816,
+  "ratio": 0.9912
+ },
+ "foto-nazare-anunciacao": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 2698,
+  "ratio": 0.6671
+ },
+ "foto-tumba-maria": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1604
+  ],
+  "width": 1604,
+  "height": 1674,
+  "ratio": 0.9582
+ },
+ "foto-efeso": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 1200,
+  "ratio": 1.5
+ },
+ "foto-harissa": {
+  "widths": [
+   480,
+   800,
+   1200
+  ],
+  "width": 1200,
+  "height": 1800,
+  "ratio": 0.6667
+ },
+ "foto-yamoussoukro": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 1013,
+  "ratio": 1.7778
+ },
+ "foto-notre-dame-afrique": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 1200,
+  "ratio": 1.5
+ },
+ "foto-sheshan": {
+  "widths": [
+   480,
+   800,
+   1024
+  ],
+  "width": 1024,
+  "height": 684,
+  "ratio": 1.4971
+ },
+ "foto-antipolo": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 1174,
+  "ratio": 1.5335
+ },
+ "foto-manaoag": {
+  "widths": [
+   480,
+   800,
+   960
+  ],
+  "width": 960,
+  "height": 1280,
+  "ratio": 0.75
+ },
+ "foto-sydney": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 1118,
+  "ratio": 1.6107
+ },
+ "foto-lourdes": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 1350,
+  "ratio": 1.3333
+ },
+ "foto-fatima": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 887,
+  "ratio": 2.0296
+ },
+ "retrato-aparecida": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 2400,
+  "ratio": 0.75
+ },
+ "retrato-guadalupe-mexico": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 2700,
+  "ratio": 0.6667
+ },
+ "retrato-nossa-senhora-da-china": {
+  "widths": [
+   456
+  ],
+  "width": 456,
+  "height": 692,
+  "ratio": 0.659
+ },
+ "retrato-jasna-gora": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 2851,
+  "ratio": 0.6314
+ },
+ "retrato-santa-maria-maior": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 2700,
+  "ratio": 0.6667
+ },
+ "retrato-lourdes": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 2700,
+  "ratio": 0.6667
+ },
+ "retrato-fatima": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 3091,
+  "ratio": 0.5823
+ },
+ "retrato-montserrat": {
+  "widths": [
+   480,
+   800,
+   910
+  ],
+  "width": 910,
+  "height": 1151,
+  "ratio": 0.7906
+ },
+ "retrato-lujan": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 2336,
+  "ratio": 0.7705
+ },
+ "retrato-cartago": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 1135,
+  "ratio": 1.5855
+ },
+ "retrato-suyapa": {
+  "widths": [
+   262
+  ],
+  "width": 262,
+  "height": 431,
+  "ratio": 0.6079
+ },
+ "retrato-altagracia": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 2402,
+  "ratio": 0.7494
+ },
+ "retrato-kibeho": {
+  "widths": [
+   480,
+   750
+  ],
+  "width": 750,
+  "height": 1000,
+  "ratio": 0.75
+ },
+ "retrato-akita": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 2474,
+  "ratio": 0.7275
+ },
+ "retrato-boa-saude-vailankanni": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 1350,
+  "ratio": 1.3333
+ },
+ "retrato-antipolo": {
+  "widths": [
+   480,
+   800,
+   1214
+  ],
+  "width": 1214,
+  "height": 1618,
+  "ratio": 0.7503
+ },
+ "retrato-manaoag": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 2718,
+  "ratio": 0.6623
+ },
+ "retrato-harissa": {
+  "widths": [
+   480,
+   800,
+   1200
+  ],
+  "width": 1200,
+  "height": 1800,
+  "ratio": 0.6667
+ },
+ "retrato-walsingham": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 1350,
+  "ratio": 1.3333
+ },
+ "retrato-banneux": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 1350,
+  "ratio": 1.3333
+ },
+ "retrato-la-salette": {
+  "widths": [
+   480,
+   800,
+   915
+  ],
+  "width": 915,
+  "height": 850,
+  "ratio": 1.0765
+ },
+ "retrato-covadonga": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 2400,
+  "ratio": 0.75
+ },
+ "retrato-einsiedeln": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 2033,
+  "ratio": 0.8856
+ },
+ "retrato-mariazell": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 2400,
+  "ratio": 0.75
+ },
+ "retrato-pompeia": {
+  "widths": [
+   480,
+   800,
+   1280,
+   1536
+  ],
+  "width": 1536,
+  "height": 2048,
+  "ratio": 0.75
+ },
+ "obra-bellini-madona:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 99,
+  "ratio": 0.8118
+ },
+ "obra-memling-anunciacao:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 128,
+  "ratio": 0.6249
+ },
+ "obra-ram-visitacao:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 62,
+  "ratio": 1.2872
+ },
+ "obra-david-natividade:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 105,
+  "ratio": 0.7609
+ },
+ "obra-flandes-cana:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 106,
+  "ratio": 0.7538
+ },
+ "obra-david-crucificacao:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 112,
+  "ratio": 0.7166
+ },
+ "obra-saraceni-dormicao:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 105,
+  "ratio": 0.7584
+ },
+ "obra-reni-imaculada:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 115,
+  "ratio": 0.6972
+ },
+ "obra-signorelli-assuncao:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 103,
+  "ratio": 0.7769
+ },
+ "obra-durer-virgem:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 113,
+  "ratio": 0.7084
+ },
+ "obra-david-virgem-paisagem:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 96,
+  "ratio": 0.8291
+ },
+ "obra-raphael-entronizada:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 99,
+  "ratio": 0.8063
+ },
+ "obra-david-descanso:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 107,
+  "ratio": 0.7492
+ },
+ "obra-rosario-misterios:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 93,
+  "ratio": 0.8632
+ },
+ "obra-bellini-dormindo:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 123,
+  "ratio": 0.6485
+ },
+ "img-virgem-em-oracao:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 101,
+  "ratio": 0.7954
+ },
+ "img-gruta-lourdes:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 55,
+  "ratio": 1.4612
+ },
+ "img-criancas-fatima:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 100,
+  "ratio": 0.7997
+ },
+ "durer-rejeicao-joaquim:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 114,
+  "ratio": 0.701
+ },
+ "durer-joaquim-anjo:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 114,
+  "ratio": 0.7006
+ },
+ "durer-porta-dourada:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 115,
+  "ratio": 0.6969
+ },
+ "durer-nascimento-maria:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 114,
+  "ratio": 0.7004
+ },
+ "durer-apresentacao-maria:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 114,
+  "ratio": 0.6991
+ },
+ "durer-desposorios:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 111,
+  "ratio": 0.718
+ },
+ "durer-anunciacao:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 110,
+  "ratio": 0.7243
+ },
+ "durer-visitacao:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 114,
+  "ratio": 0.704
+ },
+ "durer-natividade:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 115,
+  "ratio": 0.6975
+ },
+ "durer-circuncisao:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 115,
+  "ratio": 0.6963
+ },
+ "durer-magos:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 110,
+  "ratio": 0.7273
+ },
+ "durer-apresentacao-jesus:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 112,
+  "ratio": 0.7132
+ },
+ "durer-fuga-egito:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 114,
+  "ratio": 0.7007
+ },
+ "durer-egito-sagrada-familia:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 114,
+  "ratio": 0.7028
+ },
+ "durer-entre-doutores:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 114,
+  "ratio": 0.6989
+ },
+ "durer-despedida:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 114,
+  "ratio": 0.7042
+ },
+ "durer-dormicao:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 115,
+  "ratio": 0.6974
+ },
+ "durer-assuncao-coroacao:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 112,
+  "ratio": 0.7123
+ },
+ "durer-glorificacao:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 114,
+  "ratio": 0.6996
+ },
+ "durer-madona-crescente:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 116,
+  "ratio": 0.6903
+ },
+ "obra-carnevale-nascimento:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 119,
+  "ratio": 0.6713
+ },
+ "obra-pieta-alema:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 69,
+  "ratio": 1.166
+ },
+ "durer-pentecostes:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 106,
+  "ratio": 0.7537
+ },
+ "foto-aparecida:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 99,
+  "ratio": 0.8073
+ },
+ "foto-guadalupe-mexico:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 53,
+  "ratio": 1.5
+ },
+ "foto-rue-du-bac:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 144,
+  "ratio": 0.5548
+ },
+ "foto-santa-maria-maior:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 62,
+  "ratio": 1.2886
+ },
+ "foto-loreto:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 65,
+  "ratio": 1.2355
+ },
+ "foto-notre-dame-paris:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 108,
+  "ratio": 0.7407
+ },
+ "foto-chartres:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 123,
+  "ratio": 0.6486
+ },
+ "foto-montserrat:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 54,
+  "ratio": 1.4918
+ },
+ "foto-pilar:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 54,
+  "ratio": 1.4918
+ },
+ "foto-guadalupe-extremadura:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 60,
+  "ratio": 1.3333
+ },
+ "foto-covadonga:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 53,
+  "ratio": 1.5
+ },
+ "foto-altotting:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 80,
+  "ratio": 1
+ },
+ "foto-einsiedeln:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 60,
+  "ratio": 1.3333
+ },
+ "foto-mariazell:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 58,
+  "ratio": 1.3813
+ },
+ "foto-jasna-gora:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 60,
+  "ratio": 1.3333
+ },
+ "foto-lichen:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 53,
+  "ratio": 1.4988
+ },
+ "foto-pompeia:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 68,
+  "ratio": 1.1752
+ },
+ "foto-siracusa:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 60,
+  "ratio": 1.3333
+ },
+ "foto-fourviere:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 54,
+  "ratio": 1.4781
+ },
+ "foto-notre-dame-de-la-garde:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 107,
+  "ratio": 0.75
+ },
+ "foto-sameiro:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 53,
+  "ratio": 1.5012
+ },
+ "foto-lujan:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 107,
+  "ratio": 0.7459
+ },
+ "foto-notre-dame-montreal:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 107,
+  "ratio": 0.75
+ },
+ "foto-washington:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 47,
+  "ratio": 1.6887
+ },
+ "foto-caacupe:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 60,
+  "ratio": 1.3333
+ },
+ "foto-copacabana:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 27,
+  "ratio": 2.963
+ },
+ "foto-cartago:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 53,
+  "ratio": 1.5
+ },
+ "foto-belem-nazare:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 53,
+  "ratio": 1.5187
+ },
+ "foto-altagracia:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 81,
+  "ratio": 0.9912
+ },
+ "foto-nazare-anunciacao:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 120,
+  "ratio": 0.6671
+ },
+ "foto-tumba-maria:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 83,
+  "ratio": 0.9582
+ },
+ "foto-efeso:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 53,
+  "ratio": 1.5
+ },
+ "foto-harissa:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 120,
+  "ratio": 0.6667
+ },
+ "foto-yamoussoukro:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 45,
+  "ratio": 1.7778
+ },
+ "foto-notre-dame-afrique:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 53,
+  "ratio": 1.5
+ },
+ "foto-sheshan:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 53,
+  "ratio": 1.4971
+ },
+ "foto-antipolo:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 52,
+  "ratio": 1.5335
+ },
+ "foto-manaoag:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 107,
+  "ratio": 0.75
+ },
+ "foto-sydney:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 50,
+  "ratio": 1.6107
+ },
+ "foto-lourdes:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 60,
+  "ratio": 1.3333
+ },
+ "foto-fatima:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 39,
+  "ratio": 2.0296
+ },
+ "retrato-aparecida:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 107,
+  "ratio": 0.75
+ },
+ "retrato-guadalupe-mexico:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 120,
+  "ratio": 0.6667
+ },
+ "retrato-nossa-senhora-da-china:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 121,
+  "ratio": 0.659
+ },
+ "retrato-jasna-gora:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 127,
+  "ratio": 0.6314
+ },
+ "retrato-santa-maria-maior:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 120,
+  "ratio": 0.6667
+ },
+ "retrato-lourdes:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 120,
+  "ratio": 0.6667
+ },
+ "retrato-fatima:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 137,
+  "ratio": 0.5823
+ },
+ "retrato-montserrat:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 101,
+  "ratio": 0.7906
+ },
+ "retrato-lujan:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 104,
+  "ratio": 0.7705
+ },
+ "retrato-cartago:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 50,
+  "ratio": 1.5855
+ },
+ "retrato-suyapa:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 132,
+  "ratio": 0.6079
+ },
+ "retrato-altagracia:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 107,
+  "ratio": 0.7494
+ },
+ "retrato-kibeho:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 107,
+  "ratio": 0.75
+ },
+ "retrato-akita:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 110,
+  "ratio": 0.7275
+ },
+ "retrato-boa-saude-vailankanni:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 60,
+  "ratio": 1.3333
+ },
+ "retrato-antipolo:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 107,
+  "ratio": 0.7503
+ },
+ "retrato-manaoag:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 121,
+  "ratio": 0.6623
+ },
+ "retrato-harissa:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 120,
+  "ratio": 0.6667
+ },
+ "retrato-walsingham:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 60,
+  "ratio": 1.3333
+ },
+ "retrato-banneux:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 60,
+  "ratio": 1.3333
+ },
+ "retrato-la-salette:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 74,
+  "ratio": 1.0765
+ },
+ "retrato-covadonga:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 107,
+  "ratio": 0.75
+ },
+ "retrato-einsiedeln:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 90,
+  "ratio": 0.8856
+ },
+ "retrato-mariazell:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 107,
+  "ratio": 0.75
+ },
+ "retrato-pompeia:bruma": {
+  "widths": [
+   80
+  ],
+  "width": 80,
+  "height": 107,
+  "ratio": 0.75
+ },
+ "obra-bellini-madona:ceu": {
+  "widths": [
+   160,
+   320,
+   640,
+   748
+  ],
+  "width": 748,
+  "height": 1517,
+  "ratio": 0.4931
+ },
+ "obra-bellini-madona:manto": {
+  "widths": [
+   640,
+   997
+  ],
+  "width": 997,
+  "height": 1156,
+  "ratio": 0.8625
+ },
+ "obra-david-descanso:ceu": {
+  "widths": [
+   800,
+   1280,
+   1800
+  ],
+  "width": 1800,
+  "height": 432,
+  "ratio": 4.162
+ }
+}
