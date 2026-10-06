@@ -1,0 +1,4 @@
+GSAP 3.15.0 (gsap.min.js e ScrollTrigger.min.js), copiados sem modificação do pacote npm "gsap".
+Licença: "Standard 'no charge' license": https://gsap.com/standard-license
+Origem: https://www.npmjs.com/package/gsap
+Uso neste projeto: site gratuito e sem fins lucrativos. Consulte a licença antes de qualquer uso comercial ou mudança de natureza do projeto.
