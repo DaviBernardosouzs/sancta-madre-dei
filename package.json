@@ -1,0 +1,30 @@
+{
+  "name": "sancta-mater-dei",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Sancta Mater Dei, Santa Mãe de Deus. Livro digital independente sobre Maria, com fontes e autoridade de cada decisão.",
+  "type": "module",
+  "license": "UNLICENSED",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "validate": "node scripts/validate.mjs",
+    "build": "node scripts/build.mjs",
+    "test": "node --test tests/",
+    "check": "npm run validate && npm test && npm run build && node scripts/check-links.mjs",
+    "serve": "node scripts/serve.mjs",
+    "fetch-art": "node scripts/fetch-art.mjs",
+    "prepare-images": "node scripts/prepare-images.mjs",
+    "painel": "node scripts/make-painel.mjs",
+    "import:dossie": "node scripts/import-dossie.mjs",
+    "audit:visual": "node scripts/visual-audit.mjs",
+    "audit:interactions": "node scripts/interaction-audit.mjs",
+    "audit:performance": "node scripts/performance-audit.mjs"
+  },
+  "devDependencies": {
+    "@axe-core/playwright": "^4.13.0",
+    "@playwright/test": "^1.63.0",
+    "lighthouse": "^13.5.0"
+  }
+}

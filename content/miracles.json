@@ -1,0 +1,103 @@
+[
+  {
+    "id": "mil-lourdes-latapie",
+    "slug": "catherine-latapie",
+    "type": "milagre",
+    "status": "draft",
+    "title": "Catherine Latapie (Loubajac), Lourdes",
+    "summary": "RASCUNHO. O santuário de Lourdes cita Catherine Latapie, de Loubajac, como o primeiro caso da sua lista de curas reconhecidas.",
+    "place": {
+      "locality": "Lourdes",
+      "country": "França"
+    },
+    "event": {
+      "date": null,
+      "datePrecision": null,
+      "description": "Data e descrição da cura ainda não verificadas em fonte lida."
+    },
+    "medicalInvestigation": {
+      "summary": null,
+      "sources": []
+    },
+    "ecclesialDecision": {
+      "authority": null,
+      "date": null,
+      "document": null,
+      "sources": []
+    },
+    "blocks": [],
+    "pending": [
+      "Ler a ficha do caso no santuário e/ou o mandamento de 1862.",
+      "Confirmar data e autoridade do reconhecimento: a página consultada não detalha a autoridade."
+    ],
+    "sources": [
+      "lourdes-curas"
+    ],
+    "relations": {
+      "apparitions": [
+        "apar-lourdes-1858"
+      ],
+      "titles": [
+        "tit-lourdes"
+      ],
+      "devotions": []
+    },
+    "review": {
+      "state": "rascunho",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    },
+    "banner": "obra-bellini-dormindo"
+  },
+  {
+    "id": "mil-lourdes-raco",
+    "slug": "antonia-raco",
+    "type": "milagre",
+    "status": "draft",
+    "title": "Antonia Raco (Lofiego), Lourdes, 2009",
+    "summary": "RASCUNHO. O santuário de Lourdes cita Antonia Raco como o caso mais recente da sua lista, curada em 2009 de esclerose lateral primária.",
+    "place": {
+      "locality": "Lourdes",
+      "country": "França"
+    },
+    "event": {
+      "date": "2009",
+      "datePrecision": "ano",
+      "description": "Segundo o santuário, a cura ocorreu em 2009 durante uma peregrinação organizada pela UNITALSI."
+    },
+    "medicalInvestigation": {
+      "summary": null,
+      "sources": []
+    },
+    "ecclesialDecision": {
+      "authority": null,
+      "date": null,
+      "document": null,
+      "sources": []
+    },
+    "blocks": [],
+    "pending": [
+      "As consultas à página do santuário produziram datas divergentes para o reconhecimento (2024 e 2025); conferir manualmente.",
+      "Localizar o decreto do bispo responsável e o parecer médico (Comitê Médico Internacional de Lourdes).",
+      "Não publicar até que autoridade, data e documento sejam lidos."
+    ],
+    "sources": [
+      "lourdes-curas"
+    ],
+    "relations": {
+      "apparitions": [
+        "apar-lourdes-1858"
+      ],
+      "titles": [
+        "tit-lourdes"
+      ],
+      "devotions": []
+    },
+    "review": {
+      "state": "rascunho",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    },
+    "banner": "obra-bellini-dormindo"
+  }
+]
