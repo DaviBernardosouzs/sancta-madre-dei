@@ -1,0 +1,96 @@
+#0
+es:  · curación: {data}
+en:  · healing: {data}
+fr:  · guérison : {data}
+it:  · guarigione: {data}
+de:  · Heilung: {data}
+ja:  · 治癒：{data}
+zh:  · 治愈：{data}
+#1
+es: «Digna de crédito»
+en: “Worthy of belief”
+fr: « Digne de foi »
+it: «Degna di fede»
+de: „Glaubwürdig“
+ja: 「信ずるに値する」
+zh: “值得相信”
+#4
+es: <strong>Cuidado de la salud.</strong> Nada de lo que aquí se dice invita a interrumpir un tratamiento médico. La oración puede acompañar el cuidado profesional, nunca sustituirlo.
+en: <strong>Caring for your health.</strong> Nothing here advises stopping medical treatment. Prayer can accompany professional care, never replace it.
+fr: <strong>Prendre soin de sa santé.</strong> Rien ici n’invite à interrompre un traitement médical. La prière peut accompagner les soins professionnels, jamais les remplacer.
+it: <strong>Attenzione alla salute.</strong> Nulla di quanto qui si legge invita a interrompere una cura medica. La preghiera può accompagnare le cure professionali, mai sostituirle.
+de: <strong>Auf die Gesundheit achten.</strong> Nichts hier rät dazu, eine medizinische Behandlung abzubrechen. Das Gebet kann die ärztliche Behandlung begleiten, sie aber niemals ersetzen.
+ja: <strong>健康を大切に。</strong>ここには、医療を中断するよう勧める内容は一切ありません。祈りは専門的な医療に寄り添うものであり、それに代わるものではありません。
+zh: <strong>请重视健康。</strong>本站任何内容都不建议中断医疗。祈祷可以陪伴专业的医疗照护，但绝不能取代它。
+#5
+es: <strong>Importante.</strong> Reconocer una aparición, autorizar el culto, conceder el nihil obstat y reconocer un milagro son cosas distintas. Las apariciones son «revelaciones privadas»: no pertenecen al depósito de la fe (<a href="{link}">más información</a>).
+en: <strong>Important.</strong> Recognizing an apparition, authorizing worship, granting a nihil obstat and recognizing a miracle are different things. Apparitions are “private revelations”: they do not belong to the deposit of faith (<a href="{link}">learn more</a>).
+fr: <strong>Important.</strong> Reconnaître une apparition, autoriser le culte, accorder un nihil obstat et reconnaître un miracle sont des choses différentes. Les apparitions sont des « révélations privées » : elles n’appartiennent pas au dépôt de la foi (<a href="{link}">en savoir plus</a>).
+it: <strong>Importante.</strong> Riconoscere un’apparizione, autorizzare il culto, concedere il nihil obstat e riconoscere un miracolo sono cose diverse. Le apparizioni sono «rivelazioni private»: non appartengono al deposito della fede (<a href="{link}">approfondisci</a>).
+de: <strong>Wichtig.</strong> Eine Erscheinung anzuerkennen, den Kult zu erlauben, ein Nihil obstat zu erteilen und ein Wunder anzuerkennen sind verschiedene Dinge. Erscheinungen gelten als „Privatoffenbarungen“: Sie gehören nicht zum Glaubensgut (<a href="{link}">mehr erfahren</a>).
+ja: <strong>大切なこと。</strong>出現を認めること、崇敬を許可すること、ニヒル・オブスタット（異議なし）を与えること、奇跡を認めることは、それぞれ別のことです。出現は「私的啓示」とされ、信仰の遺産には含まれません（<a href="{link}">詳しくはこちら</a>）。
+zh: <strong>请注意。</strong>承认显现、准许敬礼、给予“无异议”（nihil obstat）、承认奇迹，是彼此不同的事。显现属于“私人启示”，不属于信仰的宝库（<a href="{link}">了解更多</a>）。
+#6
+es: <strong>Naturaleza de la enseñanza:</strong> {texto}
+en: <strong>Nature of the teaching:</strong> {texto}
+fr: <strong>Nature de l’enseignement :</strong> {texto}
+it: <strong>Natura dell’insegnamento:</strong> {texto}
+de: <strong>Art der Lehre:</strong> {texto}
+ja: <strong>教えの性格：</strong>{texto}
+zh: <strong>教导的性质：</strong>{texto}
+#7
+es: <strong>Referencias bíblicas:</strong> {refs}
+en: <strong>Scripture references:</strong> {refs}
+fr: <strong>Références bibliques :</strong> {refs}
+it: <strong>Riferimenti biblici:</strong> {refs}
+de: <strong>Bibelstellen:</strong> {refs}
+ja: <strong>聖書の箇所：</strong>{refs}
+zh: <strong>圣经出处：</strong>{refs}
+#8
+es: <strong>Sin garantías automáticas.</strong> Ninguna práctica aquí se presenta como un mecanismo que asegure curación, riqueza, protección física o salvación. La devoción es confianza en Dios, no una fórmula.
+en: <strong>No automatic guarantees.</strong> No practice here is presented as a mechanism that ensures healing, wealth, physical protection or salvation. Devotion is trust in God, not a formula.
+fr: <strong>Aucune garantie automatique.</strong> Aucune pratique n’est présentée ici comme un mécanisme assurant guérison, richesse, protection physique ou salut. La dévotion est confiance en Dieu, non une formule.
+it: <strong>Nessuna garanzia automatica.</strong> Nessuna pratica qui è presentata come un meccanismo che assicuri guarigione, ricchezza, protezione fisica o salvezza. La devozione è fiducia in Dio, non una formula.
+de: <strong>Keine automatischen Garantien.</strong> Keine der hier beschriebenen Praktiken wird als Mechanismus dargestellt, der Heilung, Reichtum, körperlichen Schutz oder Heil sichert. Frömmigkeit ist Vertrauen auf Gott, keine Formel.
+ja: <strong>自動的な保証はありません。</strong>ここで紹介する信心業は、癒やし、富、身体の保護、救いを確実にする仕組みとしては提示していません。信心とは神への信頼であり、決まり文句ではありません。
+zh: <strong>没有自动的保证。</strong>这里介绍的任何敬礼，都不被说成是能确保治愈、财富、人身保护或得救的机制。虔敬是对天主的信赖，而不是一套公式。
+#9
+es: La API del Met marca la obra como de dominio público (isPublicDomain: true) y el Met declara en metmuseum.github.io que renunció a los derechos de autor y conexos del conjunto de datos Open Access mediante la licencia CC0. La página de política del Met respondió HTTP 429 y no pudo leerse; la declaración se leyó en metmuseum.github.io. Sin auditoría jurídica independiente. Imagen recortada de los bordes del fondo, redimensionada y recomprimida.
+en: The Met’s API marks the work as public domain (isPublicDomain: true), and the Met states at metmuseum.github.io that it has waived copyright and related rights in the Open Access dataset under the CC0 license. The Met’s policy page returned HTTP 429 and could not be read; the statement was read at metmuseum.github.io. No independent legal audit. Image cropped from the edges of the background, resized and recompressed.
+fr: L’API du Met indique que l’œuvre est dans le domaine public (isPublicDomain : true), et le Met déclare sur metmuseum.github.io avoir renoncé aux droits d’auteur et droits voisins de l’ensemble de données Open Access sous licence CC0. La page de politique du Met a répondu HTTP 429 et n’a pas pu être lue ; la déclaration a été lue sur metmuseum.github.io. Sans audit juridique indépendant. Image recadrée sur les bords du fond, redimensionnée et recompressée.
+it: L’API del Met indica l’opera come di pubblico dominio (isPublicDomain: true) e il Met dichiara su metmuseum.github.io di aver rinunciato ai diritti d’autore e connessi del dataset Open Access con la licenza CC0. La pagina della politica del Met ha risposto HTTP 429 e non è stata letta; la dichiarazione è stata letta su metmuseum.github.io. Senza verifica legale indipendente. Immagine ritagliata dai bordi dello sfondo, ridimensionata e ricompressa.
+de: Die API des Met kennzeichnet das Werk als gemeinfrei (isPublicDomain: true), und das Met erklärt auf metmuseum.github.io, mit der Lizenz CC0 auf das Urheberrecht und verwandte Rechte am Open-Access-Datensatz verzichtet zu haben. Die Richtlinienseite des Met antwortete mit HTTP 429 und konnte nicht gelesen werden; die Erklärung wurde auf metmuseum.github.io gelesen. Keine unabhängige rechtliche Prüfung. Bild aus den Rändern des Hintergrunds zugeschnitten, in der Größe verändert und neu komprimiert.
+ja: メトロポリタン美術館のAPIはこの作品をパブリックドメイン（isPublicDomain: true）としており、同館はmetmuseum.github.ioで、オープンアクセスのデータセットについて著作権および関連する権利をCC0ライセンスにより放棄したと表明しています。同館の方針ページはHTTP 429を返したため読めず、表明はmetmuseum.github.ioで確認しました。独立した法的監査は行っていません。背景の縁から切り出し、リサイズして再圧縮した画像です。
+zh: 大都会艺术博物馆（Met）的API将这件作品标为公有领域（isPublicDomain: true），并在 metmuseum.github.io 声明已通过 CC0 许可放弃“开放获取”数据集的版权及相关权利。该馆的政策页面返回 HTTP 429，未能读取；这一声明是在 metmuseum.github.io 上读到的。未经独立的法律审核。图像从背景边缘裁切，并经过缩放和重新压缩。
+#10
+es: La API del Met marca la obra como de dominio público (isPublicDomain: true) y el Met declara en metmuseum.github.io que renunció a los derechos de autor y conexos del conjunto de datos Open Access mediante la licencia CC0. La página de política del Met respondió HTTP 429 y no pudo leerse; la declaración se leyó en metmuseum.github.io. Sin auditoría jurídica independiente. Imagen redimensionada y recomprimida.
+en: The Met’s API marks the work as public domain (isPublicDomain: true), and the Met states at metmuseum.github.io that it has waived copyright and related rights in the Open Access dataset under the CC0 license. The Met’s policy page returned HTTP 429 and could not be read; the statement was read at metmuseum.github.io. No independent legal audit. Image resized and recompressed.
+fr: L’API du Met indique que l’œuvre est dans le domaine public (isPublicDomain : true), et le Met déclare sur metmuseum.github.io avoir renoncé aux droits d’auteur et droits voisins de l’ensemble de données Open Access sous licence CC0. La page de politique du Met a répondu HTTP 429 et n’a pas pu être lue ; la déclaration a été lue sur metmuseum.github.io. Sans audit juridique indépendant. Image redimensionnée et recompressée.
+it: L’API del Met indica l’opera come di pubblico dominio (isPublicDomain: true) e il Met dichiara su metmuseum.github.io di aver rinunciato ai diritti d’autore e connessi del dataset Open Access con la licenza CC0. La pagina della politica del Met ha risposto HTTP 429 e non è stata letta; la dichiarazione è stata letta su metmuseum.github.io. Senza verifica legale indipendente. Immagine ridimensionata e ricompressa.
+de: Die API des Met kennzeichnet das Werk als gemeinfrei (isPublicDomain: true), und das Met erklärt auf metmuseum.github.io, mit der Lizenz CC0 auf das Urheberrecht und verwandte Rechte am Open-Access-Datensatz verzichtet zu haben. Die Richtlinienseite des Met antwortete mit HTTP 429 und konnte nicht gelesen werden; die Erklärung wurde auf metmuseum.github.io gelesen. Keine unabhängige rechtliche Prüfung. Bild in der Größe verändert und neu komprimiert.
+ja: メトロポリタン美術館のAPIはこの作品をパブリックドメイン（isPublicDomain: true）としており、同館はmetmuseum.github.ioで、オープンアクセスのデータセットについて著作権および関連する権利をCC0ライセンスにより放棄したと表明しています。同館の方針ページはHTTP 429を返したため読めず、表明はmetmuseum.github.ioで確認しました。独立した法的監査は行っていません。リサイズして再圧縮した画像です。
+zh: 大都会艺术博物馆（Met）的API将这件作品标为公有领域（isPublicDomain: true），并在 metmuseum.github.io 声明已通过 CC0 许可放弃“开放获取”数据集的版权及相关权利。该馆的政策页面返回 HTTP 429，未能读取；这一声明是在 metmuseum.github.io 上读到的。未经独立的法律审核。图像经过缩放和重新压缩。
+#11
+es: La Anunciación
+en: The Annunciation
+fr: L’Annonciation
+it: L’Annunciazione
+de: Die Verkündigung
+ja: 受胎告知
+zh: 天使报喜
+#12
+es: La autoría es solo atribuida. La licencia se leyó en la página de Commons; sin auditoría jurídica independiente. Foto de los niños, no prueba de las apariciones.
+en: The authorship is only attributed. The license was read on the Commons page; no independent legal audit. A photo of the children, not proof of the apparitions.
+fr: L’auteur n’est qu’attribué. La licence a été lue sur la page de Commons ; sans audit juridique indépendant. Photo des enfants, et non preuve des apparitions.
+it: L’autore è solo attribuito. La licenza è stata letta nella pagina di Commons; senza verifica legale indipendente. Foto dei bambini, non prova delle apparizioni.
+de: Die Urheberschaft ist nur zugeschrieben. Die Lizenz wurde auf der Commons-Seite gelesen; keine unabhängige rechtliche Prüfung. Foto der Kinder, kein Beweis für die Erscheinungen.
+ja: 撮影者は推定にとどまります。ライセンスはコモンズのページで確認しました。独立した法的監査は行っていません。子どもたちの写真であり、出現の証拠ではありません。
+zh: 作者仅为推定。许可协议是在共享资源（Commons）页面上读到的；未经独立的法律审核。这是孩子们的照片，并不是显现的证据。
+#13
+es: La imagen venerada.
+en: The venerated image.
+fr: L’image vénérée.
+it: L’immagine venerata.
+de: Das verehrte Bild.
+ja: 崇敬されている聖像。
+zh: 受敬礼的圣像。

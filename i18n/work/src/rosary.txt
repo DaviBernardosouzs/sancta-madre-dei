@@ -1,0 +1,73 @@
+@@ rosary/rosario
+## steps.0
+Faça o Sinal da Cruz.
+## steps.1
+Anuncie o primeiro mistério do ciclo do dia e faça uma breve pausa para recordá-lo; se desejar, leia a passagem bíblica indicada.
+## steps.2
+Reze um Pai-Nosso.
+## steps.3
+Reze dez Ave-Marias, meditando o mistério.
+## steps.4
+Reze o Glória ao Pai.
+## steps.5
+Repita para cada um dos cinco mistérios do ciclo.
+## steps.6
+Ao final, pode-se rezar a Salve Rainha ou outra oração mariana.
+## stepsNote
+Estrutura de cada mistério conforme o sítio do Vaticano (anúncio, Pai-Nosso, dez Ave-Marias meditando o mistério, Glória ao Pai). A ordem exata das orações iniciais e finais varia entre comunidades e não foi aqui padronizada por documento; o Sinal da Cruz inicial e a Salve Rainha final são práticas comuns.
+## cycles.0.name
+Mistérios Gozosos
+## cycles.1.name
+Mistérios Luminosos
+## cycles.2.name
+Mistérios Dolorosos
+## cycles.3.name
+Mistérios Gloriosos
+## cycles.0.days
+segundas-feiras e sábados
+## cycles.1.days
+quintas-feiras
+## cycles.2.days
+terças e sextas-feiras
+## cycles.3.days
+quartas-feiras e domingos
+## cycles.0.mysteries.0.name
+A Anunciação a Maria
+## cycles.0.mysteries.1.name
+A Visitação de Nossa Senhora a sua prima Isabel
+## cycles.0.mysteries.2.name
+O Nascimento de Jesus
+## cycles.0.mysteries.3.name
+A Apresentação do Menino Jesus no Templo
+## cycles.0.mysteries.4.name
+A Perda e o encontro do Menino Jesus no Templo
+## cycles.1.mysteries.0.name
+O Batismo de Jesus no rio Jordão
+## cycles.1.mysteries.1.name
+A auto-revelação de Jesus nas Bodas de Caná
+## cycles.1.mysteries.2.name
+O Anúncio do Reino de Deus
+## cycles.1.mysteries.3.name
+A Transfiguração de Jesus
+## cycles.1.mysteries.4.name
+A Instituição da Eucaristia
+## cycles.2.mysteries.0.name
+A Agonia de Jesus no Horto
+## cycles.2.mysteries.1.name
+A Flagelação de Jesus
+## cycles.2.mysteries.2.name
+A Coroação de Espinhos
+## cycles.2.mysteries.3.name
+Jesus carregando a cruz no caminho do Calvário
+## cycles.2.mysteries.4.name
+A Crucifixão e morte de Jesus
+## cycles.3.mysteries.0.name
+A Ressurreição de Jesus
+## cycles.3.mysteries.1.name
+A Ascensão de Jesus ao Céu
+## cycles.3.mysteries.2.name
+A Vinda do Espírito Santo sobre os Apóstolos
+## cycles.3.mysteries.3.name
+A Assunção de Maria
+## cycles.3.mysteries.4.name
+A Coroação de Maria no Céu

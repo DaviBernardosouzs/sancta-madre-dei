@@ -1,0 +1,15 @@
+{
+  "appId": "io.github.davibernardosouzs.sanctamaterdei",
+  "appName": "Sancta Mater Dei",
+  "webDir": "dist-app",
+  "android": {
+    "backgroundColor": "#0f1530",
+    "allowMixedContent": false,
+    "webContentsDebuggingEnabled": false
+  },
+  "plugins": {
+    "SystemBars": {
+      "insetsHandling": "native"
+    }
+  }
+}

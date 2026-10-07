@@ -1,0 +1,91 @@
+name: App Android
+
+# Gera o app para a Play Store.
+# - Sem segredos configurados: gera um APK de teste (debug) para instalar no celular.
+# - Com os segredos da chave de upload: gera também o AAB assinado para enviar à Play.
+on:
+  workflow_dispatch:
+    inputs:
+      version_name:
+        description: 'Versão exibida na loja (ex.: 1.0.0)'
+        required: false
+        default: '1.0.0'
+  push:
+    tags: ['app-v*']
+  pull_request:
+    paths:
+      - 'android/**'
+      - 'capacitor.config.json'
+      - 'scripts/build.mjs'
+      - 'package.json'
+      - '.github/workflows/android.yml'
+
+jobs:
+  android:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      VERSION_CODE: ${{ github.run_number }}
+      VERSION_NAME: ${{ github.event.inputs.version_name || (startsWith(github.ref_name, 'app-v') && github.ref_name) || '1.0.0' }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: 21
+
+      - uses: android-actions/setup-android@v3
+
+      - name: Dependências
+        run: npm ci
+
+      - name: Site em modo app e sincronização com o Android
+        run: npm run build:app
+
+      - name: APK de teste
+        working-directory: android
+        run: ./gradlew --no-daemon assembleDebug
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: sancta-mater-dei-teste-apk
+          path: android/app/build/outputs/apk/debug/*.apk
+
+      - name: Chave de upload
+        id: chave
+        env:
+          KEYSTORE_B64: ${{ secrets.ANDROID_KEYSTORE_BASE64 }}
+        run: |
+          if [ -z "$KEYSTORE_B64" ]; then
+            echo "Segredo ANDROID_KEYSTORE_BASE64 ausente: o AAB assinado não será gerado."
+            echo "ok=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "$KEYSTORE_B64" | base64 -d > "$RUNNER_TEMP/upload.jks"
+            echo "ok=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: AAB assinado para a Play Store
+        if: steps.chave.outputs.ok == 'true'
+        working-directory: android
+        env:
+          ANDROID_KEYSTORE_PATH: ${{ runner.temp }}/upload.jks
+          ANDROID_KEYSTORE_PASSWORD: ${{ secrets.ANDROID_KEYSTORE_PASSWORD }}
+          ANDROID_KEY_ALIAS: ${{ secrets.ANDROID_KEY_ALIAS }}
+          ANDROID_KEY_PASSWORD: ${{ secrets.ANDROID_KEY_PASSWORD }}
+        run: ./gradlew --no-daemon bundleRelease
+
+      - uses: actions/upload-artifact@v4
+        if: steps.chave.outputs.ok == 'true'
+        with:
+          name: sancta-mater-dei-play-aab
+          path: android/app/build/outputs/bundle/release/*.aab
+
+      - name: Apagar chave
+        if: always()
+        run: rm -f "$RUNNER_TEMP/upload.jks"

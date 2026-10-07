@@ -1,0 +1,562 @@
+@@ titles/tit-lourdes
+## title
+Nossa Senhora de Lourdes
+## summary
+Título que nomeia Maria a partir do lugar das aparições relatadas em 1858 em Lourdes, na França.
+## place.locality
+Lourdes
+## place.region
+Hautes-Pyrénées
+## place.coordinates.precision
+Santuário de Lourdes, conforme o Wikidata (Q7709620: Sanctuary of Our Lady of Lourdes); precisão da ordem de dezenas a centenas de metros
+## blocks.0.heading
+Origem do título
+## blocks.0.text
+O título vem do lugar: a gruta de Massabielle, em Lourdes, onde Bernadette Soubirous relatou dezoito aparições entre fevereiro e julho de 1858. Em 1862, o Bispo de Tarbes reconheceu as aparições.
+@@ titles/tit-fatima
+## title
+Nossa Senhora de Fátima
+## summary
+Título que nomeia Maria a partir da Cova da Iria, em Fátima, Portugal, onde três crianças relataram aparições em 1917.
+## place.locality
+Cova da Iria, Fátima
+## place.coordinates.precision
+Santuário de Fátima, conforme o Wikidata (Q2627029: Sanctuary of Fátima); precisão da ordem de dezenas a centenas de metros
+## blocks.0.heading
+Origem do título
+## blocks.0.text
+O título vem da paróquia de Fátima. Em 13 de outubro de 1930, o Bispo de Leiria permitiu oficialmente o culto de Nossa Senhora de Fátima, depois de declarar dignas de crédito as visões das crianças na Cova da Iria.
+@@ titles/tit-imaculada-conceicao
+## title
+Imaculada Conceição
+## summary
+Título ligado ao dogma definido em 1854: Maria foi preservada do pecado original desde o primeiro instante da sua conceição.
+## blocks.0.heading
+Do que se trata
+## blocks.0.text
+Não é um título de lugar, e sim de doutrina. Em 8 de dezembro de 1854, o Papa Pio IX definiu o dogma na constituição apostólica Ineffabilis Deus. O Catecismo (§§ 490-492) resume o ensino da Igreja.
+@@ titles/tit-mae-de-deus
+## title
+Mãe de Deus (Theotokos)
+## summary
+O título mais antigo e mais central: Maria é a mãe de Jesus, que é Deus feito homem.
+## blocks.0.heading
+Origem
+## blocks.0.text
+O Catecismo (§ 495) afirma que a Igreja confessa Maria como verdadeiramente Mãe de Deus (Theotokos), e recorda que o Concílio de Éfeso, em 431, proclamou esse título.
+@@ titles/tit-aparecida
+## title
+Nossa Senhora Aparecida
+## summary
+Imagem pequena da Imaculada Conceição, de barro, encontrada em 1717 por pescadores no rio Paraíba do Sul, hoje padroeira do Brasil.
+## place.locality
+Aparecida
+## place.region
+São Paulo
+## place.coordinates.precision
+Basílica do Santuário Nacional, conforme o Wikidata (Q2886950: Basilica of the National Shrine of Our Lady of Aparecida); precisão da ordem de dezenas a centenas de metros
+## blocks.0.heading
+O encontro da imagem em 1717
+## blocks.1.heading
+Da casa de uma família à primeira igreja
+## blocks.2.heading
+O que se sabe sobre a imagem
+## blocks.3.heading
+Uma imagem quebrada e restaurada
+## blocks.4.heading
+Padroeira do Brasil
+## blocks.5.heading
+Milagres e graças atribuídos
+## blocks.6.heading
+A escuridão da imagem
+## blocks.0.text
+Segundo o relato do santuário, em outubro de 1717 três pescadores, João Alves, Felipe Pedroso e Domingos Garcia, foram encarregados de conseguir peixe para um banquete que a Vila de Santo Antônio de Guaratinguetá ofereceria ao Conde de Assumar, governador da província de São Paulo e Minas, que passaria pela vila de 17 a 30 de outubro. Depois de várias tentativas sem êxito, tiraram do rio Paraíba do Sul uma imagem de Nossa Senhora em dois pedaços: primeiro o corpo e, rio abaixo, a cabeça. Em seguida, as redes se encheram de peixes.\n\nO papa João Paulo II resumiu o episódio em 1980 como o achado do corpo e depois da cabeça de uma pequena imagem de cerâmica escurecida pela lama, seguido de uma pesca abundante.
+## blocks.1.text
+Conforme o relato do santuário, Silvana da Rocha Alves reuniu as duas partes da imagem com cera e a colocou num pequeno altar, onde os vizinhos passaram a rezar o terço aos sábados. Entre 1717 e 1732 a imagem esteve em diferentes lugares (Ribeirão do Sá, Ponte Alta, Itaguaçu); em 1732 Felipe Pedroso a entregou ao filho Atanásio, que construiu o primeiro oratório aberto ao público (o Vatican News data o oratório em 1733). Em 1740 foi erguida uma capela e, em 1745, inaugurada a primeira igreja, no Morro dos Coqueiros, em terreno doado por Margarida Nunes Rangel.
+## blocks.2.text
+A imagem é de barro, pequena, e representa Nossa Senhora da Conceição. O Vatican News registra que ela traz ligeiros traços de uma pintura original. A historiadora Tereza Pasin, citada pelo santuário, sugere que teria sido esculpida por volta de 1600, provavelmente por frei Agostinho de Jesus, que fazia pequenas imagens da Imaculada em argila para oratórios domésticos. É uma hipótese de pesquisa: não há informação documentada sobre como a imagem foi parar no rio.
+## blocks.3.text
+Até 1946 a imagem permaneceu como foi encontrada, com o pescoço partido; foi restaurada em 1946 e em 1950. Em 1978 foi quebrada em mais de 200 partes por um homem que a retirou do nicho; foi restaurada no MASP, em 33 dias, e voltou ao santuário em 24 de julho de 1979. João Paulo II recordou que, entre os fragmentos, foram encontradas as duas mãos da Virgem postas em oração.
+## blocks.4.text
+Em 16 de julho de 1930, o papa Pio XI declarou Nossa Senhora da Conceição Aparecida padroeira principal do Brasil, a pedido dos bispos brasileiros coordenados pelo cardeal Sebastião Leme. A festa de proclamação foi em 31 de maio de 1931, no Rio de Janeiro. Em 1953, a Assembleia da CNBB determinou que a festa da padroeira fosse celebrada em 12 de outubro, e em 1980 a Lei nº 6.802 (ato civil, não eclesial) declarou essa data feriado nacional.
+## blocks.5.text
+O santuário reúne relatos de graças atribuídas à intercessão de Nossa Senhora Aparecida, entre eles a pesca abundante de 1717, a cura de uma menina cega em 1874, a libertação das correntes do escravo Zacarias e o salvamento do menino Marcelino de um afogamento em 1862. São relatos devocionais conservados pelo santuário: esta edição não localizou decreto que reconheça cada um como milagre.
+## blocks.6.text
+A imagem é escura, e isso é associado ao barro e ao tempo submerso no rio; não encontrei nesta edição um estudo técnico lido sobre o material e o acabamento original. O santuário e o Vaticano descrevem a imagem como escurecida pela lama.
+## decisions.0.authority
+Bispo do Rio de Janeiro, Dom Frei João da Cruz (conforme o relato do santuário)
+## decisions.1.authority
+Papa Pio X (aceitou a proposta); coroação realizada por Dom José de Camargo Barros, bispo de São Paulo
+## decisions.2.authority
+Papa Pio X
+## decisions.3.authority
+Papa Pio X
+## decisions.4.authority
+Papa Pio XI
+## decisions.5.authority
+Conferência Nacional dos Bispos do Brasil (CNBB), Assembleia de 1953
+## decisions.6.authority
+Papa Paulo VI
+## decisions.7.authority
+Papa João Paulo II
+## decisions.8.authority
+Conferência Nacional dos Bispos do Brasil (CNBB)
+## decisions.0.scope
+Aprovação do culto e da construção da primeira igreja; alcance local, na época.
+## decisions.1.scope
+Coroação da imagem; ato de honra a uma imagem, não é reconhecimento de aparição.
+## decisions.2.scope
+Concessão de missa e ofício próprios; a licença anterior, de Leão XIII (1895), fixava a festa no primeiro domingo de maio, sem missa e ofício próprios.
+## decisions.3.scope
+Título de Basílica Menor à basílica histórica de Aparecida (a atual é outra construção).
+## decisions.4.scope
+Padroeira principal de todo o Brasil, a pedido do episcopado brasileiro.
+## decisions.5.scope
+Festa da padroeira em 12 de outubro, no Brasil.
+## decisions.6.scope
+Rosa de Ouro ao santuário, distinção do papa a lugares de devoção; não é reconhecimento de aparição ou de milagre.
+## decisions.7.scope
+Consagração da nova basílica; o santuário diz que o papa lhe concedeu o título de Basílica Menor.
+## decisions.8.scope
+Declaração da Basílica de Aparecida como Santuário Nacional.
+## decisions.0.document
+Relato do santuário; o documento original não foi localizado nesta edição.
+## decisions.1.document
+Relato do santuário; breve pontifício não localizado.
+## decisions.2.document
+Relato do santuário; documento não localizado.
+## decisions.3.document
+Relato do santuário e do Vatican News; documento não localizado.
+## decisions.4.document
+Decreto pontifício de 16 de julho de 1930, conforme o Vatican News; texto original (Acta Apostolicae Sedis) não localizado.
+## decisions.5.document
+Relato do santuário; ata da assembleia não localizada.
+## decisions.6.document
+Relato do santuário.
+## decisions.7.document
+Homilia de João Paulo II em Aparecida e relato do santuário.
+## decisions.8.document
+Relato do santuário.
+## decisions.0.plain
+O santuário informa que, depois de receber um relatório do vigário sobre os milagres e a devoção, o bispo aprovou o culto e a construção da primeira igreja.
+## decisions.1.plain
+A imagem foi coroada em 8 de setembro de 1904, com a aprovação do papa Pio X.
+## decisions.2.plain
+Pio X concedeu missa e ofício próprios a Nossa Senhora Aparecida.
+## decisions.3.plain
+A igreja de Aparecida recebeu o título de Basílica Menor.
+## decisions.4.plain
+O papa declarou Nossa Senhora Aparecida padroeira principal do Brasil.
+## decisions.5.plain
+Os bispos do Brasil determinaram que a festa da padroeira seja em 12 de outubro.
+## decisions.6.plain
+O papa abençoou a Rosa de Ouro enviada ao santuário em 5 de março de 1967.
+## decisions.7.plain
+João Paulo II consagrou a nova basílica de Aparecida em 1980.
+## decisions.8.plain
+Os bispos do Brasil declararam a basílica Santuário Nacional.
+## decisions.0.sourceNote
+Data e autor da decisão vêm da página do santuário; o texto do documento não foi lido.
+## decisions.4.sourceNote
+Citação como reproduzida pelo Vatican News.
+## decisions.7.sourceNote
+As fontes divergem na data: a homilia publicada pelo Vaticano é de 4 de julho de 1980; a página do santuário indica 3 de setembro. Por isso só o ano é registrado.
+## gaps.0
+Os textos dos decretos e breves (1743, 1904, 1906, 1908, 1930) não foram lidos; as datas e os autores vêm do santuário e do Vatican News.
+## gaps.1
+As datas da consagração da basílica por João Paulo II divergem entre o Vaticano e o santuário.
+## gaps.2
+Não foi lido estudo técnico sobre o material e a origem da imagem; a atribuição a frei Agostinho de Jesus é hipótese.
+## gaps.3
+Os relatos de graças não foram avaliados por decreto nesta edição.
+## gaps.4
+Falta a história da devoção popular (romarias, ex-votos) com fontes de pesquisa acadêmica.
+@@ titles/tit-guadalupe-mexico
+## title
+Nossa Senhora de Guadalupe (México)
+## summary
+Título ligado à imagem venerada na Basílica do Tepeyac, na Cidade do México, e à narrativa das aparições a Juan Diego em 1531.
+## place.locality
+Tepeyac, Cidade do México
+## place.region
+Cidade do México
+## place.coordinates.precision
+Basílica de Guadalupe, conforme o Wikidata (Q305419: Basilica of Our Lady of Guadalupe); precisão da ordem de dezenas a centenas de metros
+## blocks.0.heading
+A narrativa das aparições (1531)
+## blocks.1.heading
+Os documentos mais antigos e o debate acadêmico
+## blocks.2.heading
+A imagem
+## blocks.3.heading
+Guadalupe na Igreja da América
+## blocks.4.heading
+Não confundir com Guadalupe da Espanha
+## blocks.0.text
+A biografia de Juan Diego publicada pela Santa Sé relata que, em 9 de dezembro de 1531, a caminho da missa, a Virgem apareceu a Juan Diego na colina do Tepeyac e pediu que se construísse ali um santuário. O bispo pediu um sinal. Em 12 de dezembro, Juan Diego colheu flores no inverno e, ao desdobrar o manto diante do bispo, a imagem apareceu. É a narrativa tradicional, relatada pelo Vaticano como tradição, e não uma conclusão histórica estabelecida a partir de documentos contemporâneos.
+## blocks.1.text
+O texto mais antigo sobre o acontecimento é o Nican Mopohua, em náuatle, incluído no tratado Huei tlamahuiçoltica, publicado na Cidade do México em 1649 por Luis Laso de la Vega; em 1648 saíra o livro em espanhol de Miguel Sánchez. A Santa Sé descreve o Nican Mopohua como o mais antigo documento indígena sobre o acontecimento, atribuído a Antonio Valeriano (c. 1556). A autoria e a data são debatidas por estudiosos: uns, como Edmundo O'Gorman e Miguel León-Portilla, tendem a atribuí-lo a Valeriano; outros, como Sousa, Poole e Lockhart, consideram mais razoável que Laso de la Vega tenha se baseado em Sánchez. As obras acadêmicas citadas não foram lidas diretamente nesta edição.
+## blocks.2.text
+A biografia oficial descreve uma mulher com traços e vestes nativos, apoiada por um anjo, de pé sobre uma lua, com o manto azul coberto de estrelas douradas e uma faixa escura na cintura que indica gravidez. João Paulo II falou da “Virgem Morena” do Tepeyac e do rosto mestiço de Nossa Senhora.
+## blocks.3.text
+Em 1999, na exortação Ecclesia in America, João Paulo II escreveu que a aparição a Juan Diego, em 1531, teve efeito decisivo na evangelização, com influência que ultrapassa o México, e que a Virgem de Guadalupe é venerada em toda a América como Rainha. Na oração do Sínodo para a América ela é invocada como padroeira de toda a América e estrela da primeira e da nova evangelização. Em 2002, ao canonizar Juan Diego, o papa citou o episcopado mexicano para falar de uma evangelização perfeitamente inculturada.
+## blocks.4.text
+Existe outra devoção chamada Guadalupe, a de Nossa Senhora de Guadalupe em Extremadura (Espanha), com história própria. Esta página trata só da imagem do México; a outra ainda não foi pesquisada nesta edição.
+## decisions.0.authority
+Papa João Paulo II
+## decisions.1.authority
+Papa João Paulo II
+## decisions.2.authority
+Papa João Paulo II
+## decisions.0.scope
+Beatificação de Juan Diego, na Basílica de Guadalupe. Não é, em si, reconhecimento das aparições.
+## decisions.1.scope
+Acolhe a proposta dos padres sinodais de que a festa de Nossa Senhora de Guadalupe, Mãe e Evangelizadora da América, seja celebrada em todo o continente em 12 de dezembro.
+## decisions.2.scope
+Canonização de Juan Diego Cuauhtlatoatzin, primeiro santo indígena do continente americano. Não é, em si, reconhecimento das aparições.
+## decisions.0.document
+Biografia oficial de Juan Diego (Santa Sé).
+## decisions.1.document
+Exortação apostólica pós-sinodal Ecclesia in America.
+## decisions.2.document
+Homilia da canonização (Santa Sé).
+## decisions.0.plain
+O papa declarou Juan Diego beato.
+## decisions.1.plain
+O papa aceitou que a festa de Guadalupe seja celebrada em toda a América em 12 de dezembro.
+## decisions.2.plain
+O papa declarou Juan Diego santo na Basílica de Guadalupe.
+## gaps.0
+Não foi localizado nesta edição o documento que reconheceu o culto no século XVI nem o decreto que proclamou a padroeira do México; esses atos não são afirmados aqui.
+## gaps.1
+Não foi lido nenhum estudo científico sobre o material da tilma; nada é afirmado sobre ele.
+## gaps.2
+As obras de León-Portilla, O'Gorman, Poole, Sousa e Lockhart foram citadas por um verbete terciário; é preciso lê-las.
+## gaps.3
+Falta a página da outra Guadalupe (Extremadura, Espanha).
+@@ titles/tit-nossa-senhora-da-china
+## title
+Nossa Senhora da China (Donglü)
+## summary
+Título ligado à aldeia católica de Donglü (Hebei) e à narrativa de proteção durante a Revolta dos Boxers, em 1900.
+## place.locality
+Donglü, distrito de Qingyuan, Baoding
+## place.region
+Hebei
+## place.coordinates.precision
+Aldeia de Donglü, conforme o Wikidata (Q847716: Donglü); precisão da ordem de dezenas a centenas de metros
+## blocks.0.heading
+A narrativa de 1900
+## blocks.1.heading
+A imagem de Nossa Senhora da China
+## blocks.2.heading
+O santuário
+## blocks.3.heading
+O relato de 1995
+## blocks.4.heading
+Donglü e Sheshan são lugares diferentes
+## blocks.5.heading
+Cautela com as fontes
+## blocks.0.text
+Segundo relatos católicos de apoio (notícia de agência católica e texto de uma conferência episcopal, não documentos eclesiais), durante a Revolta dos Boxers, em 1900, a aldeia católica de Donglü foi cercada por milhares de revoltosos. Os fiéis e o sacerdote invocaram a Virgem Maria; a narrativa diz que apareceu uma mulher de branco, cercada de luz, e que os atacantes recuaram. Um dos textos acrescenta a figura de um cavaleiro de fogo, que se acredita ser São Miguel. Os números variam entre as fontes (por exemplo, 700 fiéis cercados por milhares, ou 10 mil atacantes), e nenhuma delas é documento contemporâneo.
+## blocks.1.text
+O texto da conferência episcopal inglesa diz que o padre mandou fazer uma pintura da Virgem e do Menino com vestes imperiais douradas, pois o amarelo é a cor imperial na cultura chinesa, e que ela se tornou a imagem de Nossa Senhora da China, Rainha da China. Esta é uma imagem de identidade chinesa, não de estilo renascentista europeu. Um verbete terciário fala em outra versão da origem (pintor francês em Xangai, 1908); as fontes divergem e o ponto fica aberto.
+## blocks.2.text
+A igreja de Donglü foi construída no fim da década de 1880 (verbete terciário), destruída em 1941 e reconstruída entre 1989 e 1992, dedicada a Maria Auxiliadora. Segundo a notícia, em 1924 os bispos da China, reunidos no Sínodo de Xangai, estabeleceram a igreja como santuário, e em 1932 o papa Pio XI teria aprovado o culto. Esses atos são relatados pela notícia, e os documentos originais não foram localizados; por isso não aparecem no histórico de decisões.
+## blocks.3.text
+Segundo a notícia, milhares de fiéis, entre eles quatro bispos e cem sacerdotes, relataram que em 23 de maio de 1995 houve um movimento extraordinário do sol no santuário. É um relato de fiéis, sem reconhecimento eclesial documentado nesta edição; a notícia afirma ainda que as autoridades de segurança passaram a impedir a peregrinação.
+## blocks.4.text
+O santuário de Nossa Senhora de Sheshan, perto de Xangai, é outro lugar, também dedicado a Maria Auxiliadora. Na carta aos católicos da China (2007), Bento XVI propôs 24 de maio, memória de Nossa Senhora Auxiliadora venerada em Sheshan, como dia de oração pela Igreja na China; a carta não menciona Donglü.
+## blocks.5.text
+As fontes usadas são notícias e textos de divulgação. Uma delas localiza Donglü na província de Hubei, o que é erro (Donglü fica em Hebei), e a notícia da carta de Bento XVI traz o ano errado. Esses erros foram identificados e não foram copiados.
+## gaps.0
+Nenhum documento eclesial primário foi lido: o Sínodo de Xangai (1924), a aprovação atribuída a Pio XI (1932) e a posição atual da Igreja sobre o relato de 1900 e o de 1995 precisam ser localizados.
+## gaps.1
+A pintura original e sua história (autor, data, destruição e recriação) têm versões divergentes.
+## gaps.2
+As fontes em chinês e os estudos históricos sobre a Revolta dos Boxers em Donglü não foram lidos.
+## gaps.3
+O relato de 1995 não tem avaliação eclesial documentada nesta edição.
+@@ titles/tit-bom-socorro-champion
+## title
+Nossa Senhora do Bom Socorro (Champion, Wisconsin)
+## summary
+Título ligado às aparições relatadas a Adele Brise, em 1859, em Champion (Wisconsin, EUA), aprovadas como dignas de crença pelo bispo de Green Bay em 2010.
+## place.locality
+Champion (condado de Brown)
+## place.region
+Wisconsin
+## place.coordinates.precision
+Santuário de Nossa Senhora do Bom Socorro, conforme o Wikidata (Q1102719: Shrine of Our Lady of Good Help); precisão da ordem de dezenas a centenas de metros
+## blocks.0.heading
+A decisão do bispo de Green Bay (2010)
+## blocks.1.heading
+O que esta página ainda não traz
+## blocks.0.text
+Em 8 de dezembro de 2010, o bispo de Green Bay, Dom David L. Ricken, aprovou como dignas de crença (embora não obrigatórias) as aparições e locuções dadas a Adele Brise em outubro de 1859, declarando que elas exibem a substância de caráter sobrenatural. Ele encoraja os peregrinos a visitar o lugar como lugar de consolo e de orações atendidas. A decisão é do bispo diocesano e diz expressamente que a crença não é obrigatória.
+## blocks.1.text
+O relato detalhado das aparições (o que Adele Brise teria visto e ouvido), a história da capela e o processo de investigação não foram lidos em fontes primárias nesta edição, por isso não são narrados aqui.
+## decisions.0.authority
+Dom David L. Ricken, bispo de Green Bay
+## decisions.0.scope
+Aprova as aparições de 1859 como dignas de crença (não obrigatória) pelos fiéis e encoraja a peregrinação; alcance e autoridade diocesanos.
+## decisions.0.document
+Decreto de 8 de dezembro de 2010 (texto em inglês, reproduzido por CatholicCulture.org).
+## decisions.0.plain
+O bispo da diocese aprovou as aparições como dignas de crença, sem obrigar ninguém a crer, e incentivou a peregrinação.
+## gaps.0
+Nenhuma fonte primária sobre o relato das aparições e sobre o santuário foi lida.
+## gaps.1
+A designação do santuário como santuário nacional (conferência dos bispos dos EUA) foi indicada por resultados de busca, mas o documento não foi aberto.
+## gaps.2
+O arquivo original do decreto, no sítio da Diocese de Green Bay, não foi aberto.
+@@ titles/tit-kibeho
+## title
+Nossa Senhora de Kibeho (Ruanda)
+## summary
+Aparições relatadas a três jovens em Kibeho, em Ruanda, a partir de 1981, declaradas autênticas pelo bispo de Gikongoro em 2001.
+## place.locality
+Kibeho
+## place.region
+Província do Sul
+## place.coordinates.precision
+Kibeho, conforme o Wikidata (Q182578: Our Lady of Kibeho); precisão da ordem de dezenas a centenas de metros
+## blocks.0.heading
+A declaração do bispo de Gikongoro (2001)
+## blocks.1.heading
+O que esta página ainda não traz
+## blocks.0.text
+Em 29 de junho de 2001, Dom Augustin Misago, bispo de Gikongoro, declarou que a Virgem Maria apareceu em Kibeho em 28 de novembro de 1981 e nos meses seguintes, reconhecendo como autênticas apenas as três primeiras videntes: Alphonsine Mumureke, Nathalie Mukamazimpaka e Marie Claire Mukangango. A declaração deixa de fora as supostas aparições de Jesus relatadas a partir de julho de 1982 e outros videntes, e diz que a mensagem não é nova revelação, mas um modo de recordar o ensino ordinário da Igreja. O reconhecimento não é exigência de fé: cada cristão é livre para crer ou não.
+## blocks.1.text
+O relato das aparições, o trabalho das comissões médica e teológica, os eventos entre 1981 e 1989 e o contexto histórico de Ruanda não foram lidos em fontes primárias nesta edição, por isso não são narrados aqui.
+## decisions.0.authority
+Dom Augustin Misago, bispo de Gikongoro
+## decisions.0.scope
+Reconhece como autênticas as aparições às três primeiras videntes; exclui as supostas aparições de Jesus e os demais videntes; a crença é livre.
+## decisions.0.document
+Declaração de 29 de junho de 2001 (tradução em inglês, publicada no L'Osservatore Romano, edição semanal em inglês, 11 de julho de 2001, p. 8).
+## decisions.0.plain
+O bispo da diocese declarou autênticas as aparições da Virgem às três primeiras videntes e disse que ninguém é obrigado a crer.
+## gaps.0
+Fonte terciária cita aprovação da devoção pública pelo bispo de Gikongoro em 15 de agosto de 1988 e o envio da declaração pela Santa Sé em 2 de julho de 2001; os documentos não foram lidos, e por isso não constam do histórico.
+## gaps.1
+O relatório de 23 páginas (em francês) que acompanha a declaração não foi lido.
+## gaps.2
+O santuário e sua situação atual não foram pesquisados.
+@@ titles/tit-la-salette
+## title
+Nossa Senhora de La Salette
+## summary
+Aparição relatada a dois pastores, em 1846, nos Alpes franceses, declarada digna de crédito pelo bispo de Grenoble em 1851.
+## place.locality
+La Salette-Fallavaux (Corps)
+## place.region
+Isère
+## place.coordinates.precision
+Santuário de La Salette, conforme o Wikidata (Q68164698: ); precisão da ordem de dezenas a centenas de metros
+## blocks.0.heading
+A decisão do bispo de Grenoble (1851)
+## blocks.1.heading
+O que esta página ainda não traz
+## blocks.0.text
+Em 19 de setembro de 1851, no quinto aniversário do acontecimento, o bispo de Grenoble, Dom de Bruillard, publicou uma carta pastoral em que julga que a aparição da Virgem a dois pastores em 19 de setembro de 1846, na montanha de La Salette, «traz em si todas as características da verdade» e que os fiéis têm fundamento para crer nela como indubitável e certa; autoriza a devoção a Nossa Senhora de La Salette e proíbe os fiéis e o clero da diocese de falar ou escrever contra o acontecimento. É uma decisão do bispo diocesano, na linguagem da época; não é reclassificada com a terminologia das normas de 2024.
+## blocks.1.text
+O relato dos pastores, a mensagem atribuída à aparição, as controvérsias históricas, o santuário e eventuais decisões posteriores da Santa Sé não foram lidos em fontes primárias nesta edição, por isso não são tratados aqui.
+## decisions.0.authority
+Dom Philibert de Bruillard, bispo de Grenoble
+## decisions.0.scope
+Julga que a aparição tem as características da verdade e autoriza a devoção, no âmbito da diocese de Grenoble; proíbe falar contra o acontecimento na diocese.
+## decisions.0.document
+Carta pastoral de 19 de setembro de 1851 (tradução em inglês, reproduzida por Miracle Hunter).
+## decisions.0.plain
+O bispo da diocese reconheceu a aparição como digna de crédito e autorizou o culto a Nossa Senhora de La Salette.
+## decisions.0.sourceNote
+Tradução em inglês; o original em francês não foi lido.
+## gaps.0
+Uma fonte terciária indica coroação canônica por Leão XIII em 21 de agosto de 1879; o documento não foi lido e o ato não consta do histórico.
+## gaps.1
+Falta o relato dos pastores e a mensagem, com fonte primária.
+## gaps.2
+Falta a história do santuário e das controvérsias do século XIX.
+@@ titles/tit-akita
+## title
+Nossa Senhora de Akita
+## summary
+Acontecimentos relatados em torno de uma estátua de Maria em Akita (Japão), a partir de 1973; o bispo de Niigata reconheceu em 1984 o caráter sobrenatural e autorizou a veneração em sua diocese, aguardando juízo definitivo da Santa Sé.
+## place.locality
+Akita (Yuzawadai)
+## place.region
+Akita
+## place.coordinates.precision
+Ponto aproximado na área do convento de Yuzawadai, em Akita, conforme o Wikidata (Q555842); precisão da ordem de 1 km
+## blocks.0.heading
+A decisão do bispo de Niigata (1984)
+## blocks.1.heading
+O que esta página ainda não traz
+## blocks.0.text
+Em 22 de abril de 1984, Dom John Shojiro Ito, bispo de Niigata, escreveu em carta pastoral que reconhece o caráter sobrenatural de uma série de acontecimentos misteriosos em torno da estátua de Maria, que não encontra neles nada contrário à fé e à moral católicas e que autoriza, em toda a diocese, a veneração da Santa Mãe de Akita, «enquanto aguarda que a Santa Sé publique o juízo definitivo». A decisão é do bispo diocesano e fica em suspenso quanto ao juízo final da Santa Sé.
+## blocks.1.text
+O relato dos acontecimentos, as lágrimas atribuídas à estátua, as mensagens atribuídas e o histórico da investigação não foram lidos em fontes primárias nesta edição. Notícias populares sobre esse caso trazem muitas afirmações sem documento; aqui só consta o que o texto do bispo diz. Os fenômenos físicos relatados (lacrimação) pertencem à categoria de relato, não a milagre reconhecido, e não há avaliação médica ou científica lida.
+## decisions.0.authority
+Dom John Shojiro Ito, bispo de Niigata
+## decisions.0.scope
+Reconhece o caráter sobrenatural de acontecimentos em torno da estátua e autoriza a veneração em toda a diocese de Niigata, aguardando juízo definitivo da Santa Sé.
+## decisions.0.document
+Carta pastoral de 22 de abril de 1984 (tradução em inglês, reproduzida de livro de 1997 por Miracle Hunter).
+## decisions.0.plain
+O bispo da diocese reconheceu como sobrenaturais os acontecimentos em torno da estátua e autorizou a veneração, esperando o juízo final da Santa Sé.
+## decisions.0.sourceNote
+Tradução em inglês; original em japonês não lido.
+## gaps.0
+Uma fonte secundária afirma que, em 1988, o cardeal Ratzinger permitiu a difusão da carta; o documento não foi lido e o ato não consta do histórico.
+## gaps.1
+Não foi localizado nesta edição o texto de eventual pronunciamento da Santa Sé.
+## gaps.2
+O texto do bispo foi lido em tradução e em livro de divulgação.
+## gaps.3
+As mensagens atribuídas ao caso não foram lidas e não são reproduzidas.
+@@ titles/tit-banneux
+## title
+Nossa Senhora de Banneux (Virgem dos Pobres)
+## summary
+Oito aparições relatadas a Mariette Beco, em 1933, em Banneux (Bélgica), reconhecidas pelo bispo de Liège em 1949.
+## place.locality
+Banneux (Sprimont)
+## place.region
+Liège
+## place.coordinates.precision
+Santuário de Banneux, conforme o Wikidata (Q1044403: Our Lady of Banneux); precisão da ordem de dezenas a centenas de metros
+## blocks.0.heading
+As aparições relatadas
+## blocks.1.heading
+A declaração do bispo de Liège (1949)
+## blocks.2.heading
+O que esta página ainda não traz
+## blocks.0.text
+Segundo uma compilação secundária, Mariette Beco, de 11 anos, relatou oito aparições entre 15 de janeiro e 2 de março de 1933.
+## blocks.1.text
+Em 22 de agosto de 1949, segundo a citação reproduzida pela compilação (do livro de Dessain, 1967), Dom Louis-Joseph Kerkhofs, bispo de Liège, declarou que as aparições já tinham sido reconhecidas oficialmente em 1942 e em 1947 e que, depois de mais dois anos de oração e observação, considerava poder e dever reconhecer sem reservas a realidade das oito aparições da Virgem a Mariette Beco. A decisão é do bispo diocesano. O texto original não foi lido.
+## blocks.2.text
+A mensagem atribuída, o santuário e os atos anteriores de 1942 e 1947 (e um suposto reconhecimento de 1952) não foram verificados em fontes primárias e não constam do histórico.
+## decisions.0.authority
+Dom Louis-Joseph Kerkhofs, bispo de Liège
+## decisions.0.scope
+Reconhece sem reservas a realidade das oito aparições a Mariette Beco; decisão diocesana.
+## decisions.0.document
+Declaração de 22 de agosto de 1949, conforme citação de Dessain, «Notre Dame de Banneux», 1967, p. 207, reproduzida por Miracle Hunter.
+## decisions.0.plain
+O bispo da diocese reconheceu a realidade das oito aparições.
+## decisions.0.sourceNote
+Citação de segunda mão; o texto original não foi lido.
+## gaps.0
+Os atos de 1942 (culto) e de 1947 (reconhecimento preliminar) foram só citados pela declaração de 1949; não foram lidos.
+## gaps.1
+A compilação fala em reconhecimento do Vaticano em 1952, sem documento; não é afirmado aqui.
+## gaps.2
+Falta fonte primária ou do santuário sobre o relato e a mensagem.
+@@ titles/tit-knock
+## title
+Nossa Senhora de Knock
+## summary
+Aparição relatada em 21 de agosto de 1879, na parede de uma igreja em Knock (Irlanda), com Maria, São José, São João e o Cordeiro eucarístico; as comissões de inquérito julgaram confiáveis as testemunhas.
+## place.locality
+Knock
+## place.region
+Condado de Mayo
+## place.coordinates.precision
+Santuário de Knock, conforme o Wikidata (Q2364438: Knock Shrine); precisão da ordem de dezenas a centenas de metros
+## blocks.0.heading
+A aparição relatada
+## blocks.1.heading
+O que as comissões de inquérito concluíram
+## blocks.2.heading
+Honras concedidas pelos papas
+## blocks.0.text
+Segundo o santuário, na noite de 21 de agosto de 1879, na parede lateral da igreja paroquial de Knock, teria aparecido Nossa Senhora, com São José e São João Evangelista, e ao lado deles o Cordeiro diante de uma cruz, sobre um altar, rodeado de anjos. Quinze testemunhas locais viram a cena durante cerca de duas horas. É um relato de testemunhas; nas fontes lidas não consta avaliação formal da natureza sobrenatural (ver abaixo).
+## blocks.1.text
+Em 8 de outubro de 1879, o arcebispo de Tuam, John MacHale, nomeou uma comissão de três eclesiásticos, que ouviu 15 testemunhas e concluiu que o testemunho de todas, tomado em conjunto, era digno de confiança e satisfatório. O arcebispo não fez declaração pública na época; em 1880, ao receber os primeiros peregrinos, disse ser grande bênção para o povo pobre do Oeste que a Virgem tivesse aparecido entre eles. Uma segunda comissão (1935-1936), convocada pelo arcebispo Gilmartin, ouviu sob juramento as testemunhas ainda vivas e examinou também curas atribuídas a Nossa Senhora de Knock, e de novo julgou os testemunhos satisfatórios. As comissões avaliaram a confiabilidade das testemunhas; as fontes lidas não trazem uma declaração formal da Igreja sobre a natureza sobrenatural do acontecimento.
+## blocks.2.text
+Em 30 de setembro de 1979, no centenário, João Paulo II visitou Knock, ofereceu ao santuário uma Rosa de ouro e anunciou que a nova igreja seria chamada Basílica de Nossa Senhora, Rainha da Irlanda. Em 2018 o papa Francisco visitou o santuário e, em 19 de março de 2021, segundo o santuário, o reconheceu como santuário internacional eucarístico e mariano, por meio do Pontifício Conselho para a Promoção da Nova Evangelização. Esses atos honram o lugar; não equivalem a declarar sobrenatural a aparição.
+## decisions.0.authority
+Arcebispo John MacHale, de Tuam (comissão por ele nomeada)
+## decisions.1.authority
+Arcebispo Thomas Patrick Gilmartin, de Tuam (comissão por ele nomeada)
+## decisions.2.authority
+Papa João Paulo II
+## decisions.3.authority
+Papa Francisco, por meio do Pontifício Conselho para a Promoção da Nova Evangelização
+## decisions.0.scope
+Inquérito sobre as testemunhas; relatório positivo sobre sua confiabilidade; o arcebispo não fez declaração pública sobre o acontecimento. Não é reconhecimento de aparição.
+## decisions.1.scope
+Segunda comissão (1935-1936): testemunhas e curas atribuídas; julgou os testemunhos satisfatórios. Não é reconhecimento de aparição nem de milagre.
+## decisions.2.scope
+Anúncio de que a igreja do santuário seria Basílica de Nossa Senhora, Rainha da Irlanda; oferta de uma Rosa de ouro. Não é reconhecimento de aparição.
+## decisions.3.scope
+Reconhecimento de Knock como santuário internacional eucarístico e mariano. Não é reconhecimento de aparição.
+## decisions.0.document
+Relatório da primeira comissão, conforme o site do santuário; o relatório original não foi lido.
+## decisions.1.document
+Relatório final da segunda comissão, conforme o site do santuário; não lido.
+## decisions.2.document
+Homilia no Santuário de Knock (Santa Sé).
+## decisions.3.document
+Relato do santuário; documento da Santa Sé não localizado.
+## decisions.0.plain
+Uma comissão da arquidiocese ouviu as testemunhas e concluiu que seus testemunhos eram dignos de confiança.
+## decisions.1.plain
+Uma segunda comissão da arquidiocese voltou a julgar satisfatórios os testemunhos.
+## decisions.2.plain
+O papa elevou a igreja do santuário a basílica e ofereceu uma Rosa de ouro.
+## decisions.3.plain
+A Santa Sé reconheceu Knock como santuário internacional.
+## decisions.0.sourceNote
+Citação como reproduzida pelo santuário.
+## decisions.3.sourceNote
+Data e autoria segundo o site do santuário.
+## gaps.0
+Os relatórios das comissões de 1879 e de 1935-1936 não foram lidos no original.
+## gaps.1
+Não foi encontrada nesta edição uma declaração formal sobre a natureza sobrenatural da aparição; não se afirma que haja ou que não haja.
+## gaps.2
+O documento da Santa Sé de 2021 não foi localizado; a data e a autoria vêm do santuário.
+## gaps.3
+Faltam fontes independentes do santuário.
+@@ titles/tit-boa-saude-vailankanni
+## title
+Nossa Senhora da Boa Saúde (Vailankanni)
+## summary
+Título do santuário de Vailankanni (Tamil Nadu, Índia), ligado a três tradições locais do século XVI e elevado a basílica menor em 1962.
+## place.locality
+Velankanni
+## place.region
+Tamil Nadu
+## place.coordinates.precision
+Povoado de Velankanni, conforme o Wikidata (Q1510885: Velankanni); precisão da ordem de dezenas a centenas de metros
+## blocks.0.heading
+Três tradições locais
+## blocks.1.heading
+Basílica menor (1962)
+## blocks.2.heading
+A festa
+## blocks.0.text
+Segundo um site de divulgação histórica, o santuário nasceu de três tradições locais que remontam ao século XVI: o menino pastor a quem a Virgem teria pedido leite, que se multiplicou; o menino coxo que vendia leitelho, curado depois de levar uma mensagem a um católico de Nagapattinam; e os marinheiros portugueses que, salvos de uma tempestade na Baía de Bengala, ergueram uma capela. O próprio texto adverte que muitos aspectos dessas histórias pertencem à tradição religiosa local, e não à história documentada. Esta página as apresenta como tradição.
+## blocks.1.text
+Segundo a mesma fonte, o papa João XXIII elevou a igreja à condição de basílica menor em 1962. É um título de honra para o santuário e não declara a origem sobrenatural das tradições.
+## blocks.2.text
+A festa anual de Nossa Senhora da Boa Saúde é celebrada de 29 de agosto a 8 de setembro, e termina na festa da Natividade da Virgem Maria.
+## decisions.0.authority
+Papa João XXIII
+## decisions.0.scope
+Título de basílica menor ao santuário; não é reconhecimento das tradições de origem.
+## decisions.0.document
+Relato de site de divulgação histórica; o decreto não foi lido.
+## decisions.0.plain
+O papa elevou a igreja do santuário a basílica menor.
+## decisions.0.sourceNote
+Só o ano foi confirmado na fonte lida; o nome e a data exata do decreto não foram lidos.
+## gaps.0
+Resultados de busca citam um decreto de 3 de novembro de 1962 e o título «Lourdes do Oriente»; não foram lidos em documento e não são afirmados aqui.
+## gaps.1
+A fonte lida é de divulgação; faltam o sítio do santuário, a diocese de Thanjavur e as obras acadêmicas citadas.
+## gaps.2
+A datação das tradições (século XVI) é aproximada e sem documento contemporâneo lido.

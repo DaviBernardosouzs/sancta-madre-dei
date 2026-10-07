@@ -1,0 +1,840 @@
+#396
+es: Saltar la presentación
+en: Skip the presentation
+fr: Passer la présentation
+it: Salta la presentazione
+de: Präsentation überspringen
+ja: 紹介をスキップ
+zh: 跳过演示
+#397
+es: Página de la obra en la colección de origen
+en: Work’s page in the source collection
+fr: Page de l’œuvre dans la collection d’origine
+it: Pagina dell’opera nella collezione di origine
+de: Seite des Werks in der Herkunftssammlung
+ja: 出所の所蔵ページで作品を見る
+zh: 作品在来源藏品中的页面
+#398
+es: Página en la colección de origen
+en: Page in the source collection
+fr: Page dans la collection d’origine
+it: Pagina nella collezione di origine
+de: Seite in der Herkunftssammlung
+ja: 出所の所蔵ページ
+zh: 来源藏品中的页面
+#399
+es: Quién lo atribuye y con qué límites
+en: Who attributes it, and with what limits
+fr: Qui l’attribue, et avec quelles limites
+it: Chi lo attribuisce e con quali limiti
+de: Wer es zuschreibt und mit welchen Grenzen
+ja: 誰が帰しているのか、どのような限界があるのか
+zh: 谁作此归属，又有哪些限度
+#400
+es: Cuestión aún no aclarada
+en: Question not yet clarified
+fr: Question pas encore élucidée
+it: Questione non ancora chiarita
+de: Noch ungeklärte Frage
+ja: まだ解明されていない問題
+zh: 尚未厘清的问题
+#401
+es: Los borradores quedan fuera del catálogo, de la búsqueda, de la cronología y del mapa del sitio.
+en: Drafts are kept out of the catalog, the search, the timeline and the sitemap.
+fr: Les brouillons restent hors du catalogue, de la recherche, de la chronologie et du plan du site.
+it: Le bozze restano fuori dal catalogo, dalla ricerca, dalla cronologia e dalla mappa del sito.
+de: Entwürfe bleiben außerhalb von Katalog, Suche, Zeitleiste und Sitemap.
+ja: 下書きは、カタログ、検索、年表、サイトマップには含めません。
+zh: 草稿不列入目录、搜索、年表和站点地图。
+#402
+es: Reconocer una aparición, autorizar el culto, conceder el nihil obstat y reconocer un milagro son decisiones distintas. Aquí solo constan las decisiones enumeradas abajo, con el documento de cada una.
+en: Recognizing an apparition, authorizing worship, granting a nihil obstat and recognizing a miracle are different decisions. Only the decisions listed below appear here, with the document for each.
+fr: Reconnaître une apparition, autoriser le culte, accorder un nihil obstat et reconnaître un miracle sont des décisions différentes. Ne figurent ici que les décisions listées ci-dessous, avec le document de chacune.
+it: Riconoscere un’apparizione, autorizzare il culto, concedere il nihil obstat e riconoscere un miracolo sono decisioni diverse. Qui figurano solo le decisioni elencate sotto, con il documento di ciascuna.
+de: Eine Erscheinung anzuerkennen, den Kult zu erlauben, ein Nihil obstat zu erteilen und ein Wunder anzuerkennen sind verschiedene Entscheidungen. Hier stehen nur die unten aufgeführten Entscheidungen, jeweils mit dem Dokument.
+ja: 出現を認めること、崇敬を許可すること、ニヒル・オブスタットを与えること、奇跡を認めることは、それぞれ別の決定です。ここには、下に挙げた決定だけを、それぞれの文書とともに載せています。
+zh: 承认显现、准许敬礼、给予“无异议”（nihil obstat）、承认奇迹，是不同的裁定。这里只列出下面这些裁定，并附各自的文件。
+#403
+es: Reconocimiento de la aparición
+en: Recognition of the apparition
+fr: Reconnaissance de l’apparition
+it: Riconoscimento dell’apparizione
+de: Anerkennung der Erscheinung
+ja: 出現の承認
+zh: 承认显现
+#404
+es: El reconocimiento de la aparición, la autorización del culto, el nihil obstat, el reconocimiento de un milagro y la evaluación médica se tratan como cosas distintas.
+en: Recognition of an apparition, authorization of worship, the nihil obstat, recognition of a miracle and medical evaluation are treated as different things.
+fr: La reconnaissance d’une apparition, l’autorisation du culte, le nihil obstat, la reconnaissance d’un miracle et l’évaluation médicale sont traités comme des choses différentes.
+it: Il riconoscimento dell’apparizione, l’autorizzazione del culto, il nihil obstat, il riconoscimento di un miracolo e la valutazione medica sono trattati come cose diverse.
+de: Anerkennung einer Erscheinung, Erlaubnis des Kultes, Nihil obstat, Anerkennung eines Wunders und medizinische Beurteilung werden als verschiedene Dinge behandelt.
+ja: 出現の承認、崇敬の許可、ニヒル・オブスタット、奇跡の認定、医学的評価は、それぞれ別のものとして扱います。
+zh: 承认显现、准许敬礼、“无异议”、承认奇迹和医学评估，被视为各不相同的事。
+#405
+es: Reconocimiento de un milagro concreto
+en: Recognition of a specific miracle
+fr: Reconnaissance d’un miracle précis
+it: Riconoscimento di un miracolo specifico
+de: Anerkennung eines bestimmten Wunders
+ja: 特定の奇跡の認定
+zh: 承认某一具体奇迹
+#406
+es: Los registros sin verificación quedan como borrador, fuera del catálogo, de la búsqueda y del mapa del sitio.
+en: Records without verification remain drafts, outside the catalog, the search and the sitemap.
+fr: Les fiches non vérifiées restent à l’état de brouillon, hors du catalogue, de la recherche et du plan du site.
+it: Le schede non verificate restano in bozza, fuori dal catalogo, dalla ricerca e dalla mappa del sito.
+de: Nicht überprüfte Einträge bleiben Entwürfe, außerhalb von Katalog, Suche und Sitemap.
+ja: 確認が済んでいない項目は下書きのままとし、カタログ、検索、サイトマップには含めません。
+zh: 未经核实的记录保持为草稿，不列入目录、搜索和站点地图。
+#407
+es: Región
+en: Region
+fr: Région
+it: Regione
+de: Region
+ja: 地域
+zh: 地区
+#408
+es: Reino Unido
+en: United Kingdom
+fr: Royaume-Uni
+it: Regno Unito
+de: Vereinigtes Königreich
+ja: イギリス
+zh: 英国
+#409
+es: Relacionados
+en: Related
+fr: Voir aussi
+it: Correlati
+de: Verwandtes
+ja: 関連項目
+zh: 相关内容
+#410
+es: Relato
+en: Account
+fr: Récit
+it: Racconto
+de: Bericht
+ja: 報告
+zh: 叙述
+#411
+es: Relato bíblico
+en: Biblical account
+fr: Récit biblique
+it: Racconto biblico
+de: Biblischer Bericht
+ja: 聖書の記述
+zh: 圣经叙述
+#412
+es: Relato de aparición
+en: Apparition account
+fr: Récit d’apparition
+it: Racconto di apparizione
+de: Erscheinungsbericht
+ja: 出現の報告
+zh: 显现叙述
+#413
+es: Relato devocional
+en: Devotional account
+fr: Récit dévotionnel
+it: Racconto devozionale
+de: Frommer Bericht
+ja: 信心上の報告
+zh: 敬礼性叙述
+#414
+es: Relatos de apariciones de la Virgen María estudiados por la Iglesia. Para cada uno mostramos el lugar, el periodo, las personas implicadas, la narración y, por separado, la decisión eclesial: quién decidió, cuándo, con qué alcance y en qué documento.
+en: Reports of apparitions of the Virgin Mary studied by the Church. For each one we show the place, the period, the people involved, the account and, separately, the ecclesial decision: who decided, when, with what scope and in which document.
+fr: Récits d’apparitions de la Vierge Marie étudiés par l’Église. Pour chacun, nous présentons le lieu, la période, les personnes concernées, le récit et, séparément, la décision ecclésiale : qui a décidé, quand, avec quelle portée et dans quel document.
+it: Racconti di apparizioni della Vergine Maria studiati dalla Chiesa. Per ciascuno mostriamo il luogo, il periodo, le persone coinvolte, il racconto e, separatamente, la decisione ecclesiale: chi ha deciso, quando, con quale portata e in quale documento.
+de: Berichte über Erscheinungen der Jungfrau Maria, die von der Kirche untersucht wurden. Zu jedem zeigen wir Ort, Zeitraum, beteiligte Personen, Bericht und, getrennt davon, die kirchliche Entscheidung: wer entschieden hat, wann, mit welcher Reichweite und in welchem Dokument.
+ja: 教会が調べた、聖母マリアの出現の報告です。それぞれについて、場所、時期、関わった人々、報告の内容を示し、それとは別に教会の決定（誰が、いつ、どの範囲で、どの文書で決めたか）を載せています。
+zh: 教会所研究的童贞玛利亚显现报告。对每一项，我们列出地点、时期、相关人物和叙述，并另外列出教会的裁定：由谁、何时、在什么范围内、依哪份文件作出。
+#415
+es: Relatos de apariciones. Según el Catecismo, no pertenecen al depósito de la fe.
+en: Accounts of apparitions. According to the Catechism, they do not belong to the deposit of faith.
+fr: Récits d’apparitions. Selon le Catéchisme, ils n’appartiennent pas au dépôt de la foi.
+it: Racconti di apparizioni. Secondo il Catechismo, non appartengono al deposito della fede.
+de: Berichte über Erscheinungen. Nach dem Katechismus gehören sie nicht zum Glaubensgut.
+ja: 出現の報告。『カトリック教会のカテキズム』によれば、信仰の遺産には含まれません。
+zh: 显现的叙述。依《天主教教理》，它们不属于信仰的宝库。
+#416
+es: Resultados
+en: Results
+fr: Résultats
+it: Risultati
+de: Ergebnisse
+ja: 検索結果
+zh: 结果
+#417
+es: Reanudar el cielo estrellado
+en: Resume the starry sky
+fr: Reprendre le ciel étoilé
+it: Riprendi il cielo stellato
+de: Sternenhimmel fortsetzen
+ja: 星空を再開する
+zh: 恢复星空
+#418
+es: Revelación privada
+en: Private revelation
+fr: Révélation privée
+it: Rivelazione privata
+de: Privatoffenbarung
+ja: 私的啓示
+zh: 私人启示
+#419
+es: Revelación privada (relato)
+en: Private revelation (account)
+fr: Révélation privée (récit)
+it: Rivelazione privata (racconto)
+de: Privatoffenbarung (Bericht)
+ja: 私的啓示（報告）
+zh: 私人启示（叙述）
+#420
+es: Revelaciones privadas
+en: Private revelations
+fr: Révélations privées
+it: Rivelazioni private
+de: Privatoffenbarungen
+ja: 私的啓示
+zh: 私人启示
+#421
+es: Rezar el Rosario
+en: Pray the Rosary
+fr: Prier le Rosaire
+it: Recitare il Rosario
+de: Den Rosenkranz beten
+ja: ロザリオを唱える
+zh: 诵念玫瑰经
+#422
+es: Rezar el Rosario (guía paso a paso)
+en: Pray the Rosary (step-by-step guide)
+fr: Prier le Rosaire (guide pas à pas)
+it: Recitare il Rosario (guida passo passo)
+de: Den Rosenkranz beten (Schritt-für-Schritt-Anleitung)
+ja: ロザリオを唱える（手順の案内）
+zh: 诵念玫瑰经（分步指南）
+#423
+es: Rigor antes que belleza
+en: Rigor before beauty
+fr: La rigueur avant la beauté
+it: Il rigore prima della bellezza
+de: Sorgfalt vor Schönheit
+ja: 美しさより厳密さ
+zh: 严谨先于美观
+#424
+es: Desplácese para empezar
+en: Scroll to begin
+fr: Faites défiler pour commencer
+it: Scorri per iniziare
+de: Zum Beginnen scrollen
+ja: スクロールして始める
+zh: 向下滚动开始
+#425
+es: Rostros de María {rotulo}
+en: Faces of Mary {rotulo}
+fr: Visages de Marie {rotulo}
+it: Volti di Maria {rotulo}
+de: Gesichter Marias {rotulo}
+ja: マリアの面影 {rotulo}
+zh: 玛利亚的面容 {rotulo}
+#426
+es: Rosario
+en: Rosary
+fr: Rosaire
+it: Rosario
+de: Rosenkranz
+ja: ロザリオ
+zh: 玫瑰经
+#427
+es: Sagrada Escritura
+en: Sacred Scripture
+fr: Sainte Écriture
+it: Sacra Scrittura
+de: Heilige Schrift
+ja: 聖書
+zh: 圣经
+#428
+es: Sagrada Escritura (citas en portugués tomadas del sitio del Vaticano)
+en: Sacred Scripture (quotations in Portuguese taken from the Vatican website)
+fr: Sainte Écriture (citations en portugais tirées du site du Vatican)
+it: Sacra Scrittura (citazioni in portoghese tratte dal sito del Vaticano)
+de: Heilige Schrift (Zitate auf Portugiesisch von der Website des Vatikans)
+ja: 聖書（ポルトガル語の引用はバチカンのサイトから）
+zh: 圣经（葡萄牙语引文取自梵蒂冈网站）
+#429
+es: Salir del modo de lectura
+en: Exit reading mode
+fr: Quitter le mode lecture
+it: Esci dalla modalità di lettura
+de: Lesemodus beenden
+ja: 集中読みモードを終了
+zh: 退出阅读模式
+#430
+es: Santuarios de Nuestra Señora de Lourdes
+en: Sanctuaires Notre-Dame de Lourdes
+fr: Sanctuaires Notre-Dame de Lourdes
+it: Santuari di Nostra Signora di Lourdes
+de: Heiligtümer Unserer Lieben Frau von Lourdes
+ja: ルルドの聖母の聖地
+zh: 露德圣母圣地
+#431
+es: Santa Madre de Dios
+en: Holy Mother of God
+fr: Sainte Mère de Dieu
+it: Santa Madre di Dio
+de: Heilige Mutter Gottes
+ja: 神の母聖マリア
+zh: 天主圣母
+#432
+es: Santa Sede / Dicasterio
+en: Holy See / Dicastery
+fr: Saint-Siège / Dicastère
+it: Santa Sede / Dicastero
+de: Heiliger Stuhl / Dikasterium
+ja: 教皇庁／教理省
+zh: 圣座／教理部
+#433
+es: Santa Sede y Magisterio
+en: Holy See and Magisterium
+fr: Saint-Siège et Magistère
+it: Santa Sede e Magistero
+de: Heiliger Stuhl und Lehramt
+ja: 教皇庁と教導職
+zh: 圣座与教会训导
+#434
+es: Santa Sede, Concilio Ecuménico Vaticano II
+en: Holy See, Second Vatican Ecumenical Council
+fr: Saint-Siège, concile œcuménique Vatican II
+it: Santa Sede, Concilio Ecumenico Vaticano II
+de: Heiliger Stuhl, Zweites Vatikanisches Konzil
+ja: 教皇庁、第二バチカン公会議
+zh: 圣座，梵蒂冈第二届大公会议
+#435
+es: Santa Sede, Oficina de las Celebraciones Litúrgicas del Sumo Pontífice
+en: Holy See, Office for the Liturgical Celebrations of the Supreme Pontiff
+fr: Saint-Siège, Bureau des célébrations liturgiques du Souverain Pontife
+it: Santa Sede, Ufficio delle Celebrazioni Liturgiche del Sommo Pontefice
+de: Heiliger Stuhl, Amt für die liturgischen Feiern des Papstes
+ja: 教皇庁、教皇典礼室
+zh: 圣座，教宗礼仪办公室
+#436
+es: Santa Sede, Librería Editrice Vaticana
+en: Holy See, Libreria Editrice Vaticana
+fr: Saint-Siège, Libreria Editrice Vaticana
+it: Santa Sede, Libreria Editrice Vaticana
+de: Heiliger Stuhl, Libreria Editrice Vaticana
+ja: 教皇庁、バチカン出版局（リブレリア・エディトリチェ・ヴァティカーナ）
+zh: 圣座，梵蒂冈出版社（Libreria Editrice Vaticana）
+#437
+es: Santa Sede, sitio web del Vaticano
+en: Holy See, Vatican website
+fr: Saint-Siège, site web du Vatican
+it: Santa Sede, sito web del Vaticano
+de: Heiliger Stuhl, Website des Vatikans
+ja: 教皇庁、バチカンのウェブサイト
+zh: 圣座，梵蒂冈网站
+#438
+es: Santuario
+en: Shrine
+fr: Sanctuaire
+it: Santuario
+de: Heiligtum
+ja: 聖地
+zh: 圣地
+#439
+es: Santuario Nacional de Nuestra Señora Aparecida (A12)
+en: National Shrine of Our Lady Aparecida (A12)
+fr: Sanctuaire national de Notre-Dame d’Aparecida (A12)
+it: Santuario Nazionale di Nostra Signora Aparecida (A12)
+de: Nationalheiligtum Unserer Lieben Frau von Aparecida (A12)
+ja: アパレシーダの聖母国立聖地（A12）
+zh: 阿帕雷西达圣母国家圣地（A12）
+#440
+es: Santuario, {pais}
+en: Shrine, {pais}
+fr: Sanctuaire, {pais}
+it: Santuario, {pais}
+de: Heiligtum, {pais}
+ja: 聖地（{pais}）
+zh: 圣地，{pais}
+#441
+es: Santuarios
+en: Shrines
+fr: Sanctuaires
+it: Santuari
+de: Heiligtümer
+ja: 聖地
+zh: 圣地
+#442
+es: Santuarios marianos
+en: Marian shrines
+fr: Sanctuaires mariaux
+it: Santuari mariani
+de: Marianische Heiligtümer
+ja: 聖母の聖地
+zh: 圣母圣地
+#443
+es: Santuarios marianos con ubicación verificada, historia y decisiones eclesiales documentadas.
+en: Marian shrines with verified location, history and documented ecclesial decisions.
+fr: Sanctuaires mariaux avec localisation vérifiée, histoire et décisions ecclésiales documentées.
+it: Santuari mariani con ubicazione verificata, storia e decisioni ecclesiali documentate.
+de: Marianische Heiligtümer mit geprüfter Lage, Geschichte und dokumentierten kirchlichen Entscheidungen.
+ja: 場所を確認した聖母の聖地。歴史と、資料で確認できる教会の決定を載せています。
+zh: 圣母圣地：位置已核实，附历史及有文献可查的教会裁定。
+#444
+es: Si esta política cambia, la nueva versión se publicará en esta página. Las dudas y las solicitudes de corrección siguen el camino descrito en <a href="{link}">Acerca de y metodología</a>.
+en: If this policy changes, the new version will be published on this page. Questions and correction requests follow the path described in <a href="{link}">About and methodology</a>.
+fr: Si cette politique change, la nouvelle version sera publiée sur cette page. Les questions et demandes de correction suivent la voie décrite dans <a href="{link}">À propos et méthodologie</a>.
+it: Se questa informativa cambia, la nuova versione sarà pubblicata in questa pagina. Dubbi e richieste di correzione seguono il percorso descritto in <a href="{link}">Informazioni e metodologia</a>.
+de: Sollte sich diese Erklärung ändern, wird die neue Fassung auf dieser Seite veröffentlicht. Fragen und Korrekturwünsche folgen dem unter <a href="{link}">Über das Projekt und Methodik</a> beschriebenen Weg.
+ja: このポリシーが変わった場合は、新しい版をこのページで公開します。ご質問や訂正のご依頼は、<a href="{link}">このプロジェクトについてと方法</a>に記した方法で行ってください。
+zh: 如本政策有变，新版本将发布在本页。疑问和更正申请，请按<a href="{link}">关于本站与方法</a>中所述的途径办理。
+#445
+es: Seguimos el Catecismo: el culto a la Virgen difiere esencialmente de la adoración, que se rinde solo a Dios (n. 971). María no es «otra divinidad»; los títulos de María nombran a la misma persona. <a href="{link}">Lea la explicación</a>.
+en: We follow the Catechism: the cult of the Virgin differs essentially from adoration, which is given to God alone (§ 971). Mary is not “another deity”; the titles of Mary name the same person. <a href="{link}">Read the explanation</a>.
+fr: Nous suivons le Catéchisme : le culte rendu à la Vierge diffère essentiellement du culte d’adoration, qui n’est rendu qu’à Dieu (n° 971). Marie n’est pas « une autre divinité » ; les titres de Marie désignent la même personne. <a href="{link}">Lire l’explication</a>.
+it: Seguiamo il Catechismo: il culto alla Vergine differisce essenzialmente dall’adorazione, che si rende solo a Dio (n. 971). Maria non è «un’altra divinità»; i titoli di Maria indicano la stessa persona. <a href="{link}">Leggi la spiegazione</a>.
+de: Wir folgen dem Katechismus: Die Verehrung der Jungfrau unterscheidet sich wesentlich von der Anbetung, die allein Gott gebührt (Nr. 971). Maria ist keine „weitere Gottheit“; die Titel Marias bezeichnen dieselbe Person. <a href="{link}">Zur Erklärung</a>.
+ja: 私たちは『カトリック教会のカテキズム』に従います。聖母への崇敬は、神だけに捧げる礼拝とは本質的に異なります（971項）。マリアは「別の神」ではなく、マリアのさまざまな称号は同じ一人の方を指しています。<a href="{link}">説明を読む</a>。
+zh: 我们遵循《天主教教理》：对童贞玛利亚的敬礼与只归于天主的钦崇，本质上不同（第971条）。玛利亚不是“另一位神”；玛利亚的各种称号所指的是同一个人。<a href="{link}">阅读说明</a>。
+#446
+es: Según la comprensión católica, un milagro es obra de Dios, atribuida a la intercesión de María. Cada registro individual separa tres cosas: el hecho relatado, la investigación médica y la decisión eclesiástica.
+en: According to Catholic understanding, a miracle is the work of God, attributed to the intercession of Mary. Each individual record separates three things: the reported event, the medical investigation and the ecclesiastical decision.
+fr: Selon la compréhension catholique, un miracle est l’œuvre de Dieu, attribuée à l’intercession de Marie. Chaque fiche individuelle distingue trois choses : l’événement rapporté, l’enquête médicale et la décision ecclésiastique.
+it: Secondo la comprensione cattolica, un miracolo è opera di Dio, attribuita all’intercessione di Maria. Ogni scheda individuale distingue tre cose: l’evento riferito, l’indagine medica e la decisione ecclesiastica.
+de: Nach katholischem Verständnis ist ein Wunder ein Werk Gottes, das der Fürbitte Marias zugeschrieben wird. Jeder einzelne Eintrag trennt drei Dinge: das berichtete Ereignis, die medizinische Untersuchung und die kirchliche Entscheidung.
+ja: カトリックの理解では、奇跡は神のわざであり、マリアのとりなしによるものとされます。個々の項目では、報告された出来事、医学的な調査、教会の決定の三つを区別して示します。
+zh: 依天主教的理解，奇迹是天主的工作，被归因于玛利亚的代祷。每条记录都把三件事分开：所述事件、医学调查和教会裁定。
+#447
+es: Según el sitio del Vaticano, se distribuyen así: gozosos los lunes y sábados, luminosos los jueves, dolorosos los martes y viernes, gloriosos los miércoles y domingos.
+en: According to the Vatican website, they are distributed as follows: joyful on Mondays and Saturdays, luminous on Thursdays, sorrowful on Tuesdays and Fridays, glorious on Wednesdays and Sundays.
+fr: Selon le site du Vatican, ils se répartissent ainsi : joyeux le lundi et le samedi, lumineux le jeudi, douloureux le mardi et le vendredi, glorieux le mercredi et le dimanche.
+it: Secondo il sito del Vaticano, si distribuiscono così: gaudiosi il lunedì e il sabato, luminosi il giovedì, dolorosi il martedì e il venerdì, gloriosi il mercoledì e la domenica.
+de: Nach der Website des Vatikans verteilen sie sich so: die freudenreichen montags und samstags, die lichtreichen donnerstags, die schmerzhaften dienstags und freitags, die glorreichen mittwochs und sonntags.
+ja: バチカンのサイトによれば、次のように配分されます。喜びの神秘は月曜と土曜、光の神秘は木曜、苦しみの神秘は火曜と金曜、栄えの神秘は水曜と日曜です。
+zh: 据梵蒂冈网站，分配如下：欢喜五端在周一和周六，光明五端在周四，痛苦五端在周二和周五，荣福五端在周三和周日。
+#448
+es: Sin anuncios, sin seguimiento y sin registro. <a href="{galeria}">Galería de obras</a> · <a href="{fontes}">Fuentes y créditos</a> · <a href="{sobre}">Acerca de y metodología</a> · <a href="{priv}">Privacidad</a>
+en: No ads, no tracking and no registration. <a href="{galeria}">Gallery of artworks</a> · <a href="{fontes}">Sources and credits</a> · <a href="{sobre}">About and methodology</a> · <a href="{priv}">Privacy</a>
+fr: Sans publicité, sans suivi et sans inscription. <a href="{galeria}">Galerie d’œuvres</a> · <a href="{fontes}">Sources et crédits</a> · <a href="{sobre}">À propos et méthodologie</a> · <a href="{priv}">Confidentialité</a>
+it: Senza pubblicità, senza tracciamento e senza registrazione. <a href="{galeria}">Galleria delle opere</a> · <a href="{fontes}">Fonti e crediti</a> · <a href="{sobre}">Informazioni e metodologia</a> · <a href="{priv}">Privacy</a>
+de: Keine Werbung, kein Tracking und keine Registrierung. <a href="{galeria}">Galerie der Werke</a> · <a href="{fontes}">Quellen und Nachweise</a> · <a href="{sobre}">Über das Projekt und Methodik</a> · <a href="{priv}">Datenschutz</a>
+ja: 広告も、追跡も、会員登録もありません。<a href="{galeria}">作品ギャラリー</a> · <a href="{fontes}">出典とクレジット</a> · <a href="{sobre}">このプロジェクトについてと方法</a> · <a href="{priv}">プライバシー</a>
+zh: 无广告、无跟踪、无需注册。<a href="{galeria}">作品画廊</a> · <a href="{fontes}">来源与署名</a> · <a href="{sobre}">关于本站与方法</a> · <a href="{priv}">隐私</a>
+#449
+es: Sin fuente específica: nota editorial del proyecto.
+en: No specific source: editorial note of the project.
+fr: Pas de source précise : note éditoriale du projet.
+it: Nessuna fonte specifica: nota editoriale del progetto.
+de: Keine bestimmte Quelle: redaktionelle Anmerkung des Projekts.
+ja: 特定の出典はありません。プロジェクトの編集上の注記です。
+zh: 没有具体来源：本项目的编者按语。
+#450
+es: Sin imágenes de obras de arte: la procedencia y la licencia aún no se han verificado. Los ornamentos son dibujos originales del proyecto.
+en: No images of artworks: provenance and license have not yet been verified. The ornaments are original drawings by the project.
+fr: Pas d’images d’œuvres d’art : la provenance et la licence n’ont pas encore été vérifiées. Les ornements sont des dessins originaux du projet.
+it: Nessuna immagine di opere d’arte: la provenienza e la licenza non sono ancora state verificate. Gli ornamenti sono disegni originali del progetto.
+de: Keine Bilder von Kunstwerken: Herkunft und Lizenz wurden noch nicht geprüft. Die Ornamente sind eigene Zeichnungen des Projekts.
+ja: 美術作品の画像はありません。由来とライセンスがまだ確認できていないためです。装飾はプロジェクトのオリジナルのイラストです。
+zh: 没有艺术作品的图像：其出处和许可尚未核实。装饰图案是本项目的原创绘制。
+#451
+es: Situación eclesial documentada
+en: Documented ecclesial status
+fr: Situation ecclésiale documentée
+it: Situazione ecclesiale documentata
+de: Dokumentierter kirchlicher Status
+ja: 記録のある教会上の状況
+zh: 有文献可查的教会立场
+#452
+es: Situación eclesial documentada:
+en: Documented ecclesial status:
+fr: Situation ecclésiale documentée :
+it: Situazione ecclesiale documentata:
+de: Dokumentierter kirchlicher Status:
+ja: 記録のある教会上の状況：
+zh: 有文献可查的教会立场：
+#453
+es: Situación eclesial:
+en: Ecclesial status:
+fr: Situation ecclésiale :
+it: Situazione ecclesiale:
+de: Kirchlicher Status:
+ja: 教会上の状況：
+zh: 教会立场：
+#454
+es: Acerca de
+en: About
+fr: À propos
+it: Informazioni
+de: Über das Projekt
+ja: このプロジェクトについて
+zh: 关于本站
+#455
+es: Sobre la devoción del Rosario
+en: About the devotion of the Rosary
+fr: À propos de la dévotion du Rosaire
+it: Sulla devozione del Rosario
+de: Über die Rosenkranzandacht
+ja: ロザリオの信心について
+zh: 关于玫瑰经敬礼
+#456
+es: Acerca de y metodología
+en: About and methodology
+fr: À propos et méthodologie
+it: Informazioni e metodologia
+de: Über das Projekt und Methodik
+ja: このプロジェクトについてと方法
+zh: 关于本站与方法
+#457
+es: Acerca del proyecto y metodología
+en: About the project and methodology
+fr: À propos du projet et méthodologie
+it: Informazioni sul progetto e metodologia
+de: Über das Projekt und Methodik
+ja: このプロジェクトと方法について
+zh: 关于本项目与方法
+#458
+es: Solemnidad
+en: Solemnity
+fr: Solennité
+it: Solennità
+de: Hochfest
+ja: 祭日
+zh: 节日
+#459
+es: Suiza
+en: Switzerland
+fr: Suisse
+it: Svizzera
+de: Schweiz
+ja: スイス
+zh: 瑞士
+#460
+es: Son obras de arte, no registros históricos: ilustran la lectura y no prueban ni ilustran literalmente los hechos relatados. Los créditos completos están también en la <a href="{link}">Biblioteca</a>.
+en: These are works of art, not historical records: they illustrate the reading and neither prove nor literally depict the events reported. The full credits are also in the <a href="{link}">Library</a>.
+fr: Ce sont des œuvres d’art, non des documents historiques : elles illustrent la lecture et ne prouvent ni ne représentent littéralement les événements rapportés. Les crédits complets figurent aussi dans la <a href="{link}">Bibliothèque</a>.
+it: Sono opere d’arte, non documenti storici: illustrano la lettura e non provano né raffigurano alla lettera gli avvenimenti riferiti. I crediti completi sono anche nella <a href="{link}">Biblioteca</a>.
+de: Es sind Kunstwerke, keine historischen Dokumente: Sie illustrieren die Lektüre und beweisen oder zeigen die berichteten Ereignisse nicht wörtlich. Die vollständigen Nachweise stehen auch in der <a href="{link}">Bibliothek</a>.
+ja: これらは美術作品であって歴史的な記録ではありません。読み進める助けとなる挿絵であり、報告された出来事を証明するものでも、文字どおり描いたものでもありません。クレジットの全体は<a href="{link}">資料室</a>にもあります。
+zh: 这些是艺术作品，而非历史记录：它们为阅读配图，既不证明所述事件，也不是对事件的字面描绘。完整的署名也见于<a href="{link}">资料库</a>。
+#461
+es: Sitio oficial
+en: Official website
+fr: Site officiel
+it: Sito ufficiale
+de: Offizielle Website
+ja: 公式サイト
+zh: 官方网站
+#462
+es: Tamaño del texto
+en: Text size
+fr: Taille du texte
+it: Dimensione del testo
+de: Textgröße
+ja: 文字サイズ
+zh: 文字大小
+#463
+es: Tamaño de texto predeterminado
+en: Default text size
+fr: Taille de texte par défaut
+it: Dimensione del testo predefinita
+de: Standardtextgröße
+ja: 標準の文字サイズ
+zh: 默认文字大小
+#464
+es: Términos eclesiales
+en: Church terms
+fr: Termes ecclésiaux
+it: Termini ecclesiali
+de: Kirchliche Begriffe
+ja: 教会用語
+zh: 教会术语
+#465
+es: Texto de la licencia o declaración
+en: License text or statement
+fr: Texte de la licence ou déclaration
+it: Testo della licenza o dichiarazione
+de: Lizenztext oder Erklärung
+ja: ライセンス本文または表示
+zh: 许可文本或声明
+#466
+es: Textos apócrifos (fuera del canon bíblico)
+en: Apocryphal texts (outside the biblical canon)
+fr: Textes apocryphes (hors du canon biblique)
+it: Testi apocrifi (fuori dal canone biblico)
+de: Apokryphe Texte (außerhalb des biblischen Kanons)
+ja: 外典（聖書の正典の外にある文書）
+zh: 伪经文献（圣经正典之外）
+#467
+es: Textos contrastados con la fuente, con la procedencia y la situación de derechos de cada uno. Cada oración tiene un modo de lectura sin distracciones.
+en: Texts checked against the source, with the provenance and rights status of each. Every prayer has a distraction-free reading mode.
+fr: Textes vérifiés à la source, avec la provenance et la situation des droits de chacun. Chaque prière dispose d’un mode lecture sans distraction.
+it: Testi verificati alla fonte, con la provenienza e la situazione dei diritti di ciascuno. Ogni preghiera ha una modalità di lettura senza distrazioni.
+de: An der Quelle geprüfte Texte, jeweils mit Herkunft und Rechtslage. Zu jedem Gebet gibt es einen ablenkungsfreien Lesemodus.
+ja: 出典で確認した本文を、由来と権利の状況とともに載せています。各祈りに、集中して読めるモードがあります。
+zh: 经与来源核对的文本，各附出处和权利状况。每篇祷文都有专注阅读模式。
+#468
+es: The Catholic Encyclopedia (Robert Appleton Company), con nihil obstat e imprimatur de 1907; transcripción en New Advent
+en: The Catholic Encyclopedia (Robert Appleton Company), with nihil obstat and imprimatur of 1907; transcription at New Advent
+fr: The Catholic Encyclopedia (Robert Appleton Company), avec nihil obstat et imprimatur de 1907 ; transcription sur New Advent
+it: The Catholic Encyclopedia (Robert Appleton Company), con nihil obstat e imprimatur del 1907; trascrizione su New Advent
+de: The Catholic Encyclopedia (Robert Appleton Company), mit Nihil obstat und Imprimatur von 1907; Transkription bei New Advent
+ja: The Catholic Encyclopedia（Robert Appleton Company）、1907年のニヒル・オブスタットとインプリマトゥール付き。New Adventに転記
+zh: 《天主教百科全书》（The Catholic Encyclopedia，Robert Appleton Company），附1907年的“无异议”和“准印”；转录于 New Advent
+#469
+es: The Catholic Encyclopedia (Robert Appleton Company), con nihil obstat e imprimatur de 1912; transcripción en New Advent
+en: The Catholic Encyclopedia (Robert Appleton Company), with nihil obstat and imprimatur of 1912; transcription at New Advent
+fr: The Catholic Encyclopedia (Robert Appleton Company), avec nihil obstat et imprimatur de 1912 ; transcription sur New Advent
+it: The Catholic Encyclopedia (Robert Appleton Company), con nihil obstat e imprimatur del 1912; trascrizione su New Advent
+de: The Catholic Encyclopedia (Robert Appleton Company), mit Nihil obstat und Imprimatur von 1912; Transkription bei New Advent
+ja: The Catholic Encyclopedia（Robert Appleton Company）、1912年のニヒル・オブスタットとインプリマトゥール付き。New Adventに転記
+zh: 《天主教百科全书》（The Catholic Encyclopedia，Robert Appleton Company），附1912年的“无异议”和“准印”；转录于 New Advent
+#470
+es: The Cloisters Collection, The Metropolitan Museum of Art, Nueva York
+en: The Cloisters Collection, The Metropolitan Museum of Art, New York
+fr: The Cloisters Collection, The Metropolitan Museum of Art, New York
+it: The Cloisters Collection, The Metropolitan Museum of Art, New York
+de: The Cloisters Collection, The Metropolitan Museum of Art, New York
+ja: ザ・クロイスターズ・コレクション、メトロポリタン美術館（ニューヨーク）
+zh: 修道院博物馆藏品（The Cloisters Collection），大都会艺术博物馆，纽约
+#471
+es: The Metropolitan Museum of Art, Nueva York
+en: The Metropolitan Museum of Art, New York
+fr: The Metropolitan Museum of Art, New York
+it: The Metropolitan Museum of Art, New York
+de: The Metropolitan Museum of Art, New York
+ja: メトロポリタン美術館（ニューヨーク）
+zh: 大都会艺术博物馆，纽约
+#472
+es: The Metropolitan Museum of Art, Open Access, objeto {id}
+en: The Metropolitan Museum of Art, Open Access, object {id}
+fr: The Metropolitan Museum of Art, Open Access, objet {id}
+it: The Metropolitan Museum of Art, Open Access, oggetto {id}
+de: The Metropolitan Museum of Art, Open Access, Objekt {id}
+ja: メトロポリタン美術館、オープンアクセス、オブジェクト{id}
+zh: 大都会艺术博物馆，开放获取，藏品编号 {id}
+#473
+es: Tipo
+en: Type
+fr: Type
+it: Tipo
+de: Art
+ja: 種類
+zh: 类型
+#474
+es: Tipo de contenido:
+en: Content type:
+fr: Type de contenu :
+it: Tipo di contenuto:
+de: Art des Inhalts:
+ja: 内容の種類：
+zh: 内容类型：
+#475
+es: Tipo de registro
+en: Record type
+fr: Type de fiche
+it: Tipo di scheda
+de: Art des Eintrags
+ja: 項目の種類
+zh: 条目类型
+#476
+es: Toda afirmación de reconocimiento indica la autoridad exacta, la fecha y el documento. Una decisión diocesana nunca se llama «reconocida por el Vaticano».
+en: Every claim of recognition states the exact authority, date and document. A diocesan decision is never called “recognized by the Vatican”.
+fr: Toute affirmation de reconnaissance indique l’autorité exacte, la date et le document. Une décision diocésaine n’est jamais qualifiée de « reconnue par le Vatican ».
+it: Ogni affermazione di riconoscimento indica l’autorità esatta, la data e il documento. Una decisione diocesana non viene mai chiamata «riconosciuta dal Vaticano».
+de: Jede Aussage zu einer Anerkennung nennt die genaue Autorität, das Datum und das Dokument. Eine diözesane Entscheidung wird nie „vom Vatikan anerkannt“ genannt.
+ja: 認定に関する主張には、必ず正確な権限者・日付・文書を示します。教区の決定を「バチカンが認めた」と呼ぶことはありません。
+zh: 凡涉及承认的论述，都注明确切的裁定机构、日期和文件。教区的裁定绝不称为“梵蒂冈承认”。
+#477
+es: Todas
+en: All
+fr: Toutes
+it: Tutte
+de: Alle
+ja: すべて
+zh: 全部
+#478
+es: Todas las fuentes usadas, organizadas por tipo. De cada una: institución, dirección, fecha del documento, fecha de consulta y las afirmaciones exactas que respalda en el sitio.
+en: All the sources used, organized by type. For each one: institution, address, document date, date consulted and the exact claims it supports on the site.
+fr: Toutes les sources utilisées, classées par type. Pour chacune : institution, adresse, date du document, date de consultation et affirmations exactes qu’elle appuie sur le site.
+it: Tutte le fonti usate, organizzate per tipo. Per ciascuna: istituzione, indirizzo, data del documento, data di consultazione e le affermazioni esatte che sostiene nel sito.
+de: Alle verwendeten Quellen, nach Art geordnet. Zu jeder: Institution, Adresse, Datum des Dokuments, Abrufdatum und die genauen Aussagen, die sie auf der Website belegt.
+ja: 使用したすべての出典を種類別に整理しています。各出典について、機関、アドレス、文書の日付、参照日、そしてサイト上でどの主張を裏付けているかを示します。
+zh: 所用的全部资料来源，按类型整理。每条来源均列出机构、网址、文件日期、查阅日期，以及它在本站所支持的确切论述。
+#479
+es: Todos
+en: All
+fr: Tous
+it: Tutti
+de: Alle
+ja: すべて
+zh: 全部
+#480
+es: Todos los capítulos
+en: All chapters
+fr: Tous les chapitres
+it: Tutti i capitoli
+de: Alle Kapitel
+ja: すべての章
+zh: 全部章节
+#481
+es: Tradicionalmente los {dias}.
+en: Traditionally on {dias}.
+fr: Traditionnellement {dias}.
+it: Tradizionalmente il {dias}.
+de: Traditionell {dias}.
+ja: 伝統的には{dias}に唱えます。
+zh: 传统上在{dias}。
+#482
+es: Tradición cristiana
+en: Christian tradition
+fr: Tradition chrétienne
+it: Tradizione cristiana
+de: Christliche Überlieferung
+ja: キリスト教の伝承
+zh: 基督宗教传统
+#483
+es: Tradición devocional
+en: Devotional tradition
+fr: Tradition dévotionnelle
+it: Tradizione devozionale
+de: Frömmigkeitstradition
+ja: 信心の伝統
+zh: 敬礼传统
+#484
+es: Tradición y enseñanza de la Iglesia
+en: Tradition and teaching of the Church
+fr: Tradition et enseignement de l’Église
+it: Tradizione e insegnamento della Chiesa
+de: Überlieferung und Lehre der Kirche
+ja: 教会の伝承と教え
+zh: 教会的传统与教导
+#485
+es: Transversal (sin lugar)
+en: Cross-cutting (no place)
+fr: Transversal (sans lieu)
+it: Trasversale (senza luogo)
+de: Übergreifend (ohne Ort)
+ja: 場所を問わないもの
+zh: 不限地点
+#486
+es: Pasaje citado ({idioma})
+en: Passage quoted ({idioma})
+fr: Passage cité ({idioma})
+it: Brano citato ({idioma})
+de: Zitierte Stelle ({idioma})
+ja: 引用箇所（{idioma}）
+zh: 所引段落（{idioma}）
+#487
+es: Trece capítulos
+en: Thirteen chapters
+fr: Treize chapitres
+it: Tredici capitoli
+de: Dreizehn Kapitel
+ja: 13の章
+zh: 十三章
+#488
+es: Técnica
+en: Medium
+fr: Technique
+it: Tecnica
+de: Technik
+ja: 技法
+zh: 材质与技法
+#489
+es: Título
+en: Title
+fr: Titre
+it: Titolo
+de: Titel
+ja: 称号
+zh: 称号
+#490
+es: Título de basílica o de santuario
+en: Title of basilica or shrine
+fr: Titre de basilique ou de sanctuaire
+it: Titolo di basilica o di santuario
+de: Titel einer Basilika oder eines Heiligtums
+ja: 大聖堂または聖地としての称号
+zh: 大殿或圣地的称号
+#491
+es: Título doctrinal
+en: Doctrinal title
+fr: Titre doctrinal
+it: Titolo dottrinale
+de: Lehrtitel
+ja: 教義上の称号
+zh: 教义称号
+#492
+es: Título mariano
+en: Marian title
+fr: Titre marial
+it: Titolo mariano
+de: Marientitel
+ja: 聖母の称号
+zh: 圣母称号
+#493
+es: Título · aparición relatada
+en: Title · reported apparition
+fr: Titre · apparition rapportée
+it: Titolo · apparizione riferita
+de: Titel · berichtete Erscheinung
+ja: 称号 · 報告された出現
+zh: 称号 · 所报告的显现
+#494
+es: Títulos
+en: Titles
+fr: Titres
+it: Titoli
+de: Titel
+ja: 称号
+zh: 称号
+#495
+es: Títulos de María con origen, historia documentada, tradición y decisiones eclesiales, cada uno con sus fuentes.
+en: Titles of Mary with their origin, documented history, tradition and ecclesial decisions, each with its sources.
+fr: Titres de Marie avec origine, histoire documentée, tradition et décisions ecclésiales, chacun avec ses sources.
+it: Titoli di Maria con origine, storia documentata, tradizione e decisioni ecclesiali, ciascuno con le sue fonti.
+de: Titel Marias mit Herkunft, dokumentierter Geschichte, Tradition und kirchlichen Entscheidungen, jeweils mit ihren Quellen.
+ja: マリアの称号を、由来、資料で確認できる歴史、伝承、教会の決定とともに、それぞれの出典を添えて紹介します。
+zh: 玛利亚的各种称号，附来源、有文献可查的历史、传统和教会裁定，并列出各自的资料出处。
+#496
+es: Títulos marianos
+en: Marian titles
+fr: Titres mariaux
+it: Titoli mariani
+de: Marientitel
+ja: 聖母の称号
+zh: 圣母称号
+#497
+es: Títulos sin lugar (doctrinales): {lista}.
+en: Titles without a place (doctrinal): {lista}.
+fr: Titres sans lieu (doctrinaux) : {lista}.
+it: Titoli senza luogo (dottrinali): {lista}.
+de: Titel ohne Ort (Lehrtitel): {lista}.
+ja: 場所のない称号（教義上のもの）：{lista}。
+zh: 无特定地点的称号（教义性的）：{lista}。
+#498
+es: Títulos, santuarios, fiestas
+en: Titles, shrines, feasts
+fr: Titres, sanctuaires, fêtes
+it: Titoli, santuari, feste
+de: Titel, Heiligtümer, Feste
+ja: 称号・聖地・祝日
+zh: 称号、圣地、庆日
+#499
+es: UCA News (agencia católica asiática)
+en: UCA News (Asian Catholic news agency)
+fr: UCA News (agence catholique asiatique)
+it: UCA News (agenzia cattolica asiatica)
+de: UCA News (asiatische katholische Nachrichtenagentur)
+ja: UCAニュース（アジアのカトリック通信社）
+zh: UCA 新闻（亚洲天主教通讯社）
+#500
+es: Uno de los pronunciamientos previstos en las normas de 2024 (art. 18): se reconocen signos de la acción del Espíritu Santo, sin garantizar la sobrenaturalidad del fenómeno y sin hacer obligatoria la fe en ellos.
+en: One of the pronouncements provided for in the 2024 norms (art. 18): signs of the action of the Holy Spirit are recognized, without guaranteeing the supernatural character of the phenomenon and without making faith in them obligatory.
+fr: L’une des prises de position prévues par les normes de 2024 (art. 18) : on reconnaît des signes de l’action de l’Esprit Saint, sans garantir le caractère surnaturel du phénomène et sans rendre la foi en eux obligatoire.
+it: Uno dei pronunciamenti previsti dalle norme del 2024 (art. 18): si riconoscono segni dell’azione dello Spirito Santo, senza garantire la soprannaturalità del fenomeno e senza rendere obbligatoria la fede in essi.
+de: Eine der in den Normen von 2024 vorgesehenen Äußerungen (Art. 18): Es werden Zeichen des Wirkens des Heiligen Geistes anerkannt, ohne den übernatürlichen Charakter des Phänomens zu garantieren und ohne den Glauben daran verpflichtend zu machen.
+ja: 2024年の規範（第18条）に定められた判断の一つです。聖霊のはたらきのしるしが認められますが、その現象が超自然的であることを保証するものではなく、それを信じることを義務づけるものでもありません。
+zh: 2024年规范（第18条）所规定的表态之一：承认其中有圣神工作的迹象，但不保证该现象具有超自然性，也不使对它们的信仰成为义务。
