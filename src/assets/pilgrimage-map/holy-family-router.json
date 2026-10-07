@@ -9,7 +9,26 @@
       "to": "bethlehem",
       "label": "Nazaré → Belém",
       "event": "Viagem antes do nascimento de Jesus",
-      "scripture": "Lucas 2,1-7"
+      "scripture": "Lucas 2,1-7",
+      "style": "ida",
+      "via": [
+        [
+          32.5,
+          35.5
+        ],
+        [
+          32.0,
+          35.55
+        ],
+        [
+          31.86,
+          35.45
+        ],
+        [
+          31.78,
+          35.27
+        ]
+      ]
     },
     {
       "id": "bethlehem-to-jerusalem",
@@ -18,7 +37,14 @@
       "to": "jerusalem",
       "label": "Belém → Jerusalém",
       "event": "Apresentação de Jesus no Templo",
-      "scripture": "Lucas 2,22-40"
+      "scripture": "Lucas 2,22-40",
+      "style": "ida",
+      "via": [
+        [
+          31.74,
+          35.19
+        ]
+      ]
     },
     {
       "id": "bethlehem-to-egypt",
@@ -27,7 +53,26 @@
       "to": "egypt",
       "label": "Belém → Egito",
       "event": "Fuga para o Egito",
-      "scripture": "Mateus 2,13-15"
+      "scripture": "Mateus 2,13-15",
+      "style": "fuga",
+      "via": [
+        [
+          31.45,
+          34.5
+        ],
+        [
+          31.13,
+          33.8
+        ],
+        [
+          31.05,
+          32.55
+        ],
+        [
+          30.42,
+          31.57
+        ]
+      ]
     },
     {
       "id": "egypt-to-nazareth",
@@ -36,7 +81,34 @@
       "to": "nazareth-return",
       "label": "Egito → Nazaré",
       "event": "Retorno do Egito",
-      "scripture": "Mateus 2,19-23"
+      "scripture": "Mateus 2,19-23",
+      "style": "retorno",
+      "via": [
+        [
+          30.6,
+          31.95
+        ],
+        [
+          31.22,
+          32.6
+        ],
+        [
+          31.28,
+          33.8
+        ],
+        [
+          31.62,
+          34.45
+        ],
+        [
+          32.05,
+          34.8
+        ],
+        [
+          32.5,
+          34.95
+        ]
+      ]
     },
     {
       "id": "nazareth-to-jerusalem-annual",
@@ -45,7 +117,23 @@
       "to": "jerusalem",
       "label": "Nazaré → Jerusalém",
       "event": "Peregrinações anuais para a Páscoa",
-      "scripture": "Lucas 2,41"
+      "scripture": "Lucas 2,41",
+      "style": "anual",
+      "via": [
+        [
+          32.46,
+          35.29
+        ],
+        [
+          32.22,
+          35.25
+        ],
+        [
+          32.06,
+          35.3
+        ]
+      ]
     }
-  ]
+  ],
+  "note": "Os Evangelhos indicam partidas e destinos, não itinerários. Os traçados intermediários (pontos 'via', em [lat, lng]) são ilustrativos."
 }

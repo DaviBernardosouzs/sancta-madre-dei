@@ -16,37 +16,23 @@
       "status": "published",
       "featured": true,
       "heroImage": {
-        "src": "/art-originals/Fol._159v_-_Joseph_Marie_et_l'Enfant.jpg",
-        "alt": {
-          "pt": "A Sagrada Família em peregrinação",
-          "en": "The Holy Family on pilgrimage"
-        },
-        "caption": {
-          "pt": "Representação da Sagrada Família em jornada.",
-          "en": "Depiction of the Holy Family on their journey."
-        }
+        "imageId": "durer-fuga-egito"
       },
       "gallery": [
         {
-          "src": "/art-originals/Ambrogio_Lorenzetti_-_Presentazione_di_Gesù_al_tempio_-_Google_Art_Project.jpg",
-          "alt": {
-            "pt": "Apresentação do Menino Jesus no Templo",
-            "en": "Presentation of the Child Jesus in the Temple"
-          }
+          "imageId": "durer-natividade"
         },
         {
-          "src": "/art-originals/Flight_into_Egypt_-_Capella_dei_Scrovegni_-_Padua_2016.jpg",
-          "alt": {
-            "pt": "Fuga para o Egito",
-            "en": "Flight into Egypt"
-          }
+          "imageId": "durer-apresentacao-jesus"
         },
         {
-          "src": "/art-originals/The_Return_of_the_Holy_Family_from_the_Flight_into_Egypt_(Jordaens,_Mechelen),_c._1618–1620.jpg",
-          "alt": {
-            "pt": "Retorno a Nazaré",
-            "en": "Return to Nazareth"
-          }
+          "imageId": "durer-fuga-egito"
+        },
+        {
+          "imageId": "durer-egito-sagrada-familia"
+        },
+        {
+          "imageId": "durer-entre-doutores"
         }
       ],
       "summary": {
