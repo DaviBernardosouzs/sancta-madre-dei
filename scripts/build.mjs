@@ -7,6 +7,7 @@ import {
   BLOCK_KINDS, DECISION_KINDS, AUTHORITY_LEVELS, TITLE_KINDS, MACRO_REGIONS, RANKS
 } from './lib/content.mjs';
 import { project, MAP } from './lib/mapa.mjs';
+import { paginasEstudo } from './lib/estudo.mjs';
 import { SIMBOLOS, OUTROS, EMBLEMAS, emblema, apocalipse } from './lib/iconografia.mjs';
 import { rotas as ROTAS_SF, pontos as PONTOS_SF, montarMapas } from './lib/peregrinacao.mjs';
 import { esc, paragraphs, fmtDate, fmtPeriod, fmtDayMonth, monthName, monthHeading, normalize, sortKey } from './lib/format.mjs';
@@ -104,8 +105,7 @@ const NAV = [
   ['promessas/', 'Devoções'],
   ['titulos/', 'Títulos marianos'],
   ['maria-pelo-mundo/', 'Maria pelo mundo'],
-  ['sagrada-familia/', 'Sagrada Família'],
-  ['iconografia/', 'Iconografia'],
+  ['aprofundar/', 'Aprofundar'],
   ['oracoes/', 'Orações'],
   ['dossie/', 'Dossiê'],
   ['biblioteca/', 'Biblioteca'],
@@ -1146,7 +1146,7 @@ function pageIconography() {
   }).join('');
   const outros = OUTROS.map(([nome, latim, ref, txt]) => `<div><dt>${esc(_(nome))} <span class="outros__lat" lang="la">${esc(latim)}</span> <span class="outros__ref">${esc(bibleRef(ref))}</span></dt><dd>${esc(_(txt))}</dd></div>`).join('');
   const body = `<div class="miolo pagina iconografia">
-${crumbs([[HOME(), ''], [_('Iconografia'), 'iconografia/']])}
+${crumbs([[HOME(), ''], [_('Aprofundar'), 'aprofundar/'], [_('Iconografia'), 'iconografia/']])}
 <header>
 <h1>${esc(_('Iconografia mariana'))}</h1>
 <p class="lede">${esc(_('Estrelas, lua, serpente, coroa, rosas, manto azul, sol, lírios, coração e sete espadas: o que cada símbolo quer dizer, de onde vem e o que a Igreja realmente afirma por trás dele.'))}</p>
@@ -1184,7 +1184,7 @@ ${crumbs([[HOME(), ''], [_('Iconografia'), 'iconografia/']])}
 
 <p class="nota-peq">${esc(_('As datas e as decisões citadas devem ser conferidas nos textos originais, que estão na Biblioteca. Esta página não foi revisada por um teólogo.'))} <a href="${href('galeria/')}">${esc(_('Galeria'))}</a> · <a href="${href('titulos/')}">${esc(_('Títulos marianos'))}</a> · <a href="${href('biblioteca/')}">${esc(_('Biblioteca'))}</a></p>
 </div>`;
-  return layout({ title: _('Iconografia mariana'), path: 'iconografia/', section: 'iconografia/', body, art: { id: 'obra-reni-imaculada' }, css: ['iconografia.css'], description: _('Estrelas, lua, serpente, coroa, rosas, manto azul, sol, lírios, coração e sete espadas: a origem de cada símbolo mariano e o que a Igreja afirma por trás dele.') });
+  return layout({ title: _('Iconografia mariana'), path: 'iconografia/', section: 'aprofundar/', body, art: { id: 'obra-reni-imaculada' }, css: ['iconografia.css'], description: _('Estrelas, lua, serpente, coroa, rosas, manto azul, sol, lírios, coração e sete espadas: a origem de cada símbolo mariano e o que a Igreja afirma por trás dele.') });
 }
 
 // ---------- peregrinação da Sagrada Família ----------
@@ -1217,7 +1217,7 @@ function pageHolyFamily() {
   const lista = lugares.map((p) => `<li><strong>${esc(_(p.name))}</strong><span>${esc(_(p.description))}</span></li>`).join('');
   const fontes = [['Lucas 2,1-7'], ['Lucas 2,22-40'], ['Mateus 2,13-15'], ['Mateus 2,19-23'], ['Lucas 2,41-52']].map(([r]) => bibleRef(r)).join('; ');
   const body = `<div class="miolo pagina peregrinacao">
-${crumbs([[HOME(), ''], [_('Sagrada Família'), 'sagrada-familia/']])}
+${crumbs([[HOME(), ''], [_('Aprofundar'), 'aprofundar/'], [_('Sagrada Família'), 'sagrada-familia/']])}
 <header>
 <h1>${esc(_('Peregrinação da Sagrada Família'))}</h1>
 <p class="lede">${esc(_('Os caminhos de Maria, de José e do Menino Jesus: de Nazaré a Belém, ao Templo de Jerusalém, ao exílio no Egito e de volta a Nazaré, segundo os Evangelhos de Lucas e de Mateus.'))}</p>
@@ -1269,7 +1269,7 @@ ${crumbs([[HOME(), ''], [_('Sagrada Família'), 'sagrada-familia/']])}
 
 <p class="nota-peq">${esc(_('Referências bíblicas: {refs}.', { refs: fontes }))} ${esc(_('Veja também a galeria de obras e a cronologia.'))} <a href="${href('galeria/')}">${esc(_('Galeria'))}</a> · <a href="${href('cronologia/')}">${esc(_('Cronologia'))}</a> · <a href="${href('santuarios/')}">${esc(_('Santuários'))}</a></p>
 </div>`;
-  return layout({ title: _('Peregrinação da Sagrada Família'), path: 'sagrada-familia/', section: 'sagrada-familia/', body, art: { id: 'durer-fuga-egito' }, css: ['peregrinacao.css'], js: ['peregrinacao.js'], description: _('Mapa e relato das viagens de Maria, José e Jesus: Nazaré, Belém, Jerusalém, o Egito e o retorno, com as passagens dos Evangelhos.') });
+  return layout({ title: _('Peregrinação da Sagrada Família'), path: 'sagrada-familia/', section: 'aprofundar/', body, art: { id: 'durer-fuga-egito' }, css: ['peregrinacao.css'], js: ['peregrinacao.js'], description: _('Mapa e relato das viagens de Maria, José e Jesus: Nazaré, Belém, Jerusalém, o Egito e o retorno, com as passagens dos Evangelhos.') });
 }
 
 // ---------- orações ----------
@@ -1580,6 +1580,7 @@ emit('calendario/', pageCalendar());
 emit('maria-pelo-mundo/', pageAtlas());
 emit('sagrada-familia/', pageHolyFamily());
 emit('iconografia/', pageIconography());
+for (const pg of paginasEstudo({ _, _h, esc, href, layout, crumbs, HOME, bibleRef, img, urlOf, srcById, MANIFEST, imageById, focusStyle, creditText, originLink })) emit(pg.path, pg.html);
 emit('oracoes/', pagePrayers());
 cat.prayers.forEach((p) => emit(`oracoes/${p.slug}/`, pagePrayer(p)));
 emit('oracoes/rosario/', pageRosary());

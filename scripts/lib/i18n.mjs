@@ -99,6 +99,14 @@ export const collator = new Intl.Collator(L.intl);
 // ---------- referências bíblicas ----------
 // Abreviaturas usadas no acervo (padrão da Bíblia católica em português) para cada idioma.
 const BOOKS = {
+  Mq: { pt: 'Mq', en: 'Mic', es: 'Miq', fr: 'Mi', it: 'Mic', de: 'Mi', ja: 'ミカ書', zh: '弥' },
+  Sf: { pt: 'Sf', en: 'Zeph', es: 'Sof', fr: 'So', it: 'Sof', de: 'Zef', ja: 'ゼファニヤ書', zh: '番' },
+  Zc: { pt: 'Zc', en: 'Zech', es: 'Zac', fr: 'Za', it: 'Zc', de: 'Sach', ja: 'ゼカリヤ書', zh: '亚' },
+  Pr: { pt: 'Pr', en: 'Prov', es: 'Prov', fr: 'Pr', it: 'Pr', de: 'Spr', ja: '箴言', zh: '箴' },
+  Jt: { pt: 'Jt', en: 'Jdt', es: 'Jdt', fr: 'Jdt', it: 'Gdt', de: 'Jdt', ja: 'ユディト記', zh: '友' },
+  '2Sm': { pt: '2Sm', en: '2 Sam', es: '2 Sm', fr: '2 S', it: '2Sam', de: '2 Sam', ja: 'サムエル記下', zh: '撒下' },
+  '1Cor': { pt: '1Cor', en: '1 Cor', es: '1 Cor', fr: '1 Co', it: '1Cor', de: '1 Kor', ja: 'コリント一', zh: '格前' },
+  '1Tm': { pt: '1Tm', en: '1 Tim', es: '1 Tm', fr: '1 Tm', it: '1Tm', de: '1 Tim', ja: 'テモテ一', zh: '弟前' },
   Ct: { pt: 'Ct', en: 'Song', es: 'Cant', fr: 'Ct', it: 'Ct', de: 'Hld', ja: '雅歌', zh: '歌' },
   Sl: { pt: 'Sl', en: 'Ps', es: 'Sal', fr: 'Ps', it: 'Sal', de: 'Ps', ja: '詩編', zh: '诗' },
   Eclo: { pt: 'Eclo', en: 'Sir', es: 'Eclo', fr: 'Si', it: 'Sir', de: 'Sir', ja: 'シラ書', zh: '德' },
