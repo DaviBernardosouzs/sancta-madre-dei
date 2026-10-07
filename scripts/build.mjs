@@ -7,6 +7,7 @@ import {
   BLOCK_KINDS, DECISION_KINDS, AUTHORITY_LEVELS, TITLE_KINDS, MACRO_REGIONS, RANKS
 } from './lib/content.mjs';
 import { project, MAP } from './lib/mapa.mjs';
+import { rotas as ROTAS_SF, pontos as PONTOS_SF, montarMapas } from './lib/peregrinacao.mjs';
 import { esc, paragraphs, fmtDate, fmtPeriod, fmtDayMonth, monthName, monthHeading, normalize, sortKey } from './lib/format.mjs';
 import {
   L, LOCALES, DEFAULT_LOCALE, isCJK, _, _h, _n, nforms, listAnd, bibleRef, bibleRefs, collator, countryName,
@@ -102,6 +103,7 @@ const NAV = [
   ['promessas/', 'Devoções'],
   ['titulos/', 'Títulos marianos'],
   ['maria-pelo-mundo/', 'Maria pelo mundo'],
+  ['sagrada-familia/', 'Sagrada Família'],
   ['oracoes/', 'Orações'],
   ['dossie/', 'Dossiê'],
   ['biblioteca/', 'Biblioteca'],
@@ -257,7 +259,7 @@ function langSwitcher(path) {
   return `<details class="idioma" data-idioma-menu><summary aria-label="${esc(_('Idioma: {idioma}', { idioma: L.native }))}">${GLOBE}<span>${L.short}</span></summary><ul>${items}</ul></details>`;
 }
 
-function layout({ title, description, path, body, section = '', jsonLd = null, art = null, home = false, ogImage = null, alternates = true }) {
+function layout({ title, description, path, body, section = '', jsonLd = null, art = null, home = false, ogImage = null, alternates = true, css = [], js = [] }) {
   const full = path === '' ? `${SITE}, ${_('Santa Mãe de Deus')}` : `${title} | ${SITE}`;
   const nav = NAV.map(([p, label]) => `<li><a href="${href(p)}"${p === section ? ' aria-current="page"' : ''}>${esc(_(label))}</a></li>`).join('');
   const util = UTIL.map(([p, label]) => `<a href="${href(p)}"${p === section ? ' aria-current="page"' : ''}>${esc(_(label))}</a>`).join('');
@@ -288,6 +290,7 @@ ${alts}
 <link rel="stylesheet" href="${asset('assets/style.css')}">
 <link rel="stylesheet" href="${asset('assets/cinematic.css')}">
 <link rel="stylesheet" href="${asset('assets/filme.css')}">
+${css.map((f) => `<link rel="stylesheet" href="${asset(`assets/${f}`)}">`).join('\n')}
 ${lcpId ? `<link rel="preload" as="image" type="image/webp" href="${fileOf(lcpId, midOf(lcpId))}" imagesrcset="${srcsetOf(lcpId)}" imagesizes="${lcpSizes}" fetchpriority="high">` : ''}
 ${jsonLd ? `<script type="application/ld+json">${JSON.stringify(jsonLd)}</script>` : ''}
 <script>(function(d){var h=d.documentElement;h.classList.add('js');try{var s=localStorage.getItem('smd-fonte');if(s)h.style.fontSize=s+'%'}catch(e){}try{if(localStorage.getItem('smd-movimento')==='off')h.classList.add('sem-movimento')}catch(e){}if(!h.classList.contains('sem-movimento')&&!matchMedia('(prefers-reduced-motion: reduce)').matches){h.classList.add('anim');setTimeout(function(){if(!h.classList.contains('f-ok'))h.classList.add('anim-off')},3500)}})(document)</script>
@@ -338,6 +341,7 @@ ${LB}
 <script src="${asset('assets/vendor/ScrollTrigger.min.js')}" fetchpriority="low" defer></script>
 <script src="${asset('assets/filtro.js')}" defer></script>
 <script src="${asset('assets/filme.js')}" defer></script>
+${js.map((f) => `<script src="${asset(`assets/${f}`)}" defer></script>`).join('\n')}
 <script src="${asset('assets/app.js')}" defer data-obras="${asset(`assets/obras.${L.code}.json`)}" data-galeria="${href('galeria/')}"></script>
 </body>
 </html>
@@ -1111,6 +1115,91 @@ ${semLugar.length ? `<p class="nota-peq">${_h('Títulos sem lugar (doutrinais): 
   return layout({ title: _('Maria pelo mundo'), path: 'maria-pelo-mundo/', section: 'maria-pelo-mundo/', body, description: _('Atlas de aparições, títulos e santuários marianos: escolha um país no mapa para ver o que há pesquisado ali.') });
 }
 
+// ---------- peregrinação da Sagrada Família ----------
+const ETAPAS_SF = {
+  'nazareth-to-bethlehem': { fig: 'durer-natividade', texto: 'Por causa do recenseamento ordenado por César Augusto, José, que era da casa de Davi, sobe da Galileia, de Nazaré, à Judeia, à cidade de Davi, chamada Belém, para se registrar com Maria, sua esposa, que estava grávida. Ali se completam os dias dela e nasce Jesus; é deitado numa manjedoura, porque não havia lugar para eles na hospedaria.' },
+  'bethlehem-to-jerusalem': { fig: 'durer-apresentacao-jesus', texto: 'Cumpridos os dias da purificação segundo a Lei de Moisés, levam o menino a Jerusalém para apresentá-lo ao Senhor e oferecer o sacrifício dos pobres, um par de rolas ou dois pombinhos. No Templo, Simeão e a profetisa Ana reconhecem nele a salvação; Simeão anuncia a Maria que uma espada lhe traspassará a alma.' },
+  'bethlehem-to-egypt': { fig: 'durer-fuga-egito', texto: 'Um anjo do Senhor aparece em sonho a José e manda que fuja com o menino e a mãe para o Egito, porque Herodes o procuraria para o matar. José se levanta de noite e parte. Fica lá até a morte de Herodes, e Mateus lê nisso a palavra do profeta: «do Egito chamei o meu filho» (Os 11,1).' },
+  'egypt-to-nazareth': { fig: 'durer-egito-sagrada-familia', texto: 'Morto Herodes, o anjo manda voltar à terra de Israel. Ao saber que Arquelau reinava na Judeia no lugar do pai, José teme ir para lá e, avisado em sonho, retira-se para a região da Galileia, onde se estabelece numa cidade chamada Nazaré.' },
+  'nazareth-to-jerusalem-annual': { fig: 'durer-entre-doutores', texto: 'Todos os anos os pais de Jesus iam a Jerusalém para a festa da Páscoa. Quando ele tinha doze anos, ficou no Templo sem que eles soubessem; depois de três dias o encontram sentado entre os doutores, ouvindo e interrogando. Volta com eles a Nazaré e lhes era submisso, e Maria guardava todas essas coisas no coração.' }
+};
+const ESTILO_NOME = { ida: 'Caminho de ida', fuga: 'Fuga', retorno: 'Retorno', anual: 'Peregrinação anual' };
+function pageHolyFamily() {
+  const mapas = montarMapas({ t: _, esc });
+  const etapas = ROTAS_SF.segments;
+  const nomeDe = (id) => PONTOS_SF.points.find((p) => p.id === id)?.name ?? id;
+  const lugares = PONTOS_SF.points.filter((p, i, a) => a.findIndex((q) => q.lat === p.lat && q.lng === p.lng) === i);
+  const cartas = etapas.map((e) => {
+    const x = ETAPAS_SF[e.id];
+    const ref = bibleRef(e.scripture);
+    return `<li class="etapa etapa--${e.style}" id="etapa-${e.order}" data-etapa="${e.id}" data-titulo="${esc(_(e.label))}" data-evento="${esc(_(e.event))}" data-ref="${esc(ref)}">
+  <div class="etapa__cab"><span class="etapa__n" aria-hidden="true">${e.order}</span><div><h3 class="etapa__t">${esc(_(e.label))}</h3><p class="etapa__ev">${esc(_(e.event))} · <span class="etapa__ref">${esc(ref)}</span></p></div></div>
+  <div class="etapa__corpo">
+    <p>${esc(_(x.texto))}</p>
+    <button class="etapa__ver" type="button" data-ir="${e.id}" hidden>${esc(_('Ver no mapa'))}</button>
+  </div>
+  <figure class="etapa__fig"><div class="quadro" style="--ar:${MANIFEST[x.fig].ratio};${focusStyle(x.fig)}">${img(x.fig, { sizes: '(min-width: 62rem) 14rem, (min-width: 40rem) 30vw, 70vw' })}</div><figcaption class="legenda">${esc(imageById[x.fig].caption)}<span class="legenda__credito">${esc(creditText(imageById[x.fig]))} ${originLink(imageById[x.fig])}</span></figcaption></figure>
+</li>`;
+  }).join('');
+  const chaves = ['ida', 'fuga', 'retorno', 'anual'].map((k) => `<li><i class="rchave rchave--${k}"></i> ${esc(_(ESTILO_NOME[k]))}</li>`).join('');
+  const lista = lugares.map((p) => `<li><strong>${esc(_(p.name))}</strong><span>${esc(_(p.description))}</span></li>`).join('');
+  const fontes = [['Lucas 2,1-7'], ['Lucas 2,22-40'], ['Mateus 2,13-15'], ['Mateus 2,19-23'], ['Lucas 2,41-52']].map(([r]) => bibleRef(r)).join('; ');
+  const body = `<div class="miolo pagina peregrinacao">
+${crumbs([[HOME(), ''], [_('Sagrada Família'), 'sagrada-familia/']])}
+<header>
+<h1>${esc(_('Peregrinação da Sagrada Família'))}</h1>
+<p class="lede">${esc(_('Os caminhos de Maria, de José e do Menino Jesus: de Nazaré a Belém, ao Templo de Jerusalém, ao exílio no Egito e de volta a Nazaré, segundo os Evangelhos de Lucas e de Mateus.'))}</p>
+</header>
+<p class="nota-peq">${esc(_('Os Evangelhos dão partidas e destinos, não itinerários: os traçados do mapa são ilustrativos. Onde a Escritura se cala, o texto diz que se cala.'))}</p>
+
+<section class="pmapa-bloco" aria-labelledby="mapa-sf" data-peregrinacao>
+  <h2 id="mapa-sf" class="sr-only">${esc(_('Mapa da peregrinação'))}</h2>
+  <div class="pcontroles" role="group" aria-label="${esc(_('Percorrer as etapas no mapa'))}" hidden>
+    <button type="button" class="pbotao pbotao--ouro" data-percorrer data-parar="${esc(_('Pausar'))}" aria-pressed="false">${esc(_('Percorrer a peregrinação'))}</button>
+    <button type="button" class="pbotao" data-ant>${esc(_('Etapa anterior'))}</button>
+    <button type="button" class="pbotao" data-prox>${esc(_('Próxima etapa'))}</button>
+    <button type="button" class="pbotao" data-todas>${esc(_('Mostrar tudo'))}</button>
+  </div>
+  <div class="pmapa-grade">
+    <figure class="pmapa-palco pmapa-palco--geral">${mapas.geral}</figure>
+    <figure class="pmapa-palco pmapa-palco--detalhe">${mapas.detalhe}<figcaption class="pmapa-rotulo">${esc(_('Terra Santa ampliada'))}</figcaption></figure>
+  </div>
+  <div class="pficha" data-ficha aria-live="polite" hidden>
+    <p class="pficha__n" data-ficha-n></p>
+    <h3 class="pficha__t" data-ficha-t></h3>
+    <p class="pficha__ev" data-ficha-ev></p>
+    <p><a class="pficha__ir" data-ficha-ir href="#etapas">${esc(_('Ler esta etapa'))}</a></p>
+  </div>
+  <div class="pmapa-legenda">
+    <ul class="pchaves">${chaves}</ul>
+    <p class="nota-peq">${esc(_('Terras: Natural Earth (domínio público), generalizadas; rios e lagos desenhados à mão, só para situar. As rotas intermediárias são ilustrativas, e o ponto no Egito é uma referência, não um dado do Evangelho. O mapa não representa disputas de fronteira.'))}</p>
+  </div>
+</section>
+
+<h2 id="etapas" tabindex="-1">${esc(_('As cinco etapas'))}</h2>
+<ol class="etapas">${cartas}</ol>
+
+<section aria-labelledby="lugares-sf">
+  <h2 id="lugares-sf">${esc(_('Os lugares'))}</h2>
+  <ul class="lugares-lista">${lista}</ul>
+</section>
+
+<section class="bloco bloco--nota" aria-labelledby="limites-sf">
+  <p class="bloco__rotulo">${esc(_('Limites das fontes'))}</p>
+  <h2 id="limites-sf" class="bloco__titulo">${esc(_('O que as fontes dizem, e o que não dizem'))}</h2>
+  <ul>
+    <li>${esc(_('Só Lucas conta a viagem a Belém e a apresentação no Templo; só Mateus conta a fuga para o Egito. Como harmonizar os dois relatos é matéria em que os estudiosos não têm uma resposta única: Lucas, por exemplo, diz que depois do Templo voltaram à Galileia (Lc 2,39) sem mencionar o Egito.'))}</li>
+    <li>${esc(_('Mateus não diz em que lugar do Egito a família viveu nem por quanto tempo. As tradições locais, sobretudo a copta, indicam vários lugares; elas são memória de fé e não dados do Evangelho.'))}</li>
+    <li>${esc(_('O caminho entre os lugares não é descrito. Os traçados do mapa seguem rotas plausíveis da região, só para dar noção das distâncias e do sentido de cada viagem.'))}</li>
+    <li>${esc(_('Sobre o sentido dos dois episódios, veja o Catecismo da Igreja Católica, §§529-530 (apresentação no Templo e fuga para o Egito).'))}</li>
+  </ul>
+</section>
+
+<p class="nota-peq">${esc(_('Referências bíblicas: {refs}.', { refs: fontes }))} ${esc(_('Veja também a galeria de obras e a cronologia.'))} <a href="${href('galeria/')}">${esc(_('Galeria'))}</a> · <a href="${href('cronologia/')}">${esc(_('Cronologia'))}</a> · <a href="${href('santuarios/')}">${esc(_('Santuários'))}</a></p>
+</div>`;
+  return layout({ title: _('Peregrinação da Sagrada Família'), path: 'sagrada-familia/', section: 'sagrada-familia/', body, art: { id: 'durer-fuga-egito' }, css: ['peregrinacao.css'], js: ['peregrinacao.js'], description: _('Mapa e relato das viagens de Maria, José e Jesus: Nazaré, Belém, Jerusalém, o Egito e o retorno, com as passagens dos Evangelhos.') });
+}
+
 // ---------- orações ----------
 function pagePrayers() {
   const items = cat.prayers.map((p) => filterItem({ text: normalize(`${p.title} ${p.summary} ${p.text.join(' ')}`), grupo: p.marian ? 'mariana' : 'geral' },
@@ -1417,6 +1506,7 @@ emit('santuarios/', pageShrines());
 cat.shrines.forEach((sh) => emit(`santuarios/${sh.slug}/`, pageShrine(sh)));
 emit('calendario/', pageCalendar());
 emit('maria-pelo-mundo/', pageAtlas());
+emit('sagrada-familia/', pageHolyFamily());
 emit('oracoes/', pagePrayers());
 cat.prayers.forEach((p) => emit(`oracoes/${p.slug}/`, pagePrayer(p)));
 emit('oracoes/rosario/', pageRosary());

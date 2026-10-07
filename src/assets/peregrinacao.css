@@ -1,0 +1,144 @@
+/* Peregrinação da Sagrada Família: mapa noturno em ultramar e ouro, no mesmo vocabulário do atlas. */
+.peregrinacao { --p-ouro: #e3c27a; --p-ouro-2: #b8893a; --p-rosa: #f0a08c; --p-gelo: #a9bdf2; --p-claro: #f6e7bd; }
+
+.pmapa-bloco { margin: 1.5rem 0 2.5rem; }
+.pmapa-grade { display: grid; gap: 1rem; align-items: stretch; }
+@media (min-width: 62rem) { .pmapa-grade { grid-template-columns: minmax(0, 1.55fr) minmax(0, 1fr); } }
+
+.pmapa-palco { position: relative; margin: 0; border-radius: 6px; overflow: hidden; background: #0a1030; box-shadow: 0 40px 70px -45px #000d, inset 0 0 0 1px #e3c27a33; }
+.pmapa-palco::after { content: ''; position: absolute; inset: 0; pointer-events: none; background: radial-gradient(ellipse at center, transparent 62%, #00000070 100%); box-shadow: inset 0 0 0 1px #e3c27a2e; }
+.pmapa-palco svg { display: block; width: 100%; height: auto; }
+@media (min-width: 62rem) { .pmapa-palco svg { position: absolute; inset: 0; height: 100%; } .pmapa-palco { min-height: 30rem; } }
+.pmapa-rotulo { position: absolute; left: .9rem; bottom: .8rem; z-index: 2; font-family: var(--serifa); font-style: italic; font-size: 1.05rem; color: var(--p-ouro); text-shadow: 0 1px 6px #000c; }
+
+/* base do mapa */
+.pmapa__grade { fill: none; stroke: #8fa7d3; stroke-opacity: .09; stroke-width: .7; }
+.pmapa__costa { fill: none; stroke: #e3c27a; stroke-opacity: .28; stroke-width: 7; stroke-linejoin: round; filter: blur(5px); }
+.pmapa__terra { stroke: #e3c27a; stroke-opacity: .6; stroke-width: 1.1; stroke-linejoin: round; }
+.pmapa__areia { stroke: none; }
+.rio, .lago { fill: none; stroke-linecap: round; stroke-linejoin: round; }
+.rio { stroke: #7f9be6; stroke-opacity: .85; }
+.rio--nilo { stroke-width: 3.2; }
+.rio--delta { stroke-width: 2; }
+.rio--jordao { stroke-width: 2; stroke-opacity: .8; }
+.lago { fill: #16225a; stroke: #7f9be6; stroke-opacity: .85; stroke-width: 1.3; }
+.quadro-detalhe { fill: #e3c27a14; stroke: var(--p-ouro); stroke-opacity: .75; stroke-width: 1.2; stroke-dasharray: 5 4; }
+
+/* geografia */
+.geo { font-family: var(--serifa); fill: #f1e8d2; pointer-events: none; }
+.geo--regiao { font-size: 17px; letter-spacing: .38em; fill-opacity: .42; font-weight: 600; }
+.geo--regiao.geo--menor { font-size: 13px; letter-spacing: .3em; }
+.geo--agua { font-style: italic; font-size: 16px; fill: #9fb4ee; fill-opacity: .8; letter-spacing: .06em; }
+.geo--agua.geo--menor, .geo--rio { font-size: 13px; }
+.pmapa--detalhe .geo--regiao { font-size: 19px; }
+.pmapa--detalhe .geo--agua { font-size: 17px; }
+.pmapa--detalhe .geo--menor { font-size: 14px; }
+
+/* rotas: a sombra dá corpo ao traço; cada estilo tem a sua cor e o seu desenho */
+.rota { fill: none; --cor: var(--p-ouro); transition: opacity .35s; }
+.rota--ida { --cor: #e3c27a; }
+.rota--fuga { --cor: #f0a08c; }
+.rota--retorno { --cor: #a9bdf2; }
+.rota--anual { --cor: #f6e7bd; }
+.rota__sombra { stroke: #050818; stroke-opacity: .55; stroke-width: 8; stroke-linecap: round; stroke-linejoin: round; fill: none; }
+.rota__linha { stroke: var(--cor); stroke-width: 3.4; stroke-linecap: round; stroke-linejoin: round; fill: none; filter: drop-shadow(0 0 4px color-mix(in srgb, var(--cor) 55%, transparent)); }
+.rota--retorno .rota__linha { stroke-dasharray: none; }
+.rota--anual .rota__linha { stroke-width: 3; }
+.pmapa--detalhe .rota__linha { stroke-width: 4.2; }
+.pmapa--detalhe .rota__sombra { stroke-width: 10; }
+.seta { fill: none; stroke: #0a1030; stroke-width: 5.5; stroke-linecap: round; stroke-linejoin: round; paint-order: stroke; }
+.seta--ida { stroke: #e3c27a; } .seta--fuga { stroke: #f0a08c; } .seta--retorno { stroke: #a9bdf2; } .seta--anual { stroke: #f6e7bd; }
+.seta { stroke-width: 3; filter: drop-shadow(0 0 2px #050818); }
+
+/* quando uma etapa está ativa ou em realce, as outras recuam */
+.pronto[data-ativa]:not([data-ativa=""]) .rota:not(.on), .pronto.tem-realce .rota:not(.realce) { opacity: .18; }
+.pronto[data-ativa]:not([data-ativa=""]) .seta:not(.on), .pronto.tem-realce .seta:not(.realce) { opacity: .18; }
+.pronto[data-ativa]:not([data-ativa=""]) .selo:not(.on), .pronto.tem-realce .selo:not(.realce) { opacity: .45; }
+.rota.on .rota__linha, .rota.realce .rota__linha { stroke-width: 5; }
+.pmapa--detalhe .rota.on .rota__linha, .pmapa--detalhe .rota.realce .rota__linha { stroke-width: 6; }
+
+/* selos numerados */
+.selo { cursor: pointer; transition: opacity .35s; outline: none; }
+.selo__fundo { fill: #0b1230; stroke: var(--cor, #e3c27a); stroke-width: 2; transition: fill .25s, transform .25s; transform-box: fill-box; transform-origin: center; }
+.selo__n { font-family: var(--serifa); font-weight: 600; font-size: 16px; text-anchor: middle; fill: #f6e7bd; pointer-events: none; }
+.selo__halo { fill: transparent; }
+.selo__fio { stroke: #e3c27a; stroke-opacity: .6; stroke-width: 1.2; stroke-dasharray: 2 3; }
+.selo--ida { --cor: #e3c27a; } .selo--fuga { --cor: #f0a08c; } .selo--retorno { --cor: #a9bdf2; } .selo--anual { --cor: #f6e7bd; }
+.selo:hover .selo__fundo, .selo:focus-visible .selo__fundo, .selo.on .selo__fundo, .selo.realce .selo__fundo { fill: var(--cor); }
+.selo:hover .selo__n, .selo:focus-visible .selo__n, .selo.on .selo__n, .selo.realce .selo__n { fill: #0b1230; }
+.selo:focus-visible .selo__halo { stroke: #fff; stroke-width: 2; }
+
+/* lugares */
+.lugar__halo { fill: #e3c27a; opacity: .2; transform-box: fill-box; transform-origin: center; }
+.lugar__nucleo { fill: #fbf4e2; stroke: #0b1024; stroke-width: 1.6; }
+.lugar__nome { font-family: var(--serifa); font-size: 17px; font-weight: 600; fill: #fbf4e2; paint-order: stroke; stroke: #070b22; stroke-width: 4px; stroke-linejoin: round; pointer-events: none; }
+.pmapa--detalhe .lugar__nome { font-size: 19px; }
+.lugar--refuge .lugar__nucleo { fill: #f0a08c; }
+.anim:not(.anim-off) .lugar__halo { animation: p-pulso 3.4s ease-out infinite; }
+@keyframes p-pulso { 0% { transform: scale(.45); opacity: .5; } 80%, 100% { transform: scale(1.7); opacity: 0; } }
+.sem-movimento .lugar__halo { animation: none !important; }
+
+/* rosa dos ventos */
+.rosa__aro { fill: none; stroke: #e3c27a; stroke-opacity: .45; stroke-width: 1; }
+.rosa__seta { fill: #e3c27a; fill-opacity: .9; } .rosa__seta--sul { fill-opacity: .3; }
+.rosa__n { font-family: var(--serifa); font-size: 13px; fill: #e3c27a; }
+
+/* controles e ficha */
+.pcontroles { display: flex; flex-wrap: wrap; gap: .5rem; margin-bottom: 1rem; }
+.pcontroles[hidden], .etapa__ver[hidden], .pficha[hidden] { display: none; }
+.pbotao { min-height: 44px; padding: .45rem 1.1rem; font: inherit; font-size: .9375rem; color: var(--ultramar); background: transparent; border: 1px solid var(--filete); border-radius: 999px; cursor: pointer; transition: background .25s, color .25s, border-color .25s; }
+.pbotao:hover { border-color: var(--ouro-filete); background: var(--papel-2); }
+.pbotao--ouro { background: #111a3d; color: #f0d695; border-color: #111a3d; }
+.pbotao--ouro:hover { background: #1b2a66; border-color: #1b2a66; }
+.pbotao--ouro[aria-pressed="true"] { background: #e3c27a; color: #1b1408; border-color: #e3c27a; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .pbotao { color: #d9cfb8; } :root:not([data-theme="light"]) .pbotao--ouro { background: #e3c27a; color: #1b1408; border-color: #e3c27a; } }
+.pficha { margin-top: 1rem; padding: 1rem 1.25rem; background: var(--papel-3); border-left: 3px solid var(--ouro-filete); }
+.pficha__n { margin: 0; font-size: .8125rem; letter-spacing: .14em; text-transform: uppercase; color: var(--ouro); }
+.pficha__t { margin: .15rem 0; font-family: var(--serifa); font-size: 1.5rem; line-height: 1.15; }
+.pficha__ev { margin: 0 0 .5rem; color: var(--tinta-2); }
+.pmapa-legenda { display: grid; gap: .5rem; margin-top: 1rem; }
+.pchaves { display: flex; flex-wrap: wrap; gap: .4rem 1.4rem; list-style: none; padding: 0; margin: 0; font-size: .875rem; }
+.pchaves li { display: inline-flex; align-items: center; gap: .5rem; }
+.rchave { display: inline-block; width: 1.8rem; height: 0; border-top: 4px solid; border-radius: 2px; }
+.rchave--ida { border-color: #e3c27a; } .rchave--fuga { border-color: #f0a08c; } .rchave--retorno { border-color: #a9bdf2; } .rchave--anual { border-color: #b8893a; }
+
+/* etapas */
+.etapas { list-style: none; padding: 0; margin: 1.5rem 0 3rem; display: grid; gap: 1.5rem; counter-reset: etapa; }
+.etapa { display: grid; gap: 1rem 2rem; padding: 1.4rem 0; border-top: 1px solid var(--filete); scroll-margin-top: 1.5rem; transition: background .3s; }
+@media (min-width: 40rem) { .etapa { grid-template-columns: minmax(0, 1fr) minmax(0, 14rem); } .etapa__cab { grid-column: 1 / -1; } .etapa__fig { grid-column: 2; grid-row: 2; } .etapa__corpo { grid-column: 1; grid-row: 2; } }
+.etapa__cab { display: flex; gap: 1rem; align-items: center; }
+.etapa__n { flex: none; display: inline-grid; place-items: center; width: 2.6rem; height: 2.6rem; border-radius: 50%; background: #111a3d; color: #f0d695; font-family: var(--serifa); font-size: 1.35rem; font-weight: 600; box-shadow: 0 0 0 2px var(--papel), 0 0 0 3px var(--ouro-filete); }
+.etapa__t { margin: 0; font-family: var(--serifa); font-size: clamp(1.4rem, 3vw, 1.9rem); line-height: 1.1; }
+.etapa__ev { margin: .2rem 0 0; color: var(--tinta-2); font-size: .9375rem; }
+.etapa__ref { color: var(--ouro); font-weight: 700; }
+.etapa__corpo p { margin: 0 0 1rem; max-width: 62ch; }
+.etapa__ver { min-height: 44px; padding: .4rem 1rem; font: inherit; font-size: .9375rem; color: var(--ultramar); background: transparent; border: 1px solid var(--filete); cursor: pointer; }
+.etapa__ver:hover { background: var(--papel-2); border-color: var(--ouro-filete); }
+.etapa__fig { margin: 0; }
+.etapa__fig .quadro { filter: sepia(.15); }
+.etapa--ativa { background: linear-gradient(90deg, #e3c27a1c, transparent 70%); }
+.etapa--ativa .etapa__n { background: #e3c27a; color: #1b1408; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .etapa__n { background: #e3c27a; color: #1b1408; box-shadow: 0 0 0 2px var(--papel), 0 0 0 3px #e3c27a99; } }
+
+.lugares-lista { list-style: none; padding: 0; display: grid; gap: .9rem; }
+.lugares-lista li { display: grid; gap: .1rem; padding-left: 1rem; border-left: 2px solid var(--ouro-filete); }
+.lugares-lista strong { font-family: var(--serifa); font-size: 1.25rem; font-weight: 600; }
+.lugares-lista span { color: var(--tinta-2); max-width: 62ch; }
+@media (min-width: 48rem) { .lugares-lista { grid-template-columns: 1fr 1fr; gap: 1.2rem 2rem; } }
+
+.pmapa--detalhe .geo--estreita { letter-spacing: .22em; }
+
+/* celular: o mapa geral é desenhado em 700 unidades e aparece em ~350 px; rótulos e selos crescem para continuar legíveis */
+@media (max-width: 47.99rem) {
+  .pmapa--geral .geo { font-size: 24px; }
+  .pmapa--geral .geo--regiao { font-size: 22px; letter-spacing: .3em; }
+  .pmapa--geral .geo--menor, .pmapa--geral .geo--rio { font-size: 19px; }
+  .pmapa--geral .lugar__nome { font-size: 25px; stroke-width: 6px; }
+  .pmapa--geral .selo__fundo, .pmapa--geral .selo__halo { transform-box: fill-box; transform-origin: center; transform: scale(1.5); }
+  .pmapa--geral .selo__n { font-size: 24px; }
+  .pmapa--geral .rota__linha { stroke-width: 5; }
+  .pmapa--geral .rota__sombra { stroke-width: 11; }
+  .pmapa--detalhe .geo { font-size: 20px; }
+  .pmapa--detalhe .lugar__nome { font-size: 22px; }
+  .pmapa--detalhe .selo__fundo { transform: scale(1.2); }
+}
