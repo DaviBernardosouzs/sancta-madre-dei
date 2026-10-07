@@ -7,6 +7,7 @@ import {
   BLOCK_KINDS, DECISION_KINDS, AUTHORITY_LEVELS, TITLE_KINDS, MACRO_REGIONS, RANKS
 } from './lib/content.mjs';
 import { project, MAP } from './lib/mapa.mjs';
+import { SIMBOLOS, OUTROS, EMBLEMAS, emblema, apocalipse } from './lib/iconografia.mjs';
 import { rotas as ROTAS_SF, pontos as PONTOS_SF, montarMapas } from './lib/peregrinacao.mjs';
 import { esc, paragraphs, fmtDate, fmtPeriod, fmtDayMonth, monthName, monthHeading, normalize, sortKey } from './lib/format.mjs';
 import {
@@ -104,6 +105,7 @@ const NAV = [
   ['titulos/', 'Títulos marianos'],
   ['maria-pelo-mundo/', 'Maria pelo mundo'],
   ['sagrada-familia/', 'Sagrada Família'],
+  ['iconografia/', 'Iconografia'],
   ['oracoes/', 'Orações'],
   ['dossie/', 'Dossiê'],
   ['biblioteca/', 'Biblioteca'],
@@ -1115,6 +1117,76 @@ ${semLugar.length ? `<p class="nota-peq">${_h('Títulos sem lugar (doutrinais): 
   return layout({ title: _('Maria pelo mundo'), path: 'maria-pelo-mundo/', section: 'maria-pelo-mundo/', body, description: _('Atlas de aparições, títulos e santuários marianos: escolha um país no mapa para ver o que há pesquisado ali.') });
 }
 
+// ---------- iconografia mariana ----------
+const BASE_ROTULO = { escritura: 'Escritura', ensino: 'Ensino da Igreja', tradicao: 'Tradição devocional', arte: 'Convenção da arte' };
+const BASE_DEF = {
+  escritura: 'Há um texto bíblico em que o símbolo se apoia.',
+  ensino: 'Documento do Magistério ou da liturgia que fala do tema.',
+  tradicao: 'Prática ou leitura da devoção popular, sem decisão doutrinal.',
+  arte: 'Uso dos artistas, que se consolidou com o tempo; não é afirmação de fé.'
+};
+function pageIconography() {
+  const baseItem = ([tipo, txt]) => `<li class="base base--${tipo}"><span class="base__t">${esc(_(BASE_ROTULO[tipo]))}</span> <span class="base__x">${esc(tipo === 'escritura' ? bibleRef(txt) : _(txt))}</span></li>`;
+  const legenda = Object.keys(BASE_ROTULO).map((k) => `<div class="base-def base-def--${k}"><dt>${esc(_(BASE_ROTULO[k]))}</dt><dd>${esc(_(BASE_DEF[k]))}</dd></div>`).join('');
+  const indice = SIMBOLOS.map((x) => `<li><a href="#${x.id}">${emblema(x.id)}<span>${esc(_(x.nome))}</span></a></li>`).join('');
+  const secoes = SIMBOLOS.map((x) => {
+    const fig = x.imagem ? `<figure class="simbolo__fig"><div class="quadro" style="--ar:${MANIFEST[x.imagem[0]].ratio};${focusStyle(x.imagem[0])}">${img(x.imagem[0], { sizes: '(min-width: 62rem) 18rem, (min-width: 40rem) 30vw, 80vw' })}</div><figcaption class="legenda">${esc(_(x.imagem[1]))}<span class="legenda__credito">${esc(imageById[x.imagem[0]].caption)} ${esc(creditText(imageById[x.imagem[0]]))} ${originLink(imageById[x.imagem[0]])}</span></figcaption></figure>` : '';
+    return `<article class="simbolo" id="${x.id}" aria-labelledby="${x.id}-t" data-revela>
+  <div class="simbolo__medalha">${emblema(x.id, 'emblema--grande')}</div>
+  <div class="simbolo__corpo">
+    <p class="simbolo__latim" lang="la">${esc(x.latim)}</p>
+    <h2 id="${x.id}-t" class="simbolo__nome">${esc(_(x.nome))}</h2>
+    <p class="simbolo__resumo">${esc(_(x.resumo))}</p>
+    <ul class="bases">${x.base.map(baseItem).join('')}</ul>
+    ${x.texto.map((p) => `<p>${esc(_(p))}</p>`).join('')}
+    <p class="simbolo__cuidado"><strong>${esc(_('Cuidado'))}:</strong> ${esc(_(x.cuidado))}</p>
+  </div>
+  ${fig}
+</article>`;
+  }).join('');
+  const outros = OUTROS.map(([nome, latim, ref, txt]) => `<div><dt>${esc(_(nome))} <span class="outros__lat" lang="la">${esc(latim)}</span> <span class="outros__ref">${esc(bibleRef(ref))}</span></dt><dd>${esc(_(txt))}</dd></div>`).join('');
+  const body = `<div class="miolo pagina iconografia">
+${crumbs([[HOME(), ''], [_('Iconografia'), 'iconografia/']])}
+<header>
+<h1>${esc(_('Iconografia mariana'))}</h1>
+<p class="lede">${esc(_('Estrelas, lua, serpente, coroa, rosas, manto azul, sol, lírios, coração e sete espadas: o que cada símbolo quer dizer, de onde vem e o que a Igreja realmente afirma por trás dele.'))}</p>
+</header>
+<p class="nota-peq">${esc(_('Uma pintura de Maria é feita de camadas: o que a Escritura diz, o que a Igreja ensina, o que a devoção acrescentou e o que os artistas convencionaram. Cada símbolo abaixo traz a sua origem identificada por estas quatro etiquetas.'))}</p>
+
+<section class="ap-bloco" aria-labelledby="ap-t">
+  <div class="ap-bloco__fig">${apocalipse(_, esc)}</div>
+  <div class="ap-bloco__txt">
+    <h2 id="ap-t">${esc(_('A mulher de Apocalipse 12'))}</h2>
+    <p>${esc(_('Quatro dos símbolos mais conhecidos saem de um só versículo: «uma mulher vestida de sol, com a lua debaixo dos pés e uma coroa de doze estrelas na cabeça» (Ap 12,1). Mais adiante, o dragão, «a antiga serpente», persegue a mulher e o seu filho.'))}</p>
+    <p>${esc(_('A Igreja lê essa mulher de mais de um modo: como o povo de Deus, como a Igreja e, na liturgia e na arte, como Maria. Por isso a imagem é rica, e por isso não se deve apresentar um só sentido como o único. Escolha uma parte do desenho para ir ao símbolo.'))}</p>
+    <dl class="base-defs">${legenda}</dl>
+  </div>
+</section>
+
+<nav class="ind-simbolos" aria-label="${esc(_('Símbolos'))}"><ul>${indice}</ul></nav>
+
+<div class="simbolos">${secoes}</div>
+
+<section aria-labelledby="outros-t">
+  <h2 id="outros-t">${esc(_('Outros símbolos'))}</h2>
+  <dl class="outros">${outros}</dl>
+</section>
+
+<section class="bloco bloco--nota" aria-labelledby="ler-t">
+  <p class="bloco__rotulo">${esc(_('Como ler uma pintura mariana'))}</p>
+  <h2 id="ler-t" class="bloco__titulo">${esc(_('Três perguntas antes de concluir'))}</h2>
+  <ul>
+    <li>${esc(_('De onde vem o sinal: de um texto bíblico, de uma festa ou invocação da liturgia, ou de um costume dos artistas?'))}</li>
+    <li>${esc(_('O que mudou com o tempo: o azul, a lua e as espadas ganharam o sentido que têm hoje em séculos e lugares determinados.'))}</li>
+    <li>${esc(_('Quem afirma: uma devoção popular, uma ordem religiosa ou um documento da Igreja têm pesos muito diferentes.'))}</li>
+  </ul>
+</section>
+
+<p class="nota-peq">${esc(_('As datas e as decisões citadas devem ser conferidas nos textos originais, que estão na Biblioteca. Esta página não foi revisada por um teólogo.'))} <a href="${href('galeria/')}">${esc(_('Galeria'))}</a> · <a href="${href('titulos/')}">${esc(_('Títulos marianos'))}</a> · <a href="${href('biblioteca/')}">${esc(_('Biblioteca'))}</a></p>
+</div>`;
+  return layout({ title: _('Iconografia mariana'), path: 'iconografia/', section: 'iconografia/', body, art: { id: 'obra-reni-imaculada' }, css: ['iconografia.css'], description: _('Estrelas, lua, serpente, coroa, rosas, manto azul, sol, lírios, coração e sete espadas: a origem de cada símbolo mariano e o que a Igreja afirma por trás dele.') });
+}
+
 // ---------- peregrinação da Sagrada Família ----------
 const ETAPAS_SF = {
   'nazareth-to-bethlehem': { fig: 'durer-natividade', texto: 'Por causa do recenseamento ordenado por César Augusto, José, que era da casa de Davi, sobe da Galileia, de Nazaré, à Judeia, à cidade de Davi, chamada Belém, para se registrar com Maria, sua esposa, que estava grávida. Ali se completam os dias dela e nasce Jesus; é deitado numa manjedoura, porque não havia lugar para eles na hospedaria.' },
@@ -1507,6 +1579,7 @@ cat.shrines.forEach((sh) => emit(`santuarios/${sh.slug}/`, pageShrine(sh)));
 emit('calendario/', pageCalendar());
 emit('maria-pelo-mundo/', pageAtlas());
 emit('sagrada-familia/', pageHolyFamily());
+emit('iconografia/', pageIconography());
 emit('oracoes/', pagePrayers());
 cat.prayers.forEach((p) => emit(`oracoes/${p.slug}/`, pagePrayer(p)));
 emit('oracoes/rosario/', pageRosary());

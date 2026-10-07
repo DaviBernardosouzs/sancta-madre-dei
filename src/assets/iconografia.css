@@ -1,0 +1,68 @@
+/* Iconografia mariana: emblemas em ouro sobre noite, no vocabulário do atlas e da peregrinação. */
+.iconografia { --i-ouro: #e3c27a; --i-ouro-2: #b8893a; --i-noite: #0f1530; }
+
+/* emblemas */
+.emblema { display: block; width: 100%; height: auto; overflow: visible; }
+.emblema .e-p, .ap .e-p { fill: var(--i-ouro); stroke: #7a5712; stroke-width: 1; stroke-linejoin: round; }
+.emblema .e-o, .ap .e-o { fill: none; stroke: var(--i-ouro); stroke-width: 2; stroke-linejoin: round; stroke-linecap: round; }
+.emblema .e-g, .ap .e-g { stroke-width: 2.6; }
+.emblema .e-v, .ap .e-v { fill: #0f1530; stroke: none; }
+.emblema .e-claro { fill: #f6e7bd; }
+.emblema .e-azul { fill: #2c4bb4; stroke: var(--i-ouro); stroke-width: 1.6; stroke-linejoin: round; }
+
+/* quadro central: a mulher de Ap 12,1 */
+.ap-bloco { display: grid; gap: 1.5rem 3rem; margin: 2rem 0 2.5rem; align-items: center; }
+@media (min-width: 62rem) { .ap-bloco { grid-template-columns: minmax(0, 26rem) minmax(0, 1fr); } }
+.ap-bloco__fig { background: radial-gradient(ellipse at 50% 45%, #182455, #0a0f26 75%); border-radius: 6px; padding: 1.2rem; box-shadow: 0 40px 70px -45px #000d, inset 0 0 0 1px #e3c27a33; max-width: 28rem; margin-inline: auto; width: 100%; }
+.ap { display: block; width: 100%; height: auto; overflow: visible; }
+.ap__mandorla { fill: url(#ap-mandorla); stroke: var(--i-ouro); stroke-width: 2; }
+.ap__mandorla-fio { fill: none; stroke: var(--i-ouro); stroke-opacity: .45; stroke-width: 1; }
+.ap__monograma { font-family: var(--serifa); font-style: italic; font-size: 110px; fill: var(--i-ouro); fill-opacity: .9; }
+.ap__raios { fill: none; stroke: var(--i-ouro); stroke-opacity: .55; stroke-width: 1.4; stroke-linecap: round; }
+.ap__estrelas { fill: var(--i-ouro); stroke: #7a5712; stroke-width: .8; stroke-linejoin: round; }
+.ap__parte { cursor: pointer; outline: none; }
+.ap__parte > g, .ap__parte > :not(title) { transition: filter .3s, opacity .3s; transform-box: fill-box; }
+.ap__parte .e-p { fill: var(--i-ouro); }
+.ap__parte .e-o { stroke: var(--i-ouro); }
+.ap__parte:hover > :not(title), .ap__parte:focus-visible > :not(title) { filter: drop-shadow(0 0 7px #f6e7bd); }
+.ap__parte:focus-visible { outline: 2px solid #fff; outline-offset: 4px; }
+.ap:has(.ap__parte:hover) .ap__parte:not(:hover) > :not(title), .ap:has(.ap__parte:focus-visible) .ap__parte:not(:focus-visible) > :not(title) { opacity: .4; }
+.ap-bloco__txt h2 { margin-top: 0; }
+.base-defs { display: grid; gap: .7rem; margin: 1.2rem 0 0; }
+.base-def { display: grid; gap: .1rem; padding-left: .9rem; border-left: 3px solid var(--ouro-filete); }
+.base-def dt { font-weight: 700; font-size: .9375rem; }
+.base-def dd { margin: 0; font-size: .875rem; color: var(--tinta-2); }
+.base-def--escritura { border-color: #1d3a8c; } .base-def--ensino { border-color: #7a5712; } .base-def--tradicao { border-color: #a35a45; } .base-def--arte { border-color: #5a4a41; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .base-def--escritura { border-color: #a9bdf2; } :root:not([data-theme="light"]) .base-def--ensino { border-color: #e0bd6a; } :root:not([data-theme="light"]) .base-def--tradicao { border-color: #e0907c; } :root:not([data-theme="light"]) .base-def--arte { border-color: #c4c9da; } }
+
+/* índice */
+.ind-simbolos ul { list-style: none; margin: 0 0 2.5rem; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(5.8rem, 1fr)); gap: .8rem; grid-auto-rows: 1fr; }
+.ind-simbolos a { align-content: start; display: grid; justify-items: center; gap: .45rem; padding: .9rem .4rem .7rem; text-decoration: none; color: var(--tinta); font-size: .9375rem; text-align: center; background: var(--i-noite); border: 1px solid #e3c27a33; border-radius: 4px; transition: border-color .25s, transform .25s; }
+.ind-simbolos a span { color: #f1e8d2; }
+.ind-simbolos a:hover, .ind-simbolos a:focus-visible { border-color: var(--i-ouro); transform: translateY(-2px); }
+.ind-simbolos .emblema { width: 2.8rem; }
+
+/* seções */
+.simbolos { display: grid; gap: 0; }
+.simbolo { display: grid; gap: 1rem 2rem; padding: 2.2rem 0; border-top: 1px solid var(--filete); scroll-margin-top: 1.5rem; }
+@media (min-width: 40rem) { .simbolo { grid-template-columns: 7.5rem minmax(0, 1fr); } .simbolo__fig { grid-column: 2; } }
+@media (min-width: 62rem) { .simbolo { grid-template-columns: 8.5rem minmax(0, 1fr) 16rem; } .simbolo__fig { grid-column: 3; grid-row: 1; } }
+.simbolo__medalha { width: 6.5rem; aspect-ratio: 1; padding: 1rem; background: radial-gradient(circle at 50% 40%, #1b2a66, #0a0f26); border-radius: 50%; box-shadow: 0 0 0 2px var(--papel), 0 0 0 3px var(--ouro-filete), 0 20px 36px -22px #000c; align-self: start; }
+.simbolo__latim { margin: 0; font-family: var(--serifa); font-style: italic; color: var(--ouro); font-size: 1.1rem; }
+.simbolo__nome { margin: .1rem 0 .3rem; font-family: var(--serifa); font-size: clamp(1.8rem, 4vw, 2.5rem); line-height: 1.05; }
+.simbolo__resumo { font-size: 1.125rem; color: var(--tinta-2); max-width: 60ch; }
+.simbolo__corpo p { max-width: 62ch; }
+.bases { display: flex; flex-wrap: wrap; gap: .4rem .6rem; list-style: none; padding: 0; margin: 1rem 0; }
+.base { display: inline-flex; flex-wrap: wrap; gap: .4rem; align-items: baseline; padding: .25rem .7rem; font-size: .875rem; border: 1px solid var(--filete); border-radius: 999px; background: var(--papel-3); }
+.base__t { font-weight: 700; letter-spacing: .03em; }
+.base--escritura .base__t { color: var(--ultramar); } .base--ensino .base__t { color: var(--ouro); } .base--tradicao .base__t { color: var(--madder); } .base--arte .base__t { color: var(--tinta-2); }
+.simbolo__cuidado { margin-top: 1rem; padding: .7rem 1rem; border-left: 3px solid var(--ouro-filete); background: var(--papel-2); font-size: .9375rem; }
+.simbolo__fig { margin: 0; }
+
+.outros { display: grid; gap: 1.1rem; margin: 1rem 0 2.5rem; }
+.outros div { padding-left: 1rem; border-left: 2px solid var(--ouro-filete); }
+.outros dt { font-family: var(--serifa); font-size: 1.3rem; font-weight: 600; }
+.outros dd { margin: .15rem 0 0; color: var(--tinta-2); max-width: 64ch; }
+.outros__lat { font-style: italic; font-size: .95rem; color: var(--ouro); font-weight: 400; margin-left: .3rem; }
+.outros__ref { font-family: var(--sans); font-size: .8125rem; font-weight: 700; color: var(--ultramar); margin-left: .3rem; }
+@media (min-width: 48rem) { .outros { grid-template-columns: 1fr 1fr; gap: 1.4rem 2.5rem; } }
