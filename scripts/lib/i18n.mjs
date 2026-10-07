@@ -99,6 +99,9 @@ export const collator = new Intl.Collator(L.intl);
 // ---------- referências bíblicas ----------
 // Abreviaturas usadas no acervo (padrão da Bíblia católica em português) para cada idioma.
 const BOOKS = {
+  Ct: { pt: 'Ct', en: 'Song', es: 'Cant', fr: 'Ct', it: 'Ct', de: 'Hld', ja: '雅歌', zh: '歌' },
+  Sl: { pt: 'Sl', en: 'Ps', es: 'Sal', fr: 'Ps', it: 'Sal', de: 'Ps', ja: '詩編', zh: '诗' },
+  Eclo: { pt: 'Eclo', en: 'Sir', es: 'Eclo', fr: 'Si', it: 'Sir', de: 'Sir', ja: 'シラ書', zh: '德' },
   Lc: { pt: 'Lc', en: 'Lk', es: 'Lc', fr: 'Lc', it: 'Lc', de: 'Lk', ja: 'ルカ', zh: '路' },
   Mt: { pt: 'Mt', en: 'Mt', es: 'Mt', fr: 'Mt', it: 'Mt', de: 'Mt', ja: 'マタイ', zh: '玛' },
   Mc: { pt: 'Mc', en: 'Mk', es: 'Mc', fr: 'Mc', it: 'Mc', de: 'Mk', ja: 'マルコ', zh: '谷' },
