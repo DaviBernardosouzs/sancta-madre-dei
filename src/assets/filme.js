@@ -7,6 +7,18 @@
 */
 (function () {
   'use strict';
+  /* japonês e chinês não separam palavras com espaço: usa o segmentador de palavras do navegador */
+  var docLang = document.documentElement.lang || 'pt';
+  var cjk = /^(ja|zh)/i.test(docLang);
+  var segmenter = null;
+  try { if (cjk && Intl.Segmenter) segmenter = new Intl.Segmenter(docLang, { granularity: 'word' }); } catch (e) { segmenter = null; }
+  function splitWords(text) {
+    if (!cjk) return text.split(/\s+/);
+    if (!segmenter) return text.split('');
+    var out = [];
+    for (var it = segmenter.segment(text)[Symbol.iterator](), r = it.next(); !r.done; r = it.next()) { if (r.value.segment.trim()) out.push(r.value.segment); }
+    return out;
+  }
   var root = document.documentElement;
   var DPR = Math.min(window.devicePixelRatio || 1, 2);
   var primeiraEntrada = false;
@@ -259,7 +271,7 @@
         var h1 = q('h1', capa);
         if (h1 && !q('.pal', h1)) {
           // divide o título em palavras com máscara (o texto continua o mesmo para leitores de tela)
-          h1.innerHTML = h1.textContent.trim().split(/\s+/).map(function (w) { return '<span class="pal"><span class="pal__i">' + w.replace(/[&<>]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;' }[c]; }) + '</span></span>'; }).join(' ');
+          h1.innerHTML = splitWords(h1.textContent.trim()).map(function (w) { return '<span class="pal"><span class="pal__i">' + w.replace(/[&<>]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;' }[c]; }) + '</span></span>'; }).join(cjk ? '' : ' ');
         }
         var pals = qa('h1 .pal__i', capa);
         var mol = q('.abertura__moldura', capa);
