@@ -1198,61 +1198,70 @@ const ETAPAS_SF = {
   'nazareth-to-jerusalem-annual': { fig: 'durer-entre-doutores', texto: 'Todos os anos os pais de Jesus iam a Jerusalém para a festa da Páscoa. Quando ele tinha doze anos, ficou no Templo sem que eles soubessem; depois de três dias o encontram sentado entre os doutores, ouvindo e interrogando. Volta com eles a Nazaré e lhes era submisso, e Maria guardava todas essas coisas no coração.' }
 };
 const ESTILO_NOME = { ida: 'Caminho de ida', fuga: 'Fuga', retorno: 'Retorno', anual: 'Peregrinação anual' };
+const ROMANO = ['I', 'II', 'III', 'IV', 'V'];
+/** Vista do mapa em que cada etapa é contada: as viagens curtas na Terra Santa ampliada, as do Egito no mapa geral. */
+const VISTA_SF = { 'nazareth-to-bethlehem': 'detalhe', 'bethlehem-to-jerusalem': 'detalhe', 'bethlehem-to-egypt': 'geral', 'egypt-to-nazareth': 'geral', 'nazareth-to-jerusalem-annual': 'detalhe' };
 function pageHolyFamily() {
   const mapas = montarMapas({ t: _, esc });
   const etapas = ROTAS_SF.segments;
-  const nomeDe = (id) => PONTOS_SF.points.find((p) => p.id === id)?.name ?? id;
   const lugares = PONTOS_SF.points.filter((p, i, a) => a.findIndex((q) => q.lat === p.lat && q.lng === p.lng) === i);
-  const cartas = etapas.map((e) => {
+  const cartas = etapas.map((e, i) => {
     const x = ETAPAS_SF[e.id];
     const ref = bibleRef(e.scripture);
-    return `<li class="etapa etapa--${e.style}" id="etapa-${e.order}" data-etapa="${e.id}" data-titulo="${esc(_(e.label))}" data-evento="${esc(_(e.event))}" data-ref="${esc(ref)}">
-  <div class="etapa__cab"><span class="etapa__n" aria-hidden="true">${e.order}</span><div><h3 class="etapa__t">${esc(_(e.label))}</h3><p class="etapa__ev">${esc(_(e.event))} · <span class="etapa__ref">${esc(ref)}</span></p></div></div>
-  <div class="etapa__corpo">
-    <p>${esc(_(x.texto))}</p>
-    <button class="etapa__ver" type="button" data-ir="${e.id}" hidden>${esc(_('Ver no mapa'))}</button>
-  </div>
-  <figure class="etapa__fig"><div class="quadro" style="--ar:${MANIFEST[x.fig].ratio};${focusStyle(x.fig)}">${img(x.fig, { sizes: '(min-width: 62rem) 14rem, (min-width: 40rem) 30vw, 70vw' })}</div><figcaption class="legenda">${esc(imageById[x.fig].caption)}<span class="legenda__credito">${esc(creditText(imageById[x.fig]))} ${originLink(imageById[x.fig])}</span></figcaption></figure>
+    return `<li class="etapa etapa--${e.style}" id="etapa-${e.order}" data-etapa="${e.id}" data-vista="${VISTA_SF[e.id]}" data-romano="${ROMANO[i]}" data-titulo="${esc(_(e.label))}" data-ref="${esc(ref)}">
+  <article class="etapa__folha">
+  <header class="etapa__cab"><span class="etapa__n" aria-hidden="true">${ROMANO[i]}</span><div><h3 class="etapa__t">${esc(_(e.label))}</h3><p class="etapa__ev">${esc(_(e.event))} · <span class="etapa__ref">${esc(ref)}</span></p></div></header>
+  <figure class="etapa__fig"><div class="quadro" style="--ar:${MANIFEST[x.fig].ratio};${focusStyle(x.fig)}">${img(x.fig, { sizes: '(min-width: 62rem) 24rem, (min-width: 40rem) 30vw, 80vw' })}</div><figcaption class="legenda">${esc(imageById[x.fig].caption)}<span class="legenda__credito">${esc(creditText(imageById[x.fig]))} ${originLink(imageById[x.fig])}</span></figcaption></figure>
+  <div class="etapa__corpo"><p>${esc(_(x.texto))}</p></div>
+  </article>
 </li>`;
   }).join('');
   const chaves = ['ida', 'fuga', 'retorno', 'anual'].map((k) => `<li><i class="rchave rchave--${k}"></i> ${esc(_(ESTILO_NOME[k]))}</li>`).join('');
+  const fim = `<li class="etapa etapa--fim" id="etapa-todas" data-etapa="todas" data-vista="geral" data-romano="✦" data-titulo="${esc(_('O caminho inteiro'))}" data-ref="">
+  <article class="etapa__folha">
+  <header class="etapa__cab"><span class="etapa__n" aria-hidden="true">✦</span><div><h3 class="etapa__t">${esc(_('O caminho inteiro'))}</h3></div></header>
+  <div class="etapa__corpo"><p>${esc(_('Vistas juntas, as cinco viagens ligam Nazaré, Belém, Jerusalém e o Egito. As cores distinguem a ida, a fuga, o retorno e a peregrinação anual.'))}</p>
+  <ul class="pchaves">${chaves}</ul>
+  <p class="nota-peq">${esc(_('Terras: Natural Earth (domínio público), generalizadas; rios e lagos desenhados à mão, só para situar. As rotas intermediárias são ilustrativas, e o ponto no Egito é uma referência, não um dado do Evangelho. O mapa não representa disputas de fronteira.'))}</p></div>
+  </article>
+</li>`;
+  const pontos = [...etapas.map((e, i) => [ROMANO[i], `etapa-${e.order}`, _('Etapa {n}: {rotulo}', { n: e.order, rotulo: _(e.label) })]), ['✦', 'etapa-todas', _('O caminho inteiro')]]
+    .map(([n, alvo, rot]) => `<li><a href="#${alvo}" data-ponto="${alvo}" aria-label="${esc(rot)}">${n}</a></li>`).join('');
   const lista = lugares.map((p) => `<li><strong>${esc(_(p.name))}</strong><span>${esc(_(p.description))}</span></li>`).join('');
   const fontes = [['Lucas 2,1-7'], ['Lucas 2,22-40'], ['Mateus 2,13-15'], ['Mateus 2,19-23'], ['Lucas 2,41-52']].map(([r]) => bibleRef(r)).join('; ');
-  const body = `<div class="miolo pagina peregrinacao">
-${crumbs([[HOME(), ''], [_('Aprofundar'), 'aprofundar/'], [_('Sagrada Família'), 'sagrada-familia/']])}
+  // a trilha e o cabeçalho sobem para a abertura (splitHead); o palco da viagem ocupa a largura toda
+  const body = `${crumbs([[HOME(), ''], [_('Aprofundar'), 'aprofundar/'], [_('Sagrada Família'), 'sagrada-familia/']])}
 <header>
 <h1>${esc(_('Peregrinação da Sagrada Família'))}</h1>
 <p class="lede">${esc(_('Os caminhos de Maria, de José e do Menino Jesus: de Nazaré a Belém, ao Templo de Jerusalém, ao exílio no Egito e de volta a Nazaré, segundo os Evangelhos de Lucas e de Mateus.'))}</p>
 </header>
-<p class="nota-peq">${esc(_('Os Evangelhos dão partidas e destinos, não itinerários: os traçados do mapa são ilustrativos. Onde a Escritura se cala, o texto diz que se cala.'))}</p>
 
-<section class="pmapa-bloco" aria-labelledby="mapa-sf" data-peregrinacao>
-  <h2 id="mapa-sf" class="sr-only">${esc(_('Mapa da peregrinação'))}</h2>
-  <div class="pcontroles" role="group" aria-label="${esc(_('Percorrer as etapas no mapa'))}" hidden>
-    <button type="button" class="pbotao pbotao--ouro" data-percorrer data-parar="${esc(_('Pausar'))}" aria-pressed="false">${esc(_('Percorrer a peregrinação'))}</button>
-    <button type="button" class="pbotao" data-ant>${esc(_('Etapa anterior'))}</button>
-    <button type="button" class="pbotao" data-prox>${esc(_('Próxima etapa'))}</button>
-    <button type="button" class="pbotao" data-todas>${esc(_('Mostrar tudo'))}</button>
+<section class="viagem peregrinacao" aria-labelledby="etapas" data-viagem data-peregrinacao>
+  <div class="miolo viagem__cab">
+    <p class="viagem__sobre">${esc(_('Segundo Lucas e Mateus'))}</p>
+    <h2 id="etapas" tabindex="-1">${esc(_('As cinco etapas'))}</h2>
+    <p class="viagem__nota">${esc(_('Os Evangelhos dão partidas e destinos, não itinerários: os traçados do mapa são ilustrativos. Onde a Escritura se cala, o texto diz que se cala.'))}</p>
   </div>
-  <div class="pmapa-grade">
-    <figure class="pmapa-palco pmapa-palco--geral">${mapas.geral}</figure>
-    <figure class="pmapa-palco pmapa-palco--detalhe">${mapas.detalhe}<figcaption class="pmapa-rotulo">${esc(_('Terra Santa ampliada'))}</figcaption></figure>
-  </div>
-  <div class="pficha" data-ficha aria-live="polite" hidden>
-    <p class="pficha__n" data-ficha-n></p>
-    <h3 class="pficha__t" data-ficha-t></h3>
-    <p class="pficha__ev" data-ficha-ev></p>
-    <p><a class="pficha__ir" data-ficha-ir href="#etapas">${esc(_('Ler esta etapa'))}</a></p>
-  </div>
-  <div class="pmapa-legenda">
-    <ul class="pchaves">${chaves}</ul>
-    <p class="nota-peq">${esc(_('Terras: Natural Earth (domínio público), generalizadas; rios e lagos desenhados à mão, só para situar. As rotas intermediárias são ilustrativas, e o ponto no Egito é uma referência, não um dado do Evangelho. O mapa não representa disputas de fronteira.'))}</p>
+  <div class="viagem__grade">
+    <div class="viagem__palco" data-palco>
+      <div class="viagem__moldura">
+        <figure class="viagem__mapa viagem__mapa--geral" data-mapa="geral">${mapas.geral}</figure>
+        <figure class="viagem__mapa viagem__mapa--detalhe" data-mapa="detalhe">${mapas.detalhe}<figcaption class="pmapa-rotulo">${esc(_('Terra Santa ampliada'))}</figcaption></figure>
+        <div class="viagem__cartela" aria-hidden="true" hidden><span class="viagem__cn" data-c-n></span><span class="viagem__ct" data-c-t></span><span class="viagem__cr" data-c-r></span></div>
+        <span class="viagem__luz" aria-hidden="true"></span>
+        <span class="viagem__canto viagem__canto--a" aria-hidden="true"></span><span class="viagem__canto viagem__canto--b" aria-hidden="true"></span><span class="viagem__canto viagem__canto--c" aria-hidden="true"></span><span class="viagem__canto viagem__canto--d" aria-hidden="true"></span>
+      </div>
+      <nav class="viagem__nav" aria-label="${esc(_('Percorrer as etapas no mapa'))}" hidden>
+        <button type="button" class="viagem__seta" data-ant aria-label="${esc(_('Etapa anterior'))}"><span aria-hidden="true">‹</span></button>
+        <ol class="viagem__pontos">${pontos}</ol>
+        <button type="button" class="viagem__seta" data-prox aria-label="${esc(_('Próxima etapa'))}"><span aria-hidden="true">›</span></button>
+      </nav>
+    </div>
+    <ol class="viagem__etapas">${cartas}${fim}</ol>
   </div>
 </section>
 
-<h2 id="etapas" tabindex="-1">${esc(_('As cinco etapas'))}</h2>
-<ol class="etapas">${cartas}</ol>
-
+<div class="miolo pagina peregrinacao">
 <section aria-labelledby="lugares-sf">
   <h2 id="lugares-sf">${esc(_('Os lugares'))}</h2>
   <ul class="lugares-lista">${lista}</ul>

@@ -133,7 +133,7 @@ export function montarMapas({ t, esc }) {
 
     // marcadores de lugar com rótulo
     const AJUSTE = {
-      geral: { nazareth: [12, -14, 'start'], bethlehem: [-15, 14, 'end'], jerusalem: [14, 3, 'start'], egypt: [-14, 22, 'end'] },
+      geral: { nazareth: [12, -14, 'start'], bethlehem: [-15, 14, 'end'], jerusalem: [14, 3, 'start'], egypt: [0, 30, 'middle'] },
       detalhe: { nazareth: [16, -9, 'start'], bethlehem: [16, 24, 'start'], jerusalem: [16, -12, 'start'], egypt: [0, 0, 'start'] }
     }[nome];
     const marcadores = unicos.map((u) => {
@@ -176,11 +176,18 @@ export function montarMapas({ t, esc }) {
       quadro = `<rect class="quadro-detalhe" x="${f1(a[0])}" y="${f1(a[1])}" width="${f1(b[0] - a[0])}" height="${f1(b[1] - a[1])}" rx="3"/>`;
     }
 
+    // o viajante: estrela de oito pontas que percorre a rota da etapa (posicionada pelo navegador)
+    const estrela = 'M' + Array.from({ length: 16 }, (_, i) => {
+      const a = (i * Math.PI) / 8 - Math.PI / 2, r = i % 2 ? 2.6 : 8.5;
+      return `${f1(Math.cos(a) * r)} ${f1(Math.sin(a) * r)}`;
+    }).join('L') + 'Z';
+    const viajante = `<g class="pmapa__viajante" aria-hidden="true"><circle class="viajante__aura" r="17"/><path class="viajante__estrela" d="${estrela}"/></g>`;
+
     const id = (n) => `${n}-${sufixo}`;
     const titulo = nome === 'geral'
       ? t('Mapa do Egito e da Terra Santa com as cinco etapas da peregrinação da Sagrada Família')
       : t('Mapa ampliado da Terra Santa: Nazaré, Belém e Jerusalém');
-    return `<svg class="pmapa pmapa--${nome}" viewBox="0 0 ${w} ${h}" preserveAspectRatio="xMidYMid slice" role="group" aria-label="${esc(titulo)}" focusable="false">
+    return `<svg class="pmapa pmapa--${nome}" viewBox="0 0 ${w} ${h}" preserveAspectRatio="xMidYMid slice"${nome === 'geral' ? ` data-vb-palco="240 0 ${w - 240} ${h}"` : ''} role="group" aria-label="${esc(titulo)}" focusable="false">
   <defs>
     <radialGradient id="${id('mar')}" cx="55%" cy="45%" r="80%"><stop offset="0" stop-color="#1b2b66"/><stop offset=".65" stop-color="#101a45"/><stop offset="1" stop-color="#0a1030"/></radialGradient>
     <linearGradient id="${id('terra')}" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#46417a"/><stop offset="1" stop-color="#2d3568"/></linearGradient>
@@ -200,6 +207,7 @@ export function montarMapas({ t, esc }) {
     <g class="pmapa__setas" aria-hidden="true">${setas.join('')}</g>
     <g class="pmapa__lugares">${marcadores}</g>
     <g class="pmapa__selos">${selos.join('')}</g>
+    ${viajante}
   </g>
   ${nome === 'geral' ? `<g class="pmapa__rosa" transform="translate(${w - 46} 46)" aria-hidden="true"><circle r="22" class="rosa__aro"/><path class="rosa__seta" d="M0 -17L5 3L0 0L-5 3Z"/><path class="rosa__seta rosa__seta--sul" d="M0 17L5 -3L0 0L-5 -3Z"/><text class="rosa__n" y="-26" text-anchor="middle">N</text></g>` : ''}
 </svg>`;

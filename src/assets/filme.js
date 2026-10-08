@@ -295,7 +295,7 @@
       }
 
       // títulos de seção: um "wipe" da esquerda e um fio de ouro que se desenha
-      qa('main h2').filter(function (h) { return !h.closest('[data-cartela], .abertura, .sr-only, .lb, .f-cena, .f-pelicula, .f-manto, .f-mundo, .f-creditos') && !h.classList.contains('sr-only'); }).forEach(function (h) {
+      qa('main h2').filter(function (h) { return !h.closest('[data-cartela], .abertura, .sr-only, .lb, .f-cena, .f-pelicula, .f-manto, .f-mundo, .f-creditos, .viagem') && !h.classList.contains('sr-only'); }).forEach(function (h) {
         g.fromTo(h, { clipPath: 'inset(0% 100% 0% 0%)', x: -14 }, { clipPath: 'inset(0% 0% 0% 0%)', x: 0, duration: 1.3, ease: 'expo.out', clearProps: 'clipPath,transform', scrollTrigger: { trigger: h, start: 'top 90%', once: true } });
       });
 
@@ -323,6 +323,8 @@
 
     // área de estudo: coreografia própria (estudo.js), revertida junto com o resto
     if (window.SMDEstudoFilme) { var fe = window.SMDEstudoFilme(g, ST, { desktop: desktop }); if (fe) limpar.push(fe); }
+    // peregrinação da Sagrada Família: o palco da viagem (peregrinacao.js)
+    if (window.SMDPeregrinacaoFilme) { var fp = window.SMDPeregrinacaoFilme(g, ST, { desktop: desktop }); if (fp) limpar.push(fp); }
 
     // rodapé: os créditos do livro
     var rod = qa('.rodape__in > *');
