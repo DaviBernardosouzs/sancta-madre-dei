@@ -27,6 +27,7 @@ site/                       o site (front-end): tudo o que o gerador usa para mo
   tests/                      node:test
   art-originals/              originais das obras, baixados por npm run fetch-art (ignorado pelo git)
 content/                    acervo editorial em JSON e a pesquisa documentada (na raiz: o vault lê daqui)
+functions/api/              Pages Function: no Cloudflare Pages, repassa /api/* ao Worker (Service binding API)
 worker/                     back-end no Cloudflare: contador de visitas (/api/visitas) e mural de pedidos de oração (/api/pedidos); wrangler.jsonc na raiz
 deploy/                     Dockerfile, docker-compose.yml e nginx.conf (site estático servido pelo nginx)
 android/, capacitor.config.json, store/   aplicativo Android e Play Store
@@ -45,6 +46,12 @@ A página `/pedidos-de-oracao/` tem o formulário (nome e necessidade) e o mural
 - **Proteções:** só aceita envio das próprias páginas (cabeçalho Origin) e de navegadores; campo escondido contra robôs; sem links; 1 a 60 caracteres no nome e 3 a 600 no pedido; 5 pedidos por pessoa e 400 no total por semana; com 3 denúncias de pessoas diferentes o pedido sai do mural. A pessoa é reconhecida por um resumo de (sal da semana + IP + navegador), nunca pelo IP.
 - **Moderação:** defina a senha com `npx wrangler secret put PEDIDOS_TOKEN` e remova um pedido com `curl -X DELETE -H "Authorization: Bearer SENHA" https://SEU-SITE/api/pedidos/ID` (o ID aparece em `GET /api/pedidos`). Sem a senha definida, ninguém consegue remover.
 - **Fora do Cloudflare** (aplicativo, Docker, servidor local) não há API: o formulário fica escondido e a página explica que o mural só funciona no site publicado.
+- **Site no Cloudflare Pages (`*.pages.dev`):** o Pages só serve arquivos estáticos. `functions/api/[[rota]].js` (Pages Function, na raiz do repositório porque é onde o Pages a procura) repassa `/api/*` ao Worker por um *Service binding* chamado `API`. Sem esse binding, a API responde 503 e a página mostra "O mural de pedidos está fora do ar no momento". Configuração, uma vez só:
+  1. Publicar o Worker com os Durable Objects: `npx wrangler login` e depois `npx wrangler deploy` (ou o workflow de deploy do GitHub).
+  2. No painel do Cloudflare, em **Workers & Pages → projeto do Pages → Settings → Bindings → Add → Service binding**: nome da variável `API`, serviço `sancta-madre-dei` (o Worker do passo 1). Repetir em Preview, se quiser testar lá.
+  3. Fazer um novo deploy do Pages (um push na `main` ou **Retry deployment**), para que a Function e o binding entrem no ar.
+  O Worker não tem endereço público (`workers_dev: false` e `preview_urls: false` em `wrangler.jsonc`): quem visita só vê o endereço do Pages, e o Worker só responde pelo binding. Para um endereço mais bonito que `pages.dev`, ligue um domínio próprio ao projeto do Pages em **Custom domains**; o mural continua funcionando sem mudar nada no código.
+  Se o Cloudflare recusar o nome do Worker por já existir um projeto do Pages com o mesmo nome, troque `name` em `wrangler.jsonc` (por exemplo, `sancta-madre-dei-api`) e use esse nome no binding.
 
 ## Decisões
 | Decisão | Motivo |

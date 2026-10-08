@@ -3,6 +3,10 @@
   "name": "sancta-madre-dei",
   "compatibility_date": "2026-10-06",
   "main": "worker/index.js",
+  // sem endereço público próprio (*.workers.dev nem URLs de prévia): o site fica no Cloudflare Pages,
+  // e o Pages chega ao Worker pelo Service binding API (functions/api/[[rota]].js)
+  "workers_dev": false,
+  "preview_urls": false,
   "build": {
     "command": "npm run build"
   },
