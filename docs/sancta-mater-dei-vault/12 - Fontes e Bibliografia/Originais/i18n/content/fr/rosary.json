@@ -1,0 +1,101 @@
+{
+ "rosario": {
+  "steps": [
+   "Faites le signe de la croix.",
+   "Annoncez le premier mystère du cycle du jour et faites une courte pause pour le méditer ; si vous le souhaitez, lisez le passage biblique indiqué.",
+   "Récitez un Notre Père.",
+   "Récitez dix Je vous salue, Marie, en méditant le mystère.",
+   "Récitez le Gloire au Père.",
+   "Recommencez pour chacun des cinq mystères du cycle.",
+   "À la fin, on peut réciter le Salve Regina ou une autre prière mariale."
+  ],
+  "stepsNote": "Structure de chaque mystère selon le site du Vatican (annonce, Notre Père, dix Je vous salue, Marie en méditant le mystère, Gloire au Père). L'ordre exact des prières d'ouverture et de conclusion varie selon les communautés et n'a pas été uniformisé ici par un document ; le signe de croix au début et le Salve Regina à la fin sont des pratiques courantes.",
+  "cycles": [
+   {
+    "name": "Mystères joyeux",
+    "days": "lundis et samedis",
+    "mysteries": [
+     {
+      "name": "L'Annonciation à Marie"
+     },
+     {
+      "name": "La Visitation de la Vierge à sa cousine Élisabeth"
+     },
+     {
+      "name": "La Nativité de Jésus"
+     },
+     {
+      "name": "La Présentation de l'Enfant Jésus au Temple"
+     },
+     {
+      "name": "Le Recouvrement de l'Enfant Jésus au Temple"
+     }
+    ]
+   },
+   {
+    "name": "Mystères lumineux",
+    "days": "jeudis",
+    "mysteries": [
+     {
+      "name": "Le Baptême de Jésus dans le Jourdain"
+     },
+     {
+      "name": "La révélation de Jésus aux noces de Cana"
+     },
+     {
+      "name": "L'annonce du Royaume de Dieu"
+     },
+     {
+      "name": "La Transfiguration de Jésus"
+     },
+     {
+      "name": "L'institution de l'Eucharistie"
+     }
+    ]
+   },
+   {
+    "name": "Mystères douloureux",
+    "days": "mardis et vendredis",
+    "mysteries": [
+     {
+      "name": "L'agonie de Jésus au jardin"
+     },
+     {
+      "name": "La flagellation de Jésus"
+     },
+     {
+      "name": "Le couronnement d'épines"
+     },
+     {
+      "name": "Jésus portant sa croix sur le chemin du Calvaire"
+     },
+     {
+      "name": "Le crucifiement et la mort de Jésus"
+     }
+    ]
+   },
+   {
+    "name": "Mystères glorieux",
+    "days": "mercredis et dimanches",
+    "mysteries": [
+     {
+      "name": "La Résurrection de Jésus"
+     },
+     {
+      "name": "L'Ascension de Jésus au ciel"
+     },
+     {
+      "name": "La descente de l'Esprit Saint sur les apôtres"
+     },
+     {
+      "name": "L'Assomption de Marie"
+     },
+     {
+      "name": "Le Couronnement de Marie au ciel"
+     }
+    ]
+   }
+  ],
+  "_src": "c7ebc875"
+ }
+}

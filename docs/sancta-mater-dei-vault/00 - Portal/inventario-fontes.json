@@ -1,0 +1,714 @@
+[
+  {
+    "caminho": "content/apparitions.json",
+    "bytes": 10629,
+    "sha256": "f3c50c599b987bf973b6518e87dc61d4ef82e116aab0ee555e764727e3e19a07",
+    "formato": ".json",
+    "registros": 2
+  },
+  {
+    "caminho": "content/articles.json",
+    "bytes": 163722,
+    "sha256": "44454dd9a72f71d7e71a1c4a1d73ba2ce0a4c44d7ddf7caa989e787be51e6e67",
+    "formato": ".json",
+    "registros": 54
+  },
+  {
+    "caminho": "content/celebrations.json",
+    "bytes": 19401,
+    "sha256": "f17d930a96597e1f20a05074b4dbf1371c579250056cf6be36de782f4051adc3",
+    "formato": ".json",
+    "registros": 19
+  },
+  {
+    "caminho": "content/curas-lourdes.json",
+    "bytes": 16869,
+    "sha256": "c90aafca47003062f5cec097cb233836b7ece1b8ac5e17e4c33d7684d241f1fd",
+    "formato": ".json",
+    "registros": 71
+  },
+  {
+    "caminho": "content/devotions.json",
+    "bytes": 9532,
+    "sha256": "fd6241bd44c6fee4e06c06c15ca85e3ec170d70859ce152707f22f27efe8ac81",
+    "formato": ".json",
+    "registros": 4
+  },
+  {
+    "caminho": "content/images.json",
+    "bytes": 206976,
+    "sha256": "9d5bb4b36c6179dd62fb13905735e7c7bcd7adfc75a2f567040bcfb68a09d959",
+    "formato": ".json",
+    "registros": null
+  },
+  {
+    "caminho": "content/miracles.json",
+    "bytes": 2873,
+    "sha256": "cc14eeb017d85ecce3fd57b466c661b9fada0bcdaea456d3dcbcbb759f456359",
+    "formato": ".json",
+    "registros": 2
+  },
+  {
+    "caminho": "content/pesquisa-documentada.txt",
+    "bytes": 84637,
+    "sha256": "81cc3dc370d58db17258e9b1ee4e181132d5a4601f870c8129c1793f16472d4c",
+    "formato": ".txt"
+  },
+  {
+    "caminho": "content/pilgrimage.json",
+    "bytes": 4336,
+    "sha256": "b2c5938e2482585a7f7f23c4fbc857582e3fa6308ad18afd300db981c8931373",
+    "formato": ".json",
+    "registros": null
+  },
+  {
+    "caminho": "content/prayers.json",
+    "bytes": 9097,
+    "sha256": "63efa8029e52f33735a96154790d3fbea4d289624c78e4d67184e61b6a9dd12f",
+    "formato": ".json",
+    "registros": 7
+  },
+  {
+    "caminho": "content/rosary.json",
+    "bytes": 2876,
+    "sha256": "90f8b768766c7d668daac0afd687a6ab4fa61d75a12499ea965c9a7d44a814d7",
+    "formato": ".json",
+    "registros": null
+  },
+  {
+    "caminho": "content/shrines.json",
+    "bytes": 93687,
+    "sha256": "1afd8d310439d1b1b6fae7dd88671cf54b81ac26d2ad4220f07f4264f2db2566",
+    "formato": ".json",
+    "registros": 44
+  },
+  {
+    "caminho": "content/sources.json",
+    "bytes": 225925,
+    "sha256": "31218477739fb3605cc42c4e3d13e64d05a0f02e23389fa5dc56ece0d43a47fe",
+    "formato": ".json",
+    "registros": 167
+  },
+  {
+    "caminho": "content/titles.json",
+    "bytes": 70609,
+    "sha256": "8377ac1fd238f770369d73cf941dc9d33d6c248c554d162d7487b88abbd931ca",
+    "formato": ".json",
+    "registros": 14
+  },
+  {
+    "caminho": "database/index.sql",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "formato": ".sql"
+  },
+  {
+    "caminho": "docs/ARQUITETURA.md",
+    "bytes": 3325,
+    "sha256": "5cb5977347ac1beea1016de6e67be1d3f0eb6bca9743a33b848f3391858ab9e4",
+    "formato": ".md"
+  },
+  {
+    "caminho": "docs/AUDITORIA-VISUAL.md",
+    "bytes": 10634,
+    "sha256": "19e4663c292247ceb48ad18b0a0cc20814f9c893f05c84c85b279fb9ae55fb8c",
+    "formato": ".md"
+  },
+  {
+    "caminho": "docs/CHECKPOINT.md",
+    "bytes": 1946,
+    "sha256": "b0756d18ac40c39cd9a0cbd191aa3b725bfac14f98efcd501b5d9b6a7be93bc3",
+    "formato": ".md"
+  },
+  {
+    "caminho": "docs/DIRECAO-VISUAL.md",
+    "bytes": 9648,
+    "sha256": "f1d2467887a39bfd696be56342df0f53eb3b989eda9522fbb0e2953e3ac78015",
+    "formato": ".md"
+  },
+  {
+    "caminho": "docs/INVENTARIO-PESQUISA.md",
+    "bytes": 4824,
+    "sha256": "3cef34f787adace048624a161dac94e59c33cdb820e8d2abcbcc6ca1ab5e6cea",
+    "formato": ".md"
+  },
+  {
+    "caminho": "docs/MODELO-DE-CONTEUDO.md",
+    "bytes": 2880,
+    "sha256": "9a89303ecc2122f5c17c01e5566bd498691c9326c458e5e615aec60edcdeed81",
+    "formato": ".md"
+  },
+  {
+    "caminho": "docs/PENDENCIAS.md",
+    "bytes": 2809,
+    "sha256": "a93146ff02be01d7cab3ef85969cb0c4b23444866cea86b0d2fae9844c5df721",
+    "formato": ".md"
+  },
+  {
+    "caminho": "docs/PLANO.md",
+    "bytes": 1799,
+    "sha256": "7468f57f4e00ceb181f4ba71d5f13f6fd57c0199ecb524ae0da6fb3b84555431",
+    "formato": ".md"
+  },
+  {
+    "caminho": "docs/PLAY-STORE.md",
+    "bytes": 6796,
+    "sha256": "2147b65b7296f79a07bdb2ed791f2e04356791fa0a127c6377d5cc46fe6edce6",
+    "formato": ".md"
+  },
+  {
+    "caminho": "docs/POLITICA-EDITORIAL.md",
+    "bytes": 3137,
+    "sha256": "b0a1f19e12609626b2f685f10f8e18ba13ccf870c7b1245456d3041c64200e51",
+    "formato": ".md"
+  },
+  {
+    "caminho": "docs/STORYBOARD.md",
+    "bytes": 8465,
+    "sha256": "1ff804c6d1ac6726aedecf7b42953db3b714f0e7ab2f8d3508d671abb27fdefe",
+    "formato": ".md"
+  },
+  {
+    "caminho": "docs/VERIFICACAO.md",
+    "bytes": 9713,
+    "sha256": "5c261fd4493c35c52164b1cbfe4a4fb0d0cb3c6ad5d5d495f286b89a67d8da64",
+    "formato": ".md"
+  },
+  {
+    "caminho": "i18n/_keys.json",
+    "bytes": 154704,
+    "sha256": "c4a7c5da43ba26fc0001da093789268f6e30eda3716c42f76498524cfd7f91dc",
+    "formato": ".json",
+    "registros": 1874
+  },
+  {
+    "caminho": "i18n/_names.json",
+    "bytes": 2658,
+    "sha256": "1d3ff8327253c553106f29ed580bf11fd14018b7fab71c027ad67c71a8ec642d",
+    "formato": ".json",
+    "registros": 137
+  },
+  {
+    "caminho": "i18n/content/de/derivedImages.json",
+    "bytes": 395,
+    "sha256": "1262ca39a794e5cc9f409e8a81b9619b0e36ba114a05601b6fb6d3f5b0cc8c84",
+    "formato": ".json",
+    "registros": null
+  },
+  {
+    "caminho": "i18n/content/de/images.json",
+    "bytes": 36678,
+    "sha256": "326b139600cd1e1f84eb89bd88bffc0fbbd315e020d69381fc55fe9c6c30e532",
+    "formato": ".json",
+    "registros": null
+  },
+  {
+    "caminho": "i18n/content/de/prayers.json",
+    "bytes": 6475,
+    "sha256": "121ce22ce85076cd94f5fb610ba6f1de35fb5c2f3b94985eb1b5f078f43366fd",
+    "formato": ".json",
+    "registros": null
+  },
+  {
+    "caminho": "i18n/content/de/rosary.json",
+    "bytes": 2678,
+    "sha256": "f9aa7681a65432c8b4f6cb4dc2c23cd32fdfc01d16bf476eba442c3fdb8d1d22",
+    "formato": ".json",
+    "registros": null
+  },
+  {
+    "caminho": "i18n/content/en/derivedImages.json",
+    "bytes": 392,
+    "sha256": "32bef8ba821d76afc1c1b3ed82d7e994e3d7d4258a078f2038c0a604c4e86eab",
+    "formato": ".json",
+    "registros": null
+  },
+  {
+    "caminho": "i18n/content/en/images.json",
+    "bytes": 35876,
+    "sha256": "a5b34c30d028107735b215723621d1e8f0e3784ff0888556f2a7b97cdf5ee894",
+    "formato": ".json",
+    "registros": null
+  },
+  {
+    "caminho": "i18n/content/en/prayers.json",
+    "bytes": 6224,
+    "sha256": "f0da099cb092d1e5296165103e4f6f6f470cc95a3f28328f8442429c36aca857",
+    "formato": ".json",
+    "registros": null
+  },
+  {
+    "caminho": "i18n/content/en/rosary.json",
+    "bytes": 2592,
+    "sha256": "0bdd5c1f960f10b493907e3d502c432a35df2f8d87222aafe3844ac3dd20e106",
+    "formato": ".json",
+    "registros": null
+  },
+  {
+    "caminho": "i18n/content/es/derivedImages.json",
+    "bytes": 399,
+    "sha256": "1ec408ae8c1ca9160e583b36577eb6bf8ac350064cbb362a2a8af572d1aa4896",
+    "formato": ".json",
+    "registros": null
+  },
+  {
+    "caminho": "i18n/content/es/images.json",
+    "bytes": 36955,
+    "sha256": "3e46fca91ce4c1e38c81720245ff5eaf5e95ca866865520e74b309ff4716ac6c",
+    "formato": ".json",
+    "registros": null
+  },
+  {
+    "caminho": "i18n/content/es/prayers.json",
+    "bytes": 6482,
+    "sha256": "4e2f86dbaf14c21226744a9ccc70cd922a9dd288a7a55e410a9288e39c58d247",
+    "formato": ".json",
+    "registros": null
+  },
+  {
+    "caminho": "i18n/content/es/rosary.json",
+    "bytes": 2568,
+    "sha256": "cbd3901f826dafd83736ab0c060afff358cb09f3bed71a7b0e1d2432bace251c",
+    "formato": ".json",
+    "registros": null
+  },
+  {
+    "caminho": "i18n/content/fr/derivedImages.json",
+    "bytes": 418,
+    "sha256": "78d1f1b02620cbcc3a05aa0007be76710ce10a89e7250e776c34bd694eb6a65a",
+    "formato": ".json",
+    "registros": null
+  },
+  {
+    "caminho": "i18n/content/fr/images.json",
+    "bytes": 36729,
+    "sha256": "4388a45be0d1c302311da63fbdcfd6fbb84140619786147e9fd6c81a0b8d4891",
+    "formato": ".json",
+    "registros": null
+  },
+  {
+    "caminho": "i18n/content/fr/prayers.json",
+    "bytes": 6533,
+    "sha256": "dbe11482c8d4d5d13005bfa4d53a3806ca74989b027ba3232eacb532cb6019bf",
+    "formato": ".json",
+    "registros": null
+  },
+  {
+    "caminho": "i18n/content/fr/rosary.json",
+    "bytes": 2640,
+    "sha256": "eedc28912051fe4921998f799cc82abe3cdc2f735ec2f06e102999bc51319a49",
+    "formato": ".json",
+    "registros": null
+  },
+  {
+    "caminho": "i18n/content/it/derivedImages.json",
+    "bytes": 402,
+    "sha256": "05f9a57d7ef2ba8c58423737904a015aa28e2ab71e8f8a44db85f197ef822399",
+    "formato": ".json",
+    "registros": null
+  },
+  {
+    "caminho": "i18n/content/it/images.json",
+    "bytes": 36596,
+    "sha256": "366a8391036097a6a6c3d65df41a2c3b02a4b75af5fdb2921e9ade25a8afb600",
+    "formato": ".json",
+    "registros": null
+  },
+  {
+    "caminho": "i18n/content/it/prayers.json",
+    "bytes": 6213,
+    "sha256": "f2a918b8ced7483618e394174ab20a4ffe0274b73e288c67593abd63d70e3003",
+    "formato": ".json",
+    "registros": null
+  },
+  {
+    "caminho": "i18n/content/it/rosary.json",
+    "bytes": 2545,
+    "sha256": "ff9342474ca8b9a77c754f65cd8c3aea07f06b4e47269b6e550dc1ac88e44a0c",
+    "formato": ".json",
+    "registros": null
+  },
+  {
+    "caminho": "i18n/content/ja/derivedImages.json",
+    "bytes": 416,
+    "sha256": "47d2eaa1e86d13028416752e887276a333fbd61d5710bfc49fdbbae05ff984fd",
+    "formato": ".json",
+    "registros": null
+  },
+  {
+    "caminho": "i18n/content/ja/images.json",
+    "bytes": 37789,
+    "sha256": "1ee348fcdea3326716e9214eb5ec632f7985babf6fe79963bd8db340e56a0890",
+    "formato": ".json",
+    "registros": null
+  },
+  {
+    "caminho": "i18n/content/ja/prayers.json",
+    "bytes": 6753,
+    "sha256": "5c4045a1aaa48a157389672808da95c6cc2e3db0cf251a1f06150e35388e06ce",
+    "formato": ".json",
+    "registros": null
+  },
+  {
+    "caminho": "i18n/content/ja/rosary.json",
+    "bytes": 2745,
+    "sha256": "276ac5ed4a11ed9d34edf13059bab5ae8a6d3d722aa394e86acdfc571ba77ab0",
+    "formato": ".json",
+    "registros": null
+  },
+  {
+    "caminho": "i18n/content/zh/derivedImages.json",
+    "bytes": 376,
+    "sha256": "53ab9879f97a7a41b8b844443a13fefa064662ea22c45ab71a39bb456384cb7d",
+    "formato": ".json",
+    "registros": null
+  },
+  {
+    "caminho": "i18n/content/zh/images.json",
+    "bytes": 33401,
+    "sha256": "78f8e76036bf6efdd376905af97a6a678dc6c8ce8a5b273b8602e2cd42884fba",
+    "formato": ".json",
+    "registros": null
+  },
+  {
+    "caminho": "i18n/content/zh/prayers.json",
+    "bytes": 4986,
+    "sha256": "0207a405c1f9758b17265d853a6c74b2fc609672f4bd55414cc86c260694e47f",
+    "formato": ".json",
+    "registros": null
+  },
+  {
+    "caminho": "i18n/content/zh/rosary.json",
+    "bytes": 2247,
+    "sha256": "9e0ac4473218c2f0b380c0d7f2a1662e7c2463542e6aa9037716c15b551d5e24",
+    "formato": ".json",
+    "registros": null
+  },
+  {
+    "caminho": "i18n/ui/de.json",
+    "bytes": 327054,
+    "sha256": "885ab3a4f2ed70d68cda92b5d4cb0823cb939192ab0516f41d5a024281e50d1b",
+    "formato": ".json",
+    "registros": null
+  },
+  {
+    "caminho": "i18n/ui/en.json",
+    "bytes": 312186,
+    "sha256": "a808730be262c98d44134305d8fb1ab46190067fab7aea8967d9707f8a6f1769",
+    "formato": ".json",
+    "registros": null
+  },
+  {
+    "caminho": "i18n/ui/es.json",
+    "bytes": 316587,
+    "sha256": "46f05a87110e6fcf45ac6fd30d6f4c3dcbd167eca4a793f806fbf94161b0f4ea",
+    "formato": ".json",
+    "registros": null
+  },
+  {
+    "caminho": "i18n/ui/fr.json",
+    "bytes": 324674,
+    "sha256": "8bd781add2bc6c6fef0f84d7f8c9d0d7d4395970a9e277891bc41cdeb6b6f4da",
+    "formato": ".json",
+    "registros": null
+  },
+  {
+    "caminho": "i18n/ui/it.json",
+    "bytes": 314516,
+    "sha256": "f20444065411b8b6471472b97be241a06ede30834a0b8f851a709a18272d4f75",
+    "formato": ".json",
+    "registros": null
+  },
+  {
+    "caminho": "i18n/ui/ja.json",
+    "bytes": 349795,
+    "sha256": "d730abdb94ca1447423f2131861453c4b955352dccf96c0d723134eb92262831",
+    "formato": ".json",
+    "registros": null
+  },
+  {
+    "caminho": "i18n/ui/zh.json",
+    "bytes": 302522,
+    "sha256": "4cd2cf6a4cd80a10da7771f7f0c21a7a514f37059e92a30a449fbb7c1b0f9f54",
+    "formato": ".json",
+    "registros": null
+  },
+  {
+    "caminho": "i18n/work/keys.json",
+    "bytes": 37777,
+    "sha256": "ed9f35157d6d1b60a7e900f6e35165a583570de8bda495e8305380f715bdbdbc",
+    "formato": ".json",
+    "registros": 603
+  },
+  {
+    "caminho": "i18n/work/src/apparitions.txt",
+    "bytes": 6829,
+    "sha256": "94d7ddbb43ae0a1a66c147bc5f85266b8a6aa0bfc07d74f9610907ed3db14ff7",
+    "formato": ".txt"
+  },
+  {
+    "caminho": "i18n/work/src/articles.txt",
+    "bytes": 112806,
+    "sha256": "82fc48a3a188ccf9b680f160be974431c47a1a9e413343dcba2e6cb7b0c5506f",
+    "formato": ".txt"
+  },
+  {
+    "caminho": "i18n/work/src/celebrations.txt",
+    "bytes": 7246,
+    "sha256": "c1b1a78b5ae8dadbe4609fe3d9d4d1dbe969095b548fe02f28fbc81f345ff943",
+    "formato": ".txt"
+  },
+  {
+    "caminho": "i18n/work/src/derivedImages.txt",
+    "bytes": 327,
+    "sha256": "9d310f74f420e6a7443caa71cf0f8efa2ef37279a99b2ddc01d73c7d76db3674",
+    "formato": ".txt"
+  },
+  {
+    "caminho": "i18n/work/src/devotions.txt",
+    "bytes": 5671,
+    "sha256": "bc84e288c04353639c05de794d0ccbdad87035eefc8c37dfcb840a4b9578b5b9",
+    "formato": ".txt"
+  },
+  {
+    "caminho": "i18n/work/src/images.txt",
+    "bytes": 32022,
+    "sha256": "b89539512c3c49f1a93385524970f4df468f1ea12581757109e1c456af505fa7",
+    "formato": ".txt"
+  },
+  {
+    "caminho": "i18n/work/src/miracles.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "formato": ".txt"
+  },
+  {
+    "caminho": "i18n/work/src/prayers.txt",
+    "bytes": 5937,
+    "sha256": "7cf97ad0316717cb15d2bc9db4ffb0998d1bc3b6e9eadbded7276112a1bdda3a",
+    "formato": ".txt"
+  },
+  {
+    "caminho": "i18n/work/src/rosary.txt",
+    "bytes": 2337,
+    "sha256": "8878cf4539b29cb9466cae287911430da4d2f76c860e25083304bf1bec671894",
+    "formato": ".txt"
+  },
+  {
+    "caminho": "i18n/work/src/shrines.txt",
+    "bytes": 51277,
+    "sha256": "d50b7ce93761ceccff6dff832dc023a51b916719eac301c90eba1ec97056c6d3",
+    "formato": ".txt"
+  },
+  {
+    "caminho": "i18n/work/src/sources.txt",
+    "bytes": 39093,
+    "sha256": "9e3f7add154fb4202421da2f3c2512c5d380d33b508a0eada089844299e075f0",
+    "formato": ".txt"
+  },
+  {
+    "caminho": "i18n/work/src/titles.txt",
+    "bytes": 38247,
+    "sha256": "4a95269e30a78ca75c67ba2ae8a8fa3f1b8b996533b71b41323aa2e20582fa22",
+    "formato": ".txt"
+  },
+  {
+    "caminho": "i18n/work/ui-001.txt",
+    "bytes": 14040,
+    "sha256": "42ffa5ac2e4ebdbf9564246dc3753529979964459fa3afd95ecdf907dd704876",
+    "formato": ".txt"
+  },
+  {
+    "caminho": "i18n/work/ui-002.txt",
+    "bytes": 17354,
+    "sha256": "f6ae79162ac283f5efb9d47ba3c42ae18e9af704ed4502690e18e8f1874d4d27",
+    "formato": ".txt"
+  },
+  {
+    "caminho": "i18n/work/ui-003.txt",
+    "bytes": 19023,
+    "sha256": "d85ae6b8097269521db5940af33f0354d33fe37c4f516341d70507228794ce09",
+    "formato": ".txt"
+  },
+  {
+    "caminho": "i18n/work/ui-004.txt",
+    "bytes": 8493,
+    "sha256": "9f3f8ce2c9daa20aa78b29845f034e76f8727a1efe2daf252851a347f49f4051",
+    "formato": ".txt"
+  },
+  {
+    "caminho": "i18n/work/ui-005.txt",
+    "bytes": 15402,
+    "sha256": "a4b93be2ee9bc43c03361ad24bc642daa2b4fbbe5221e1f9f51bcedd85630945",
+    "formato": ".txt"
+  },
+  {
+    "caminho": "i18n/work/ui-006.txt",
+    "bytes": 22744,
+    "sha256": "28d3cc0638255b063120e2fbf704c839d221b5895f2ed3b4cb1f254709d916a2",
+    "formato": ".txt"
+  },
+  {
+    "caminho": "i18n/work/ui-007.txt",
+    "bytes": 27643,
+    "sha256": "1a4a95e0569a35f36eda7d1c8cb30ca2e6f9c69ede94dad174de7a51a99322e6",
+    "formato": ".txt"
+  },
+  {
+    "caminho": "i18n/work/ui-008.txt",
+    "bytes": 37883,
+    "sha256": "4ea17b7d4d3c5c2f149b097c6a20c11eff3d00196c3fb4d76e7f7b3d2ef62586",
+    "formato": ".txt"
+  },
+  {
+    "caminho": "i18n/work/ui-009.txt",
+    "bytes": 43728,
+    "sha256": "f34a9d93183b9588d1caf7e30faf23854c4f5182904104aa85fea58815dc37a7",
+    "formato": ".txt"
+  },
+  {
+    "caminho": "i18n/work/ui-010.txt",
+    "bytes": 43472,
+    "sha256": "7162305592610620664c5ba2b237db20d7f8fe18a7bf1cf60693a480db2f2503",
+    "formato": ".txt"
+  },
+  {
+    "caminho": "i18n/work/ui-011.txt",
+    "bytes": 31371,
+    "sha256": "8f3cd28be2780301974b419b2f187f0a719847991c3cc8b85b92956dc0a53d1c",
+    "formato": ".txt"
+  },
+  {
+    "caminho": "i18n/work/ui-012.txt",
+    "bytes": 3255,
+    "sha256": "ca67411579964c00911441f98b8d66065ee3c99eba58a368dfe45ae093fc51f2",
+    "formato": ".txt"
+  },
+  {
+    "caminho": "scripts/import-dossie.mjs",
+    "bytes": 4925,
+    "sha256": "481b0ab9b1e4194ee0e0031d48a83da84f93db2e27797ccb009690e094c10bdd",
+    "formato": ".mjs"
+  },
+  {
+    "caminho": "scripts/lib/estudo/pesquisa.mjs",
+    "bytes": 7169,
+    "sha256": "d0bb493108b28689857828a3eff10d5b590cc9f163cf017f88f296e967b3713d",
+    "formato": ".mjs"
+  },
+  {
+    "caminho": "content/pilgrimage.json",
+    "copia": "12 - Fontes e Bibliografia/Originais/Edições/fa77adfcc07a/content/pilgrimage.json",
+    "bytes": 4318,
+    "sha256": "fa77adfcc07adaf92b4b762e28f25dbf6999d84a356ad315a8d0fb8af6d8c7c1",
+    "formato": ".json",
+    "edicao": "posterior-ao-inventario-inicial"
+  },
+  {
+    "caminho": "docs/DIRECAO-VISUAL.md",
+    "copia": "12 - Fontes e Bibliografia/Originais/Edições/50d5f21ff293/docs/DIRECAO-VISUAL.md",
+    "bytes": 11856,
+    "sha256": "50d5f21ff2934e75d86e6a527b332bb8134108cf5d38c11a31fd87d1d56f07e0",
+    "formato": ".md",
+    "edicao": "posterior-ao-inventario-inicial"
+  },
+  {
+    "caminho": "i18n/_keys.json",
+    "copia": "12 - Fontes e Bibliografia/Originais/Edições/a176b33ccc1e/i18n/_keys.json",
+    "bytes": 154801,
+    "sha256": "a176b33ccc1e1e08d77c2ed7662734b276d8fd28db91b992df49d75bb1ae3da6",
+    "formato": ".json",
+    "edicao": "posterior-ao-inventario-inicial"
+  },
+  {
+    "caminho": "i18n/ui/de.json",
+    "copia": "12 - Fontes e Bibliografia/Originais/Edições/66925bccbe93/i18n/ui/de.json",
+    "bytes": 327471,
+    "sha256": "66925bccbe937532ebad2d330e07937338508e56f6a02389fad6c1430fcae521",
+    "formato": ".json",
+    "edicao": "posterior-ao-inventario-inicial"
+  },
+  {
+    "caminho": "i18n/ui/en.json",
+    "copia": "12 - Fontes e Bibliografia/Originais/Edições/f2ed2cf3e187/i18n/ui/en.json",
+    "bytes": 312619,
+    "sha256": "f2ed2cf3e187ede56767661d3a1fbe1c3e92eba3d48d5f3f60a58777fd56c363",
+    "formato": ".json",
+    "edicao": "posterior-ao-inventario-inicial"
+  },
+  {
+    "caminho": "i18n/ui/es.json",
+    "copia": "12 - Fontes e Bibliografia/Originais/Edições/464b4896dd56/i18n/ui/es.json",
+    "bytes": 316989,
+    "sha256": "464b4896dd56358369f6113e7bf5324c5444265ea0d335af7f2ef1612d0f2ba8",
+    "formato": ".json",
+    "edicao": "posterior-ao-inventario-inicial"
+  },
+  {
+    "caminho": "i18n/ui/fr.json",
+    "copia": "12 - Fontes e Bibliografia/Originais/Edições/d2bc36ef5728/i18n/ui/fr.json",
+    "bytes": 325092,
+    "sha256": "d2bc36ef5728a5a946306953eea92fb505d7ba8eb2e2cd16f78a1a9aa98258f0",
+    "formato": ".json",
+    "edicao": "posterior-ao-inventario-inicial"
+  },
+  {
+    "caminho": "i18n/ui/it.json",
+    "copia": "12 - Fontes e Bibliografia/Originais/Edições/e4d16a5668cd/i18n/ui/it.json",
+    "bytes": 314934,
+    "sha256": "e4d16a5668cd826f18623031392850e8b8548045bf2849777f0477b300682d22",
+    "formato": ".json",
+    "edicao": "posterior-ao-inventario-inicial"
+  },
+  {
+    "caminho": "i18n/ui/ja.json",
+    "copia": "12 - Fontes e Bibliografia/Originais/Edições/038989a46945/i18n/ui/ja.json",
+    "bytes": 350245,
+    "sha256": "038989a4694548645ea17d5934a8a9681c1f2d724337533678dae662c9493af4",
+    "formato": ".json",
+    "edicao": "posterior-ao-inventario-inicial"
+  },
+  {
+    "caminho": "i18n/ui/zh.json",
+    "copia": "12 - Fontes e Bibliografia/Originais/Edições/5809232f2490/i18n/ui/zh.json",
+    "bytes": 302921,
+    "sha256": "5809232f24904ab380d0810a85db4bddb2c9ff86a3e2e5770524e9471c062eb2",
+    "formato": ".json",
+    "edicao": "posterior-ao-inventario-inicial"
+  },
+  {
+    "caminho": "scripts/lib/estudo/pesquisa.mjs",
+    "copia": "12 - Fontes e Bibliografia/Originais/Edições/f7a55ff63e32/scripts/lib/estudo/pesquisa.mjs",
+    "bytes": 7176,
+    "sha256": "f7a55ff63e326a8ffc5ac481e0687a20b95157b0d108a912dc0fce37b28555e6",
+    "formato": ".mjs",
+    "edicao": "posterior-ao-inventario-inicial"
+  },
+  {
+    "caminho": "docs/capturas/auditoria.json",
+    "copia": "12 - Fontes e Bibliografia/Originais/docs/capturas/auditoria.json",
+    "bytes": 2667,
+    "sha256": "aba129ed91ba3ba7f8f50c84f17804ace49813189520f58850a67372461fbe73",
+    "formato": ".json",
+    "edicao": "inicial",
+    "registros": null
+  },
+  {
+    "caminho": "docs/capturas/desempenho.json",
+    "copia": "12 - Fontes e Bibliografia/Originais/docs/capturas/desempenho.json",
+    "bytes": 51584,
+    "sha256": "6c0c952a8ab63cff86841bb9f37d4096dda9cff57fe9b8d84f73e77d6f21cb7e",
+    "formato": ".json",
+    "edicao": "inicial",
+    "registros": 2
+  },
+  {
+    "caminho": "docs/capturas/interacoes.json",
+    "copia": "12 - Fontes e Bibliografia/Originais/docs/capturas/interacoes.json",
+    "bytes": 1237,
+    "sha256": "962b7caa0785b81e0b74d21dbc800a4ce04efbc565fd53d5c677ab71eb2da73b",
+    "formato": ".json",
+    "edicao": "inicial",
+    "registros": null
+  }
+]

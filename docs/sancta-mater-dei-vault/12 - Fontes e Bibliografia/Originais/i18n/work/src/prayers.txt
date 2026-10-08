@@ -1,0 +1,139 @@
+@@ prayers/ora-sinal-da-cruz
+## title
+Sinal da Cruz
+## summary
+A oração com que começa e termina a oração cristã.
+## text.0
+Em nome do Pai e do Filho e do Espírito Santo.
+## text.1
+Ámen.
+## provenance
+Compêndio do Catecismo da Igreja Católica, Apêndice (versão em português, sítio do Vaticano).
+## rights
+Oração tradicional da Igreja. A redação em português segue a edição do Compêndio no sítio do Vaticano, de uso comum; direitos autorais da tradução/edição não foram objeto de parecer jurídico. Reproduzida em extensão curta com indicação da fonte.
+@@ prayers/ora-gloria
+## title
+Glória ao Pai
+## summary
+Doxologia trinitária rezada ao fim de cada dezena do Rosário.
+## text.0
+Glória ao Pai e ao Filho e ao Espírito Santo.
+## text.1
+Como era, no princípio, agora e sempre.
+## text.2
+Ámen.
+## provenance
+Compêndio do Catecismo da Igreja Católica, Apêndice (versão em português, sítio do Vaticano).
+## rights
+Oração tradicional da Igreja. Redação conforme a edição do Compêndio no Vaticano; direitos da tradução/edição não verificados juridicamente.
+@@ prayers/ora-ave-maria
+## title
+Avé Maria
+## summary
+A saudação a Maria que combina palavras do Evangelho e um pedido de intercessão; núcleo do Rosário.
+## text.0
+Avé Maria, cheia de graça, o Senhor é convosco, bendita sois vós entre as mulheres e bendito é o fruto do vosso ventre, Jesus.
+## text.1
+Santa Maria, Mãe de Deus, rogai por nós pecadores, agora e na hora da nossa morte.
+## text.2
+Ámen.
+## provenance
+Compêndio do Catecismo da Igreja Católica, Apêndice (versão em português de Portugal). A primeira parte reúne palavras de Lc 1,28 e Lc 1,42 (ver Vaticano, mistérios gozosos, que cita Lc 1,42).
+## rights
+Oração tradicional. Redação conforme o Compêndio no sítio do Vaticano; direitos da edição/tradução não verificados juridicamente. Em português do Brasil é comum «Ave-Maria» e «Santa Maria, Mãe de Deus, rogai por nós, pecadores...»; a redação adotada nas paróquias pode variar.
+@@ prayers/ora-salve-rainha
+## title
+Salve Rainha
+## summary
+Antífona mariana tradicional, frequentemente rezada ao final do Rosário.
+## text.0
+Salve, Rainha, mãe de misericórdia, vida, doçura, esperança nossa, salve!
+## text.1
+A Vós bradamos, os degredados filhos de Eva.
+## text.2
+A Vós suspiramos, gemendo e chorando neste vale de lágrimas.
+## text.3
+Eia, pois, advogada nossa, esses Vossos olhos misericordiosos a nós volvei.
+## text.4
+E, depois deste desterro, nos mostrai Jesus, bendito fruto do Vosso ventre.
+## text.5
+Ó clemente, ó piedosa, ó doce Virgem Maria.
+## text.6
+Rogai por nós, Santa Mãe de Deus, para que sejamos dignos das promessas de Cristo.
+## provenance
+Compêndio do Catecismo da Igreja Católica, Apêndice (versão em português, sítio do Vaticano).
+## rights
+Oração tradicional. Redação conforme o Compêndio no Vaticano; direitos da edição/tradução não verificados juridicamente.
+@@ prayers/ora-sob-a-vossa-protecao
+## title
+Sob a Tua Protecção
+## summary
+Antiga prece de confiança em Maria nas necessidades.
+## text.0
+À Vossa protecção, recorremos, Santa Mãe de Deus; não desprezeis as nossas súplicas em nossas necessidades; mas livrai-nos de todos os perigos, ó Virgem gloriosa e bendita.
+## provenance
+Compêndio do Catecismo da Igreja Católica, Apêndice (versão em português, sítio do Vaticano).
+## rights
+Oração tradicional. Redação conforme o Compêndio no Vaticano; direitos da edição/tradução não verificados juridicamente.
+@@ prayers/ora-magnificat
+## title
+Magnificat
+## summary
+O cântico de Maria em Lc 1,46-55, rezado na liturgia das horas.
+## text.0
+A minha alma glorifica ao Senhor e o meu espírito se alegra em Deus, meu Salvador.
+## text.1
+Porque pôs os olhos na humildade da sua serva: de hoje em diante me chamarão bem-aventurada todas as gerações.
+## text.2
+O Todo-Poderoso fez em mim maravilhas: Santo é o seu nome.
+## text.3
+A sua misericórdia se estende de geração em geração sobre aqueles que O temem.
+## text.4
+Manifestou o poder do seu braço e dispersou os soberbos.
+## text.5
+Derrubou os poderosos de seus tronos e exaltou os humildes.
+## text.6
+Aos famintos encheu de bens e aos ricos despediu de mãos vazias.
+## text.7
+Acolheu Israel seu servo, lembrado da sua misericórdia, como tinha prometido a nossos pais, a Abraão e à sua descendência para sempre.
+## text.8
+Glória ao Pai e ao Filho e ao Espírito Santo.
+## text.9
+Como era no princípio, agora e sempre. Ámen.
+## provenance
+Compêndio do Catecismo da Igreja Católica, Apêndice (versão em português, sítio do Vaticano). Texto bíblico em Lc 1,46-55.
+## rights
+Texto bíblico e oração tradicional. Redação conforme o Compêndio no Vaticano; direitos da edição/tradução não verificados juridicamente.
+@@ prayers/ora-angelus
+## title
+Angelus
+## summary
+Oração que recorda a Anunciação e a Encarnação.
+## text.0
+V. O Anjo do Senhor anunciou a Maria
+## text.1
+R. E Ela concebeu pelo Espírito Santo.
+## text.2
+Avé Maria...
+## text.3
+V. Eis a escrava do Senhor.
+## text.4
+R. Faça-se em mim, segundo a Vossa palavra.
+## text.5
+Avé Maria...
+## text.6
+V. E o Verbo Divino encarnou.
+## text.7
+R. E habitou entre nós.
+## text.8
+Avé Maria...
+## text.9
+V. Rogai por nós, santa Mãe de Deus.
+## text.10
+R. Para que sejamos dignos das promessas de Cristo.
+## text.11
+Oremos: Infundi, Senhor, a vossa graça, em nossas almas, para que nós, que, pela anunciação do Anjo, conhecemos a encarnação de Cristo, vosso Filho, pela sua paixão e morte na cruz, sejamos conduzidos à glória da Ressurreição. Pelo mesmo Cristo Senhor nosso. Ámen.
+## provenance
+Compêndio do Catecismo da Igreja Católica, Apêndice (versão em português, sítio do Vaticano).
+## rights
+Oração tradicional. Redação conforme o Compêndio no Vaticano; direitos da edição/tradução não verificados juridicamente.

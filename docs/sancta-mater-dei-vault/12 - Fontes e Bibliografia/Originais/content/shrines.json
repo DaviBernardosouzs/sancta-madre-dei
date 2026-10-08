@@ -1,0 +1,2489 @@
+[
+  {
+    "id": "sh-aparecida",
+    "slug": "basilica-de-aparecida",
+    "type": "santuario",
+    "status": "published",
+    "title": "Santuário Nacional de Nossa Senhora Aparecida",
+    "summary": "Maior santuário mariano do Brasil, em Aparecida (SP), onde fica a imagem encontrada em 1717.",
+    "place": {
+      "locality": "Aparecida",
+      "region": "São Paulo",
+      "country": "Brasil",
+      "iso": "BR",
+      "macro": "América Latina",
+      "coordinates": {
+        "lat": -22.8504,
+        "lon": -45.2338,
+        "verified": true,
+        "sourceId": "wikidata",
+        "precision": "Basílica do Santuário Nacional, conforme o Wikidata (Q2886950: Basilica of the National Shrine of Our Lady of Aparecida); precisão da ordem de dezenas a centenas de metros",
+        "qid": "Q2886950"
+      }
+    },
+    "blocks": [
+      {
+        "kind": "historia",
+        "heading": "A basílica atual",
+        "text": "A pedra fundamental da nova basílica foi lançada em 1946 e a construção efetiva começou em 11 de novembro de 1955; as atividades religiosas passaram em definitivo para ela a partir de 3 de outubro de 1982. A imagem está nessa basílica. João Paulo II a consagrou em 1980, em visita ao santuário.",
+        "sources": [
+          "a12-aparecida-1900",
+          "jp2-aparecida-1980"
+        ]
+      },
+      {
+        "kind": "historia",
+        "heading": "Visitas de papas",
+        "text": "Bento XVI visitou Aparecida em 2007, por ocasião da V Conferência Geral do Episcopado Latino-Americano e Caribenho, e o papa Francisco em julho de 2013.",
+        "sources": [
+          "a12-aparecida-2000"
+        ]
+      }
+    ],
+    "decisions": [],
+    "gaps": [
+      "Número de peregrinos e dimensões da basílica não foram conferidos em fonte lida."
+    ],
+    "relations": {
+      "titles": [
+        "tit-aparecida"
+      ],
+      "celebrations": [
+        "cel-aparecida"
+      ],
+      "articles": [],
+      "apparitions": [],
+      "devotions": [],
+      "prayers": [],
+      "miracles": [],
+      "shrines": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    },
+    "officialUrl": "https://www.a12.com/",
+    "photo": "foto-aparecida"
+  },
+  {
+    "id": "sh-guadalupe-mexico",
+    "slug": "basilica-de-guadalupe-mexico",
+    "type": "santuario",
+    "status": "published",
+    "title": "Basílica de Nossa Senhora de Guadalupe (Cidade do México)",
+    "summary": "Basílica no Tepeyac onde está a imagem; João Paulo II a chamou de coração mariano do México e da América.",
+    "place": {
+      "locality": "Tepeyac, Cidade do México",
+      "region": "Cidade do México",
+      "country": "México",
+      "iso": "MX",
+      "macro": "América Latina",
+      "coordinates": {
+        "lat": 19.48444,
+        "lon": -99.11722,
+        "verified": true,
+        "sourceId": "wikidata",
+        "precision": "Basílica de Guadalupe, conforme o Wikidata (Q305419: Basilica of Our Lady of Guadalupe); precisão da ordem de dezenas a centenas de metros",
+        "qid": "Q305419"
+      }
+    },
+    "blocks": [
+      {
+        "kind": "doutrina",
+        "heading": "Um lugar de peregrinação da América",
+        "text": "Em 2002, na própria basílica, João Paulo II a descreveu como o coração mariano do México e da América.",
+        "sources": [
+          "jp2-canonizacao-juan-diego"
+        ]
+      }
+    ],
+    "decisions": [],
+    "gaps": [
+      "História das construções sucessivas e número de visitantes não foram pesquisados."
+    ],
+    "relations": {
+      "titles": [
+        "tit-guadalupe-mexico"
+      ],
+      "celebrations": [
+        "cel-guadalupe"
+      ],
+      "articles": [],
+      "apparitions": [],
+      "devotions": [],
+      "prayers": [],
+      "miracles": [],
+      "shrines": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    },
+    "photo": "foto-guadalupe-mexico"
+  },
+  {
+    "id": "sh-donglu",
+    "slug": "santuario-de-donglu",
+    "type": "santuario",
+    "status": "published",
+    "title": "Santuário de Donglü (Hebei, China)",
+    "summary": "Igreja da aldeia de Donglü, perto de Baoding, ligada ao título Nossa Senhora da China.",
+    "place": {
+      "locality": "Donglü, distrito de Qingyuan, Baoding",
+      "region": "Hebei",
+      "country": "China",
+      "iso": "CN",
+      "macro": "Ásia",
+      "coordinates": {
+        "lat": 38.68444,
+        "lon": 115.56167,
+        "verified": true,
+        "sourceId": "wikidata",
+        "precision": "Aldeia de Donglü, conforme o Wikidata (Q847716: Donglü); precisão da ordem de dezenas a centenas de metros",
+        "qid": "Q847716"
+      }
+    },
+    "blocks": [
+      {
+        "kind": "historia",
+        "heading": "Lugar",
+        "text": "Donglü fica no distrito de Qingyuan, na cidade de Baoding, província de Hebei, a cerca de 20 km de Baoding (40 km, segundo outra fonte). Em 2004 noticiou-se que até 7.000 dos cerca de 9.000 moradores eram católicos. A igreja foi reconstruída em 1992 e seu acesso, para peregrinações, é restringido segundo a notícia consultada.",
+        "sources": [
+          "wiki-donglu",
+          "ucanews-maria-china"
+        ]
+      }
+    ],
+    "decisions": [],
+    "gaps": [
+      "Situação atual de acesso e culto não foi verificada em fonte recente."
+    ],
+    "relations": {
+      "titles": [
+        "tit-nossa-senhora-da-china"
+      ],
+      "articles": [],
+      "celebrations": [],
+      "apparitions": [],
+      "devotions": [],
+      "prayers": [],
+      "miracles": [],
+      "shrines": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    }
+  },
+  {
+    "id": "sh-rue-du-bac",
+    "slug": "capela-da-medalha-milagrosa-paris",
+    "type": "santuario",
+    "status": "published",
+    "title": "Capela de Nossa Senhora da Medalha Milagrosa (Rue du Bac, Paris)",
+    "summary": "Capela na casa-mãe das Filhas da Caridade, em Paris, ligada ao relato de Catarina Labouré.",
+    "place": {
+      "locality": "Paris",
+      "region": "Île-de-France",
+      "country": "França",
+      "iso": "FR",
+      "macro": "Europa",
+      "coordinates": {
+        "lat": 48.85084,
+        "lon": 2.32293,
+        "verified": true,
+        "sourceId": "wikidata",
+        "precision": "Capela da Medalha Milagrosa, conforme o Wikidata (Q769842: Chapel of Our Lady of the Miraculous Medal); precisão da ordem de dezenas a centenas de metros",
+        "qid": "Q769842"
+      }
+    },
+    "blocks": [
+      {
+        "kind": "nota",
+        "heading": "O que esta página ainda não traz",
+        "text": "A história da capela, as peregrinações e os atos da Igreja relacionados ao lugar não foram lidos em fonte própria nesta edição. A ligação com a devoção está na página da Medalha Milagrosa.",
+        "sources": []
+      }
+    ],
+    "decisions": [],
+    "gaps": [],
+    "relations": {
+      "devotions": [
+        "dev-medalha-milagrosa"
+      ],
+      "titles": [],
+      "articles": [],
+      "celebrations": [],
+      "apparitions": [],
+      "prayers": [],
+      "miracles": [],
+      "shrines": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    },
+    "photo": "foto-rue-du-bac"
+  },
+  {
+    "id": "sh-santa-maria-maior",
+    "slug": "basilica-de-santa-maria-maior",
+    "type": "santuario",
+    "status": "published",
+    "title": "Basílica de Santa Maria Maior (Roma)",
+    "summary": "Basílica papal em Roma, a maior igreja dedicada a Maria na cidade, onde é venerado o ícone Salus Populi Romani.",
+    "place": {
+      "locality": "Roma",
+      "region": "Lácio",
+      "country": "Itália",
+      "iso": "IT",
+      "macro": "Europa",
+      "coordinates": {
+        "lat": 41.8975,
+        "lon": 12.49861,
+        "verified": true,
+        "sourceId": "wikidata",
+        "precision": "Ponto do santuário ou do lugar, conforme o Wikidata (Q186282: Basilica di Santa Maria Maggiore); precisão da ordem de dezenas a centenas de metros",
+        "qid": "Q186282"
+      }
+    },
+    "blocks": [
+      {
+        "kind": "historia",
+        "heading": "O que é",
+        "text": "Santa Maria Maior é uma basílica papal e uma das sete igrejas de peregrinação de Roma. É a maior igreja mariana de Roma e está dedicada a Maria sob o título de Nossa Senhora das Neves. Fica na Itália, não no Vaticano, mas é propriedade da Santa Sé, segundo o Tratado de Latrão de 1929.",
+        "sources": [
+          "wp-sh-santa-maria-maior"
+        ]
+      },
+      {
+        "kind": "tradicao",
+        "heading": "O ícone Salus Populi Romani",
+        "text": "O site oficial da basílica diz que a tradição atribui a imagem a São Lucas, evangelista e padroeiro dos pintores. Trata-se de uma tradição devocional, não de dado histórico estabelecido. A tábua é de cedro (117 × 79 cm) e mostra a Virgem em pé, em meia figura, com o Menino. O ícone está hoje na Capela Paulina, mandada construir pelo papa Paulo V (1605 a 1621).",
+        "sources": [
+          "basilica-sm-maggiore-salus"
+        ]
+      }
+    ],
+    "decisions": [],
+    "gaps": [
+      "A informação básica vem de uma fonte terciária; falta a fonte oficial do santuário ou da diocese.",
+      "Nenhuma decisão eclesial (título de basílica, coroação, aprovação de culto) foi lida em documento e por isso nenhuma é afirmada.",
+      "A história da devoção e a mensagem atribuída ao lugar ainda não foram pesquisadas em fonte primária."
+    ],
+    "relations": {
+      "titles": [],
+      "articles": [],
+      "celebrations": [],
+      "apparitions": [],
+      "devotions": [],
+      "prayers": [],
+      "miracles": [],
+      "shrines": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    },
+    "photo": "foto-santa-maria-maior",
+    "portrait": "retrato-santa-maria-maior"
+  },
+  {
+    "id": "sh-loreto",
+    "slug": "santuario-da-santa-casa-de-loreto",
+    "type": "santuario",
+    "status": "published",
+    "title": "Santuário da Santa Casa de Loreto",
+    "summary": "Santuário mariano em Loreto (Itália), que guarda a casa que a tradição liga à Sagrada Família.",
+    "place": {
+      "locality": "Loreto",
+      "region": "Marcas",
+      "country": "Itália",
+      "iso": "IT",
+      "macro": "Europa",
+      "coordinates": {
+        "lat": 43.44093,
+        "lon": 13.61092,
+        "verified": true,
+        "sourceId": "wikidata",
+        "precision": "Ponto do santuário ou do lugar, conforme o Wikidata (Q654996: Pontifical basilica of the Holy House of Loreto); precisão da ordem de dezenas a centenas de metros",
+        "qid": "Q654996"
+      }
+    },
+    "blocks": [
+      {
+        "kind": "tradicao",
+        "heading": "A Santa Casa",
+        "text": "O santuário é conhecido por conservar a casa da Sagrada Família. Lendas piedosas dizem que a casa teria sido levada por seres angélicos de Nazaré até Tersatto (Trsat, na Croácia), depois a Recanati e, por fim, ao local atual. É tradição devocional, e esta página não a apresenta como fato histórico comprovado. O santuário guarda também a imagem de Nossa Senhora de Loreto e tem o título de basílica por privilégio de tempo imemorial.",
+        "sources": [
+          "wp-sh-loreto"
+        ]
+      }
+    ],
+    "decisions": [],
+    "gaps": [
+      "A informação básica vem de uma fonte terciária; falta a fonte oficial do santuário ou da diocese.",
+      "Nenhuma decisão eclesial (título de basílica, coroação, aprovação de culto) foi lida em documento e por isso nenhuma é afirmada.",
+      "A história da devoção e a mensagem atribuída ao lugar ainda não foram pesquisadas em fonte primária."
+    ],
+    "relations": {
+      "titles": [],
+      "articles": [],
+      "celebrations": [],
+      "apparitions": [],
+      "devotions": [],
+      "prayers": [],
+      "miracles": [],
+      "shrines": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    },
+    "photo": "foto-loreto"
+  },
+  {
+    "id": "sh-notre-dame-paris",
+    "slug": "catedral-de-notre-dame-de-paris",
+    "type": "santuario",
+    "status": "published",
+    "title": "Catedral de Notre-Dame de Paris",
+    "summary": "Catedral gótica da arquidiocese de Paris, dedicada à Virgem Maria.",
+    "place": {
+      "locality": "Paris",
+      "region": "Île-de-France",
+      "country": "França",
+      "iso": "FR",
+      "macro": "Europa",
+      "coordinates": {
+        "lat": 48.853,
+        "lon": 2.3498,
+        "verified": true,
+        "sourceId": "wikidata",
+        "precision": "Ponto do santuário ou do lugar, conforme o Wikidata (Q2981: Notre-Dame de Paris); precisão da ordem de dezenas a centenas de metros",
+        "qid": "Q2981"
+      }
+    },
+    "blocks": [
+      {
+        "kind": "historia",
+        "heading": "O que é",
+        "text": "Notre-Dame de Paris, chamada simplesmente Notre-Dame (Nossa Senhora), é uma catedral e basílica medieval na Île de la Cité, no 4º distrito de Paris. É a igreja-catedral da arquidiocese de Paris e está dedicada à Virgem Maria. A pedra fundamental é de 1163, segundo o Wikidata, e a catedral é considerada um dos melhores exemplos da arquitetura gótica francesa.",
+        "sources": [
+          "wp-sh-notre-dame-paris"
+        ]
+      }
+    ],
+    "decisions": [],
+    "gaps": [
+      "A informação básica vem de uma fonte terciária; falta a fonte oficial do santuário ou da diocese.",
+      "Nenhuma decisão eclesial (título de basílica, coroação, aprovação de culto) foi lida em documento e por isso nenhuma é afirmada.",
+      "A história da devoção e a mensagem atribuída ao lugar ainda não foram pesquisadas em fonte primária."
+    ],
+    "relations": {
+      "titles": [],
+      "articles": [],
+      "celebrations": [],
+      "apparitions": [],
+      "devotions": [],
+      "prayers": [],
+      "miracles": [],
+      "shrines": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    },
+    "photo": "foto-notre-dame-paris"
+  },
+  {
+    "id": "sh-chartres",
+    "slug": "catedral-de-notre-dame-de-chartres",
+    "type": "santuario",
+    "status": "published",
+    "title": "Catedral de Notre-Dame de Chartres",
+    "summary": "Catedral gótica dedicada à Virgem Maria, a cerca de 80 km a sudoeste de Paris.",
+    "place": {
+      "locality": "Chartres",
+      "region": "Eure-et-Loir",
+      "country": "França",
+      "iso": "FR",
+      "macro": "Europa",
+      "coordinates": {
+        "lat": 48.44778,
+        "lon": 1.48778,
+        "verified": true,
+        "sourceId": "wikidata",
+        "precision": "Ponto do santuário ou do lugar, conforme o Wikidata (Q180274: Notre-Dame de Chartres); precisão da ordem de dezenas a centenas de metros",
+        "qid": "Q180274"
+      }
+    },
+    "blocks": [
+      {
+        "kind": "historia",
+        "heading": "O que é",
+        "text": "A catedral de Chartres está dedicada em honra da Virgem Maria (Nossa Senhora) e é sede do bispo de Chartres. Foi construída em grande parte entre 1194 e 1220, no local de pelo menos cinco catedrais anteriores desde a criação da diocese, no século IV. A torre norte é mais recente (1507 a 1513).",
+        "sources": [
+          "wp-sh-chartres"
+        ]
+      }
+    ],
+    "decisions": [],
+    "gaps": [
+      "A informação básica vem de uma fonte terciária; falta a fonte oficial do santuário ou da diocese.",
+      "Nenhuma decisão eclesial (título de basílica, coroação, aprovação de culto) foi lida em documento e por isso nenhuma é afirmada.",
+      "A história da devoção e a mensagem atribuída ao lugar ainda não foram pesquisadas em fonte primária."
+    ],
+    "relations": {
+      "titles": [],
+      "articles": [],
+      "celebrations": [],
+      "apparitions": [],
+      "devotions": [],
+      "prayers": [],
+      "miracles": [],
+      "shrines": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    },
+    "photo": "foto-chartres"
+  },
+  {
+    "id": "sh-walsingham",
+    "slug": "santuario-de-nossa-senhora-de-walsingham",
+    "type": "santuario",
+    "status": "published",
+    "title": "Santuário de Nossa Senhora de Walsingham",
+    "summary": "Devoção inglesa ligada a uma visão relatada em 1061; é venerada por católicos, anglicanos de tradição alta e ortodoxos de rito ocidental.",
+    "place": {
+      "locality": "Walsingham",
+      "region": "Norfolk",
+      "country": "Reino Unido",
+      "iso": "GB",
+      "macro": "Europa"
+    },
+    "blocks": [
+      {
+        "kind": "tradicao",
+        "heading": "A tradição de Walsingham",
+        "text": "Segundo a tradição, o título liga-se a uma visão de 1061 de Lady Richeldis de Faverches, nobre anglo-saxã viúva, na aldeia de Walsingham (Norfolk). Na visão, a Virgem lhe teria mostrado a Santa Casa de Nazaré e pedido que fizesse uma réplica, dedicada ao mistério da Anunciação. Trata-se de relato tradicional, sem documento contemporâneo lido nesta edição. O título é venerado por católicos, anglicanos de tradição alta e ortodoxos de rito ocidental, e por isso a devoção é também ecumênica.",
+        "sources": [
+          "wp-sh-walsingham"
+        ]
+      }
+    ],
+    "decisions": [],
+    "gaps": [
+      "A informação básica vem de uma fonte terciária; falta a fonte oficial do santuário ou da diocese.",
+      "Nenhuma decisão eclesial (título de basílica, coroação, aprovação de culto) foi lida em documento e por isso nenhuma é afirmada.",
+      "A história da devoção e a mensagem atribuída ao lugar ainda não foram pesquisadas em fonte primária."
+    ],
+    "relations": {
+      "titles": [],
+      "articles": [],
+      "celebrations": [],
+      "apparitions": [],
+      "devotions": [],
+      "prayers": [],
+      "miracles": [],
+      "shrines": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    },
+    "portrait": "retrato-walsingham"
+  },
+  {
+    "id": "sh-montserrat",
+    "slug": "abadia-de-santa-maria-de-montserrat",
+    "type": "santuario",
+    "status": "published",
+    "title": "Abadia de Santa Maria de Montserrat",
+    "summary": "Abadia beneditina na montanha de Montserrat, que guarda a imagem da Virgem de Montserrat.",
+    "place": {
+      "locality": "Monistrol de Montserrat",
+      "region": "Catalunha",
+      "country": "Espanha",
+      "iso": "ES",
+      "macro": "Europa",
+      "coordinates": {
+        "lat": 41.59319,
+        "lon": 1.83714,
+        "verified": true,
+        "sourceId": "wikidata",
+        "precision": "Ponto do santuário ou do lugar, conforme o Wikidata (Q771935: Santa Maria de Montserrat); precisão da ordem de dezenas a centenas de metros",
+        "qid": "Q771935"
+      }
+    },
+    "blocks": [
+      {
+        "kind": "historia",
+        "heading": "O que é",
+        "text": "É uma abadia da Ordem de São Bento, na montanha de Montserrat, em Monistrol de Montserrat (Catalunha). Guarda a imagem da Virgem de Montserrat. O mosteiro foi fundado em 1025 e reconstruído entre os séculos XIX e XX. Tem cerca de 70 monges.",
+        "sources": [
+          "wp-sh-montserrat"
+        ]
+      }
+    ],
+    "decisions": [],
+    "gaps": [
+      "A informação básica vem de uma fonte terciária; falta a fonte oficial do santuário ou da diocese.",
+      "Nenhuma decisão eclesial (título de basílica, coroação, aprovação de culto) foi lida em documento e por isso nenhuma é afirmada.",
+      "A história da devoção e a mensagem atribuída ao lugar ainda não foram pesquisadas em fonte primária."
+    ],
+    "relations": {
+      "titles": [],
+      "articles": [],
+      "celebrations": [],
+      "apparitions": [],
+      "devotions": [],
+      "prayers": [],
+      "miracles": [],
+      "shrines": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    },
+    "photo": "foto-montserrat",
+    "portrait": "retrato-montserrat"
+  },
+  {
+    "id": "sh-pilar",
+    "slug": "catedral-basilica-de-nossa-senhora-do-pilar",
+    "type": "santuario",
+    "status": "published",
+    "title": "Catedral-Basílica de Nossa Senhora do Pilar (Saragoça)",
+    "summary": "Catedral-basílica de Saragoça dedicada a Nossa Senhora do Pilar, tida como a primeira igreja dedicada a Maria.",
+    "place": {
+      "locality": "Saragoça",
+      "region": "Aragão",
+      "country": "Espanha",
+      "iso": "ES",
+      "macro": "Europa",
+      "coordinates": {
+        "lat": 41.65688,
+        "lon": -0.87833,
+        "verified": true,
+        "sourceId": "wikidata",
+        "precision": "Ponto do santuário ou do lugar, conforme o Wikidata (Q810684: Basilica of Our Lady of the Pillar); precisão da ordem de dezenas a centenas de metros",
+        "qid": "Q810684"
+      }
+    },
+    "blocks": [
+      {
+        "kind": "historia",
+        "heading": "O que é",
+        "text": "É uma igreja católica de Saragoça (Aragão) dedicada a Nossa Senhora do Pilar, chamada por João Paulo II de «Mãe dos povos hispânicos». Diz-se que é a primeira igreja dedicada a Maria; essa é uma reputação baseada em tradições locais, e esta página não a trata como fato comprovado. O edifício atual é do século XVII (o Wikidata registra o ano de 1681).",
+        "sources": [
+          "wp-sh-pilar"
+        ]
+      }
+    ],
+    "decisions": [],
+    "gaps": [
+      "A informação básica vem de uma fonte terciária; falta a fonte oficial do santuário ou da diocese.",
+      "Nenhuma decisão eclesial (título de basílica, coroação, aprovação de culto) foi lida em documento e por isso nenhuma é afirmada.",
+      "A história da devoção e a mensagem atribuída ao lugar ainda não foram pesquisadas em fonte primária."
+    ],
+    "relations": {
+      "titles": [],
+      "articles": [],
+      "celebrations": [],
+      "apparitions": [],
+      "devotions": [],
+      "prayers": [],
+      "miracles": [],
+      "shrines": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    },
+    "photo": "foto-pilar"
+  },
+  {
+    "id": "sh-guadalupe-extremadura",
+    "slug": "real-mosteiro-de-santa-maria-de-guadalupe",
+    "type": "santuario",
+    "status": "published",
+    "title": "Real Mosteiro de Santa Maria de Guadalupe (Extremadura)",
+    "summary": "Mosteiro real do século XIV em Guadalupe (Espanha), distinto do santuário mexicano de mesmo nome.",
+    "place": {
+      "locality": "Guadalupe",
+      "region": "Extremadura",
+      "country": "Espanha",
+      "iso": "ES",
+      "macro": "Europa",
+      "coordinates": {
+        "lat": 39.45278,
+        "lon": -5.3275,
+        "verified": true,
+        "sourceId": "wikidata",
+        "precision": "Ponto do santuário ou do lugar, conforme o Wikidata (Q750248: Royal Monastery of Saint Mary of Guadalupe); precisão da ordem de dezenas a centenas de metros",
+        "qid": "Q750248"
+      }
+    },
+    "blocks": [
+      {
+        "kind": "historia",
+        "heading": "O que é",
+        "text": "É um mosteiro católico construído no século XIV, em Guadalupe, na Extremadura (Espanha), ao pé da serra de Las Villuercas. Foi um dos mosteiros mais importantes do país por mais de quatro séculos e a UNESCO o declarou Patrimônio Mundial em 1993. Não é o mesmo lugar nem a mesma devoção da Nossa Senhora de Guadalupe do México, cuja história é diferente.",
+        "sources": [
+          "wp-sh-guadalupe-extremadura"
+        ]
+      }
+    ],
+    "decisions": [],
+    "gaps": [
+      "A informação básica vem de uma fonte terciária; falta a fonte oficial do santuário ou da diocese.",
+      "Nenhuma decisão eclesial (título de basílica, coroação, aprovação de culto) foi lida em documento e por isso nenhuma é afirmada.",
+      "A história da devoção e a mensagem atribuída ao lugar ainda não foram pesquisadas em fonte primária."
+    ],
+    "relations": {
+      "titles": [],
+      "articles": [],
+      "celebrations": [],
+      "apparitions": [],
+      "devotions": [],
+      "prayers": [],
+      "miracles": [],
+      "shrines": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    },
+    "photo": "foto-guadalupe-extremadura"
+  },
+  {
+    "id": "sh-covadonga",
+    "slug": "santa-gruta-de-covadonga",
+    "type": "santuario",
+    "status": "published",
+    "title": "Santa Gruta de Covadonga",
+    "summary": "Santuário numa gruta das Astúrias dedicado à Virgem de Covadonga.",
+    "place": {
+      "locality": "Covadonga (Cangas de Onís)",
+      "region": "Astúrias",
+      "country": "Espanha",
+      "iso": "ES",
+      "macro": "Europa",
+      "coordinates": {
+        "lat": 43.3089,
+        "lon": -5.05635,
+        "verified": true,
+        "sourceId": "wikidata",
+        "precision": "Ponto do santuário ou do lugar, conforme o Wikidata (Q522170: Santa Cueva de Covadonga); precisão da ordem de dezenas a centenas de metros",
+        "qid": "Q522170"
+      }
+    },
+    "blocks": [
+      {
+        "kind": "historia",
+        "heading": "O que é",
+        "text": "A Santa Gruta é um santuário católico nas Astúrias, numa gruta nos Picos da Europa, dedicado à Virgem de Covadonga. A tradição histórica espanhola situa ali a primeira batalha da Reconquista, em 718; é um dado de tradição histórica, não abordado em fonte primária nesta edição.",
+        "sources": [
+          "wp-sh-covadonga"
+        ]
+      }
+    ],
+    "decisions": [],
+    "gaps": [
+      "A informação básica vem de uma fonte terciária; falta a fonte oficial do santuário ou da diocese.",
+      "Nenhuma decisão eclesial (título de basílica, coroação, aprovação de culto) foi lida em documento e por isso nenhuma é afirmada.",
+      "A história da devoção e a mensagem atribuída ao lugar ainda não foram pesquisadas em fonte primária."
+    ],
+    "relations": {
+      "titles": [],
+      "articles": [],
+      "celebrations": [],
+      "apparitions": [],
+      "devotions": [],
+      "prayers": [],
+      "miracles": [],
+      "shrines": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    },
+    "photo": "foto-covadonga",
+    "portrait": "retrato-covadonga"
+  },
+  {
+    "id": "sh-altotting",
+    "slug": "santuario-de-nossa-senhora-de-altotting",
+    "type": "santuario",
+    "status": "published",
+    "title": "Santuário de Nossa Senhora de Altötting (Capela da Graça)",
+    "summary": "Santuário nacional da Baviera, chamado «Lourdes da Alemanha».",
+    "place": {
+      "locality": "Altötting",
+      "region": "Baviera",
+      "country": "Alemanha",
+      "iso": "DE",
+      "macro": "Europa",
+      "coordinates": {
+        "lat": 48.22627,
+        "lon": 12.67646,
+        "verified": true,
+        "sourceId": "wikidata",
+        "precision": "Ponto do santuário ou do lugar, conforme o Wikidata (Q322678: Our Lady of Altötting); precisão da ordem de dezenas a centenas de metros",
+        "qid": "Q322678"
+      }
+    },
+    "blocks": [
+      {
+        "kind": "historia",
+        "heading": "O que é",
+        "text": "O santuário, também chamado Capela da Graça (Gnadenkapelle), é dedicado à Virgem Maria e é o santuário nacional da Baviera. É conhecido pelas muitas curas que se diz terem ocorrido ali e é um dos locais de peregrinação mais importantes e visitados da Europa, chamado às vezes de «Lourdes da Alemanha». As curas são relatos, não casos avaliados nesta edição.",
+        "sources": [
+          "wp-sh-altotting"
+        ]
+      }
+    ],
+    "decisions": [],
+    "gaps": [
+      "A informação básica vem de uma fonte terciária; falta a fonte oficial do santuário ou da diocese.",
+      "Nenhuma decisão eclesial (título de basílica, coroação, aprovação de culto) foi lida em documento e por isso nenhuma é afirmada.",
+      "A história da devoção e a mensagem atribuída ao lugar ainda não foram pesquisadas em fonte primária."
+    ],
+    "relations": {
+      "titles": [],
+      "articles": [],
+      "celebrations": [],
+      "apparitions": [],
+      "devotions": [],
+      "prayers": [],
+      "miracles": [],
+      "shrines": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    },
+    "photo": "foto-altotting"
+  },
+  {
+    "id": "sh-einsiedeln",
+    "slug": "abadia-de-einsiedeln",
+    "type": "santuario",
+    "status": "published",
+    "title": "Abadia de Einsiedeln (Madona Negra)",
+    "summary": "Mosteiro beneditino suíço, o maior lugar de peregrinação da Suíça, onde se venera a Madona Negra na Capela da Graça.",
+    "place": {
+      "locality": "Einsiedeln",
+      "region": "Schwyz",
+      "country": "Suíça",
+      "iso": "CH",
+      "macro": "Europa",
+      "coordinates": {
+        "lat": 47.12667,
+        "lon": 8.75139,
+        "verified": true,
+        "sourceId": "wikidata",
+        "precision": "Ponto do santuário ou do lugar, conforme o Wikidata (Q125072234: Einsiedeln Abbey); precisão da ordem de dezenas a centenas de metros",
+        "qid": "Q125072234"
+      }
+    },
+    "blocks": [
+      {
+        "kind": "historia",
+        "heading": "O que é",
+        "text": "Einsiedeln é um mosteiro beneditino na vila de Einsiedeln, no cantão de Schwyz. É um dos mais importantes conjuntos monásticos barrocos e o maior lugar de peregrinação da Suíça. A Madona Negra de Einsiedeln, na Capela da Graça, atrai cerca de 800.000 peregrinos e turistas por ano.",
+        "sources": [
+          "wp-sh-einsiedeln"
+        ]
+      }
+    ],
+    "decisions": [],
+    "gaps": [
+      "A informação básica vem de uma fonte terciária; falta a fonte oficial do santuário ou da diocese.",
+      "Nenhuma decisão eclesial (título de basílica, coroação, aprovação de culto) foi lida em documento e por isso nenhuma é afirmada.",
+      "A história da devoção e a mensagem atribuída ao lugar ainda não foram pesquisadas em fonte primária."
+    ],
+    "relations": {
+      "titles": [],
+      "articles": [],
+      "celebrations": [],
+      "apparitions": [],
+      "devotions": [],
+      "prayers": [],
+      "miracles": [],
+      "shrines": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    },
+    "photo": "foto-einsiedeln",
+    "portrait": "retrato-einsiedeln"
+  },
+  {
+    "id": "sh-mariazell",
+    "slug": "basilica-de-mariazell",
+    "type": "santuario",
+    "status": "published",
+    "title": "Basílica de Mariazell (Natividade de Maria)",
+    "summary": "Basílica austríaca da Natividade da Virgem Maria, principal destino de peregrinação cristã da Áustria.",
+    "place": {
+      "locality": "Mariazell",
+      "region": "Estíria",
+      "country": "Áustria",
+      "iso": "AT",
+      "macro": "Europa",
+      "coordinates": {
+        "lat": 47.77278,
+        "lon": 15.31861,
+        "verified": true,
+        "sourceId": "wikidata",
+        "precision": "Ponto do santuário ou do lugar, conforme o Wikidata (Q669743: Mariazell Basilica); precisão da ordem de dezenas a centenas de metros",
+        "qid": "Q669743"
+      }
+    },
+    "blocks": [
+      {
+        "kind": "historia",
+        "heading": "O que é",
+        "text": "A basílica de Mariazell, também chamada Basílica da Natividade da Virgem Maria, é uma igreja católica em Mariazell (Áustria). É o mais importante destino de peregrinação cristã do país e um dos santuários mais visitados da Europa. Na igreja é venerada uma imagem de madeira à qual se atribuem milagres: é atribuição devocional, não decisão avaliada nesta edição.",
+        "sources": [
+          "wp-sh-mariazell"
+        ]
+      }
+    ],
+    "decisions": [],
+    "gaps": [
+      "A informação básica vem de uma fonte terciária; falta a fonte oficial do santuário ou da diocese.",
+      "Nenhuma decisão eclesial (título de basílica, coroação, aprovação de culto) foi lida em documento e por isso nenhuma é afirmada.",
+      "A história da devoção e a mensagem atribuída ao lugar ainda não foram pesquisadas em fonte primária."
+    ],
+    "relations": {
+      "titles": [],
+      "articles": [],
+      "celebrations": [],
+      "apparitions": [],
+      "devotions": [],
+      "prayers": [],
+      "miracles": [],
+      "shrines": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    },
+    "photo": "foto-mariazell",
+    "portrait": "retrato-mariazell"
+  },
+  {
+    "id": "sh-jasna-gora",
+    "slug": "santuario-de-jasna-gora",
+    "type": "santuario",
+    "status": "published",
+    "title": "Santuário de Jasna Góra (Częstochowa)",
+    "summary": "Mosteiro e santuário mariano da Polônia, onde está o ícone de Nossa Senhora de Częstochowa.",
+    "place": {
+      "locality": "Częstochowa",
+      "region": "Silésia",
+      "country": "Polônia",
+      "iso": "PL",
+      "macro": "Europa",
+      "coordinates": {
+        "lat": 50.8125,
+        "lon": 19.09722,
+        "verified": true,
+        "sourceId": "wikidata",
+        "precision": "Ponto do santuário ou do lugar, conforme o Wikidata (Q573920: Jasna Góra Monastery); precisão da ordem de dezenas a centenas de metros",
+        "qid": "Q573920"
+      }
+    },
+    "blocks": [
+      {
+        "kind": "historia",
+        "heading": "O que é",
+        "text": "Jasna Góra («Monte Luminoso») é um mosteiro e santuário dedicado à Virgem Maria, em Częstochowa, e um dos principais lugares de peregrinação da Polônia. Guarda o ícone da Madona Negra de Częstochowa, a quem se atribuem poderes milagrosos (atribuição devocional). O Wikidata registra o ano de 1382 para a fundação do mosteiro.",
+        "sources": [
+          "wp-sh-jasna-gora"
+        ]
+      },
+      {
+        "kind": "historia",
+        "heading": "A visita de João Paulo II em 1979",
+        "text": "Em 4 de junho de 1979, em Jasna Góra, João Paulo II disse que Maria está «especialmente presente» ali, falou de Jasna Góra como «vínculo interior na vida polonesa» e renovou o ato de consagração pronunciado em Jasna Góra em 3 de maio de 1966, no Milênio da Polônia. Ele é um testemunho papal de devoção; não é decisão sobre a imagem.",
+        "sources": [
+          "jp2-jasna-gora-1979"
+        ]
+      }
+    ],
+    "decisions": [],
+    "gaps": [
+      "A informação básica vem de uma fonte terciária; falta a fonte oficial do santuário ou da diocese.",
+      "Nenhuma decisão eclesial (título de basílica, coroação, aprovação de culto) foi lida em documento e por isso nenhuma é afirmada.",
+      "A história da devoção e a mensagem atribuída ao lugar ainda não foram pesquisadas em fonte primária."
+    ],
+    "relations": {
+      "titles": [],
+      "articles": [],
+      "celebrations": [],
+      "apparitions": [],
+      "devotions": [],
+      "prayers": [],
+      "miracles": [],
+      "shrines": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    },
+    "photo": "foto-jasna-gora",
+    "portrait": "retrato-jasna-gora"
+  },
+  {
+    "id": "sh-lichen",
+    "slug": "basilica-de-nossa-senhora-de-lichen",
+    "type": "santuario",
+    "status": "published",
+    "title": "Basílica de Nossa Senhora de Licheń",
+    "summary": "Maior igreja da Polônia, no Santuário de Nossa Senhora das Dores, Rainha da Polônia.",
+    "place": {
+      "locality": "Licheń Stary",
+      "region": "Grande Polônia",
+      "country": "Polônia",
+      "iso": "PL",
+      "macro": "Europa",
+      "coordinates": {
+        "lat": 52.32333,
+        "lon": 18.358,
+        "verified": true,
+        "sourceId": "wikidata",
+        "precision": "Ponto do santuário ou do lugar, conforme o Wikidata (Q810129: Basilica of Our Lady of Licheń); precisão da ordem de dezenas a centenas de metros",
+        "qid": "Q810129"
+      }
+    },
+    "blocks": [
+      {
+        "kind": "historia",
+        "heading": "O que é",
+        "text": "É uma igreja católica no Santuário de Nossa Senhora das Dores, Rainha da Polônia, na vila de Licheń Stary, perto de Konin. É a maior igreja da Polônia e uma das maiores do mundo. Foi construída a partir de 1994; o Wikidata registra 12 de junho de 2004 como data do edifício.",
+        "sources": [
+          "wp-sh-lichen"
+        ]
+      }
+    ],
+    "decisions": [],
+    "gaps": [
+      "A informação básica vem de uma fonte terciária; falta a fonte oficial do santuário ou da diocese.",
+      "Nenhuma decisão eclesial (título de basílica, coroação, aprovação de culto) foi lida em documento e por isso nenhuma é afirmada.",
+      "A história da devoção e a mensagem atribuída ao lugar ainda não foram pesquisadas em fonte primária."
+    ],
+    "relations": {
+      "titles": [],
+      "articles": [],
+      "celebrations": [],
+      "apparitions": [],
+      "devotions": [],
+      "prayers": [],
+      "miracles": [],
+      "shrines": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    },
+    "photo": "foto-lichen"
+  },
+  {
+    "id": "sh-pompeia",
+    "slug": "santuario-pontificio-da-virgem-do-rosario-de-pompeia",
+    "type": "santuario",
+    "status": "published",
+    "title": "Santuário Pontifício da Virgem do Rosário de Pompeia",
+    "summary": "Santuário mariano e basílica menor em Pompeia (Itália), fundado por Bartolo Longo e sua esposa.",
+    "place": {
+      "locality": "Pompeia",
+      "region": "Campânia",
+      "country": "Itália",
+      "iso": "IT",
+      "macro": "Europa",
+      "coordinates": {
+        "lat": 40.75,
+        "lon": 14.50056,
+        "verified": true,
+        "sourceId": "wikidata",
+        "precision": "Ponto do santuário ou do lugar, conforme o Wikidata (Q980745: Shrine of the Virgin of the Rosary of Pompei); precisão da ordem de dezenas a centenas de metros",
+        "qid": "Q980745"
+      }
+    },
+    "blocks": [
+      {
+        "kind": "historia",
+        "heading": "O que é",
+        "text": "É um santuário mariano pontifício, catedral e basílica menor, encomendado e cofundado por Bartolo Longo e sua esposa, a condessa Mariana di Fusco, em Pompeia (Itália). É a sede da Prelazia Territorial de Pompeia. O Wikidata registra o ano de 1876 como início.",
+        "sources": [
+          "wp-sh-pompeia"
+        ]
+      }
+    ],
+    "decisions": [],
+    "gaps": [
+      "A informação básica vem de uma fonte terciária; falta a fonte oficial do santuário ou da diocese.",
+      "Nenhuma decisão eclesial (título de basílica, coroação, aprovação de culto) foi lida em documento e por isso nenhuma é afirmada.",
+      "A história da devoção e a mensagem atribuída ao lugar ainda não foram pesquisadas em fonte primária."
+    ],
+    "relations": {
+      "titles": [],
+      "articles": [],
+      "celebrations": [],
+      "apparitions": [],
+      "devotions": [],
+      "prayers": [],
+      "miracles": [],
+      "shrines": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    },
+    "photo": "foto-pompeia",
+    "portrait": "retrato-pompeia"
+  },
+  {
+    "id": "sh-siracusa",
+    "slug": "santuario-de-nossa-senhora-das-lagrimas",
+    "type": "santuario",
+    "status": "published",
+    "title": "Santuário de Nossa Senhora das Lágrimas (Siracusa)",
+    "summary": "Basílica moderna em Siracusa, dedicada à Madonna delle Lacrime (Virgem das Lágrimas).",
+    "place": {
+      "locality": "Siracusa",
+      "region": "Sicília",
+      "country": "Itália",
+      "iso": "IT",
+      "macro": "Europa",
+      "coordinates": {
+        "lat": 37.07472,
+        "lon": 15.28528,
+        "verified": true,
+        "sourceId": "wikidata",
+        "precision": "Ponto do santuário ou do lugar, conforme o Wikidata (Q2223786: Madonna delle Lacrime Sanctuary); precisão da ordem de dezenas a centenas de metros",
+        "qid": "Q2223786"
+      }
+    },
+    "blocks": [
+      {
+        "kind": "historia",
+        "heading": "O que é",
+        "text": "A Basílica da Madonna delle Lacrime (Santuário da Virgem das Lágrimas) é uma igreja-santuário mariana do século XX, em Siracusa, na Sicília. O edifício moderno domina a paisagem na entrada de Ortigia. O Wikidata registra o ano de 1966 como início. O motivo do título «das Lágrimas» ainda não foi pesquisado em fonte primária.",
+        "sources": [
+          "wp-sh-siracusa"
+        ]
+      }
+    ],
+    "decisions": [],
+    "gaps": [
+      "A informação básica vem de uma fonte terciária; falta a fonte oficial do santuário ou da diocese.",
+      "Nenhuma decisão eclesial (título de basílica, coroação, aprovação de culto) foi lida em documento e por isso nenhuma é afirmada.",
+      "A história da devoção e a mensagem atribuída ao lugar ainda não foram pesquisadas em fonte primária."
+    ],
+    "relations": {
+      "titles": [],
+      "articles": [],
+      "celebrations": [],
+      "apparitions": [],
+      "devotions": [],
+      "prayers": [],
+      "miracles": [],
+      "shrines": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    },
+    "photo": "foto-siracusa"
+  },
+  {
+    "id": "sh-fourviere",
+    "slug": "basilica-de-notre-dame-de-fourviere",
+    "type": "santuario",
+    "status": "published",
+    "title": "Basílica de Notre-Dame de Fourvière (Lyon)",
+    "summary": "Basílica menor em Lyon, construída com recursos privados entre 1872 e 1896.",
+    "place": {
+      "locality": "Lyon",
+      "region": "Auvérnia-Ródano-Alpes",
+      "country": "França",
+      "iso": "FR",
+      "macro": "Europa",
+      "coordinates": {
+        "lat": 45.76229,
+        "lon": 4.82256,
+        "verified": true,
+        "sourceId": "wikidata",
+        "precision": "Ponto do santuário ou do lugar, conforme o Wikidata (Q1516: Basilica of Notre-Dame de Fourvière); precisão da ordem de dezenas a centenas de metros",
+        "qid": "Q1516"
+      }
+    },
+    "blocks": [
+      {
+        "kind": "historia",
+        "heading": "O que é",
+        "text": "É uma basílica menor em Lyon (França), construída com recursos privados entre 1872 e 1896, numa posição dominante sobre a cidade, no lugar do antigo fórum romano de Trajano.",
+        "sources": [
+          "wp-sh-fourviere"
+        ]
+      }
+    ],
+    "decisions": [],
+    "gaps": [
+      "A informação básica vem de uma fonte terciária; falta a fonte oficial do santuário ou da diocese.",
+      "Nenhuma decisão eclesial (título de basílica, coroação, aprovação de culto) foi lida em documento e por isso nenhuma é afirmada.",
+      "A história da devoção e a mensagem atribuída ao lugar ainda não foram pesquisadas em fonte primária."
+    ],
+    "relations": {
+      "titles": [],
+      "articles": [],
+      "celebrations": [],
+      "apparitions": [],
+      "devotions": [],
+      "prayers": [],
+      "miracles": [],
+      "shrines": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    },
+    "photo": "foto-fourviere"
+  },
+  {
+    "id": "sh-notre-dame-de-la-garde",
+    "slug": "basilica-de-notre-dame-de-la-garde",
+    "type": "santuario",
+    "status": "published",
+    "title": "Basílica de Notre-Dame de la Garde (Marselha)",
+    "summary": "Basílica de Marselha, conhecida como «la Bonne Mère» (a Boa Mãe), símbolo da cidade.",
+    "place": {
+      "locality": "Marselha",
+      "region": "Provença",
+      "country": "França",
+      "iso": "FR",
+      "macro": "Europa",
+      "coordinates": {
+        "lat": 43.28395,
+        "lon": 5.37123,
+        "verified": true,
+        "sourceId": "wikidata",
+        "precision": "Ponto do santuário ou do lugar, conforme o Wikidata (Q975925: Notre-Dame de la Garde); precisão da ordem de dezenas a centenas de metros",
+        "qid": "Q975925"
+      }
+    },
+    "blocks": [
+      {
+        "kind": "historia",
+        "heading": "O que é",
+        "text": "Notre-Dame de la Garde (Nossa Senhora da Guarda) é uma basílica católica de Marselha, conhecida pelos marselheses como «la Bonne Mère» e símbolo mais conhecido da cidade. É local de uma popular peregrinação no dia da Assunção e o lugar mais visitado de Marselha.",
+        "sources": [
+          "wp-sh-notre-dame-de-la-garde"
+        ]
+      }
+    ],
+    "decisions": [],
+    "gaps": [
+      "A informação básica vem de uma fonte terciária; falta a fonte oficial do santuário ou da diocese.",
+      "Nenhuma decisão eclesial (título de basílica, coroação, aprovação de culto) foi lida em documento e por isso nenhuma é afirmada.",
+      "A história da devoção e a mensagem atribuída ao lugar ainda não foram pesquisadas em fonte primária."
+    ],
+    "relations": {
+      "titles": [],
+      "articles": [],
+      "celebrations": [],
+      "apparitions": [],
+      "devotions": [],
+      "prayers": [],
+      "miracles": [],
+      "shrines": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    },
+    "photo": "foto-notre-dame-de-la-garde"
+  },
+  {
+    "id": "sh-sameiro",
+    "slug": "santuario-de-nossa-senhora-do-sameiro",
+    "type": "santuario",
+    "status": "published",
+    "title": "Santuário de Nossa Senhora do Sameiro (Braga)",
+    "summary": "Santuário mariano de Braga, um dos mais frequentados de Portugal.",
+    "place": {
+      "locality": "Braga",
+      "region": "Braga",
+      "country": "Portugal",
+      "iso": "PT",
+      "macro": "Europa",
+      "coordinates": {
+        "lat": 41.54186,
+        "lon": -8.36951,
+        "verified": true,
+        "sourceId": "wikidata",
+        "precision": "Ponto do santuário ou do lugar, conforme o Wikidata (Q7409276: Sanctuary of Our Lady of Sameiro); precisão da ordem de dezenas a centenas de metros",
+        "qid": "Q7409276"
+      }
+    },
+    "blocks": [
+      {
+        "kind": "historia",
+        "heading": "O que é",
+        "text": "É um santuário mariano em Braga (Portugal), num monte a mais de 350 metros de altitude. Segundo o artigo consultado, é um dos locais de devoção mariana mais frequentados do país, em tamanho ultrapassado só pelo Santuário de Fátima.",
+        "sources": [
+          "wp-sh-sameiro"
+        ]
+      }
+    ],
+    "decisions": [],
+    "gaps": [
+      "A informação básica vem de uma fonte terciária; falta a fonte oficial do santuário ou da diocese.",
+      "Nenhuma decisão eclesial (título de basílica, coroação, aprovação de culto) foi lida em documento e por isso nenhuma é afirmada.",
+      "A história da devoção e a mensagem atribuída ao lugar ainda não foram pesquisadas em fonte primária."
+    ],
+    "relations": {
+      "titles": [],
+      "articles": [],
+      "celebrations": [],
+      "apparitions": [],
+      "devotions": [],
+      "prayers": [],
+      "miracles": [],
+      "shrines": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    },
+    "photo": "foto-sameiro"
+  },
+  {
+    "id": "sh-lujan",
+    "slug": "basilica-de-nossa-senhora-de-lujan",
+    "type": "santuario",
+    "status": "published",
+    "title": "Basílica de Nossa Senhora de Luján",
+    "summary": "Basílica menor dedicada a Nossa Senhora de Luján, devoção ligada à Argentina.",
+    "place": {
+      "locality": "Luján",
+      "region": "Buenos Aires",
+      "country": "Argentina",
+      "iso": "AR",
+      "macro": "América Latina",
+      "coordinates": {
+        "lat": -34.56444,
+        "lon": -59.12139,
+        "verified": true,
+        "sourceId": "wikidata",
+        "precision": "Ponto do santuário ou do lugar, conforme o Wikidata (Q2607636: Basilica of Our Lady of Luján); precisão da ordem de dezenas a centenas de metros",
+        "qid": "Q2607636"
+      }
+    },
+    "blocks": [
+      {
+        "kind": "historia",
+        "heading": "O que é",
+        "text": "É uma basílica menor, em estilo neogótico, construída entre 1890 e 1935 em Luján (província de Buenos Aires). É dedicada a Nossa Senhora de Luján, considerada padroeira da Argentina, e faz parte da arquidiocese de Mercedes-Luján. Os fatos de origem da devoção (a imagem de 1630) não foram lidos em fonte primária, e a página não os narra.",
+        "sources": [
+          "wp-sh-lujan"
+        ]
+      }
+    ],
+    "decisions": [],
+    "gaps": [
+      "A informação básica vem de uma fonte terciária; falta a fonte oficial do santuário ou da diocese.",
+      "Nenhuma decisão eclesial (título de basílica, coroação, aprovação de culto) foi lida em documento e por isso nenhuma é afirmada.",
+      "A história da devoção e a mensagem atribuída ao lugar ainda não foram pesquisadas em fonte primária."
+    ],
+    "relations": {
+      "titles": [],
+      "articles": [],
+      "celebrations": [],
+      "apparitions": [],
+      "devotions": [],
+      "prayers": [],
+      "miracles": [],
+      "shrines": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    },
+    "photo": "foto-lujan",
+    "portrait": "retrato-lujan"
+  },
+  {
+    "id": "sh-notre-dame-montreal",
+    "slug": "basilica-de-notre-dame-de-montreal",
+    "type": "santuario",
+    "status": "published",
+    "title": "Basílica de Notre-Dame de Montréal",
+    "summary": "Basílica menor no centro histórico de Montreal (Canadá), dedicada a Nossa Senhora.",
+    "place": {
+      "locality": "Montreal",
+      "region": "Quebec",
+      "country": "Canadá",
+      "iso": "CA",
+      "macro": "América do Norte",
+      "coordinates": {
+        "lat": 45.50444,
+        "lon": -73.55611,
+        "verified": true,
+        "sourceId": "wikidata",
+        "precision": "Ponto do santuário ou do lugar, conforme o Wikidata (Q887686: Notre-Dame Basilica); precisão da ordem de dezenas a centenas de metros",
+        "qid": "Q887686"
+      }
+    },
+    "blocks": [
+      {
+        "kind": "historia",
+        "heading": "O que é",
+        "text": "É uma basílica menor da Igreja Católica no distrito histórico de Old Montreal, em Quebec, no número 110 da rua Notre-Dame Oeste, ao lado do Seminário de Saint-Sulpice. O Wikidata registra 1829 como início.",
+        "sources": [
+          "wp-sh-notre-dame-montreal"
+        ]
+      }
+    ],
+    "decisions": [],
+    "gaps": [
+      "A informação básica vem de uma fonte terciária; falta a fonte oficial do santuário ou da diocese.",
+      "Nenhuma decisão eclesial (título de basílica, coroação, aprovação de culto) foi lida em documento e por isso nenhuma é afirmada.",
+      "A história da devoção e a mensagem atribuída ao lugar ainda não foram pesquisadas em fonte primária."
+    ],
+    "relations": {
+      "titles": [],
+      "articles": [],
+      "celebrations": [],
+      "apparitions": [],
+      "devotions": [],
+      "prayers": [],
+      "miracles": [],
+      "shrines": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    },
+    "photo": "foto-notre-dame-montreal"
+  },
+  {
+    "id": "sh-washington",
+    "slug": "basilica-do-santuario-nacional-da-imaculada-conceicao",
+    "type": "santuario",
+    "status": "published",
+    "title": "Basílica do Santuário Nacional da Imaculada Conceição (Washington)",
+    "summary": "Santuário nacional e basílica menor dos Estados Unidos, dedicado a Maria sob o título de Imaculada Conceição.",
+    "place": {
+      "locality": "Washington, D.C.",
+      "region": "Distrito de Colúmbia",
+      "country": "Estados Unidos",
+      "iso": "US",
+      "macro": "América do Norte",
+      "coordinates": {
+        "lat": 38.93333,
+        "lon": -77.00056,
+        "verified": true,
+        "sourceId": "wikidata",
+        "precision": "Ponto do santuário ou do lugar, conforme o Wikidata (Q82387: Basilica of the National Shrine of the Immaculate Conception); precisão da ordem de dezenas a centenas de metros",
+        "qid": "Q82387"
+      }
+    },
+    "blocks": [
+      {
+        "kind": "historia",
+        "heading": "O que é e o que decidiram",
+        "text": "Segundo o site oficial, o santuário é dedicado a Nossa Senhora da Imaculada Conceição, igreja nacional dos católicos dos EUA. A dedicação do edifício foi em 1959. A conferência episcopal (USCCB) o designou «santuário nacional» e «santuário de oração e peregrinação». Em outubro de 1990, o papa João Paulo II o elevou a basílica menor, reconhecendo sua «importância histórica» e sua «significância como centro de culto e devoção».",
+        "sources": [
+          "nationalshrine-oficial"
+        ]
+      }
+    ],
+    "decisions": [],
+    "gaps": [
+      "A informação básica vem de uma fonte terciária; falta a fonte oficial do santuário ou da diocese.",
+      "Nenhuma decisão eclesial (título de basílica, coroação, aprovação de culto) foi lida em documento e por isso nenhuma é afirmada.",
+      "A história da devoção e a mensagem atribuída ao lugar ainda não foram pesquisadas em fonte primária."
+    ],
+    "relations": {
+      "titles": [],
+      "articles": [],
+      "celebrations": [],
+      "apparitions": [],
+      "devotions": [],
+      "prayers": [],
+      "miracles": [],
+      "shrines": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    },
+    "photo": "foto-washington"
+  },
+  {
+    "id": "sh-caacupe",
+    "slug": "catedral-basilica-de-nossa-senhora-dos-milagres",
+    "type": "santuario",
+    "status": "published",
+    "title": "Catedral-Basílica de Nossa Senhora dos Milagres (Caacupé)",
+    "summary": "Catedral e basílica de Caacupé (Paraguai), sede da diocese de Caacupé.",
+    "place": {
+      "locality": "Caacupé",
+      "region": "Cordillera",
+      "country": "Paraguai",
+      "iso": "PY",
+      "macro": "América Latina",
+      "coordinates": {
+        "lat": -25.386,
+        "lon": -57.141,
+        "verified": true,
+        "sourceId": "wikidata",
+        "precision": "Ponto do santuário ou do lugar, conforme o Wikidata (Q20007903: Cathedral Basilica of Our Lady of Miracles, Caacupé); precisão da ordem de dezenas a centenas de metros",
+        "qid": "Q20007903"
+      }
+    },
+    "blocks": [
+      {
+        "kind": "historia",
+        "heading": "O que é",
+        "text": "É a catedral da cidade de Caacupé (Paraguai) e sede da diocese de Caacupé, criada como prelazia territorial em 1960 e promovida à situação atual em 1967. Está dedicada a Nossa Senhora dos Milagres. A história da devoção e da imagem ainda não foi lida em fonte própria.",
+        "sources": [
+          "wp-sh-caacupe"
+        ]
+      }
+    ],
+    "decisions": [],
+    "gaps": [
+      "A informação básica vem de uma fonte terciária; falta a fonte oficial do santuário ou da diocese.",
+      "Nenhuma decisão eclesial (título de basílica, coroação, aprovação de culto) foi lida em documento e por isso nenhuma é afirmada.",
+      "A história da devoção e a mensagem atribuída ao lugar ainda não foram pesquisadas em fonte primária."
+    ],
+    "relations": {
+      "titles": [],
+      "articles": [],
+      "celebrations": [],
+      "apparitions": [],
+      "devotions": [],
+      "prayers": [],
+      "miracles": [],
+      "shrines": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    },
+    "photo": "foto-caacupe"
+  },
+  {
+    "id": "sh-copacabana",
+    "slug": "basilica-de-nossa-senhora-de-copacabana",
+    "type": "santuario",
+    "status": "published",
+    "title": "Basílica de Nossa Senhora de Copacabana (Bolívia)",
+    "summary": "Santuário do século XVII na cidade de Copacabana, no lago Titicaca, dedicado a Nossa Senhora de Copacabana.",
+    "place": {
+      "locality": "Copacabana",
+      "region": "La Paz",
+      "country": "Bolívia",
+      "iso": "BO",
+      "macro": "América Latina",
+      "coordinates": {
+        "lat": -16.16556,
+        "lon": -69.08556,
+        "verified": true,
+        "sourceId": "wikidata",
+        "precision": "Ponto do santuário ou do lugar, conforme o Wikidata (Q114211: Copacabana); precisão da ordem de dezenas a centenas de metros",
+        "qid": "Q114211"
+      }
+    },
+    "blocks": [
+      {
+        "kind": "historia",
+        "heading": "O que é",
+        "text": "Copacabana é a principal cidade boliviana às margens do lago Titicaca. Tem um grande santuário do século XVII, a Basílica de Nossa Senhora de Copacabana, dedicado a Nossa Senhora de Copacabana, considerada padroeira da Bolívia. As coordenadas referem-se à cidade.",
+        "sources": [
+          "wp-sh-copacabana"
+        ]
+      }
+    ],
+    "decisions": [],
+    "gaps": [
+      "A informação básica vem de uma fonte terciária; falta a fonte oficial do santuário ou da diocese.",
+      "Nenhuma decisão eclesial (título de basílica, coroação, aprovação de culto) foi lida em documento e por isso nenhuma é afirmada.",
+      "A história da devoção e a mensagem atribuída ao lugar ainda não foram pesquisadas em fonte primária."
+    ],
+    "relations": {
+      "titles": [],
+      "articles": [],
+      "celebrations": [],
+      "apparitions": [],
+      "devotions": [],
+      "prayers": [],
+      "miracles": [],
+      "shrines": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    },
+    "photo": "foto-copacabana"
+  },
+  {
+    "id": "sh-cartago",
+    "slug": "basilica-de-nossa-senhora-dos-anjos",
+    "type": "santuario",
+    "status": "published",
+    "title": "Basílica de Nossa Senhora dos Anjos (Cartago)",
+    "summary": "Basílica de Cartago (Costa Rica), dedicada à Virgem dos Anjos, a «Negrita».",
+    "place": {
+      "locality": "Cartago",
+      "region": "Cartago",
+      "country": "Costa Rica",
+      "iso": "CR",
+      "macro": "América Latina",
+      "coordinates": {
+        "lat": 9.86389,
+        "lon": -83.91278,
+        "verified": true,
+        "sourceId": "wikidata",
+        "precision": "Ponto do santuário ou do lugar, conforme o Wikidata (Q3445644: Nuestra Señora de los Ángeles); precisão da ordem de dezenas a centenas de metros",
+        "qid": "Q3445644"
+      }
+    },
+    "blocks": [
+      {
+        "kind": "historia",
+        "heading": "O que é",
+        "text": "É uma basílica católica em Cartago (Costa Rica), dedicada à Virgem de los Ángeles, chamada também Virgen de los Pardos. A primeira construção é de 1639 e foi parcialmente destruída por um terremoto; a basílica atual, restaurada, mistura estilos coloniais e outros. O Wikidata registra 1924 para o edifício atual.",
+        "sources": [
+          "wp-sh-cartago"
+        ]
+      }
+    ],
+    "decisions": [],
+    "gaps": [
+      "A informação básica vem de uma fonte terciária; falta a fonte oficial do santuário ou da diocese.",
+      "Nenhuma decisão eclesial (título de basílica, coroação, aprovação de culto) foi lida em documento e por isso nenhuma é afirmada.",
+      "A história da devoção e a mensagem atribuída ao lugar ainda não foram pesquisadas em fonte primária."
+    ],
+    "relations": {
+      "titles": [],
+      "articles": [],
+      "celebrations": [],
+      "apparitions": [],
+      "devotions": [],
+      "prayers": [],
+      "miracles": [],
+      "shrines": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    },
+    "photo": "foto-cartago",
+    "portrait": "retrato-cartago"
+  },
+  {
+    "id": "sh-belem-nazare",
+    "slug": "basilica-santuario-de-nossa-senhora-de-nazare",
+    "type": "santuario",
+    "status": "published",
+    "title": "Basílica Santuário de Nossa Senhora de Nazaré (Belém)",
+    "summary": "Basílica menor de Belém (Pará), construída no lugar em que a imagem de Nossa Senhora de Nazaré teria sido encontrada.",
+    "place": {
+      "locality": "Belém",
+      "region": "Pará",
+      "country": "Brasil",
+      "iso": "BR",
+      "macro": "América Latina",
+      "coordinates": {
+        "lat": -1.45269,
+        "lon": -48.48103,
+        "verified": true,
+        "sourceId": "wikidata",
+        "precision": "Ponto do santuário ou do lugar, conforme o Wikidata (Q9650874: Basilica of Our Lady of Nazareth of Exile); precisão da ordem de dezenas a centenas de metros",
+        "qid": "Q9650874"
+      }
+    },
+    "blocks": [
+      {
+        "kind": "historia",
+        "heading": "O que é",
+        "text": "É uma basílica menor de Belém do Pará. A construção começou em 1909 no lugar em que a imagem de Nossa Senhora de Nazaré foi encontrada por Plácido José de Souza, cuja origem é controversa, com versões diferentes. A página não narra o achado, e a história da devoção ainda não foi lida em fonte própria.",
+        "sources": [
+          "wp-sh-belem-nazare"
+        ]
+      }
+    ],
+    "decisions": [],
+    "gaps": [
+      "A informação básica vem de uma fonte terciária; falta a fonte oficial do santuário ou da diocese.",
+      "Nenhuma decisão eclesial (título de basílica, coroação, aprovação de culto) foi lida em documento e por isso nenhuma é afirmada.",
+      "A história da devoção e a mensagem atribuída ao lugar ainda não foram pesquisadas em fonte primária."
+    ],
+    "relations": {
+      "titles": [],
+      "articles": [],
+      "celebrations": [],
+      "apparitions": [],
+      "devotions": [],
+      "prayers": [],
+      "miracles": [],
+      "shrines": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    },
+    "photo": "foto-belem-nazare"
+  },
+  {
+    "id": "sh-suyapa",
+    "slug": "basilica-de-nossa-senhora-de-suyapa",
+    "type": "santuario",
+    "status": "published",
+    "title": "Basílica de Nossa Senhora de Suyapa (Tegucigalpa)",
+    "summary": "Basílica em Tegucigalpa que guarda a pequena imagem de Nossa Senhora de Suyapa.",
+    "place": {
+      "locality": "Tegucigalpa",
+      "region": "Francisco Morazán",
+      "country": "Honduras",
+      "iso": "HN",
+      "macro": "América Latina",
+      "coordinates": {
+        "lat": 14.08046,
+        "lon": -87.15764,
+        "verified": true,
+        "sourceId": "wikidata",
+        "precision": "Ponto do santuário ou do lugar, conforme o Wikidata (Q1970130: Virgin of Suyapa); precisão da ordem de dezenas a centenas de metros",
+        "qid": "Q1970130"
+      }
+    },
+    "blocks": [
+      {
+        "kind": "historia",
+        "heading": "O que é",
+        "text": "A imagem de Nossa Senhora de Suyapa é uma estátua pequena (6 cm) de cedro, do século XVIII, guardada na Basílica de Suyapa, em Tegucigalpa. Muitos fazem peregrinação em 3 de fevereiro, data que lembra o dia em que ela teria sido encontrada. A história do achado não foi lida em fonte própria.",
+        "sources": [
+          "wp-sh-suyapa"
+        ]
+      }
+    ],
+    "decisions": [],
+    "gaps": [
+      "A informação básica vem de uma fonte terciária; falta a fonte oficial do santuário ou da diocese.",
+      "Nenhuma decisão eclesial (título de basílica, coroação, aprovação de culto) foi lida em documento e por isso nenhuma é afirmada.",
+      "A história da devoção e a mensagem atribuída ao lugar ainda não foram pesquisadas em fonte primária."
+    ],
+    "relations": {
+      "titles": [],
+      "articles": [],
+      "celebrations": [],
+      "apparitions": [],
+      "devotions": [],
+      "prayers": [],
+      "miracles": [],
+      "shrines": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    },
+    "portrait": "retrato-suyapa"
+  },
+  {
+    "id": "sh-altagracia",
+    "slug": "basilica-catedral-de-nossa-senhora-da-altagracia",
+    "type": "santuario",
+    "status": "published",
+    "title": "Basílica-Catedral de Nossa Senhora da Altagracia (Higüey)",
+    "summary": "Basílica menor e catedral de Higüey, dedicada a Nossa Senhora da Altagracia, padroeira do país.",
+    "place": {
+      "locality": "Salvaleón de Higüey",
+      "region": "La Altagracia",
+      "country": "República Dominicana",
+      "iso": "DO",
+      "macro": "América Latina",
+      "coordinates": {
+        "lat": 18.61611,
+        "lon": -68.71694,
+        "verified": true,
+        "sourceId": "wikidata",
+        "precision": "Ponto do santuário ou do lugar, conforme o Wikidata (Q4868422: Basílica Catedral Nuestra Señora de la Altagracia); precisão da ordem de dezenas a centenas de metros",
+        "qid": "Q4868422"
+      }
+    },
+    "blocks": [
+      {
+        "kind": "historia",
+        "heading": "O que é",
+        "text": "É uma basílica menor e catedral na República Dominicana, em Salvaleón de Higüey, dedicada a Nossa Senhora da Altagracia, considerada padroeira da nação, e sede da diocese de Higüey. O Wikidata registra o ano de 1970 para o edifício.",
+        "sources": [
+          "wp-sh-altagracia"
+        ]
+      }
+    ],
+    "decisions": [],
+    "gaps": [
+      "A informação básica vem de uma fonte terciária; falta a fonte oficial do santuário ou da diocese.",
+      "Nenhuma decisão eclesial (título de basílica, coroação, aprovação de culto) foi lida em documento e por isso nenhuma é afirmada.",
+      "A história da devoção e a mensagem atribuída ao lugar ainda não foram pesquisadas em fonte primária."
+    ],
+    "relations": {
+      "titles": [],
+      "articles": [],
+      "celebrations": [],
+      "apparitions": [],
+      "devotions": [],
+      "prayers": [],
+      "miracles": [],
+      "shrines": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    },
+    "photo": "foto-altagracia",
+    "portrait": "retrato-altagracia"
+  },
+  {
+    "id": "sh-nazare-anunciacao",
+    "slug": "basilica-da-anunciacao",
+    "type": "santuario",
+    "status": "published",
+    "title": "Basílica da Anunciação (Nazaré)",
+    "summary": "Igreja católica em Nazaré, uma das duas que reivindicam o lugar da Anunciação.",
+    "place": {
+      "locality": "Nazaré",
+      "region": "Distrito Norte",
+      "country": "Israel",
+      "iso": "IL",
+      "macro": "Ásia",
+      "coordinates": {
+        "lat": 32.70214,
+        "lon": 35.29769,
+        "verified": true,
+        "sourceId": "wikidata",
+        "precision": "Ponto do santuário ou do lugar, conforme o Wikidata (Q130815: Basilica of the Annunciation); precisão da ordem de dezenas a centenas de metros",
+        "qid": "Q130815"
+      }
+    },
+    "blocks": [
+      {
+        "kind": "historia",
+        "heading": "O que é",
+        "text": "É uma igreja católica em Nazaré, no norte de Israel. É uma de duas igrejas que reivindicam o lugar da Anunciação, o episódio em que o anjo Gabriel anunciou a Maria que ela daria à luz Jesus (Lc 1,26-38). O Wikidata registra 1969 como data do edifício atual. A página não afirma qual das duas igrejas é o lugar histórico.",
+        "sources": [
+          "wp-sh-nazare-anunciacao"
+        ]
+      }
+    ],
+    "decisions": [],
+    "gaps": [
+      "A informação básica vem de uma fonte terciária; falta a fonte oficial do santuário ou da diocese.",
+      "Nenhuma decisão eclesial (título de basílica, coroação, aprovação de culto) foi lida em documento e por isso nenhuma é afirmada.",
+      "A história da devoção e a mensagem atribuída ao lugar ainda não foram pesquisadas em fonte primária."
+    ],
+    "relations": {
+      "titles": [],
+      "articles": [],
+      "celebrations": [],
+      "apparitions": [],
+      "devotions": [],
+      "prayers": [],
+      "miracles": [],
+      "shrines": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    },
+    "photo": "foto-nazare-anunciacao"
+  },
+  {
+    "id": "sh-tumba-maria",
+    "slug": "igreja-do-sepulcro-de-santa-maria",
+    "type": "santuario",
+    "status": "published",
+    "title": "Igreja do Sepulcro de Santa Maria (Jerusalém)",
+    "summary": "Igreja construída em torno de um túmulo antigo escavado na rocha, no vale do Cedron, venerado como túmulo de Maria.",
+    "place": {
+      "locality": "Jerusalém",
+      "region": "Vale do Cedron",
+      "country": "Israel",
+      "iso": "IL",
+      "macro": "Ásia",
+      "coordinates": {
+        "lat": 31.78013,
+        "lon": 35.23941,
+        "verified": true,
+        "sourceId": "wikidata",
+        "precision": "Ponto do santuário ou do lugar, conforme o Wikidata (Q968028: Tomb of the Virgin Mary); precisão da ordem de dezenas a centenas de metros",
+        "qid": "Q968028"
+      }
+    },
+    "blocks": [
+      {
+        "kind": "historia",
+        "heading": "O que é",
+        "text": "É uma igreja cristã construída em torno de um antigo túmulo escavado na rocha, no vale do Cedron, ao pé do Monte das Oliveiras, também chamada Igreja da Assunção. Segundo a Enciclopédia Católica (1912), o túmulo de Maria é venerado ali; o artigo registra que, desde o século V, há notícia de peregrinos que visitaram «o túmulo da Virgem no vale de Josafá». O mesmo artigo diz que obras apócrifas dos séculos II a IV favorecem a tradição de Jerusalém e que escritores modernos sustentam que Maria morreu e foi sepultada em Éfeso. A questão é debatida (ver a página sobre a Dormição e Assunção).",
+        "sources": [
+          "wp-sh-tumba-maria",
+          "ce-tumba-maria"
+        ]
+      }
+    ],
+    "decisions": [],
+    "gaps": [
+      "A informação básica vem de uma fonte terciária; falta a fonte oficial do santuário ou da diocese.",
+      "Nenhuma decisão eclesial (título de basílica, coroação, aprovação de culto) foi lida em documento e por isso nenhuma é afirmada.",
+      "A história da devoção e a mensagem atribuída ao lugar ainda não foram pesquisadas em fonte primária."
+    ],
+    "relations": {
+      "titles": [],
+      "articles": [],
+      "celebrations": [],
+      "apparitions": [],
+      "devotions": [],
+      "prayers": [],
+      "miracles": [],
+      "shrines": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    },
+    "photo": "foto-tumba-maria"
+  },
+  {
+    "id": "sh-efeso",
+    "slug": "casa-de-maria",
+    "type": "santuario",
+    "status": "published",
+    "title": "Casa de Maria (Meryem Ana Evi), Éfeso",
+    "summary": "Santuário católico no Monte Koressos, perto de Éfeso, ligado a uma tradição que situa ali os últimos anos de Maria.",
+    "place": {
+      "locality": "Selçuk (Éfeso)",
+      "region": "Esmirna",
+      "country": "Turquia",
+      "iso": "TR",
+      "macro": "Ásia",
+      "coordinates": {
+        "lat": 37.91153,
+        "lon": 27.33397,
+        "verified": true,
+        "sourceId": "wikidata",
+        "precision": "Ponto do santuário ou do lugar, conforme o Wikidata (Q135779: House of the Virgin Mary); precisão da ordem de dezenas a centenas de metros",
+        "qid": "Q135779"
+      }
+    },
+    "blocks": [
+      {
+        "kind": "historia",
+        "heading": "O que é",
+        "text": "A Casa da Virgem Maria (Meryemana Evi) é um santuário católico no Monte Koressos (Bülbüldağı), a cerca de 7 km de Selçuk, na Turquia, perto de Éfeso. A casa foi descoberta no século XIX seguindo as descrições nas visões relatadas pela beata Anne Catherine Emmerich (1774-1824), religiosa alemã. Por isso a localização se apoia em um relato de visões, não em documento antigo. A Enciclopédia Católica (1912) registra que nunca houve tradição antiga que ligasse a morte e o sepultamento de Maria a Éfeso, e que a localização aparece nas meditações de Emmerich, publicadas em 1852.",
+        "sources": [
+          "wp-sh-efeso",
+          "ce-tumba-maria"
+        ]
+      },
+      {
+        "kind": "historia",
+        "heading": "Visitas de papas",
+        "text": "Segundo a homilia de Bento XVI em 2006 diante do santuário, os papas Paulo VI e João Paulo II visitaram o santuário como peregrinos; João Paulo II em 30 de novembro de 1979. Éfeso também é o lugar do Concílio ecumênico de 431, que proclamou a maternidade divina de Maria.",
+        "sources": [
+          "bento-xvi-efeso-2006"
+        ]
+      }
+    ],
+    "decisions": [],
+    "gaps": [
+      "A informação básica vem de uma fonte terciária; falta a fonte oficial do santuário ou da diocese.",
+      "Nenhuma decisão eclesial (título de basílica, coroação, aprovação de culto) foi lida em documento e por isso nenhuma é afirmada.",
+      "A história da devoção e a mensagem atribuída ao lugar ainda não foram pesquisadas em fonte primária."
+    ],
+    "relations": {
+      "titles": [],
+      "articles": [],
+      "celebrations": [],
+      "apparitions": [],
+      "devotions": [],
+      "prayers": [],
+      "miracles": [],
+      "shrines": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    },
+    "photo": "foto-efeso"
+  },
+  {
+    "id": "sh-harissa",
+    "slug": "santuario-de-nossa-senhora-do-libano",
+    "type": "santuario",
+    "status": "published",
+    "title": "Santuário de Nossa Senhora do Líbano (Harissa)",
+    "summary": "Santuário mariano e lugar de peregrinação em Harissa, no Líbano, ligado ao Patriarcado Maronita.",
+    "place": {
+      "locality": "Harissa",
+      "region": "Monte Líbano",
+      "country": "Líbano",
+      "iso": "LB",
+      "macro": "Ásia",
+      "coordinates": {
+        "lat": 33.98167,
+        "lon": 35.65139,
+        "verified": true,
+        "sourceId": "wikidata",
+        "precision": "Ponto do santuário ou do lugar, conforme o Wikidata (Q2898390: Our Lady of Lebanon); precisão da ordem de dezenas a centenas de metros",
+        "qid": "Q2898390"
+      }
+    },
+    "blocks": [
+      {
+        "kind": "historia",
+        "heading": "O que é",
+        "text": "O Santuário de Nossa Senhora do Líbano (Harissa) é um santuário mariano e lugar de peregrinação na vila de Harissa, no Líbano. Pertence ao Patriarcado Maronita, que confiou a administração à Congregação dos Missionários Libaneses Maronitas desde a fundação, em 1904.",
+        "sources": [
+          "wp-sh-harissa"
+        ]
+      }
+    ],
+    "decisions": [],
+    "gaps": [
+      "A informação básica vem de uma fonte terciária; falta a fonte oficial do santuário ou da diocese.",
+      "Nenhuma decisão eclesial (título de basílica, coroação, aprovação de culto) foi lida em documento e por isso nenhuma é afirmada.",
+      "A história da devoção e a mensagem atribuída ao lugar ainda não foram pesquisadas em fonte primária."
+    ],
+    "relations": {
+      "titles": [],
+      "articles": [],
+      "celebrations": [],
+      "apparitions": [],
+      "devotions": [],
+      "prayers": [],
+      "miracles": [],
+      "shrines": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    },
+    "photo": "foto-harissa",
+    "portrait": "retrato-harissa"
+  },
+  {
+    "id": "sh-yamoussoukro",
+    "slug": "basilica-de-nossa-senhora-da-paz",
+    "type": "santuario",
+    "status": "published",
+    "title": "Basílica de Nossa Senhora da Paz (Yamoussoukro)",
+    "summary": "Basílica menor da Costa do Marfim, registrada pelo Guinness como a maior igreja do mundo.",
+    "place": {
+      "locality": "Yamoussoukro",
+      "region": "Lacs",
+      "country": "Costa do Marfim",
+      "iso": "CI",
+      "macro": "África",
+      "coordinates": {
+        "lat": 6.81111,
+        "lon": -5.29694,
+        "verified": true,
+        "sourceId": "wikidata",
+        "precision": "Ponto do santuário ou do lugar, conforme o Wikidata (Q815584: Basilica of Our Lady of Peace of Yamoussoukro); precisão da ordem de dezenas a centenas de metros",
+        "qid": "Q815584"
+      }
+    },
+    "blocks": [
+      {
+        "kind": "historia",
+        "heading": "O que é",
+        "text": "É uma basílica menor dedicada a Nossa Senhora da Paz, em Yamoussoukro, capital administrativa da Costa do Marfim. O Guinness World Records a lista como a maior igreja do mundo, com 30.000 m² de área. O Wikidata registra 1989 como início da obra.",
+        "sources": [
+          "wp-sh-yamoussoukro"
+        ]
+      }
+    ],
+    "decisions": [],
+    "gaps": [
+      "A informação básica vem de uma fonte terciária; falta a fonte oficial do santuário ou da diocese.",
+      "Nenhuma decisão eclesial (título de basílica, coroação, aprovação de culto) foi lida em documento e por isso nenhuma é afirmada.",
+      "A história da devoção e a mensagem atribuída ao lugar ainda não foram pesquisadas em fonte primária."
+    ],
+    "relations": {
+      "titles": [],
+      "articles": [],
+      "celebrations": [],
+      "apparitions": [],
+      "devotions": [],
+      "prayers": [],
+      "miracles": [],
+      "shrines": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    },
+    "photo": "foto-yamoussoukro"
+  },
+  {
+    "id": "sh-notre-dame-afrique",
+    "slug": "basilica-de-nossa-senhora-da-africa",
+    "type": "santuario",
+    "status": "published",
+    "title": "Basílica de Nossa Senhora da África (Argel)",
+    "summary": "Basílica de Argel, origem da devoção moderna a Nossa Senhora da África.",
+    "place": {
+      "locality": "Argel",
+      "region": "Argel",
+      "country": "Argélia",
+      "iso": "DZ",
+      "macro": "África",
+      "coordinates": {
+        "lat": 36.80111,
+        "lon": 3.0425,
+        "verified": true,
+        "sourceId": "wikidata",
+        "precision": "Ponto do santuário ou do lugar, conforme o Wikidata (Q2088381: Basilica of Notre-Dame-d'Afrique); precisão da ordem de dezenas a centenas de metros",
+        "qid": "Q2088381"
+      }
+    },
+    "blocks": [
+      {
+        "kind": "historia",
+        "heading": "O que é",
+        "text": "É uma basílica católica em Argel (Argélia), considerada a origem da devoção moderna a Nossa Senhora da África. O Wikidata registra 2 de julho de 1872 como data de início.",
+        "sources": [
+          "wp-sh-notre-dame-afrique"
+        ]
+      }
+    ],
+    "decisions": [],
+    "gaps": [
+      "A informação básica vem de uma fonte terciária; falta a fonte oficial do santuário ou da diocese.",
+      "Nenhuma decisão eclesial (título de basílica, coroação, aprovação de culto) foi lida em documento e por isso nenhuma é afirmada.",
+      "A história da devoção e a mensagem atribuída ao lugar ainda não foram pesquisadas em fonte primária."
+    ],
+    "relations": {
+      "titles": [],
+      "articles": [],
+      "celebrations": [],
+      "apparitions": [],
+      "devotions": [],
+      "prayers": [],
+      "miracles": [],
+      "shrines": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    },
+    "photo": "foto-notre-dame-afrique"
+  },
+  {
+    "id": "sh-sheshan",
+    "slug": "basilica-de-nossa-senhora-de-sheshan",
+    "type": "santuario",
+    "status": "published",
+    "title": "Basílica de Nossa Senhora de Sheshan (Xangai)",
+    "summary": "Santuário nacional de Maria Auxiliadora perto de Xangai; lugar diferente de Donglü.",
+    "place": {
+      "locality": "Sheshan, Songjiang",
+      "region": "Xangai",
+      "country": "China",
+      "iso": "CN",
+      "macro": "Ásia",
+      "coordinates": {
+        "lat": 31.09499,
+        "lon": 121.19159,
+        "verified": true,
+        "sourceId": "wikidata",
+        "precision": "Ponto do santuário ou do lugar, conforme o Wikidata (Q2330137: Sheshan Basilica); precisão da ordem de dezenas a centenas de metros",
+        "qid": "Q2330137"
+      }
+    },
+    "blocks": [
+      {
+        "kind": "historia",
+        "heading": "O que é",
+        "text": "A Basílica de Santa Maria, Auxílio dos Cristãos, também chamada Santuário Nacional de Nossa Mãe de Sheshan, é um santuário mariano católico em Xangai (China), na colina de Sheshan, no distrito de Songjiang. O Wikidata registra 1925 para a basílica atual. Em 2007, Bento XVI propôs o dia 24 de maio, memória de Nossa Senhora Auxiliadora, venerada em Sheshan, como dia de oração pela Igreja na China. Sheshan e Donglü são lugares diferentes.",
+        "sources": [
+          "wp-sh-sheshan",
+          "bento-xvi-carta-china-2007"
+        ]
+      }
+    ],
+    "decisions": [],
+    "gaps": [
+      "A informação básica vem de uma fonte terciária; falta a fonte oficial do santuário ou da diocese.",
+      "Nenhuma decisão eclesial (título de basílica, coroação, aprovação de culto) foi lida em documento e por isso nenhuma é afirmada.",
+      "A história da devoção e a mensagem atribuída ao lugar ainda não foram pesquisadas em fonte primária."
+    ],
+    "relations": {
+      "titles": [],
+      "articles": [],
+      "celebrations": [],
+      "apparitions": [],
+      "devotions": [],
+      "prayers": [],
+      "miracles": [],
+      "shrines": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    },
+    "photo": "foto-sheshan"
+  },
+  {
+    "id": "sh-antipolo",
+    "slug": "santuario-internacional-de-nossa-senhora-da-paz-e-da-boa-viagem",
+    "type": "santuario",
+    "status": "published",
+    "title": "Santuário Internacional de Nossa Senhora da Paz e da Boa Viagem (Antipolo)",
+    "summary": "Catedral e santuário internacional em Antipolo (Filipinas), onde se venera uma imagem negra de Maria.",
+    "place": {
+      "locality": "Antipolo",
+      "region": "Rizal",
+      "country": "Filipinas",
+      "iso": "PH",
+      "macro": "Ásia",
+      "coordinates": {
+        "lat": 14.5875,
+        "lon": 121.177,
+        "verified": true,
+        "sourceId": "wikidata",
+        "precision": "Ponto do santuário ou do lugar, conforme o Wikidata (Q18138281: Antipolo Cathedral); precisão da ordem de dezenas a centenas de metros",
+        "qid": "Q18138281"
+      }
+    },
+    "blocks": [
+      {
+        "kind": "historia",
+        "heading": "O que é",
+        "text": "É a catedral de Antipolo (Filipinas), também conhecida como Paróquia da Imaculada Conceição. Abriga uma imagem negra de Maria sob o título de Nossa Senhora da Paz e da Boa Viagem. O Wikidata registra 1954 como início do edifício atual.",
+        "sources": [
+          "wp-sh-antipolo"
+        ]
+      }
+    ],
+    "decisions": [],
+    "gaps": [
+      "A informação básica vem de uma fonte terciária; falta a fonte oficial do santuário ou da diocese.",
+      "Nenhuma decisão eclesial (título de basílica, coroação, aprovação de culto) foi lida em documento e por isso nenhuma é afirmada.",
+      "A história da devoção e a mensagem atribuída ao lugar ainda não foram pesquisadas em fonte primária."
+    ],
+    "relations": {
+      "titles": [],
+      "articles": [],
+      "celebrations": [],
+      "apparitions": [],
+      "devotions": [],
+      "prayers": [],
+      "miracles": [],
+      "shrines": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    },
+    "photo": "foto-antipolo",
+    "portrait": "retrato-antipolo"
+  },
+  {
+    "id": "sh-manaoag",
+    "slug": "santuario-de-nossa-senhora-do-santo-rosario-de-manaoag",
+    "type": "santuario",
+    "status": "published",
+    "title": "Santuário de Nossa Senhora do Santo Rosário de Manaoag",
+    "summary": "Imagem venerada de Maria em Manaoag (Filipinas), chamada localmente «Apo Baket».",
+    "place": {
+      "locality": "Manaoag",
+      "region": "Pangasinan",
+      "country": "Filipinas",
+      "iso": "PH",
+      "macro": "Ásia",
+      "coordinates": {
+        "lat": 16.044,
+        "lon": 120.489,
+        "verified": true,
+        "sourceId": "wikidata",
+        "precision": "Ponto do santuário ou do lugar, conforme o Wikidata (Q7110872: Our Lady of Manaoag); precisão da ordem de dezenas a centenas de metros",
+        "qid": "Q7110872"
+      }
+    },
+    "blocks": [
+      {
+        "kind": "historia",
+        "heading": "O que é",
+        "text": "Nossa Senhora do Santo Rosário de Manaoag é uma imagem de Maria venerada em Manaoag, nas Filipinas, vestida com insígnias imperiais e chamada localmente «Apo Baket» (Nobre Senhora). É uma imagem de Maria com o Menino, em marfim e prata.",
+        "sources": [
+          "wp-sh-manaoag"
+        ]
+      }
+    ],
+    "decisions": [],
+    "gaps": [
+      "A informação básica vem de uma fonte terciária; falta a fonte oficial do santuário ou da diocese.",
+      "Nenhuma decisão eclesial (título de basílica, coroação, aprovação de culto) foi lida em documento e por isso nenhuma é afirmada.",
+      "A história da devoção e a mensagem atribuída ao lugar ainda não foram pesquisadas em fonte primária."
+    ],
+    "relations": {
+      "titles": [],
+      "articles": [],
+      "celebrations": [],
+      "apparitions": [],
+      "devotions": [],
+      "prayers": [],
+      "miracles": [],
+      "shrines": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    },
+    "photo": "foto-manaoag",
+    "portrait": "retrato-manaoag"
+  },
+  {
+    "id": "sh-sydney",
+    "slug": "catedral-de-santa-maria",
+    "type": "santuario",
+    "status": "published",
+    "title": "Catedral de Santa Maria (Sydney), Maria Auxiliadora",
+    "summary": "Catedral e basílica menor de Sydney, dedicada a Nossa Senhora Auxiliadora, padroeira da Austrália.",
+    "place": {
+      "locality": "Sydney",
+      "region": "Nova Gales do Sul",
+      "country": "Austrália",
+      "iso": "AU",
+      "macro": "Oceania",
+      "coordinates": {
+        "lat": -33.87111,
+        "lon": 151.21333,
+        "verified": true,
+        "sourceId": "wikidata",
+        "precision": "Ponto do santuário ou do lugar, conforme o Wikidata (Q971514: St Mary’s Cathedral); precisão da ordem de dezenas a centenas de metros",
+        "qid": "Q971514"
+      }
+    },
+    "blocks": [
+      {
+        "kind": "historia",
+        "heading": "O que é",
+        "text": "É a catedral e basílica menor da arquidiocese de Sydney, conhecida como Catedral de Santa Maria. É dedicada à Virgem Maria sob o título de Nossa Senhora Auxiliadora, padroeira da Austrália. O Wikidata registra 1838 como início.",
+        "sources": [
+          "wp-sh-sydney"
+        ]
+      }
+    ],
+    "decisions": [],
+    "gaps": [
+      "A informação básica vem de uma fonte terciária; falta a fonte oficial do santuário ou da diocese.",
+      "Nenhuma decisão eclesial (título de basílica, coroação, aprovação de culto) foi lida em documento e por isso nenhuma é afirmada.",
+      "A história da devoção e a mensagem atribuída ao lugar ainda não foram pesquisadas em fonte primária."
+    ],
+    "relations": {
+      "titles": [],
+      "articles": [],
+      "celebrations": [],
+      "apparitions": [],
+      "devotions": [],
+      "prayers": [],
+      "miracles": [],
+      "shrines": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    },
+    "photo": "foto-sydney"
+  },
+  {
+    "id": "sh-lourdes",
+    "slug": "santuario-de-lourdes",
+    "type": "santuario",
+    "status": "published",
+    "title": "Santuário de Nossa Senhora de Lourdes",
+    "summary": "Santuário em torno da gruta de Massabielle, em Lourdes (França), onde Bernadette Soubirous relatou dezoito aparições em 1858.",
+    "place": {
+      "locality": "Lourdes",
+      "region": "Altos Pireneus",
+      "country": "França",
+      "iso": "FR",
+      "macro": "Europa",
+      "coordinates": {
+        "lat": 43.0976,
+        "lon": -0.05654,
+        "verified": true,
+        "sourceId": "wikidata",
+        "precision": "Santuário de Lourdes, conforme o Wikidata (Q7709620: Sanctuary of Our Lady of Lourdes); precisão da ordem de dezenas a centenas de metros",
+        "qid": "Q7709620"
+      }
+    },
+    "blocks": [
+      {
+        "kind": "relato",
+        "heading": "O lugar",
+        "text": "Segundo o santuário, as aparições relatadas ocorreram entre 11 de fevereiro e 16 de julho de 1858, e Bernadette Soubirous disse ter visto a Mãe de Deus dezoito vezes, na gruta de Massabielle.",
+        "sources": [
+          "lourdes-aparicoes"
+        ]
+      },
+      {
+        "kind": "decisao",
+        "heading": "A decisão do bispo",
+        "text": "Em 18 de janeiro de 1862, o bispo de Tarbes publicou um mandamento reconhecendo as aparições, com apoio em uma comissão de inquérito; segundo o santuário, o mandamento autorizou o culto. A decisão é do bispo diocesano.",
+        "sources": [
+          "lourdes-reconhecimento"
+        ]
+      },
+      {
+        "kind": "historia",
+        "heading": "O exame das curas",
+        "text": "O santuário mantém o Bureau das Constatações Médicas, criado em 1883, que registrou mais de 7.000 dossiês de curas. Quem reconhece publicamente uma cura como milagre é o bispo da diocese da pessoa curada. A lista está em Curas reconhecidas de Lourdes.",
+        "sources": [
+          "lourdes-milagres",
+          "egl-fr-enquete-lourdes"
+        ]
+      }
+    ],
+    "decisions": [],
+    "gaps": [
+      "As decisões estão registradas na página da aparição de Lourdes; esta página só resume o lugar."
+    ],
+    "relations": {
+      "titles": [
+        "tit-lourdes"
+      ],
+      "apparitions": [
+        "apar-lourdes-1858"
+      ],
+      "celebrations": [
+        "cel-lourdes"
+      ],
+      "articles": [],
+      "devotions": [],
+      "prayers": [],
+      "miracles": [],
+      "shrines": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    },
+    "photo": "foto-lourdes"
+  },
+  {
+    "id": "sh-fatima",
+    "slug": "santuario-de-fatima",
+    "type": "santuario",
+    "status": "published",
+    "title": "Santuário de Fátima (Cova da Iria)",
+    "summary": "Santuário em Cova da Iria, na paróquia de Fátima (Portugal), onde três crianças relataram aparições em 1917.",
+    "place": {
+      "locality": "Cova da Iria, Fátima",
+      "region": "Santarém",
+      "country": "Portugal",
+      "iso": "PT",
+      "macro": "Europa",
+      "coordinates": {
+        "lat": 39.63243,
+        "lon": -8.67154,
+        "verified": true,
+        "sourceId": "wikidata",
+        "precision": "Santuário de Fátima, conforme o Wikidata (Q2627029: Sanctuary of Fátima); precisão da ordem de dezenas a centenas de metros",
+        "qid": "Q2627029"
+      }
+    },
+    "blocks": [
+      {
+        "kind": "decisao",
+        "heading": "A decisão do bispo de Leiria",
+        "text": "Em 13 de outubro de 1930, o bispo de Leiria declarou dignas de crédito as visões das crianças na Cova da Iria, paróquia de Fátima, e permitiu oficialmente o culto de Nossa Senhora de Fátima. A decisão é do bispo diocesano, na linguagem da época.",
+        "sources": [
+          "fatima-carta-1930"
+        ]
+      }
+    ],
+    "decisions": [],
+    "gaps": [
+      "A história do santuário (capela, basílica, visitas papais) não foi pesquisada em fonte própria; as decisões estão na página da aparição de Fátima."
+    ],
+    "relations": {
+      "titles": [
+        "tit-fatima"
+      ],
+      "apparitions": [
+        "apar-fatima-1917"
+      ],
+      "celebrations": [
+        "cel-fatima"
+      ],
+      "articles": [],
+      "devotions": [],
+      "prayers": [],
+      "miracles": [],
+      "shrines": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    },
+    "photo": "foto-fatima"
+  }
+]

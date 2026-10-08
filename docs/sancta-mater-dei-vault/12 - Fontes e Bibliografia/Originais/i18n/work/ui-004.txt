@@ -1,0 +1,192 @@
+#84
+es: CC BY 2.0
+en: CC BY 2.0
+fr: CC BY 2.0
+it: CC BY 2.0
+de: CC BY 2.0
+ja: CC BY 2.0
+zh: CC BY 2.0
+#85
+es: CC BY 2.0 (según lo declarado en la página del archivo en Wikimedia Commons)
+en: CC BY 2.0 (as declared on the file page at Wikimedia Commons)
+fr: CC BY 2.0 (telle que déclarée sur la page du fichier sur Wikimedia Commons)
+it: CC BY 2.0 (come dichiarato nella pagina del file su Wikimedia Commons)
+de: CC BY 2.0 (laut Angabe auf der Dateiseite bei Wikimedia Commons)
+ja: CC BY 2.0（ウィキメディア・コモンズのファイルページの表示による）
+zh: CC BY 2.0（依维基共享资源文件页面的声明）
+#86
+es: CC BY 3.0
+en: CC BY 3.0
+fr: CC BY 3.0
+it: CC BY 3.0
+de: CC BY 3.0
+ja: CC BY 3.0
+zh: CC BY 3.0
+#87
+es: CC BY 3.0 (según lo declarado en la página del archivo en Wikimedia Commons)
+en: CC BY 3.0 (as declared on the file page at Wikimedia Commons)
+fr: CC BY 3.0 (telle que déclarée sur la page du fichier sur Wikimedia Commons)
+it: CC BY 3.0 (come dichiarato nella pagina del file su Wikimedia Commons)
+de: CC BY 3.0 (laut Angabe auf der Dateiseite bei Wikimedia Commons)
+ja: CC BY 3.0（ウィキメディア・コモンズのファイルページの表示による）
+zh: CC BY 3.0（依维基共享资源文件页面的声明）
+#88
+es: CC BY-SA 2.0
+en: CC BY-SA 2.0
+fr: CC BY-SA 2.0
+it: CC BY-SA 2.0
+de: CC BY-SA 2.0
+ja: CC BY-SA 2.0
+zh: CC BY-SA 2.0
+#89
+es: CC BY-SA 2.0 (según lo declarado en la página del archivo en Wikimedia Commons)
+en: CC BY-SA 2.0 (as declared on the file page at Wikimedia Commons)
+fr: CC BY-SA 2.0 (telle que déclarée sur la page du fichier sur Wikimedia Commons)
+it: CC BY-SA 2.0 (come dichiarato nella pagina del file su Wikimedia Commons)
+de: CC BY-SA 2.0 (laut Angabe auf der Dateiseite bei Wikimedia Commons)
+ja: CC BY-SA 2.0（ウィキメディア・コモンズのファイルページの表示による）
+zh: CC BY-SA 2.0（依维基共享资源文件页面的声明）
+#90
+es: CC BY-SA 2.5
+en: CC BY-SA 2.5
+fr: CC BY-SA 2.5
+it: CC BY-SA 2.5
+de: CC BY-SA 2.5
+ja: CC BY-SA 2.5
+zh: CC BY-SA 2.5
+#91
+es: CC BY-SA 2.5 (según lo declarado en la página del archivo en Wikimedia Commons)
+en: CC BY-SA 2.5 (as declared on the file page at Wikimedia Commons)
+fr: CC BY-SA 2.5 (telle que déclarée sur la page du fichier sur Wikimedia Commons)
+it: CC BY-SA 2.5 (come dichiarato nella pagina del file su Wikimedia Commons)
+de: CC BY-SA 2.5 (laut Angabe auf der Dateiseite bei Wikimedia Commons)
+ja: CC BY-SA 2.5（ウィキメディア・コモンズのファイルページの表示による）
+zh: CC BY-SA 2.5（依维基共享资源文件页面的声明）
+#92
+es: CC BY-SA 3.0
+en: CC BY-SA 3.0
+fr: CC BY-SA 3.0
+it: CC BY-SA 3.0
+de: CC BY-SA 3.0
+ja: CC BY-SA 3.0
+zh: CC BY-SA 3.0
+#93
+es: CC BY-SA 3.0 (según lo declarado en la página del archivo en Wikimedia Commons)
+en: CC BY-SA 3.0 (as declared on the file page at Wikimedia Commons)
+fr: CC BY-SA 3.0 (telle que déclarée sur la page du fichier sur Wikimedia Commons)
+it: CC BY-SA 3.0 (come dichiarato nella pagina del file su Wikimedia Commons)
+de: CC BY-SA 3.0 (laut Angabe auf der Dateiseite bei Wikimedia Commons)
+ja: CC BY-SA 3.0（ウィキメディア・コモンズのファイルページの表示による）
+zh: CC BY-SA 3.0（依维基共享资源文件页面的声明）
+#94
+es: CC BY-SA 3.0 at
+en: CC BY-SA 3.0 at
+fr: CC BY-SA 3.0 at
+it: CC BY-SA 3.0 at
+de: CC BY-SA 3.0 at
+ja: CC BY-SA 3.0 at
+zh: CC BY-SA 3.0 at
+#95
+es: CC BY-SA 3.0 at (según lo declarado en la página del archivo en Wikimedia Commons)
+en: CC BY-SA 3.0 at (as declared on the file page at Wikimedia Commons)
+fr: CC BY-SA 3.0 at (telle que déclarée sur la page du fichier sur Wikimedia Commons)
+it: CC BY-SA 3.0 at (come dichiarato nella pagina del file su Wikimedia Commons)
+de: CC BY-SA 3.0 at (laut Angabe auf der Dateiseite bei Wikimedia Commons)
+ja: CC BY-SA 3.0 at（ウィキメディア・コモンズのファイルページの表示による）
+zh: CC BY-SA 3.0 at（依维基共享资源文件页面的声明）
+#96
+es: CC BY-SA 3.0 de
+en: CC BY-SA 3.0 de
+fr: CC BY-SA 3.0 de
+it: CC BY-SA 3.0 de
+de: CC BY-SA 3.0 de
+ja: CC BY-SA 3.0 de
+zh: CC BY-SA 3.0 de
+#97
+es: CC BY-SA 3.0 de (según lo declarado en la página del archivo en Wikimedia Commons)
+en: CC BY-SA 3.0 de (as declared on the file page at Wikimedia Commons)
+fr: CC BY-SA 3.0 de (telle que déclarée sur la page du fichier sur Wikimedia Commons)
+it: CC BY-SA 3.0 de (come dichiarato nella pagina del file su Wikimedia Commons)
+de: CC BY-SA 3.0 de (laut Angabe auf der Dateiseite bei Wikimedia Commons)
+ja: CC BY-SA 3.0 de（ウィキメディア・コモンズのファイルページの表示による）
+zh: CC BY-SA 3.0 de（依维基共享资源文件页面的声明）
+#98
+es: CC BY-SA 3.0 pl
+en: CC BY-SA 3.0 pl
+fr: CC BY-SA 3.0 pl
+it: CC BY-SA 3.0 pl
+de: CC BY-SA 3.0 pl
+ja: CC BY-SA 3.0 pl
+zh: CC BY-SA 3.0 pl
+#99
+es: CC BY-SA 3.0 pl (según lo declarado en la página del archivo en Wikimedia Commons)
+en: CC BY-SA 3.0 pl (as declared on the file page at Wikimedia Commons)
+fr: CC BY-SA 3.0 pl (telle que déclarée sur la page du fichier sur Wikimedia Commons)
+it: CC BY-SA 3.0 pl (come dichiarato nella pagina del file su Wikimedia Commons)
+de: CC BY-SA 3.0 pl (laut Angabe auf der Dateiseite bei Wikimedia Commons)
+ja: CC BY-SA 3.0 pl（ウィキメディア・コモンズのファイルページの表示による）
+zh: CC BY-SA 3.0 pl（依维基共享资源文件页面的声明）
+#100
+es: CC BY-SA 4.0
+en: CC BY-SA 4.0
+fr: CC BY-SA 4.0
+it: CC BY-SA 4.0
+de: CC BY-SA 4.0
+ja: CC BY-SA 4.0
+zh: CC BY-SA 4.0
+#101
+es: CC BY-SA 4.0 (según lo declarado en la página del archivo en Wikimedia Commons)
+en: CC BY-SA 4.0 (as declared on the file page at Wikimedia Commons)
+fr: CC BY-SA 4.0 (telle que déclarée sur la page du fichier sur Wikimedia Commons)
+it: CC BY-SA 4.0 (come dichiarato nella pagina del file su Wikimedia Commons)
+de: CC BY-SA 4.0 (laut Angabe auf der Dateiseite bei Wikimedia Commons)
+ja: CC BY-SA 4.0（ウィキメディア・コモンズのファイルページの表示による）
+zh: CC BY-SA 4.0（依维基共享资源文件页面的声明）
+#102
+es: CC0
+en: CC0
+fr: CC0
+it: CC0
+de: CC0
+ja: CC0
+zh: CC0
+#103
+es: CC0 (según lo declarado en la página del archivo en Wikimedia Commons)
+en: CC0 (as declared on the file page at Wikimedia Commons)
+fr: CC0 (telle que déclarée sur la page du fichier sur Wikimedia Commons)
+it: CC0 (come dichiarato nella pagina del file su Wikimedia Commons)
+de: CC0 (laut Angabe auf der Dateiseite bei Wikimedia Commons)
+ja: CC0（ウィキメディア・コモンズのファイルページの表示による）
+zh: CC0（依维基共享资源文件页面的声明）
+#104
+es: CC0 1.0 (Open Access de The Metropolitan Museum of Art)
+en: CC0 1.0 (Open Access, The Metropolitan Museum of Art)
+fr: CC0 1.0 (Open Access du Metropolitan Museum of Art)
+it: CC0 1.0 (Open Access del Metropolitan Museum of Art)
+de: CC0 1.0 (Open Access des Metropolitan Museum of Art)
+ja: CC0 1.0（メトロポリタン美術館オープンアクセス）
+zh: CC0 1.0（大都会艺术博物馆“开放获取”）
+#173
+es: Dominio público (según lo declarado en la página del archivo en Wikimedia Commons)
+en: Public domain (as declared on the file page at Wikimedia Commons)
+fr: Domaine public (telle que déclarée sur la page du fichier sur Wikimedia Commons)
+it: Pubblico dominio (come dichiarato nella pagina del file su Wikimedia Commons)
+de: Gemeinfrei (laut Angabe auf der Dateiseite bei Wikimedia Commons)
+ja: パブリックドメイン（ウィキメディア・コモンズのファイルページの表示による）
+zh: 公有领域（依维基共享资源文件页面的声明）
+#393
+es: Dominio público
+en: Public domain
+fr: Domaine public
+it: Pubblico dominio
+de: Gemeinfrei
+ja: パブリックドメイン
+zh: 公有领域
+#394
+es: Dominio público (según lo declarado en la página del archivo en Wikimedia Commons)
+en: Public domain (as declared on the file page at Wikimedia Commons)
+fr: Domaine public (telle que déclarée sur la page du fichier sur Wikimedia Commons)
+it: Pubblico dominio (come dichiarato nella pagina del file su Wikimedia Commons)
+de: Gemeinfrei (laut Angabe auf der Dateiseite bei Wikimedia Commons)
+ja: パブリックドメイン（ウィキメディア・コモンズのファイルページの表示による）
+zh: 公有领域（依维基共享资源文件页面的声明）

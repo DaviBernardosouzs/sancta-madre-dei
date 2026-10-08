@@ -1,0 +1,175 @@
+@@ celebrations/cel-aparecida
+## title
+Nossa Senhora Aparecida, padroeira do Brasil
+## summary
+Festa da padroeira do Brasil; 12 de outubro é também feriado nacional no Brasil.
+## note
+O grau litúrgico exato no calendário brasileiro não foi conferido nesta edição.
+## calendar
+Calendário no Brasil
+@@ celebrations/cel-guadalupe
+## title
+Nossa Senhora de Guadalupe
+## summary
+Festa de Nossa Senhora de Guadalupe, em 12 de dezembro.
+## note
+A exortação de 1999 acolhe a proposta de celebrar a festa em todo o continente americano; o grau litúrgico em cada país não foi conferido.
+## calendar
+Calendário na América
+@@ celebrations/cel-mae-de-deus
+## title
+Santa Maria, Mãe de Deus
+## summary
+Solenidade que abre o ano civil, em honra da maternidade divina de Maria.
+## note
+Grau conforme a reprodução do Calendário Romano Geral consultada (arquivo anterior a 2018); calendários nacionais e diocesanos podem diferir, por exemplo no Brasil. Confira o calendário do seu lugar.
+## calendar
+Calendário Romano Geral
+@@ celebrations/cel-lourdes
+## title
+Nossa Senhora de Lourdes
+## summary
+Memória facultativa ligada a Lourdes.
+## note
+Grau conforme a reprodução do Calendário Romano Geral consultada (arquivo anterior a 2018); calendários nacionais e diocesanos podem diferir, por exemplo no Brasil. Confira o calendário do seu lugar.
+## calendar
+Calendário Romano Geral
+@@ celebrations/cel-anunciacao
+## title
+Anunciação do Senhor
+## summary
+Solenidade do anúncio do anjo a Maria (Lc 1,26-38); é festa do Senhor com forte dimensão mariana.
+## note
+Grau conforme a reprodução do Calendário Romano Geral consultada (arquivo anterior a 2018); calendários nacionais e diocesanos podem diferir, por exemplo no Brasil. Confira o calendário do seu lugar.
+## calendar
+Calendário Romano Geral
+@@ celebrations/cel-fatima
+## title
+Nossa Senhora de Fátima
+## summary
+Memória facultativa ligada a Fátima.
+## note
+Grau conforme a reprodução do Calendário Romano Geral consultada (arquivo anterior a 2018); calendários nacionais e diocesanos podem diferir, por exemplo no Brasil. Confira o calendário do seu lugar.
+## calendar
+Calendário Romano Geral
+@@ celebrations/cel-visitacao
+## title
+Visitação da Virgem Maria
+## summary
+Festa da visita de Maria a Isabel (Lc 1,39-56).
+## note
+Grau conforme a reprodução do Calendário Romano Geral consultada (arquivo anterior a 2018); calendários nacionais e diocesanos podem diferir, por exemplo no Brasil. Confira o calendário do seu lugar.
+## calendar
+Calendário Romano Geral
+@@ celebrations/cel-carmo
+## title
+Nossa Senhora do Monte Carmelo
+## summary
+Memória facultativa de Maria sob o título do Monte Carmelo.
+## note
+Grau conforme a reprodução do Calendário Romano Geral consultada (arquivo anterior a 2018); calendários nacionais e diocesanos podem diferir, por exemplo no Brasil. Confira o calendário do seu lugar.
+## calendar
+Calendário Romano Geral
+@@ celebrations/cel-joaquim-ana
+## title
+Santos Joaquim e Ana, pais da Virgem Maria
+## summary
+Memória dos pais de Maria, segundo a tradição (não nomeados no Novo Testamento).
+## note
+Grau conforme a reprodução do Calendário Romano Geral consultada (arquivo anterior a 2018); calendários nacionais e diocesanos podem diferir, por exemplo no Brasil. Confira o calendário do seu lugar.
+## calendar
+Calendário Romano Geral
+@@ celebrations/cel-assuncao
+## title
+Assunção da Virgem Maria
+## summary
+Solenidade da Assunção.
+## note
+Grau conforme a reprodução do Calendário Romano Geral consultada (arquivo anterior a 2018); calendários nacionais e diocesanos podem diferir, por exemplo no Brasil. Confira o calendário do seu lugar.
+## calendar
+Calendário Romano Geral
+@@ celebrations/cel-realeza
+## title
+Realeza da Virgem Maria
+## summary
+Memória de Maria como Rainha.
+## note
+Grau conforme a reprodução do Calendário Romano Geral consultada (arquivo anterior a 2018); calendários nacionais e diocesanos podem diferir, por exemplo no Brasil. Confira o calendário do seu lugar.
+## calendar
+Calendário Romano Geral
+@@ celebrations/cel-natividade
+## title
+Natividade da Virgem Maria
+## summary
+Festa do nascimento de Maria.
+## note
+Grau conforme a reprodução do Calendário Romano Geral consultada (arquivo anterior a 2018); calendários nacionais e diocesanos podem diferir, por exemplo no Brasil. Confira o calendário do seu lugar.
+## calendar
+Calendário Romano Geral
+@@ celebrations/cel-nome-de-maria
+## title
+Santíssimo Nome de Maria
+## summary
+Memória facultativa do nome de Maria.
+## note
+Grau conforme a reprodução do Calendário Romano Geral consultada (arquivo anterior a 2018); calendários nacionais e diocesanos podem diferir, por exemplo no Brasil. Confira o calendário do seu lugar.
+## calendar
+Calendário Romano Geral
+@@ celebrations/cel-dores
+## title
+Nossa Senhora das Dores
+## summary
+Memória de Maria junto à cruz de Jesus.
+## note
+Grau conforme a reprodução do Calendário Romano Geral consultada (arquivo anterior a 2018); calendários nacionais e diocesanos podem diferir, por exemplo no Brasil. Confira o calendário do seu lugar.
+## calendar
+Calendário Romano Geral
+@@ celebrations/cel-rosario
+## title
+Nossa Senhora do Rosário
+## summary
+Memória ligada à devoção do Rosário.
+## note
+Grau conforme a reprodução do Calendário Romano Geral consultada (arquivo anterior a 2018); calendários nacionais e diocesanos podem diferir, por exemplo no Brasil. Confira o calendário do seu lugar.
+## calendar
+Calendário Romano Geral
+@@ celebrations/cel-apresentacao
+## title
+Apresentação da Virgem Maria
+## summary
+Memória da apresentação de Maria no Templo.
+## note
+Grau conforme a reprodução do Calendário Romano Geral consultada (arquivo anterior a 2018); calendários nacionais e diocesanos podem diferir, por exemplo no Brasil. Confira o calendário do seu lugar.
+## calendar
+Calendário Romano Geral
+@@ celebrations/cel-imaculada
+## title
+Imaculada Conceição
+## summary
+Solenidade da Imaculada Conceição de Maria.
+## note
+Grau conforme a reprodução do Calendário Romano Geral consultada (arquivo anterior a 2018); calendários nacionais e diocesanos podem diferir, por exemplo no Brasil. Confira o calendário do seu lugar.
+## calendar
+Calendário Romano Geral
+@@ celebrations/cel-imaculado-coracao
+## title
+Imaculado Coração de Maria
+## summary
+Memória celebrada no sábado depois do Sagrado Coração de Jesus.
+## note
+Grau conforme a reprodução do Calendário Romano Geral consultada (arquivo anterior a 2018); calendários nacionais e diocesanos podem diferir, por exemplo no Brasil. Confira o calendário do seu lugar.
+## calendar
+Calendário Romano Geral
+## date.movable
+Sábado depois do Sagrado Coração de Jesus
+@@ celebrations/cel-mae-da-igreja
+## title
+Bem-aventurada Virgem Maria, Mãe da Igreja
+## summary
+Memória instituída pelo papa Francisco em 2018, na segunda-feira depois de Pentecostes.
+## note
+Decreto da Congregação para o Culto Divino e a Disciplina dos Sacramentos, apresentado em 11 de fevereiro de 2018; o texto original do decreto não foi lido, só a notícia oficial.
+## calendar
+Calendário Romano (decreto de 11 de fevereiro de 2018)
+## date.movable
+Segunda-feira depois de Pentecostes

@@ -1,0 +1,27 @@
+# Modelo de conteúdo
+
+Todo registro tem `id` estável (ex.: `apar-lourdes-1858`), `slug`, `status` (`published` ou `draft`), `title`, `summary`, `review` e relações por id. Os campos obrigatórios por tipo são impostos por `scripts/lib/content.mjs`.
+
+## Fontes (`sources.json`)
+`id`, `type` (magisterio, catecismo, escritura, decreto-diocesano, santuario, estudo), `title`, `institution`, `url` (https), `documentDate`, `accessedDate`, `note`, `supports` (as afirmações exatas que a fonte sustenta).
+
+## Blocos de texto
+Cada bloco tem `kind` (escritura, doutrina, historia, tradicao, revelacao-privada, relato, nota), `heading`, `text` e `sources`. Só `nota` (nota editorial) pode ficar sem fonte. O rótulo do tipo aparece sempre em texto na página.
+
+## Aparições
+`place` (nome, localidade, região, país, `coordinates` ou `null`), `period` com `precision` (dia, mes, ano), `people`, `blocks`, `decisions[]`, `gaps[]`, `relations`, `imageIds`.
+Cada decisão: `id`, `date` + `datePrecision`, `authority`, `authorityLevel` (diocesano, conferencia-episcopal, santa-se, papal), `kinds[]` (reconhecimento-da-aparicao, autorizacao-de-culto, nihil-obstat, reconhecimento-de-milagre, avaliacao-medica, outra), `scope` (alcance e limites), `document`, `documentSourceId`, `quote`, `plain` (explicação em linguagem simples), `sources`.
+
+## Milagres
+Três camadas separadas: `event` (acontecimento relatado), `medicalInvestigation`, `ecclesialDecision` (autoridade, data, documento, fontes). Um milagre só pode ser `published` com a decisão completa e fonte. Texto que oriente a interromper tratamento médico reprova o build.
+
+## Devoções e promessas
+`nature` (pratica-de-oracao, mensagem-atribuida, promessa-atribuida), `attribution` (quem, como, limites) e `promises[]`. Cada promessa exige texto, `attributedTo`, `origin`, `natureOfAttribution`, `limits` e fonte, e rejeita linguagem de garantia automática.
+
+## Orações
+`text[]`, `provenance`, `rights`, `sources`.
+
+## Imagens (`images.json`)
+Estrutura `{ images: [...], derived: [...] }`. Cada imagem: `id`, `slug`, `kind` (`obra` ou `documento`), `title`, `titleOriginal`, `author`, `dateText`, `medium`, `dimensions`, `institution`, `accession` e `creditLine` (obras do Met), `origin`, `originUrl`, `license`, `licenseUrl`, `retrievedDate`, `rightsNote`, `alt`, `caption`, `source` (`{type: "met", objectId}` ou `{type: "url", url, file}`), `process` (`trim`, `inset`, `shave`), `focus` (`desktop` e `mobile`, em %), `related` (ids de registros) e `usedFor`. Os recortes em `derived` (`id`, `from`, `crop`, `widths`, `alt`) herdam o crédito da obra de origem.
+
+Registros usam `banner` (id da imagem de abertura) e, nas aparições, `imageIds` (imagens documentais). O build recusa: crédito incompleto, ponto focal ausente, arquivo ou variante inexistente, banner inexistente, obra do Met sem número de acesso.

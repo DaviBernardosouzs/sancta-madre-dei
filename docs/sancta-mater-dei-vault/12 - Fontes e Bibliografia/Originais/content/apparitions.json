@@ -1,0 +1,235 @@
+[
+  {
+    "id": "apar-lourdes-1858",
+    "slug": "lourdes",
+    "type": "aparicao",
+    "status": "published",
+    "title": "Lourdes (França), 1858",
+    "summary": "Entre 11 de fevereiro e 16 de julho de 1858, uma jovem chamada Bernadette Soubirous relatou dezoito aparições da Mãe de Deus na gruta de Massabielle. Em 1862, o bispo local reconheceu as aparições e autorizou o culto.",
+    "place": {
+      "name": "Gruta de Massabielle",
+      "locality": "Lourdes",
+      "region": "Altos Pireneus",
+      "country": "França",
+      "coordinates": null,
+      "coordinatesNote": "Coordenadas ainda não verificadas em fonte consultada; mapa adiado.",
+      "iso": "FR"
+    },
+    "period": {
+      "start": "1858-02-11",
+      "end": "1858-07-16",
+      "precision": "dia"
+    },
+    "people": [
+      {
+        "name": "Bernadette Soubirous",
+        "role": "Jovem que relatou as aparições"
+      }
+    ],
+    "blocks": [
+      {
+        "kind": "relato",
+        "heading": "O que foi relatado",
+        "text": "Segundo o santuário de Lourdes, as aparições ocorreram entre 11 de fevereiro e 16 de julho de 1858, na gruta de Massabielle, e Bernadette Soubirous contemplou a Mãe de Deus dezoito vezes. Na última, em 16 de julho, ela contou que a Virgem não falou e estava mais bela do que nunca.",
+        "sources": [
+          "lourdes-aparicoes"
+        ]
+      },
+      {
+        "kind": "revelacao-privada",
+        "heading": "Palavras atribuídas à Virgem, segundo o relato de Bernadette",
+        "text": "O santuário apresenta estas palavras como relatadas por Bernadette: na 3ª aparição (18 de fevereiro de 1858), «o que tenho a dizer-te não precisa de ser escrito» (em inglês no original consultado: «what I have to say to you does not have to be written down»); depois, «Penitência, penitência, penitência. Rezai pelos pecadores»; na 9ª aparição, o pedido de ir à fonte, beber e lavar-se; na 13ª, o pedido de vir em procissão e de construir uma capela. As traduções para o português são nossas, a partir da página em inglês do santuário.",
+        "sources": [
+          "lourdes-mensagem"
+        ]
+      },
+      {
+        "kind": "historia",
+        "heading": "O inquérito da Igreja",
+        "text": "O reconhecimento apoiou-se no trabalho de uma Comissão de Inquérito constituída em 1858, encarregada de verificar a autenticidade e a natureza dos fatos. Quase quatro anos depois das aparições, em 18 de janeiro de 1862, o Bispo de Tarbes publicou o seu mandamento.",
+        "sources": [
+          "lourdes-reconhecimento"
+        ]
+      },
+      {
+        "kind": "doutrina",
+        "heading": "Como a Igreja entende um acontecimento assim",
+        "text": "Mesmo quando a Igreja reconhece uma aparição, isso não a transforma em parte da Revelação. O Catecismo (§ 67) ensina que as revelações privadas «não pertencem ao depósito da fé» e que o seu papel é ajudar a viver a Revelação de Cristo mais plenamente numa época. Em outras palavras, segundo esse ensino, a fé católica não se apoia em aparições particulares: esta é a leitura do projeto, e não uma citação do Catecismo.",
+        "sources": [
+          "ccc-pt-50-141"
+        ]
+      }
+    ],
+    "decisions": [
+      {
+        "id": "dec-lourdes-1862",
+        "date": "1862-01-18",
+        "datePrecision": "dia",
+        "authority": "Mons. Laurence, Bispo de Tarbes",
+        "authorityLevel": "diocesano",
+        "kinds": [
+          "reconhecimento-da-aparicao",
+          "autorizacao-de-culto"
+        ],
+        "scope": "Decisão de um bispo diocesano (mandamento). Não se trata de um pronunciamento do Dicastério para a Doutrina da Fé; decisões e atos posteriores da Santa Sé sobre Lourdes não foram pesquisados nesta versão.",
+        "document": "Mandamento do Bispo de Tarbes, 18 de janeiro de 1862",
+        "quote": "Nous jugeons que l'Immaculée Marie Mère de Dieu, a réellement apparu à Bernadette Soubirous, le 11 février 1858 et jours suivants, au nombre de dix-huit fois",
+        "quoteLang": "fr",
+        "documentSourceId": "lourdes-reconhecimento",
+        "sourceNote": "A fonte é a página do santuário que cita o mandamento. O texto integral do mandamento ainda precisa ser localizado e lido.",
+        "sources": [
+          "lourdes-reconhecimento"
+        ],
+        "plain": "Em 1862, o bispo da diocese de Tarbes julgou que a Imaculada Maria, Mãe de Deus, realmente apareceu a Bernadette Soubirous, e a decisão autorizou o culto no local. Quem decidiu foi o bispo local, não o Papa. É um reconhecimento de uma revelação privada, que não obriga os fiéis a crer."
+      }
+    ],
+    "gaps": [
+      "Texto integral do mandamento de 1862 não consultado.",
+      "Contexto histórico e social da França de 1858 e estudos acadêmicos sobre Lourdes: pesquisa pendente.",
+      "Coordenadas verificadas da gruta: pendentes."
+    ],
+    "relations": {
+      "titles": [
+        "tit-lourdes",
+        "tit-imaculada-conceicao"
+      ],
+      "devotions": [
+        "dev-mensagem-lourdes",
+        "dev-rosario"
+      ],
+      "miracles": [],
+      "articles": [
+        "fe-imaculada-conceicao",
+        "fe-revelacoes-privadas"
+      ]
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    },
+    "imageIds": [
+      "img-gruta-lourdes"
+    ],
+    "banner": "obra-david-descanso"
+  },
+  {
+    "id": "apar-fatima-1917",
+    "slug": "fatima",
+    "type": "aparicao",
+    "status": "published",
+    "title": "Fátima (Portugal), 1917",
+    "summary": "A partir de 13 de maio de 1917, três crianças relataram aparições na Cova da Iria, na paróquia de Fátima. Em 13 de outubro de 1930, o Bispo de Leiria declarou dignas de crédito as visões e permitiu oficialmente o culto de Nossa Senhora de Fátima.",
+    "place": {
+      "name": "Cova da Iria",
+      "locality": "Fátima",
+      "region": "Santarém (Diocese de Leiria-Fátima)",
+      "country": "Portugal",
+      "coordinates": null,
+      "coordinatesNote": "Coordenadas ainda não verificadas em fonte consultada; mapa adiado.",
+      "iso": "PT"
+    },
+    "period": {
+      "start": "1917-05-13",
+      "end": "1917-10-13",
+      "precision": "dia"
+    },
+    "people": [
+      {
+        "name": "Lúcia (de Jesus)",
+        "role": "Criança vidente; 10 anos em 1917, segundo a carta pastoral de 1930"
+      },
+      {
+        "name": "Francisco",
+        "role": "Criança vidente; 9 anos em 1917, segundo a carta pastoral de 1930"
+      },
+      {
+        "name": "Jacinta",
+        "role": "Criança vidente; 7 anos em 1917, segundo a carta pastoral de 1930"
+      }
+    ],
+    "blocks": [
+      {
+        "kind": "relato",
+        "heading": "O que foi relatado",
+        "text": "Segundo a carta pastoral do Bispo de Leiria, em 13 de maio de 1917 três crianças da paróquia de Fátima, que cuidavam de um rebanho de ovelhas na Cova da Iria, relataram uma aparição. Francisco e Jacinta eram irmãos, e Lúcia era prima deles. A carta fala de seis aparições, uma no dia 13 de cada mês, exceto em agosto.",
+        "sources": [
+          "fatima-carta-1930"
+        ]
+      },
+      {
+        "kind": "historia",
+        "heading": "O fenômeno de 13 de outubro",
+        "text": "A carta pastoral de 1930 refere o fenômeno solar de 13 de outubro de 1917, descrito nos jornais da época, como algo maravilhoso que causou grande impressão. Este site relata o que o documento afirma; não faz, aqui, avaliação científica nem teológica do fenômeno.",
+        "sources": [
+          "fatima-carta-1930"
+        ]
+      },
+      {
+        "kind": "historia",
+        "heading": "O processo canônico",
+        "text": "Por ordem de 6 de maio de 1922, o bispo nomeou uma comissão de sacerdotes para recolher depoimentos livremente. A decisão foi publicada em 13 de outubro de 1930.",
+        "sources": [
+          "fatima-carta-1930"
+        ]
+      },
+      {
+        "kind": "doutrina",
+        "heading": "O lugar das aparições na fé católica",
+        "text": "As aparições aprovadas pela Igreja pertencem ao campo das revelações privadas. O Catecismo (§ 67) afirma que elas não pertencem ao depósito da fé e não completam a Revelação de Cristo.",
+        "sources": [
+          "ccc-pt-50-141"
+        ]
+      }
+    ],
+    "decisions": [
+      {
+        "id": "dec-fatima-1930",
+        "date": "1930-10-13",
+        "datePrecision": "dia",
+        "authority": "Dom José Alves Correia da Silva, Bispo de Leiria",
+        "authorityLevel": "diocesano",
+        "kinds": [
+          "reconhecimento-da-aparicao",
+          "autorizacao-de-culto"
+        ],
+        "scope": "Decisão de um bispo diocesano. A fórmula usada foi declarar 'dignas de crédito' as visões e permitir oficialmente o culto; não é uma declaração de que a Igreja obriga os fiéis a crer, nem um pronunciamento do Dicastério. Atos posteriores da Santa Sé relativos a Fátima não foram pesquisados nesta versão.",
+        "document": "Carta pastoral «A Providência Divina», 13 de outubro de 1930",
+        "quote": "declare as worthy of credence the visions of the children in Cova da Iria, Parish of Fátima",
+        "quoteLang": "en",
+        "documentSourceId": "fatima-carta-1930",
+        "sourceNote": "Tradução inglesa hospedada em site de terceiros; conferir com o original em português.",
+        "sources": [
+          "fatima-carta-1930"
+        ],
+        "plain": "Em 1930, o bispo de Leiria declarou dignas de crédito as visões das três crianças na Cova da Iria e permitiu oficialmente o culto de Nossa Senhora de Fátima. Quem decidiu foi o bispo da diocese, depois de uma comissão ouvir testemunhos. É uma decisão sobre uma revelação privada, que não obriga os fiéis a crer."
+      }
+    ],
+    "gaps": [
+      "Texto original em português da carta de 1930 ainda não conferido.",
+      "Conteúdo das mensagens atribuídas às aparições, outras datas (incluindo agosto) e documentos da Santa Sé: pesquisa pendente.",
+      "Coordenadas verificadas: pendentes."
+    ],
+    "relations": {
+      "titles": [
+        "tit-fatima"
+      ],
+      "devotions": [
+        "dev-rosario"
+      ],
+      "miracles": [],
+      "articles": [
+        "fe-revelacoes-privadas"
+      ]
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    },
+    "imageIds": [
+      "img-criancas-fatima"
+    ],
+    "banner": "obra-david-virgem-paisagem"
+  }
+]

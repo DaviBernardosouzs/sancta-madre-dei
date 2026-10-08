@@ -1,0 +1,384 @@
+{
+  "nodes": [
+    {
+      "id": "bda570b6f2e88b37",
+      "type": "text",
+      "x": 0,
+      "y": -500,
+      "width": 3040,
+      "height": 180,
+      "text": "# Dogmas e doutrina\n\n12 notas · 21 relações documentadas\n\nCada grupo identifica um tipo de conteúdo. As setas conservam as relações existentes; as cores não indicam aprovação eclesial.",
+      "color": "#929AA6"
+    },
+    {
+      "id": "71183a8ab6dfb7b6",
+      "type": "text",
+      "x": 0,
+      "y": -240,
+      "width": 340,
+      "height": 80,
+      "text": "**Aparições** · 1 notas",
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "903493e3dbdcf6e0",
+      "type": "text",
+      "x": 380,
+      "y": -240,
+      "width": 340,
+      "height": 80,
+      "text": "**Títulos marianos** · 2 notas",
+      "color": "#D6A64B"
+    },
+    {
+      "id": "467d351a5e1a760a",
+      "type": "text",
+      "x": 760,
+      "y": -240,
+      "width": 340,
+      "height": 80,
+      "text": "**Dogmas** · 4 notas",
+      "color": "#AF8CE0"
+    },
+    {
+      "id": "bb092e2f41180730",
+      "type": "text",
+      "x": 1140,
+      "y": -240,
+      "width": 340,
+      "height": 80,
+      "text": "**Documentos da Igreja** · 5 notas",
+      "color": "#798DE1"
+    },
+    {
+      "id": "1537752de38c1612",
+      "type": "group",
+      "x": 0,
+      "y": 100,
+      "width": 1440,
+      "height": 500,
+      "label": "Aparições  ·  1 notas",
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "0e677209cc1b4ad5",
+      "type": "file",
+      "file": "02 - Aparições Marianas/Europa/Aparições de Lourdes (1858).md",
+      "x": 40,
+      "y": 180,
+      "width": 400,
+      "height": 300,
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "3f7c29e6f4ad118d",
+      "type": "group",
+      "x": 1560,
+      "y": 100,
+      "width": 1440,
+      "height": 500,
+      "label": "Títulos marianos  ·  2 notas",
+      "color": "#D6A64B"
+    },
+    {
+      "id": "ea057d18cce50175",
+      "type": "file",
+      "file": "03 - Títulos Marianos/Nossa Senhora da Imaculada Conceição.md",
+      "x": 1600,
+      "y": 180,
+      "width": 400,
+      "height": 300,
+      "color": "#D6A64B"
+    },
+    {
+      "id": "505663c03c60017f",
+      "type": "file",
+      "file": "03 - Títulos Marianos/Mãe de Deus (Theotokos).md",
+      "x": 2060,
+      "y": 180,
+      "width": 400,
+      "height": 300,
+      "color": "#D6A64B"
+    },
+    {
+      "id": "47e30338fc7d9436",
+      "type": "group",
+      "x": 0,
+      "y": 720,
+      "width": 1440,
+      "height": 880,
+      "label": "Dogmas  ·  4 notas",
+      "color": "#AF8CE0"
+    },
+    {
+      "id": "cd5ea6d3a0bcce84",
+      "type": "file",
+      "file": "06 - Dogmas e Doutrina/Maternidade divina.md",
+      "x": 40,
+      "y": 800,
+      "width": 400,
+      "height": 300,
+      "color": "#AF8CE0"
+    },
+    {
+      "id": "69d4e5cb5a56128a",
+      "type": "file",
+      "file": "06 - Dogmas e Doutrina/Virgindade perpétua.md",
+      "x": 500,
+      "y": 800,
+      "width": 400,
+      "height": 300,
+      "color": "#AF8CE0"
+    },
+    {
+      "id": "c74430c4b39e5349",
+      "type": "file",
+      "file": "06 - Dogmas e Doutrina/Imaculada Conceição.md",
+      "x": 960,
+      "y": 800,
+      "width": 400,
+      "height": 300,
+      "color": "#AF8CE0"
+    },
+    {
+      "id": "86c11d062eecffc9",
+      "type": "file",
+      "file": "06 - Dogmas e Doutrina/Assunção de Maria.md",
+      "x": 40,
+      "y": 1180,
+      "width": 400,
+      "height": 300,
+      "color": "#AF8CE0"
+    },
+    {
+      "id": "5354b10aea65fed5",
+      "type": "group",
+      "x": 1560,
+      "y": 720,
+      "width": 1440,
+      "height": 880,
+      "label": "Documentos da Igreja  ·  5 notas",
+      "color": "#798DE1"
+    },
+    {
+      "id": "a76e4fe94f1ad4e4",
+      "type": "file",
+      "file": "09 - Documentos da Igreja/Normas de discernimento de fenômenos sobrenaturais (2024).md",
+      "x": 1600,
+      "y": 800,
+      "width": 400,
+      "height": 300,
+      "color": "#798DE1"
+    },
+    {
+      "id": "32f7fcb5cbd8b300",
+      "type": "file",
+      "file": "09 - Documentos da Igreja/Mater Populi fidelis.md",
+      "x": 2060,
+      "y": 800,
+      "width": 400,
+      "height": 300,
+      "color": "#798DE1"
+    },
+    {
+      "id": "f7e16a42691efba2",
+      "type": "file",
+      "file": "09 - Documentos da Igreja/Catecismo da Igreja Católica — referências marianas.md",
+      "x": 2520,
+      "y": 800,
+      "width": 400,
+      "height": 300,
+      "color": "#798DE1"
+    },
+    {
+      "id": "d28ec42f6ce4aeb3",
+      "type": "file",
+      "file": "09 - Documentos da Igreja/Ineffabilis Deus.md",
+      "x": 1600,
+      "y": 1180,
+      "width": 400,
+      "height": 300,
+      "color": "#798DE1"
+    },
+    {
+      "id": "8e443f8b09a96d4a",
+      "type": "file",
+      "file": "09 - Documentos da Igreja/Munificentissimus Deus.md",
+      "x": 2060,
+      "y": 1180,
+      "width": 400,
+      "height": 300,
+      "color": "#798DE1"
+    }
+  ],
+  "edges": [
+    {
+      "id": "7ab424fcc49cd2dc",
+      "fromNode": "0e677209cc1b4ad5",
+      "toNode": "c74430c4b39e5349",
+      "label": "estudos relacionados",
+      "toEnd": "arrow",
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "fc5221a1bc311868",
+      "fromNode": "0e677209cc1b4ad5",
+      "toNode": "c74430c4b39e5349",
+      "label": "mensagem relacionada ao dogma",
+      "toEnd": "arrow",
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "b80c736d1a7f0e07",
+      "fromNode": "0e677209cc1b4ad5",
+      "toNode": "ea057d18cce50175",
+      "label": "titulos relacionados",
+      "toEnd": "arrow",
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "7f51df0646e1aaf8",
+      "fromNode": "86c11d062eecffc9",
+      "toNode": "8e443f8b09a96d4a",
+      "label": "documento de referencia",
+      "toEnd": "arrow",
+      "color": "#AF8CE0"
+    },
+    {
+      "id": "e93a7de77eec8b2a",
+      "fromNode": "86c11d062eecffc9",
+      "toNode": "c74430c4b39e5349",
+      "label": "estudos relacionados",
+      "toEnd": "arrow",
+      "color": "#AF8CE0"
+    },
+    {
+      "id": "7d2147d99cc83093",
+      "fromNode": "c74430c4b39e5349",
+      "toNode": "0e677209cc1b4ad5",
+      "label": "aparicoes relacionadas",
+      "toEnd": "arrow",
+      "color": "#AF8CE0"
+    },
+    {
+      "id": "a53eb39dccabbe1f",
+      "fromNode": "c74430c4b39e5349",
+      "toNode": "d28ec42f6ce4aeb3",
+      "label": "documento de referencia",
+      "toEnd": "arrow",
+      "color": "#AF8CE0"
+    },
+    {
+      "id": "2a281af35fc09e04",
+      "fromNode": "c74430c4b39e5349",
+      "toNode": "86c11d062eecffc9",
+      "label": "estudos relacionados",
+      "toEnd": "arrow",
+      "color": "#AF8CE0"
+    },
+    {
+      "id": "59eac10502e0d8b3",
+      "fromNode": "c74430c4b39e5349",
+      "toNode": "ea057d18cce50175",
+      "label": "titulos relacionados",
+      "toEnd": "arrow",
+      "color": "#AF8CE0"
+    },
+    {
+      "id": "a97004299a4c037a",
+      "fromNode": "cd5ea6d3a0bcce84",
+      "toNode": "f7e16a42691efba2",
+      "label": "documento de referencia",
+      "toEnd": "arrow",
+      "color": "#AF8CE0"
+    },
+    {
+      "id": "1221cff7cb7ffd53",
+      "fromNode": "cd5ea6d3a0bcce84",
+      "toNode": "69d4e5cb5a56128a",
+      "label": "estudos relacionados",
+      "toEnd": "arrow",
+      "color": "#AF8CE0"
+    },
+    {
+      "id": "0b1133ea3601ecd0",
+      "fromNode": "cd5ea6d3a0bcce84",
+      "toNode": "505663c03c60017f",
+      "label": "menciona",
+      "toEnd": "arrow",
+      "color": "#AF8CE0"
+    },
+    {
+      "id": "a2fc94864e65e979",
+      "fromNode": "cd5ea6d3a0bcce84",
+      "toNode": "505663c03c60017f",
+      "label": "titulos relacionados",
+      "toEnd": "arrow",
+      "color": "#AF8CE0"
+    },
+    {
+      "id": "f1edcf07886eaaf7",
+      "fromNode": "69d4e5cb5a56128a",
+      "toNode": "f7e16a42691efba2",
+      "label": "documento de referencia",
+      "toEnd": "arrow",
+      "color": "#AF8CE0"
+    },
+    {
+      "id": "6f67dad2038af02f",
+      "fromNode": "69d4e5cb5a56128a",
+      "toNode": "cd5ea6d3a0bcce84",
+      "label": "estudos relacionados",
+      "toEnd": "arrow",
+      "color": "#AF8CE0"
+    },
+    {
+      "id": "449555028183cd4f",
+      "fromNode": "ea057d18cce50175",
+      "toNode": "0e677209cc1b4ad5",
+      "label": "aparicoes relacionadas",
+      "toEnd": "arrow",
+      "color": "#D6A64B"
+    },
+    {
+      "id": "7a4e628d686455a6",
+      "fromNode": "ea057d18cce50175",
+      "toNode": "c74430c4b39e5349",
+      "label": "estudos relacionados",
+      "toEnd": "arrow",
+      "color": "#D6A64B"
+    },
+    {
+      "id": "1ce497664f78028e",
+      "fromNode": "ea057d18cce50175",
+      "toNode": "c74430c4b39e5349",
+      "label": "expressa dogma",
+      "toEnd": "arrow",
+      "color": "#D6A64B"
+    },
+    {
+      "id": "af4fcb319f7d8e29",
+      "fromNode": "ea057d18cce50175",
+      "toNode": "c74430c4b39e5349",
+      "label": "menciona",
+      "toEnd": "arrow",
+      "color": "#D6A64B"
+    },
+    {
+      "id": "7bb9d67899468a8e",
+      "fromNode": "505663c03c60017f",
+      "toNode": "cd5ea6d3a0bcce84",
+      "label": "estudos relacionados",
+      "toEnd": "arrow",
+      "color": "#D6A64B"
+    },
+    {
+      "id": "ad4a0be5c578d6c7",
+      "fromNode": "505663c03c60017f",
+      "toNode": "cd5ea6d3a0bcce84",
+      "label": "expressa dogma",
+      "toEnd": "arrow",
+      "color": "#D6A64B"
+    }
+  ]
+}

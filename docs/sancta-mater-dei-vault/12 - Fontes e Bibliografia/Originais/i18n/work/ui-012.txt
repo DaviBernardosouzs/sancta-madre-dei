@@ -1,0 +1,24 @@
+#=As afirmações que cada fonte sustenta estão no texto de referência, em português.
+es: Las afirmaciones que respalda cada fuente figuran en el texto de referencia, en portugués.
+en: The claims each source supports are set out in the reference text, in Portuguese.
+fr: Les affirmations qu’appuie chaque source figurent dans le texte de référence, en portugais.
+it: Le affermazioni che ciascuna fonte sostiene si trovano nel testo di riferimento, in portoghese.
+de: Die Aussagen, die jede Quelle stützt, stehen im Referenztext auf Portugiesisch.
+ja: 各出典が裏づける主張は、基準となるポルトガル語の本文に記されています。
+zh: 各项来源所支持的论断，载于作为基准的葡萄牙语原文中。
+#=As traduções para outros idiomas seguem o texto de referência em português e ainda não passaram por revisão de falantes nativos nem por revisão teológica.
+es: Las traducciones a otros idiomas siguen el texto de referencia en portugués y aún no han pasado por una revisión de hablantes nativos ni por una revisión teológica.
+en: Translations into other languages follow the Portuguese reference text and have not yet been reviewed by native speakers or theologically.
+fr: Les traductions dans d’autres langues suivent le texte de référence en portugais et n’ont pas encore fait l’objet d’une relecture par des locuteurs natifs ni d’une relecture théologique.
+it: Le traduzioni in altre lingue seguono il testo di riferimento in portoghese e non hanno ancora ricevuto una revisione da parte di madrelingua né una revisione teologica.
+de: Die Übersetzungen in andere Sprachen folgen dem portugiesischen Referenztext und wurden noch nicht von Muttersprachlern oder theologisch überprüft.
+ja: 他言語への翻訳は、基準となるポルトガル語の本文に沿ったもので、まだネイティブスピーカーによる確認も神学的な確認も受けていません。
+zh: 其他语言的译文以葡萄牙语原文为准，尚未经过母语人士审校，也未经神学审阅。
+#=Esta é uma tradução do texto de referência em português. Ela ainda não passou por revisão de falantes nativos nem por revisão teológica.
+es: Esta es una traducción del texto de referencia en portugués. Aún no ha pasado por una revisión de hablantes nativos ni por una revisión teológica.
+en: This is a translation of the Portuguese reference text. It has not yet been reviewed by native speakers or theologically.
+fr: Ceci est une traduction du texte de référence en portugais. Elle n’a pas encore fait l’objet d’une relecture par des locuteurs natifs ni d’une relecture théologique.
+it: Questa è una traduzione del testo di riferimento in portoghese. Non ha ancora ricevuto una revisione da parte di madrelingua né una revisione teologica.
+de: Dies ist eine Übersetzung des portugiesischen Referenztexts. Sie wurde noch nicht von Muttersprachlern oder theologisch überprüft.
+ja: これは基準となるポルトガル語の本文の翻訳です。まだネイティブスピーカーによる確認も神学的な確認も受けていません。
+zh: 这是葡萄牙语原文的译文，尚未经过母语人士审校，也未经神学审阅。

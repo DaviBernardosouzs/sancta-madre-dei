@@ -1,0 +1,101 @@
+{
+ "rosario": {
+  "steps": [
+   "Haga la señal de la cruz.",
+   "Anuncie el primer misterio del ciclo del día y haga una breve pausa para recordarlo; si lo desea, lea el pasaje bíblico indicado.",
+   "Rece un Padrenuestro.",
+   "Rece diez Avemarías, meditando el misterio.",
+   "Rece el Gloria.",
+   "Repita para cada uno de los cinco misterios del ciclo.",
+   "Al final, se puede rezar la Salve u otra oración mariana."
+  ],
+  "stepsNote": "Estructura de cada misterio según el sitio del Vaticano (anuncio, Padrenuestro, diez Avemarías meditando el misterio, Gloria). El orden exacto de las oraciones iniciales y finales varía entre comunidades y no se ha uniformado aquí con ningún documento; la señal de la cruz inicial y la Salve final son prácticas comunes.",
+  "cycles": [
+   {
+    "name": "Misterios gozosos",
+    "days": "lunes y sábados",
+    "mysteries": [
+     {
+      "name": "La Anunciación a María"
+     },
+     {
+      "name": "La Visitación de Nuestra Señora a su prima Isabel"
+     },
+     {
+      "name": "El Nacimiento de Jesús"
+     },
+     {
+      "name": "La Presentación del Niño Jesús en el Templo"
+     },
+     {
+      "name": "La pérdida y el hallazgo del Niño Jesús en el Templo"
+     }
+    ]
+   },
+   {
+    "name": "Misterios luminosos",
+    "days": "jueves",
+    "mysteries": [
+     {
+      "name": "El Bautismo de Jesús en el Jordán"
+     },
+     {
+      "name": "La autorrevelación de Jesús en las bodas de Caná"
+     },
+     {
+      "name": "El anuncio del Reino de Dios"
+     },
+     {
+      "name": "La Transfiguración de Jesús"
+     },
+     {
+      "name": "La institución de la Eucaristía"
+     }
+    ]
+   },
+   {
+    "name": "Misterios dolorosos",
+    "days": "martes y viernes",
+    "mysteries": [
+     {
+      "name": "La agonía de Jesús en el huerto"
+     },
+     {
+      "name": "La flagelación de Jesús"
+     },
+     {
+      "name": "La coronación de espinas"
+     },
+     {
+      "name": "Jesús con la cruz a cuestas camino del Calvario"
+     },
+     {
+      "name": "La crucifixión y muerte de Jesús"
+     }
+    ]
+   },
+   {
+    "name": "Misterios gloriosos",
+    "days": "miércoles y domingos",
+    "mysteries": [
+     {
+      "name": "La Resurrección de Jesús"
+     },
+     {
+      "name": "La Ascensión de Jesús al cielo"
+     },
+     {
+      "name": "La venida del Espíritu Santo sobre los apóstoles"
+     },
+     {
+      "name": "La Asunción de María"
+     },
+     {
+      "name": "La Coronación de María en el cielo"
+     }
+    ]
+   }
+  ],
+  "_src": "c7ebc875"
+ }
+}

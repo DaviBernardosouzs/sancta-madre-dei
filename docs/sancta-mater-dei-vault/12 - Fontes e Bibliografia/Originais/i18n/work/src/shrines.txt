@@ -1,0 +1,920 @@
+@@ shrines/sh-aparecida
+## title
+Santuário Nacional de Nossa Senhora Aparecida
+## summary
+Maior santuário mariano do Brasil, em Aparecida (SP), onde fica a imagem encontrada em 1717.
+## place.locality
+Aparecida
+## place.region
+São Paulo
+## place.coordinates.precision
+Basílica do Santuário Nacional, conforme o Wikidata (Q2886950: Basilica of the National Shrine of Our Lady of Aparecida); precisão da ordem de dezenas a centenas de metros
+## blocks.0.heading
+A basílica atual
+## blocks.1.heading
+Visitas de papas
+## blocks.0.text
+A pedra fundamental da nova basílica foi lançada em 1946 e a construção efetiva começou em 11 de novembro de 1955; as atividades religiosas passaram em definitivo para ela a partir de 3 de outubro de 1982. A imagem está nessa basílica. João Paulo II a consagrou em 1980, em visita ao santuário.
+## blocks.1.text
+Bento XVI visitou Aparecida em 2007, por ocasião da V Conferência Geral do Episcopado Latino-Americano e Caribenho, e o papa Francisco em julho de 2013.
+## gaps.0
+Número de peregrinos e dimensões da basílica não foram conferidos em fonte lida.
+@@ shrines/sh-guadalupe-mexico
+## title
+Basílica de Nossa Senhora de Guadalupe (Cidade do México)
+## summary
+Basílica no Tepeyac onde está a imagem; João Paulo II a chamou de coração mariano do México e da América.
+## place.locality
+Tepeyac, Cidade do México
+## place.region
+Cidade do México
+## place.coordinates.precision
+Basílica de Guadalupe, conforme o Wikidata (Q305419: Basilica of Our Lady of Guadalupe); precisão da ordem de dezenas a centenas de metros
+## blocks.0.heading
+Um lugar de peregrinação da América
+## blocks.0.text
+Em 2002, na própria basílica, João Paulo II a descreveu como o coração mariano do México e da América.
+## gaps.0
+História das construções sucessivas e número de visitantes não foram pesquisados.
+@@ shrines/sh-donglu
+## title
+Santuário de Donglü (Hebei, China)
+## summary
+Igreja da aldeia de Donglü, perto de Baoding, ligada ao título Nossa Senhora da China.
+## place.locality
+Donglü, distrito de Qingyuan, Baoding
+## place.region
+Hebei
+## place.coordinates.precision
+Aldeia de Donglü, conforme o Wikidata (Q847716: Donglü); precisão da ordem de dezenas a centenas de metros
+## blocks.0.heading
+Lugar
+## blocks.0.text
+Donglü fica no distrito de Qingyuan, na cidade de Baoding, província de Hebei, a cerca de 20 km de Baoding (40 km, segundo outra fonte). Em 2004 noticiou-se que até 7.000 dos cerca de 9.000 moradores eram católicos. A igreja foi reconstruída em 1992 e seu acesso, para peregrinações, é restringido segundo a notícia consultada.
+## gaps.0
+Situação atual de acesso e culto não foi verificada em fonte recente.
+@@ shrines/sh-rue-du-bac
+## title
+Capela de Nossa Senhora da Medalha Milagrosa (Rue du Bac, Paris)
+## summary
+Capela na casa-mãe das Filhas da Caridade, em Paris, ligada ao relato de Catarina Labouré.
+## place.locality
+Paris
+## place.region
+Île-de-France
+## place.coordinates.precision
+Capela da Medalha Milagrosa, conforme o Wikidata (Q769842: Chapel of Our Lady of the Miraculous Medal); precisão da ordem de dezenas a centenas de metros
+## blocks.0.heading
+O que esta página ainda não traz
+## blocks.0.text
+A história da capela, as peregrinações e os atos da Igreja relacionados ao lugar não foram lidos em fonte própria nesta edição. A ligação com a devoção está na página da Medalha Milagrosa.
+@@ shrines/sh-santa-maria-maior
+## title
+Basílica de Santa Maria Maior (Roma)
+## summary
+Basílica papal em Roma, a maior igreja dedicada a Maria na cidade, onde é venerado o ícone Salus Populi Romani.
+## place.locality
+Roma
+## place.region
+Lácio
+## place.coordinates.precision
+Ponto do santuário ou do lugar, conforme o Wikidata (Q186282: Basilica di Santa Maria Maggiore); precisão da ordem de dezenas a centenas de metros
+## blocks.0.heading
+O que é
+## blocks.1.heading
+O ícone Salus Populi Romani
+## blocks.0.text
+Santa Maria Maior é uma basílica papal e uma das sete igrejas de peregrinação de Roma. É a maior igreja mariana de Roma e está dedicada a Maria sob o título de Nossa Senhora das Neves. Fica na Itália, não no Vaticano, mas é propriedade da Santa Sé, segundo o Tratado de Latrão de 1929.
+## blocks.1.text
+O site oficial da basílica diz que a tradição atribui a imagem a São Lucas, evangelista e padroeiro dos pintores. Trata-se de uma tradição devocional, não de dado histórico estabelecido. A tábua é de cedro (117 × 79 cm) e mostra a Virgem em pé, em meia figura, com o Menino. O ícone está hoje na Capela Paulina, mandada construir pelo papa Paulo V (1605 a 1621).
+## gaps.0
+A informação básica vem de uma fonte terciária; falta a fonte oficial do santuário ou da diocese.
+## gaps.1
+Nenhuma decisão eclesial (título de basílica, coroação, aprovação de culto) foi lida em documento e por isso nenhuma é afirmada.
+## gaps.2
+A história da devoção e a mensagem atribuída ao lugar ainda não foram pesquisadas em fonte primária.
+@@ shrines/sh-loreto
+## title
+Santuário da Santa Casa de Loreto
+## summary
+Santuário mariano em Loreto (Itália), que guarda a casa que a tradição liga à Sagrada Família.
+## place.locality
+Loreto
+## place.region
+Marcas
+## place.coordinates.precision
+Ponto do santuário ou do lugar, conforme o Wikidata (Q654996: Pontifical basilica of the Holy House of Loreto); precisão da ordem de dezenas a centenas de metros
+## blocks.0.heading
+A Santa Casa
+## blocks.0.text
+O santuário é conhecido por conservar a casa da Sagrada Família. Lendas piedosas dizem que a casa teria sido levada por seres angélicos de Nazaré até Tersatto (Trsat, na Croácia), depois a Recanati e, por fim, ao local atual. É tradição devocional, e esta página não a apresenta como fato histórico comprovado. O santuário guarda também a imagem de Nossa Senhora de Loreto e tem o título de basílica por privilégio de tempo imemorial.
+## gaps.0
+A informação básica vem de uma fonte terciária; falta a fonte oficial do santuário ou da diocese.
+## gaps.1
+Nenhuma decisão eclesial (título de basílica, coroação, aprovação de culto) foi lida em documento e por isso nenhuma é afirmada.
+## gaps.2
+A história da devoção e a mensagem atribuída ao lugar ainda não foram pesquisadas em fonte primária.
+@@ shrines/sh-notre-dame-paris
+## title
+Catedral de Notre-Dame de Paris
+## summary
+Catedral gótica da arquidiocese de Paris, dedicada à Virgem Maria.
+## place.locality
+Paris
+## place.region
+Île-de-France
+## place.coordinates.precision
+Ponto do santuário ou do lugar, conforme o Wikidata (Q2981: Notre-Dame de Paris); precisão da ordem de dezenas a centenas de metros
+## blocks.0.heading
+O que é
+## blocks.0.text
+Notre-Dame de Paris, chamada simplesmente Notre-Dame (Nossa Senhora), é uma catedral e basílica medieval na Île de la Cité, no 4º distrito de Paris. É a igreja-catedral da arquidiocese de Paris e está dedicada à Virgem Maria. A pedra fundamental é de 1163, segundo o Wikidata, e a catedral é considerada um dos melhores exemplos da arquitetura gótica francesa.
+## gaps.0
+A informação básica vem de uma fonte terciária; falta a fonte oficial do santuário ou da diocese.
+## gaps.1
+Nenhuma decisão eclesial (título de basílica, coroação, aprovação de culto) foi lida em documento e por isso nenhuma é afirmada.
+## gaps.2
+A história da devoção e a mensagem atribuída ao lugar ainda não foram pesquisadas em fonte primária.
+@@ shrines/sh-chartres
+## title
+Catedral de Notre-Dame de Chartres
+## summary
+Catedral gótica dedicada à Virgem Maria, a cerca de 80 km a sudoeste de Paris.
+## place.locality
+Chartres
+## place.region
+Eure-et-Loir
+## place.coordinates.precision
+Ponto do santuário ou do lugar, conforme o Wikidata (Q180274: Notre-Dame de Chartres); precisão da ordem de dezenas a centenas de metros
+## blocks.0.heading
+O que é
+## blocks.0.text
+A catedral de Chartres está dedicada em honra da Virgem Maria (Nossa Senhora) e é sede do bispo de Chartres. Foi construída em grande parte entre 1194 e 1220, no local de pelo menos cinco catedrais anteriores desde a criação da diocese, no século IV. A torre norte é mais recente (1507 a 1513).
+## gaps.0
+A informação básica vem de uma fonte terciária; falta a fonte oficial do santuário ou da diocese.
+## gaps.1
+Nenhuma decisão eclesial (título de basílica, coroação, aprovação de culto) foi lida em documento e por isso nenhuma é afirmada.
+## gaps.2
+A história da devoção e a mensagem atribuída ao lugar ainda não foram pesquisadas em fonte primária.
+@@ shrines/sh-walsingham
+## title
+Santuário de Nossa Senhora de Walsingham
+## summary
+Devoção inglesa ligada a uma visão relatada em 1061; é venerada por católicos, anglicanos de tradição alta e ortodoxos de rito ocidental.
+## place.locality
+Walsingham
+## place.region
+Norfolk
+## blocks.0.heading
+A tradição de Walsingham
+## blocks.0.text
+Segundo a tradição, o título liga-se a uma visão de 1061 de Lady Richeldis de Faverches, nobre anglo-saxã viúva, na aldeia de Walsingham (Norfolk). Na visão, a Virgem lhe teria mostrado a Santa Casa de Nazaré e pedido que fizesse uma réplica, dedicada ao mistério da Anunciação. Trata-se de relato tradicional, sem documento contemporâneo lido nesta edição. O título é venerado por católicos, anglicanos de tradição alta e ortodoxos de rito ocidental, e por isso a devoção é também ecumênica.
+## gaps.0
+A informação básica vem de uma fonte terciária; falta a fonte oficial do santuário ou da diocese.
+## gaps.1
+Nenhuma decisão eclesial (título de basílica, coroação, aprovação de culto) foi lida em documento e por isso nenhuma é afirmada.
+## gaps.2
+A história da devoção e a mensagem atribuída ao lugar ainda não foram pesquisadas em fonte primária.
+@@ shrines/sh-montserrat
+## title
+Abadia de Santa Maria de Montserrat
+## summary
+Abadia beneditina na montanha de Montserrat, que guarda a imagem da Virgem de Montserrat.
+## place.locality
+Monistrol de Montserrat
+## place.region
+Catalunha
+## place.coordinates.precision
+Ponto do santuário ou do lugar, conforme o Wikidata (Q771935: Santa Maria de Montserrat); precisão da ordem de dezenas a centenas de metros
+## blocks.0.heading
+O que é
+## blocks.0.text
+É uma abadia da Ordem de São Bento, na montanha de Montserrat, em Monistrol de Montserrat (Catalunha). Guarda a imagem da Virgem de Montserrat. O mosteiro foi fundado em 1025 e reconstruído entre os séculos XIX e XX. Tem cerca de 70 monges.
+## gaps.0
+A informação básica vem de uma fonte terciária; falta a fonte oficial do santuário ou da diocese.
+## gaps.1
+Nenhuma decisão eclesial (título de basílica, coroação, aprovação de culto) foi lida em documento e por isso nenhuma é afirmada.
+## gaps.2
+A história da devoção e a mensagem atribuída ao lugar ainda não foram pesquisadas em fonte primária.
+@@ shrines/sh-pilar
+## title
+Catedral-Basílica de Nossa Senhora do Pilar (Saragoça)
+## summary
+Catedral-basílica de Saragoça dedicada a Nossa Senhora do Pilar, tida como a primeira igreja dedicada a Maria.
+## place.locality
+Saragoça
+## place.region
+Aragão
+## place.coordinates.precision
+Ponto do santuário ou do lugar, conforme o Wikidata (Q810684: Basilica of Our Lady of the Pillar); precisão da ordem de dezenas a centenas de metros
+## blocks.0.heading
+O que é
+## blocks.0.text
+É uma igreja católica de Saragoça (Aragão) dedicada a Nossa Senhora do Pilar, chamada por João Paulo II de «Mãe dos povos hispânicos». Diz-se que é a primeira igreja dedicada a Maria; essa é uma reputação baseada em tradições locais, e esta página não a trata como fato comprovado. O edifício atual é do século XVII (o Wikidata registra o ano de 1681).
+## gaps.0
+A informação básica vem de uma fonte terciária; falta a fonte oficial do santuário ou da diocese.
+## gaps.1
+Nenhuma decisão eclesial (título de basílica, coroação, aprovação de culto) foi lida em documento e por isso nenhuma é afirmada.
+## gaps.2
+A história da devoção e a mensagem atribuída ao lugar ainda não foram pesquisadas em fonte primária.
+@@ shrines/sh-guadalupe-extremadura
+## title
+Real Mosteiro de Santa Maria de Guadalupe (Extremadura)
+## summary
+Mosteiro real do século XIV em Guadalupe (Espanha), distinto do santuário mexicano de mesmo nome.
+## place.locality
+Guadalupe
+## place.region
+Extremadura
+## place.coordinates.precision
+Ponto do santuário ou do lugar, conforme o Wikidata (Q750248: Royal Monastery of Saint Mary of Guadalupe); precisão da ordem de dezenas a centenas de metros
+## blocks.0.heading
+O que é
+## blocks.0.text
+É um mosteiro católico construído no século XIV, em Guadalupe, na Extremadura (Espanha), ao pé da serra de Las Villuercas. Foi um dos mosteiros mais importantes do país por mais de quatro séculos e a UNESCO o declarou Patrimônio Mundial em 1993. Não é o mesmo lugar nem a mesma devoção da Nossa Senhora de Guadalupe do México, cuja história é diferente.
+## gaps.0
+A informação básica vem de uma fonte terciária; falta a fonte oficial do santuário ou da diocese.
+## gaps.1
+Nenhuma decisão eclesial (título de basílica, coroação, aprovação de culto) foi lida em documento e por isso nenhuma é afirmada.
+## gaps.2
+A história da devoção e a mensagem atribuída ao lugar ainda não foram pesquisadas em fonte primária.
+@@ shrines/sh-covadonga
+## title
+Santa Gruta de Covadonga
+## summary
+Santuário numa gruta das Astúrias dedicado à Virgem de Covadonga.
+## place.locality
+Covadonga (Cangas de Onís)
+## place.region
+Astúrias
+## place.coordinates.precision
+Ponto do santuário ou do lugar, conforme o Wikidata (Q522170: Santa Cueva de Covadonga); precisão da ordem de dezenas a centenas de metros
+## blocks.0.heading
+O que é
+## blocks.0.text
+A Santa Gruta é um santuário católico nas Astúrias, numa gruta nos Picos da Europa, dedicado à Virgem de Covadonga. A tradição histórica espanhola situa ali a primeira batalha da Reconquista, em 718; é um dado de tradição histórica, não abordado em fonte primária nesta edição.
+## gaps.0
+A informação básica vem de uma fonte terciária; falta a fonte oficial do santuário ou da diocese.
+## gaps.1
+Nenhuma decisão eclesial (título de basílica, coroação, aprovação de culto) foi lida em documento e por isso nenhuma é afirmada.
+## gaps.2
+A história da devoção e a mensagem atribuída ao lugar ainda não foram pesquisadas em fonte primária.
+@@ shrines/sh-altotting
+## title
+Santuário de Nossa Senhora de Altötting (Capela da Graça)
+## summary
+Santuário nacional da Baviera, chamado «Lourdes da Alemanha».
+## place.locality
+Altötting
+## place.region
+Baviera
+## place.coordinates.precision
+Ponto do santuário ou do lugar, conforme o Wikidata (Q322678: Our Lady of Altötting); precisão da ordem de dezenas a centenas de metros
+## blocks.0.heading
+O que é
+## blocks.0.text
+O santuário, também chamado Capela da Graça (Gnadenkapelle), é dedicado à Virgem Maria e é o santuário nacional da Baviera. É conhecido pelas muitas curas que se diz terem ocorrido ali e é um dos locais de peregrinação mais importantes e visitados da Europa, chamado às vezes de «Lourdes da Alemanha». As curas são relatos, não casos avaliados nesta edição.
+## gaps.0
+A informação básica vem de uma fonte terciária; falta a fonte oficial do santuário ou da diocese.
+## gaps.1
+Nenhuma decisão eclesial (título de basílica, coroação, aprovação de culto) foi lida em documento e por isso nenhuma é afirmada.
+## gaps.2
+A história da devoção e a mensagem atribuída ao lugar ainda não foram pesquisadas em fonte primária.
+@@ shrines/sh-einsiedeln
+## title
+Abadia de Einsiedeln (Madona Negra)
+## summary
+Mosteiro beneditino suíço, o maior lugar de peregrinação da Suíça, onde se venera a Madona Negra na Capela da Graça.
+## place.locality
+Einsiedeln
+## place.region
+Schwyz
+## place.coordinates.precision
+Ponto do santuário ou do lugar, conforme o Wikidata (Q125072234: Einsiedeln Abbey); precisão da ordem de dezenas a centenas de metros
+## blocks.0.heading
+O que é
+## blocks.0.text
+Einsiedeln é um mosteiro beneditino na vila de Einsiedeln, no cantão de Schwyz. É um dos mais importantes conjuntos monásticos barrocos e o maior lugar de peregrinação da Suíça. A Madona Negra de Einsiedeln, na Capela da Graça, atrai cerca de 800.000 peregrinos e turistas por ano.
+## gaps.0
+A informação básica vem de uma fonte terciária; falta a fonte oficial do santuário ou da diocese.
+## gaps.1
+Nenhuma decisão eclesial (título de basílica, coroação, aprovação de culto) foi lida em documento e por isso nenhuma é afirmada.
+## gaps.2
+A história da devoção e a mensagem atribuída ao lugar ainda não foram pesquisadas em fonte primária.
+@@ shrines/sh-mariazell
+## title
+Basílica de Mariazell (Natividade de Maria)
+## summary
+Basílica austríaca da Natividade da Virgem Maria, principal destino de peregrinação cristã da Áustria.
+## place.locality
+Mariazell
+## place.region
+Estíria
+## place.coordinates.precision
+Ponto do santuário ou do lugar, conforme o Wikidata (Q669743: Mariazell Basilica); precisão da ordem de dezenas a centenas de metros
+## blocks.0.heading
+O que é
+## blocks.0.text
+A basílica de Mariazell, também chamada Basílica da Natividade da Virgem Maria, é uma igreja católica em Mariazell (Áustria). É o mais importante destino de peregrinação cristã do país e um dos santuários mais visitados da Europa. Na igreja é venerada uma imagem de madeira à qual se atribuem milagres: é atribuição devocional, não decisão avaliada nesta edição.
+## gaps.0
+A informação básica vem de uma fonte terciária; falta a fonte oficial do santuário ou da diocese.
+## gaps.1
+Nenhuma decisão eclesial (título de basílica, coroação, aprovação de culto) foi lida em documento e por isso nenhuma é afirmada.
+## gaps.2
+A história da devoção e a mensagem atribuída ao lugar ainda não foram pesquisadas em fonte primária.
+@@ shrines/sh-jasna-gora
+## title
+Santuário de Jasna Góra (Częstochowa)
+## summary
+Mosteiro e santuário mariano da Polônia, onde está o ícone de Nossa Senhora de Częstochowa.
+## place.locality
+Częstochowa
+## place.region
+Silésia
+## place.coordinates.precision
+Ponto do santuário ou do lugar, conforme o Wikidata (Q573920: Jasna Góra Monastery); precisão da ordem de dezenas a centenas de metros
+## blocks.0.heading
+O que é
+## blocks.1.heading
+A visita de João Paulo II em 1979
+## blocks.0.text
+Jasna Góra («Monte Luminoso») é um mosteiro e santuário dedicado à Virgem Maria, em Częstochowa, e um dos principais lugares de peregrinação da Polônia. Guarda o ícone da Madona Negra de Częstochowa, a quem se atribuem poderes milagrosos (atribuição devocional). O Wikidata registra o ano de 1382 para a fundação do mosteiro.
+## blocks.1.text
+Em 4 de junho de 1979, em Jasna Góra, João Paulo II disse que Maria está «especialmente presente» ali, falou de Jasna Góra como «vínculo interior na vida polonesa» e renovou o ato de consagração pronunciado em Jasna Góra em 3 de maio de 1966, no Milênio da Polônia. Ele é um testemunho papal de devoção; não é decisão sobre a imagem.
+## gaps.0
+A informação básica vem de uma fonte terciária; falta a fonte oficial do santuário ou da diocese.
+## gaps.1
+Nenhuma decisão eclesial (título de basílica, coroação, aprovação de culto) foi lida em documento e por isso nenhuma é afirmada.
+## gaps.2
+A história da devoção e a mensagem atribuída ao lugar ainda não foram pesquisadas em fonte primária.
+@@ shrines/sh-lichen
+## title
+Basílica de Nossa Senhora de Licheń
+## summary
+Maior igreja da Polônia, no Santuário de Nossa Senhora das Dores, Rainha da Polônia.
+## place.locality
+Licheń Stary
+## place.region
+Grande Polônia
+## place.coordinates.precision
+Ponto do santuário ou do lugar, conforme o Wikidata (Q810129: Basilica of Our Lady of Licheń); precisão da ordem de dezenas a centenas de metros
+## blocks.0.heading
+O que é
+## blocks.0.text
+É uma igreja católica no Santuário de Nossa Senhora das Dores, Rainha da Polônia, na vila de Licheń Stary, perto de Konin. É a maior igreja da Polônia e uma das maiores do mundo. Foi construída a partir de 1994; o Wikidata registra 12 de junho de 2004 como data do edifício.
+## gaps.0
+A informação básica vem de uma fonte terciária; falta a fonte oficial do santuário ou da diocese.
+## gaps.1
+Nenhuma decisão eclesial (título de basílica, coroação, aprovação de culto) foi lida em documento e por isso nenhuma é afirmada.
+## gaps.2
+A história da devoção e a mensagem atribuída ao lugar ainda não foram pesquisadas em fonte primária.
+@@ shrines/sh-pompeia
+## title
+Santuário Pontifício da Virgem do Rosário de Pompeia
+## summary
+Santuário mariano e basílica menor em Pompeia (Itália), fundado por Bartolo Longo e sua esposa.
+## place.locality
+Pompeia
+## place.region
+Campânia
+## place.coordinates.precision
+Ponto do santuário ou do lugar, conforme o Wikidata (Q980745: Shrine of the Virgin of the Rosary of Pompei); precisão da ordem de dezenas a centenas de metros
+## blocks.0.heading
+O que é
+## blocks.0.text
+É um santuário mariano pontifício, catedral e basílica menor, encomendado e cofundado por Bartolo Longo e sua esposa, a condessa Mariana di Fusco, em Pompeia (Itália). É a sede da Prelazia Territorial de Pompeia. O Wikidata registra o ano de 1876 como início.
+## gaps.0
+A informação básica vem de uma fonte terciária; falta a fonte oficial do santuário ou da diocese.
+## gaps.1
+Nenhuma decisão eclesial (título de basílica, coroação, aprovação de culto) foi lida em documento e por isso nenhuma é afirmada.
+## gaps.2
+A história da devoção e a mensagem atribuída ao lugar ainda não foram pesquisadas em fonte primária.
+@@ shrines/sh-siracusa
+## title
+Santuário de Nossa Senhora das Lágrimas (Siracusa)
+## summary
+Basílica moderna em Siracusa, dedicada à Madonna delle Lacrime (Virgem das Lágrimas).
+## place.locality
+Siracusa
+## place.region
+Sicília
+## place.coordinates.precision
+Ponto do santuário ou do lugar, conforme o Wikidata (Q2223786: Madonna delle Lacrime Sanctuary); precisão da ordem de dezenas a centenas de metros
+## blocks.0.heading
+O que é
+## blocks.0.text
+A Basílica da Madonna delle Lacrime (Santuário da Virgem das Lágrimas) é uma igreja-santuário mariana do século XX, em Siracusa, na Sicília. O edifício moderno domina a paisagem na entrada de Ortigia. O Wikidata registra o ano de 1966 como início. O motivo do título «das Lágrimas» ainda não foi pesquisado em fonte primária.
+## gaps.0
+A informação básica vem de uma fonte terciária; falta a fonte oficial do santuário ou da diocese.
+## gaps.1
+Nenhuma decisão eclesial (título de basílica, coroação, aprovação de culto) foi lida em documento e por isso nenhuma é afirmada.
+## gaps.2
+A história da devoção e a mensagem atribuída ao lugar ainda não foram pesquisadas em fonte primária.
+@@ shrines/sh-fourviere
+## title
+Basílica de Notre-Dame de Fourvière (Lyon)
+## summary
+Basílica menor em Lyon, construída com recursos privados entre 1872 e 1896.
+## place.locality
+Lyon
+## place.region
+Auvérnia-Ródano-Alpes
+## place.coordinates.precision
+Ponto do santuário ou do lugar, conforme o Wikidata (Q1516: Basilica of Notre-Dame de Fourvière); precisão da ordem de dezenas a centenas de metros
+## blocks.0.heading
+O que é
+## blocks.0.text
+É uma basílica menor em Lyon (França), construída com recursos privados entre 1872 e 1896, numa posição dominante sobre a cidade, no lugar do antigo fórum romano de Trajano.
+## gaps.0
+A informação básica vem de uma fonte terciária; falta a fonte oficial do santuário ou da diocese.
+## gaps.1
+Nenhuma decisão eclesial (título de basílica, coroação, aprovação de culto) foi lida em documento e por isso nenhuma é afirmada.
+## gaps.2
+A história da devoção e a mensagem atribuída ao lugar ainda não foram pesquisadas em fonte primária.
+@@ shrines/sh-notre-dame-de-la-garde
+## title
+Basílica de Notre-Dame de la Garde (Marselha)
+## summary
+Basílica de Marselha, conhecida como «la Bonne Mère» (a Boa Mãe), símbolo da cidade.
+## place.locality
+Marselha
+## place.region
+Provença
+## place.coordinates.precision
+Ponto do santuário ou do lugar, conforme o Wikidata (Q975925: Notre-Dame de la Garde); precisão da ordem de dezenas a centenas de metros
+## blocks.0.heading
+O que é
+## blocks.0.text
+Notre-Dame de la Garde (Nossa Senhora da Guarda) é uma basílica católica de Marselha, conhecida pelos marselheses como «la Bonne Mère» e símbolo mais conhecido da cidade. É local de uma popular peregrinação no dia da Assunção e o lugar mais visitado de Marselha.
+## gaps.0
+A informação básica vem de uma fonte terciária; falta a fonte oficial do santuário ou da diocese.
+## gaps.1
+Nenhuma decisão eclesial (título de basílica, coroação, aprovação de culto) foi lida em documento e por isso nenhuma é afirmada.
+## gaps.2
+A história da devoção e a mensagem atribuída ao lugar ainda não foram pesquisadas em fonte primária.
+@@ shrines/sh-sameiro
+## title
+Santuário de Nossa Senhora do Sameiro (Braga)
+## summary
+Santuário mariano de Braga, um dos mais frequentados de Portugal.
+## place.locality
+Braga
+## place.region
+Braga
+## place.coordinates.precision
+Ponto do santuário ou do lugar, conforme o Wikidata (Q7409276: Sanctuary of Our Lady of Sameiro); precisão da ordem de dezenas a centenas de metros
+## blocks.0.heading
+O que é
+## blocks.0.text
+É um santuário mariano em Braga (Portugal), num monte a mais de 350 metros de altitude. Segundo o artigo consultado, é um dos locais de devoção mariana mais frequentados do país, em tamanho ultrapassado só pelo Santuário de Fátima.
+## gaps.0
+A informação básica vem de uma fonte terciária; falta a fonte oficial do santuário ou da diocese.
+## gaps.1
+Nenhuma decisão eclesial (título de basílica, coroação, aprovação de culto) foi lida em documento e por isso nenhuma é afirmada.
+## gaps.2
+A história da devoção e a mensagem atribuída ao lugar ainda não foram pesquisadas em fonte primária.
+@@ shrines/sh-lujan
+## title
+Basílica de Nossa Senhora de Luján
+## summary
+Basílica menor dedicada a Nossa Senhora de Luján, devoção ligada à Argentina.
+## place.locality
+Luján
+## place.region
+Buenos Aires
+## place.coordinates.precision
+Ponto do santuário ou do lugar, conforme o Wikidata (Q2607636: Basilica of Our Lady of Luján); precisão da ordem de dezenas a centenas de metros
+## blocks.0.heading
+O que é
+## blocks.0.text
+É uma basílica menor, em estilo neogótico, construída entre 1890 e 1935 em Luján (província de Buenos Aires). É dedicada a Nossa Senhora de Luján, considerada padroeira da Argentina, e faz parte da arquidiocese de Mercedes-Luján. Os fatos de origem da devoção (a imagem de 1630) não foram lidos em fonte primária, e a página não os narra.
+## gaps.0
+A informação básica vem de uma fonte terciária; falta a fonte oficial do santuário ou da diocese.
+## gaps.1
+Nenhuma decisão eclesial (título de basílica, coroação, aprovação de culto) foi lida em documento e por isso nenhuma é afirmada.
+## gaps.2
+A história da devoção e a mensagem atribuída ao lugar ainda não foram pesquisadas em fonte primária.
+@@ shrines/sh-notre-dame-montreal
+## title
+Basílica de Notre-Dame de Montréal
+## summary
+Basílica menor no centro histórico de Montreal (Canadá), dedicada a Nossa Senhora.
+## place.locality
+Montreal
+## place.region
+Quebec
+## place.coordinates.precision
+Ponto do santuário ou do lugar, conforme o Wikidata (Q887686: Notre-Dame Basilica); precisão da ordem de dezenas a centenas de metros
+## blocks.0.heading
+O que é
+## blocks.0.text
+É uma basílica menor da Igreja Católica no distrito histórico de Old Montreal, em Quebec, no número 110 da rua Notre-Dame Oeste, ao lado do Seminário de Saint-Sulpice. O Wikidata registra 1829 como início.
+## gaps.0
+A informação básica vem de uma fonte terciária; falta a fonte oficial do santuário ou da diocese.
+## gaps.1
+Nenhuma decisão eclesial (título de basílica, coroação, aprovação de culto) foi lida em documento e por isso nenhuma é afirmada.
+## gaps.2
+A história da devoção e a mensagem atribuída ao lugar ainda não foram pesquisadas em fonte primária.
+@@ shrines/sh-washington
+## title
+Basílica do Santuário Nacional da Imaculada Conceição (Washington)
+## summary
+Santuário nacional e basílica menor dos Estados Unidos, dedicado a Maria sob o título de Imaculada Conceição.
+## place.locality
+Washington, D.C.
+## place.region
+Distrito de Colúmbia
+## place.coordinates.precision
+Ponto do santuário ou do lugar, conforme o Wikidata (Q82387: Basilica of the National Shrine of the Immaculate Conception); precisão da ordem de dezenas a centenas de metros
+## blocks.0.heading
+O que é e o que decidiram
+## blocks.0.text
+Segundo o site oficial, o santuário é dedicado a Nossa Senhora da Imaculada Conceição, igreja nacional dos católicos dos EUA. A dedicação do edifício foi em 1959. A conferência episcopal (USCCB) o designou «santuário nacional» e «santuário de oração e peregrinação». Em outubro de 1990, o papa João Paulo II o elevou a basílica menor, reconhecendo sua «importância histórica» e sua «significância como centro de culto e devoção».
+## gaps.0
+A informação básica vem de uma fonte terciária; falta a fonte oficial do santuário ou da diocese.
+## gaps.1
+Nenhuma decisão eclesial (título de basílica, coroação, aprovação de culto) foi lida em documento e por isso nenhuma é afirmada.
+## gaps.2
+A história da devoção e a mensagem atribuída ao lugar ainda não foram pesquisadas em fonte primária.
+@@ shrines/sh-caacupe
+## title
+Catedral-Basílica de Nossa Senhora dos Milagres (Caacupé)
+## summary
+Catedral e basílica de Caacupé (Paraguai), sede da diocese de Caacupé.
+## place.locality
+Caacupé
+## place.region
+Cordillera
+## place.coordinates.precision
+Ponto do santuário ou do lugar, conforme o Wikidata (Q20007903: Cathedral Basilica of Our Lady of Miracles, Caacupé); precisão da ordem de dezenas a centenas de metros
+## blocks.0.heading
+O que é
+## blocks.0.text
+É a catedral da cidade de Caacupé (Paraguai) e sede da diocese de Caacupé, criada como prelazia territorial em 1960 e promovida à situação atual em 1967. Está dedicada a Nossa Senhora dos Milagres. A história da devoção e da imagem ainda não foi lida em fonte própria.
+## gaps.0
+A informação básica vem de uma fonte terciária; falta a fonte oficial do santuário ou da diocese.
+## gaps.1
+Nenhuma decisão eclesial (título de basílica, coroação, aprovação de culto) foi lida em documento e por isso nenhuma é afirmada.
+## gaps.2
+A história da devoção e a mensagem atribuída ao lugar ainda não foram pesquisadas em fonte primária.
+@@ shrines/sh-copacabana
+## title
+Basílica de Nossa Senhora de Copacabana (Bolívia)
+## summary
+Santuário do século XVII na cidade de Copacabana, no lago Titicaca, dedicado a Nossa Senhora de Copacabana.
+## place.locality
+Copacabana
+## place.region
+La Paz
+## place.coordinates.precision
+Ponto do santuário ou do lugar, conforme o Wikidata (Q114211: Copacabana); precisão da ordem de dezenas a centenas de metros
+## blocks.0.heading
+O que é
+## blocks.0.text
+Copacabana é a principal cidade boliviana às margens do lago Titicaca. Tem um grande santuário do século XVII, a Basílica de Nossa Senhora de Copacabana, dedicado a Nossa Senhora de Copacabana, considerada padroeira da Bolívia. As coordenadas referem-se à cidade.
+## gaps.0
+A informação básica vem de uma fonte terciária; falta a fonte oficial do santuário ou da diocese.
+## gaps.1
+Nenhuma decisão eclesial (título de basílica, coroação, aprovação de culto) foi lida em documento e por isso nenhuma é afirmada.
+## gaps.2
+A história da devoção e a mensagem atribuída ao lugar ainda não foram pesquisadas em fonte primária.
+@@ shrines/sh-cartago
+## title
+Basílica de Nossa Senhora dos Anjos (Cartago)
+## summary
+Basílica de Cartago (Costa Rica), dedicada à Virgem dos Anjos, a «Negrita».
+## place.locality
+Cartago
+## place.region
+Cartago
+## place.coordinates.precision
+Ponto do santuário ou do lugar, conforme o Wikidata (Q3445644: Nuestra Señora de los Ángeles); precisão da ordem de dezenas a centenas de metros
+## blocks.0.heading
+O que é
+## blocks.0.text
+É uma basílica católica em Cartago (Costa Rica), dedicada à Virgem de los Ángeles, chamada também Virgen de los Pardos. A primeira construção é de 1639 e foi parcialmente destruída por um terremoto; a basílica atual, restaurada, mistura estilos coloniais e outros. O Wikidata registra 1924 para o edifício atual.
+## gaps.0
+A informação básica vem de uma fonte terciária; falta a fonte oficial do santuário ou da diocese.
+## gaps.1
+Nenhuma decisão eclesial (título de basílica, coroação, aprovação de culto) foi lida em documento e por isso nenhuma é afirmada.
+## gaps.2
+A história da devoção e a mensagem atribuída ao lugar ainda não foram pesquisadas em fonte primária.
+@@ shrines/sh-belem-nazare
+## title
+Basílica Santuário de Nossa Senhora de Nazaré (Belém)
+## summary
+Basílica menor de Belém (Pará), construída no lugar em que a imagem de Nossa Senhora de Nazaré teria sido encontrada.
+## place.locality
+Belém
+## place.region
+Pará
+## place.coordinates.precision
+Ponto do santuário ou do lugar, conforme o Wikidata (Q9650874: Basilica of Our Lady of Nazareth of Exile); precisão da ordem de dezenas a centenas de metros
+## blocks.0.heading
+O que é
+## blocks.0.text
+É uma basílica menor de Belém do Pará. A construção começou em 1909 no lugar em que a imagem de Nossa Senhora de Nazaré foi encontrada por Plácido José de Souza, cuja origem é controversa, com versões diferentes. A página não narra o achado, e a história da devoção ainda não foi lida em fonte própria.
+## gaps.0
+A informação básica vem de uma fonte terciária; falta a fonte oficial do santuário ou da diocese.
+## gaps.1
+Nenhuma decisão eclesial (título de basílica, coroação, aprovação de culto) foi lida em documento e por isso nenhuma é afirmada.
+## gaps.2
+A história da devoção e a mensagem atribuída ao lugar ainda não foram pesquisadas em fonte primária.
+@@ shrines/sh-suyapa
+## title
+Basílica de Nossa Senhora de Suyapa (Tegucigalpa)
+## summary
+Basílica em Tegucigalpa que guarda a pequena imagem de Nossa Senhora de Suyapa.
+## place.locality
+Tegucigalpa
+## place.region
+Francisco Morazán
+## place.coordinates.precision
+Ponto do santuário ou do lugar, conforme o Wikidata (Q1970130: Virgin of Suyapa); precisão da ordem de dezenas a centenas de metros
+## blocks.0.heading
+O que é
+## blocks.0.text
+A imagem de Nossa Senhora de Suyapa é uma estátua pequena (6 cm) de cedro, do século XVIII, guardada na Basílica de Suyapa, em Tegucigalpa. Muitos fazem peregrinação em 3 de fevereiro, data que lembra o dia em que ela teria sido encontrada. A história do achado não foi lida em fonte própria.
+## gaps.0
+A informação básica vem de uma fonte terciária; falta a fonte oficial do santuário ou da diocese.
+## gaps.1
+Nenhuma decisão eclesial (título de basílica, coroação, aprovação de culto) foi lida em documento e por isso nenhuma é afirmada.
+## gaps.2
+A história da devoção e a mensagem atribuída ao lugar ainda não foram pesquisadas em fonte primária.
+@@ shrines/sh-altagracia
+## title
+Basílica-Catedral de Nossa Senhora da Altagracia (Higüey)
+## summary
+Basílica menor e catedral de Higüey, dedicada a Nossa Senhora da Altagracia, padroeira do país.
+## place.locality
+Salvaleón de Higüey
+## place.region
+La Altagracia
+## place.coordinates.precision
+Ponto do santuário ou do lugar, conforme o Wikidata (Q4868422: Basílica Catedral Nuestra Señora de la Altagracia); precisão da ordem de dezenas a centenas de metros
+## blocks.0.heading
+O que é
+## blocks.0.text
+É uma basílica menor e catedral na República Dominicana, em Salvaleón de Higüey, dedicada a Nossa Senhora da Altagracia, considerada padroeira da nação, e sede da diocese de Higüey. O Wikidata registra o ano de 1970 para o edifício.
+## gaps.0
+A informação básica vem de uma fonte terciária; falta a fonte oficial do santuário ou da diocese.
+## gaps.1
+Nenhuma decisão eclesial (título de basílica, coroação, aprovação de culto) foi lida em documento e por isso nenhuma é afirmada.
+## gaps.2
+A história da devoção e a mensagem atribuída ao lugar ainda não foram pesquisadas em fonte primária.
+@@ shrines/sh-nazare-anunciacao
+## title
+Basílica da Anunciação (Nazaré)
+## summary
+Igreja católica em Nazaré, uma das duas que reivindicam o lugar da Anunciação.
+## place.locality
+Nazaré
+## place.region
+Distrito Norte
+## place.coordinates.precision
+Ponto do santuário ou do lugar, conforme o Wikidata (Q130815: Basilica of the Annunciation); precisão da ordem de dezenas a centenas de metros
+## blocks.0.heading
+O que é
+## blocks.0.text
+É uma igreja católica em Nazaré, no norte de Israel. É uma de duas igrejas que reivindicam o lugar da Anunciação, o episódio em que o anjo Gabriel anunciou a Maria que ela daria à luz Jesus (Lc 1,26-38). O Wikidata registra 1969 como data do edifício atual. A página não afirma qual das duas igrejas é o lugar histórico.
+## gaps.0
+A informação básica vem de uma fonte terciária; falta a fonte oficial do santuário ou da diocese.
+## gaps.1
+Nenhuma decisão eclesial (título de basílica, coroação, aprovação de culto) foi lida em documento e por isso nenhuma é afirmada.
+## gaps.2
+A história da devoção e a mensagem atribuída ao lugar ainda não foram pesquisadas em fonte primária.
+@@ shrines/sh-tumba-maria
+## title
+Igreja do Sepulcro de Santa Maria (Jerusalém)
+## summary
+Igreja construída em torno de um túmulo antigo escavado na rocha, no vale do Cedron, venerado como túmulo de Maria.
+## place.locality
+Jerusalém
+## place.region
+Vale do Cedron
+## place.coordinates.precision
+Ponto do santuário ou do lugar, conforme o Wikidata (Q968028: Tomb of the Virgin Mary); precisão da ordem de dezenas a centenas de metros
+## blocks.0.heading
+O que é
+## blocks.0.text
+É uma igreja cristã construída em torno de um antigo túmulo escavado na rocha, no vale do Cedron, ao pé do Monte das Oliveiras, também chamada Igreja da Assunção. Segundo a Enciclopédia Católica (1912), o túmulo de Maria é venerado ali; o artigo registra que, desde o século V, há notícia de peregrinos que visitaram «o túmulo da Virgem no vale de Josafá». O mesmo artigo diz que obras apócrifas dos séculos II a IV favorecem a tradição de Jerusalém e que escritores modernos sustentam que Maria morreu e foi sepultada em Éfeso. A questão é debatida (ver a página sobre a Dormição e Assunção).
+## gaps.0
+A informação básica vem de uma fonte terciária; falta a fonte oficial do santuário ou da diocese.
+## gaps.1
+Nenhuma decisão eclesial (título de basílica, coroação, aprovação de culto) foi lida em documento e por isso nenhuma é afirmada.
+## gaps.2
+A história da devoção e a mensagem atribuída ao lugar ainda não foram pesquisadas em fonte primária.
+@@ shrines/sh-efeso
+## title
+Casa de Maria (Meryem Ana Evi), Éfeso
+## summary
+Santuário católico no Monte Koressos, perto de Éfeso, ligado a uma tradição que situa ali os últimos anos de Maria.
+## place.locality
+Selçuk (Éfeso)
+## place.region
+Esmirna
+## place.coordinates.precision
+Ponto do santuário ou do lugar, conforme o Wikidata (Q135779: House of the Virgin Mary); precisão da ordem de dezenas a centenas de metros
+## blocks.0.heading
+O que é
+## blocks.1.heading
+Visitas de papas
+## blocks.0.text
+A Casa da Virgem Maria (Meryemana Evi) é um santuário católico no Monte Koressos (Bülbüldağı), a cerca de 7 km de Selçuk, na Turquia, perto de Éfeso. A casa foi descoberta no século XIX seguindo as descrições nas visões relatadas pela beata Anne Catherine Emmerich (1774-1824), religiosa alemã. Por isso a localização se apoia em um relato de visões, não em documento antigo. A Enciclopédia Católica (1912) registra que nunca houve tradição antiga que ligasse a morte e o sepultamento de Maria a Éfeso, e que a localização aparece nas meditações de Emmerich, publicadas em 1852.
+## blocks.1.text
+Segundo a homilia de Bento XVI em 2006 diante do santuário, os papas Paulo VI e João Paulo II visitaram o santuário como peregrinos; João Paulo II em 30 de novembro de 1979. Éfeso também é o lugar do Concílio ecumênico de 431, que proclamou a maternidade divina de Maria.
+## gaps.0
+A informação básica vem de uma fonte terciária; falta a fonte oficial do santuário ou da diocese.
+## gaps.1
+Nenhuma decisão eclesial (título de basílica, coroação, aprovação de culto) foi lida em documento e por isso nenhuma é afirmada.
+## gaps.2
+A história da devoção e a mensagem atribuída ao lugar ainda não foram pesquisadas em fonte primária.
+@@ shrines/sh-harissa
+## title
+Santuário de Nossa Senhora do Líbano (Harissa)
+## summary
+Santuário mariano e lugar de peregrinação em Harissa, no Líbano, ligado ao Patriarcado Maronita.
+## place.locality
+Harissa
+## place.region
+Monte Líbano
+## place.coordinates.precision
+Ponto do santuário ou do lugar, conforme o Wikidata (Q2898390: Our Lady of Lebanon); precisão da ordem de dezenas a centenas de metros
+## blocks.0.heading
+O que é
+## blocks.0.text
+O Santuário de Nossa Senhora do Líbano (Harissa) é um santuário mariano e lugar de peregrinação na vila de Harissa, no Líbano. Pertence ao Patriarcado Maronita, que confiou a administração à Congregação dos Missionários Libaneses Maronitas desde a fundação, em 1904.
+## gaps.0
+A informação básica vem de uma fonte terciária; falta a fonte oficial do santuário ou da diocese.
+## gaps.1
+Nenhuma decisão eclesial (título de basílica, coroação, aprovação de culto) foi lida em documento e por isso nenhuma é afirmada.
+## gaps.2
+A história da devoção e a mensagem atribuída ao lugar ainda não foram pesquisadas em fonte primária.
+@@ shrines/sh-yamoussoukro
+## title
+Basílica de Nossa Senhora da Paz (Yamoussoukro)
+## summary
+Basílica menor da Costa do Marfim, registrada pelo Guinness como a maior igreja do mundo.
+## place.locality
+Yamoussoukro
+## place.region
+Lacs
+## place.coordinates.precision
+Ponto do santuário ou do lugar, conforme o Wikidata (Q815584: Basilica of Our Lady of Peace of Yamoussoukro); precisão da ordem de dezenas a centenas de metros
+## blocks.0.heading
+O que é
+## blocks.0.text
+É uma basílica menor dedicada a Nossa Senhora da Paz, em Yamoussoukro, capital administrativa da Costa do Marfim. O Guinness World Records a lista como a maior igreja do mundo, com 30.000 m² de área. O Wikidata registra 1989 como início da obra.
+## gaps.0
+A informação básica vem de uma fonte terciária; falta a fonte oficial do santuário ou da diocese.
+## gaps.1
+Nenhuma decisão eclesial (título de basílica, coroação, aprovação de culto) foi lida em documento e por isso nenhuma é afirmada.
+## gaps.2
+A história da devoção e a mensagem atribuída ao lugar ainda não foram pesquisadas em fonte primária.
+@@ shrines/sh-notre-dame-afrique
+## title
+Basílica de Nossa Senhora da África (Argel)
+## summary
+Basílica de Argel, origem da devoção moderna a Nossa Senhora da África.
+## place.locality
+Argel
+## place.region
+Argel
+## place.coordinates.precision
+Ponto do santuário ou do lugar, conforme o Wikidata (Q2088381: Basilica of Notre-Dame-d'Afrique); precisão da ordem de dezenas a centenas de metros
+## blocks.0.heading
+O que é
+## blocks.0.text
+É uma basílica católica em Argel (Argélia), considerada a origem da devoção moderna a Nossa Senhora da África. O Wikidata registra 2 de julho de 1872 como data de início.
+## gaps.0
+A informação básica vem de uma fonte terciária; falta a fonte oficial do santuário ou da diocese.
+## gaps.1
+Nenhuma decisão eclesial (título de basílica, coroação, aprovação de culto) foi lida em documento e por isso nenhuma é afirmada.
+## gaps.2
+A história da devoção e a mensagem atribuída ao lugar ainda não foram pesquisadas em fonte primária.
+@@ shrines/sh-sheshan
+## title
+Basílica de Nossa Senhora de Sheshan (Xangai)
+## summary
+Santuário nacional de Maria Auxiliadora perto de Xangai; lugar diferente de Donglü.
+## place.locality
+Sheshan, Songjiang
+## place.region
+Xangai
+## place.coordinates.precision
+Ponto do santuário ou do lugar, conforme o Wikidata (Q2330137: Sheshan Basilica); precisão da ordem de dezenas a centenas de metros
+## blocks.0.heading
+O que é
+## blocks.0.text
+A Basílica de Santa Maria, Auxílio dos Cristãos, também chamada Santuário Nacional de Nossa Mãe de Sheshan, é um santuário mariano católico em Xangai (China), na colina de Sheshan, no distrito de Songjiang. O Wikidata registra 1925 para a basílica atual. Em 2007, Bento XVI propôs o dia 24 de maio, memória de Nossa Senhora Auxiliadora, venerada em Sheshan, como dia de oração pela Igreja na China. Sheshan e Donglü são lugares diferentes.
+## gaps.0
+A informação básica vem de uma fonte terciária; falta a fonte oficial do santuário ou da diocese.
+## gaps.1
+Nenhuma decisão eclesial (título de basílica, coroação, aprovação de culto) foi lida em documento e por isso nenhuma é afirmada.
+## gaps.2
+A história da devoção e a mensagem atribuída ao lugar ainda não foram pesquisadas em fonte primária.
+@@ shrines/sh-antipolo
+## title
+Santuário Internacional de Nossa Senhora da Paz e da Boa Viagem (Antipolo)
+## summary
+Catedral e santuário internacional em Antipolo (Filipinas), onde se venera uma imagem negra de Maria.
+## place.locality
+Antipolo
+## place.region
+Rizal
+## place.coordinates.precision
+Ponto do santuário ou do lugar, conforme o Wikidata (Q18138281: Antipolo Cathedral); precisão da ordem de dezenas a centenas de metros
+## blocks.0.heading
+O que é
+## blocks.0.text
+É a catedral de Antipolo (Filipinas), também conhecida como Paróquia da Imaculada Conceição. Abriga uma imagem negra de Maria sob o título de Nossa Senhora da Paz e da Boa Viagem. O Wikidata registra 1954 como início do edifício atual.
+## gaps.0
+A informação básica vem de uma fonte terciária; falta a fonte oficial do santuário ou da diocese.
+## gaps.1
+Nenhuma decisão eclesial (título de basílica, coroação, aprovação de culto) foi lida em documento e por isso nenhuma é afirmada.
+## gaps.2
+A história da devoção e a mensagem atribuída ao lugar ainda não foram pesquisadas em fonte primária.
+@@ shrines/sh-manaoag
+## title
+Santuário de Nossa Senhora do Santo Rosário de Manaoag
+## summary
+Imagem venerada de Maria em Manaoag (Filipinas), chamada localmente «Apo Baket».
+## place.locality
+Manaoag
+## place.region
+Pangasinan
+## place.coordinates.precision
+Ponto do santuário ou do lugar, conforme o Wikidata (Q7110872: Our Lady of Manaoag); precisão da ordem de dezenas a centenas de metros
+## blocks.0.heading
+O que é
+## blocks.0.text
+Nossa Senhora do Santo Rosário de Manaoag é uma imagem de Maria venerada em Manaoag, nas Filipinas, vestida com insígnias imperiais e chamada localmente «Apo Baket» (Nobre Senhora). É uma imagem de Maria com o Menino, em marfim e prata.
+## gaps.0
+A informação básica vem de uma fonte terciária; falta a fonte oficial do santuário ou da diocese.
+## gaps.1
+Nenhuma decisão eclesial (título de basílica, coroação, aprovação de culto) foi lida em documento e por isso nenhuma é afirmada.
+## gaps.2
+A história da devoção e a mensagem atribuída ao lugar ainda não foram pesquisadas em fonte primária.
+@@ shrines/sh-sydney
+## title
+Catedral de Santa Maria (Sydney), Maria Auxiliadora
+## summary
+Catedral e basílica menor de Sydney, dedicada a Nossa Senhora Auxiliadora, padroeira da Austrália.
+## place.locality
+Sydney
+## place.region
+Nova Gales do Sul
+## place.coordinates.precision
+Ponto do santuário ou do lugar, conforme o Wikidata (Q971514: St Mary’s Cathedral); precisão da ordem de dezenas a centenas de metros
+## blocks.0.heading
+O que é
+## blocks.0.text
+É a catedral e basílica menor da arquidiocese de Sydney, conhecida como Catedral de Santa Maria. É dedicada à Virgem Maria sob o título de Nossa Senhora Auxiliadora, padroeira da Austrália. O Wikidata registra 1838 como início.
+## gaps.0
+A informação básica vem de uma fonte terciária; falta a fonte oficial do santuário ou da diocese.
+## gaps.1
+Nenhuma decisão eclesial (título de basílica, coroação, aprovação de culto) foi lida em documento e por isso nenhuma é afirmada.
+## gaps.2
+A história da devoção e a mensagem atribuída ao lugar ainda não foram pesquisadas em fonte primária.
+@@ shrines/sh-lourdes
+## title
+Santuário de Nossa Senhora de Lourdes
+## summary
+Santuário em torno da gruta de Massabielle, em Lourdes (França), onde Bernadette Soubirous relatou dezoito aparições em 1858.
+## place.locality
+Lourdes
+## place.region
+Altos Pireneus
+## place.coordinates.precision
+Santuário de Lourdes, conforme o Wikidata (Q7709620: Sanctuary of Our Lady of Lourdes); precisão da ordem de dezenas a centenas de metros
+## blocks.0.heading
+O lugar
+## blocks.1.heading
+A decisão do bispo
+## blocks.2.heading
+O exame das curas
+## blocks.0.text
+Segundo o santuário, as aparições relatadas ocorreram entre 11 de fevereiro e 16 de julho de 1858, e Bernadette Soubirous disse ter visto a Mãe de Deus dezoito vezes, na gruta de Massabielle.
+## blocks.1.text
+Em 18 de janeiro de 1862, o bispo de Tarbes publicou um mandamento reconhecendo as aparições, com apoio em uma comissão de inquérito; segundo o santuário, o mandamento autorizou o culto. A decisão é do bispo diocesano.
+## blocks.2.text
+O santuário mantém o Bureau das Constatações Médicas, criado em 1883, que registrou mais de 7.000 dossiês de curas. Quem reconhece publicamente uma cura como milagre é o bispo da diocese da pessoa curada. A lista está em Curas reconhecidas de Lourdes.
+## gaps.0
+As decisões estão registradas na página da aparição de Lourdes; esta página só resume o lugar.
+@@ shrines/sh-fatima
+## title
+Santuário de Fátima (Cova da Iria)
+## summary
+Santuário em Cova da Iria, na paróquia de Fátima (Portugal), onde três crianças relataram aparições em 1917.
+## place.locality
+Cova da Iria, Fátima
+## place.region
+Santarém
+## place.coordinates.precision
+Santuário de Fátima, conforme o Wikidata (Q2627029: Sanctuary of Fátima); precisão da ordem de dezenas a centenas de metros
+## blocks.0.heading
+A decisão do bispo de Leiria
+## blocks.0.text
+Em 13 de outubro de 1930, o bispo de Leiria declarou dignas de crédito as visões das crianças na Cova da Iria, paróquia de Fátima, e permitiu oficialmente o culto de Nossa Senhora de Fátima. A decisão é do bispo diocesano, na linguagem da época.
+## gaps.0
+A história do santuário (capela, basílica, visitas papais) não foi pesquisada em fonte própria; as decisões estão na página da aparição de Fátima.

@@ -1,0 +1,101 @@
+{
+ "rosario": {
+  "steps": [
+   "Make the Sign of the Cross.",
+   "Announce the first mystery of the day's cycle and pause briefly to recall it; if you wish, read the biblical passage indicated.",
+   "Pray an Our Father.",
+   "Pray ten Hail Marys, meditating on the mystery.",
+   "Pray the Glory Be.",
+   "Repeat for each of the five mysteries of the cycle.",
+   "At the end, you may pray the Hail, Holy Queen or another Marian prayer."
+  ],
+  "stepsNote": "Structure of each mystery as on the Vatican website (announcement, Our Father, ten Hail Marys meditating on the mystery, Glory Be). The exact order of the opening and closing prayers varies between communities and has not been standardized here by any document; the opening Sign of the Cross and the closing Hail, Holy Queen are common practices.",
+  "cycles": [
+   {
+    "name": "Joyful Mysteries",
+    "days": "Mondays and Saturdays",
+    "mysteries": [
+     {
+      "name": "The Annunciation to Mary"
+     },
+     {
+      "name": "The Visitation of Our Lady to her cousin Elizabeth"
+     },
+     {
+      "name": "The Birth of Jesus"
+     },
+     {
+      "name": "The Presentation of the Child Jesus in the Temple"
+     },
+     {
+      "name": "The Loss and Finding of the Child Jesus in the Temple"
+     }
+    ]
+   },
+   {
+    "name": "Luminous Mysteries",
+    "days": "Thursdays",
+    "mysteries": [
+     {
+      "name": "The Baptism of Jesus in the Jordan"
+     },
+     {
+      "name": "Jesus' self-revelation at the Wedding at Cana"
+     },
+     {
+      "name": "The Proclamation of the Kingdom of God"
+     },
+     {
+      "name": "The Transfiguration of Jesus"
+     },
+     {
+      "name": "The Institution of the Eucharist"
+     }
+    ]
+   },
+   {
+    "name": "Sorrowful Mysteries",
+    "days": "Tuesdays and Fridays",
+    "mysteries": [
+     {
+      "name": "The Agony of Jesus in the Garden"
+     },
+     {
+      "name": "The Scourging of Jesus"
+     },
+     {
+      "name": "The Crowning with Thorns"
+     },
+     {
+      "name": "Jesus Carrying the Cross on the Way to Calvary"
+     },
+     {
+      "name": "The Crucifixion and Death of Jesus"
+     }
+    ]
+   },
+   {
+    "name": "Glorious Mysteries",
+    "days": "Wednesdays and Sundays",
+    "mysteries": [
+     {
+      "name": "The Resurrection of Jesus"
+     },
+     {
+      "name": "The Ascension of Jesus into Heaven"
+     },
+     {
+      "name": "The Descent of the Holy Spirit upon the Apostles"
+     },
+     {
+      "name": "The Assumption of Mary"
+     },
+     {
+      "name": "The Coronation of Mary in Heaven"
+     }
+    ]
+   }
+  ],
+  "_src": "c7ebc875"
+ }
+}

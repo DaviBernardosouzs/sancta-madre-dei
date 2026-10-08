@@ -1,0 +1,1382 @@
+[
+  {
+    "path": "/",
+    "scores": {
+      "performance": 0.81,
+      "accessibility": 1,
+      "best-practices": 1,
+      "seo": 0.92
+    },
+    "metrics": {
+      "first-contentful-paint": 2405.1803999999997,
+      "largest-contentful-paint": 4365.1804,
+      "cumulative-layout-shift": 0.01330267106646356,
+      "total-blocking-time": 101.5,
+      "speed-index": 2405.1803999999997
+    },
+    "diagnostics": {
+      "network-requests": {
+        "id": "network-requests",
+        "title": "Network Requests",
+        "description": "Lists the network requests that were made during page load.",
+        "score": 1,
+        "scoreDisplayMode": "informative",
+        "details": {
+          "type": "table",
+          "headings": [
+            {
+              "key": "url",
+              "valueType": "url",
+              "label": "URL"
+            },
+            {
+              "key": "protocol",
+              "valueType": "text",
+              "label": "Protocol"
+            },
+            {
+              "key": "networkRequestTime",
+              "valueType": "ms",
+              "granularity": 1,
+              "label": "Network Request Time"
+            },
+            {
+              "key": "networkEndTime",
+              "valueType": "ms",
+              "granularity": 1,
+              "label": "Network End Time"
+            },
+            {
+              "key": "transferSize",
+              "valueType": "bytes",
+              "displayUnit": "kb",
+              "granularity": 1,
+              "label": "Transfer Size"
+            },
+            {
+              "key": "resourceSize",
+              "valueType": "bytes",
+              "displayUnit": "kb",
+              "granularity": 1,
+              "label": "Resource Size"
+            },
+            {
+              "key": "statusCode",
+              "valueType": "text",
+              "label": "Status Code"
+            },
+            {
+              "key": "mimeType",
+              "valueType": "text",
+              "label": "MIME Type"
+            },
+            {
+              "key": "resourceType",
+              "valueType": "text",
+              "label": "Resource Type"
+            }
+          ],
+          "items": [
+            {
+              "url": "http://localhost:4173/",
+              "sessionTargetType": "page",
+              "protocol": "http/1.1",
+              "cache": "none",
+              "rendererStartTime": 0,
+              "networkRequestTime": 1.3599999994039536,
+              "networkEndTime": 5.448000006377697,
+              "finished": true,
+              "transferSize": 104326,
+              "resourceSize": 104141,
+              "statusCode": 200,
+              "mimeType": "text/html",
+              "resourceType": "Document",
+              "priority": "VeryHigh",
+              "experimentalFromMainFrame": true,
+              "entity": "localhost"
+            },
+            {
+              "url": "http://localhost:4173/assets/fonts/cormorant-garamond-latin-500-normal.woff2",
+              "sessionTargetType": "page",
+              "protocol": "http/1.1",
+              "cache": "none",
+              "rendererStartTime": 16.185000002384186,
+              "networkRequestTime": 17.055000007152557,
+              "networkEndTime": 30.497000001370907,
+              "finished": true,
+              "transferSize": 23482,
+              "resourceSize": 23312,
+              "statusCode": 200,
+              "mimeType": "font/woff2",
+              "resourceType": "Font",
+              "priority": "High",
+              "isLinkPreload": true,
+              "experimentalFromMainFrame": true,
+              "entity": "localhost"
+            },
+            {
+              "url": "http://localhost:4173/assets/fonts/atkinson-hyperlegible-latin-400-normal.woff2",
+              "sessionTargetType": "page",
+              "protocol": "http/1.1",
+              "cache": "none",
+              "rendererStartTime": 16.612999998033047,
+              "networkRequestTime": 17.269000001251698,
+              "networkEndTime": 30.68800000101328,
+              "finished": true,
+              "transferSize": 17378,
+              "resourceSize": 17208,
+              "statusCode": 200,
+              "mimeType": "font/woff2",
+              "resourceType": "Font",
+              "priority": "High",
+              "isLinkPreload": true,
+              "experimentalFromMainFrame": true,
+              "entity": "localhost"
+            },
+            {
+              "url": "http://localhost:4173/assets/style.css",
+              "sessionTargetType": "page",
+              "protocol": "http/1.1",
+              "cache": "none",
+              "rendererStartTime": 16.743000000715256,
+              "networkRequestTime": 20.740000002086163,
+              "networkEndTime": 29.725000001490116,
+              "finished": true,
+              "transferSize": 43010,
+              "resourceSize": 42842,
+              "statusCode": 200,
+              "mimeType": "text/css",
+              "resourceType": "Stylesheet",
+              "priority": "VeryHigh",
+              "experimentalFromMainFrame": true,
+              "entity": "localhost"
+            },
+            {
+              "url": "http://localhost:4173/assets/cinematic.css",
+              "sessionTargetType": "page",
+              "protocol": "http/1.1",
+              "cache": "none",
+              "rendererStartTime": 16.869000002741814,
+              "networkRequestTime": 20.908000007271767,
+              "networkEndTime": 29.527999997138977,
+              "finished": true,
+              "transferSize": 14000,
+              "resourceSize": 13832,
+              "statusCode": 200,
+              "mimeType": "text/css",
+              "resourceType": "Stylesheet",
+              "priority": "VeryHigh",
+              "experimentalFromMainFrame": true,
+              "entity": "localhost"
+            },
+            {
+              "url": "http://localhost:4173/assets/filme.css",
+              "sessionTargetType": "page",
+              "protocol": "http/1.1",
+              "cache": "none",
+              "rendererStartTime": 17.00500000268221,
+              "networkRequestTime": 21.03999999910593,
+              "networkEndTime": 29.863000005483627,
+              "finished": true,
+              "transferSize": 21499,
+              "resourceSize": 21331,
+              "statusCode": 200,
+              "mimeType": "text/css",
+              "resourceType": "Stylesheet",
+              "priority": "VeryHigh",
+              "experimentalFromMainFrame": true,
+              "entity": "localhost"
+            },
+            {
+              "url": "http://localhost:4173/assets/img/obras/obra-bellini-madona-800.webp",
+              "sessionTargetType": "page",
+              "protocol": "http/1.1",
+              "cache": "none",
+              "rendererStartTime": 17.157999999821186,
+              "networkRequestTime": 21.202000007033348,
+              "networkEndTime": 30.905000001192093,
+              "finished": true,
+              "transferSize": 89053,
+              "resourceSize": 88868,
+              "statusCode": 200,
+              "mimeType": "application/octet-stream",
+              "resourceType": "Image",
+              "priority": "High",
+              "isLinkPreload": true,
+              "experimentalFromMainFrame": true,
+              "entity": "localhost"
+            },
+            {
+              "url": "http://localhost:4173/assets/vendor/gsap.min.js",
+              "sessionTargetType": "page",
+              "protocol": "http/1.1",
+              "cache": "none",
+              "rendererStartTime": 17.318000003695488,
+              "networkRequestTime": 33.734000004827976,
+              "networkEndTime": 38.40699999779463,
+              "finished": true,
+              "transferSize": 73103,
+              "resourceSize": 72927,
+              "statusCode": 200,
+              "mimeType": "text/javascript",
+              "resourceType": "Script",
+              "priority": "Low",
+              "experimentalFromMainFrame": true,
+              "entity": "localhost"
+            },
+            {
+              "url": "http://localhost:4173/assets/vendor/ScrollTrigger.min.js",
+              "sessionTargetType": "page",
+              "protocol": "http/1.1",
+              "cache": "none",
+              "rendererStartTime": 17.390000000596046,
+              "networkRequestTime": 33.92300000041723,
+              "networkEndTime": 38.109000004827976,
+              "finished": true,
+              "transferSize": 44750,
+              "resourceSize": 44575,
+              "statusCode": 200,
+              "mimeType": "text/javascript",
+              "resourceType": "Script",
+              "priority": "Low",
+              "experimentalFromMainFrame": true,
+              "entity": "localhost"
+            },
+            {
+              "url": "http://localhost:4173/assets/filtro.js",
+              "sessionTargetType": "page",
+              "protocol": "http/1.1",
+              "cache": "none",
+              "rendererStartTime": 17.46400000154972,
+              "networkRequestTime": 37.44099999964237,
+              "networkEndTime": 42.39200000464916,
+              "finished": true,
+              "transferSize": 1302,
+              "resourceSize": 1128,
+              "statusCode": 200,
+              "mimeType": "text/javascript",
+              "resourceType": "Script",
+              "priority": "Low",
+              "experimentalFromMainFrame": true,
+              "entity": "localhost"
+            },
+            {
+              "url": "http://localhost:4173/assets/filme.js",
+              "sessionTargetType": "page",
+              "protocol": "http/1.1",
+              "cache": "none",
+              "rendererStartTime": 17.528000004589558,
+              "networkRequestTime": 37.58200000226498,
+              "networkEndTime": 42.68900000303984,
+              "finished": true,
+              "transferSize": 15280,
+              "resourceSize": 15105,
+              "statusCode": 200,
+              "mimeType": "text/javascript",
+              "resourceType": "Script",
+              "priority": "Low",
+              "experimentalFromMainFrame": true,
+              "entity": "localhost"
+            },
+            {
+              "url": "http://localhost:4173/assets/app.js",
+              "sessionTargetType": "page",
+              "protocol": "http/1.1",
+              "cache": "none",
+              "rendererStartTime": 17.57999999821186,
+              "networkRequestTime": 37.67800000309944,
+              "networkEndTime": 42.94200000166893,
+              "finished": true,
+              "transferSize": 15488,
+              "resourceSize": 15313,
+              "statusCode": 200,
+              "mimeType": "text/javascript",
+              "resourceType": "Script",
+              "priority": "Low",
+              "experimentalFromMainFrame": true,
+              "entity": "localhost"
+            },
+            {
+              "url": "http://localhost:4173/assets/fonts/cormorant-garamond-latin-500-italic.woff2",
+              "sessionTargetType": "page",
+              "protocol": "http/1.1",
+              "cache": "none",
+              "rendererStartTime": 46.52700001001358,
+              "networkRequestTime": 117.87600000202656,
+              "networkEndTime": 129.5700000077486,
+              "finished": true,
+              "transferSize": 24094,
+              "resourceSize": 23924,
+              "statusCode": 200,
+              "mimeType": "font/woff2",
+              "resourceType": "Font",
+              "priority": "VeryHigh",
+              "experimentalFromMainFrame": true,
+              "entity": "localhost"
+            },
+            {
+              "url": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='180' height='180'%3E%3Cfilter i…",
+              "sessionTargetType": "page",
+              "protocol": "data",
+              "cache": "memory",
+              "rendererStartTime": 67.29299999773502,
+              "networkRequestTime": 67.29299999773502,
+              "networkEndTime": 67.42800000309944,
+              "finished": true,
+              "transferSize": 0,
+              "resourceSize": 307,
+              "statusCode": 200,
+              "mimeType": "image/svg+xml",
+              "resourceType": "Image",
+              "priority": "Low",
+              "experimentalFromMainFrame": true
+            },
+            {
+              "url": "http://localhost:4173/assets/fonts/cormorant-garamond-latin-600-normal.woff2",
+              "sessionTargetType": "page",
+              "protocol": "http/1.1",
+              "cache": "none",
+              "rendererStartTime": 67.75800000876188,
+              "networkRequestTime": 118.0160000026226,
+              "networkEndTime": 129.99200000613928,
+              "finished": true,
+              "transferSize": 23566,
+              "resourceSize": 23396,
+              "statusCode": 200,
+              "mimeType": "font/woff2",
+              "resourceType": "Font",
+              "priority": "VeryHigh",
+              "experimentalFromMainFrame": true,
+              "entity": "localhost"
+            },
+            {
+              "url": "http://localhost:4173/assets/fonts/atkinson-hyperlegible-latin-700-normal.woff2",
+              "sessionTargetType": "page",
+              "protocol": "http/1.1",
+              "cache": "none",
+              "rendererStartTime": 67.93300000578165,
+              "networkRequestTime": 118.14500000327826,
+              "networkEndTime": 134.00000000745058,
+              "finished": true,
+              "transferSize": 17694,
+              "resourceSize": 17524,
+              "statusCode": 200,
+              "mimeType": "font/woff2",
+              "resourceType": "Font",
+              "priority": "VeryHigh",
+              "experimentalFromMainFrame": true,
+              "entity": "localhost"
+            },
+            {
+              "url": "http://localhost:4173/assets/img/obras/obra-memling-anunciacao-800.webp",
+              "sessionTargetType": "page",
+              "protocol": "http/1.1",
+              "cache": "none",
+              "rendererStartTime": 116.5920000076294,
+              "networkRequestTime": 117.0430000051856,
+              "networkEndTime": 131.8880000039935,
+              "finished": true,
+              "transferSize": 106335,
+              "resourceSize": 106150,
+              "statusCode": 200,
+              "mimeType": "application/octet-stream",
+              "resourceType": "Image",
+              "priority": "Low",
+              "experimentalFromMainFrame": true,
+              "entity": "localhost"
+            },
+            {
+              "url": "http://localhost:4173/assets/img/obras/durer-egito-sagrada-familia-800.webp",
+              "sessionTargetType": "page",
+              "protocol": "http/1.1",
+              "cache": "none",
+              "rendererStartTime": 116.69300000369549,
+              "networkRequestTime": 117.2740000039339,
+              "networkEndTime": 135.44799999892712,
+              "finished": true,
+              "transferSize": 300833,
+              "resourceSize": 300648,
+              "statusCode": 200,
+              "mimeType": "application/octet-stream",
+              "resourceType": "Image",
+              "priority": "Low",
+              "experimentalFromMainFrame": true,
+              "entity": "localhost"
+            },
+            {
+              "url": "http://localhost:4173/assets/img/obras/durer-joaquim-anjo-800.webp",
+              "sessionTargetType": "page",
+              "protocol": "http/1.1",
+              "cache": "none",
+              "rendererStartTime": 116.74200000613928,
+              "networkRequestTime": 117.42000000178814,
+              "networkEndTime": 135.74300000071526,
+              "finished": true,
+              "transferSize": 314935,
+              "resourceSize": 314750,
+              "statusCode": 200,
+              "mimeType": "application/octet-stream",
+              "resourceType": "Image",
+              "priority": "Low",
+              "experimentalFromMainFrame": true,
+              "entity": "localhost"
+            },
+            {
+              "url": "http://localhost:4173/assets/img/obras/obra-bellini-madona-manto-997.webp",
+              "sessionTargetType": "page",
+              "protocol": "http/1.1",
+              "cache": "none",
+              "rendererStartTime": 116.7930000051856,
+              "networkRequestTime": 117.58500000089407,
+              "networkEndTime": 134.6740000024438,
+              "finished": true,
+              "transferSize": 154663,
+              "resourceSize": 154478,
+              "statusCode": 200,
+              "mimeType": "application/octet-stream",
+              "resourceType": "Image",
+              "priority": "Low",
+              "experimentalFromMainFrame": true,
+              "entity": "localhost"
+            },
+            {
+              "url": "http://localhost:4173/assets/fonts/atkinson-hyperlegible-latin-400-italic.woff2",
+              "sessionTargetType": "page",
+              "protocol": "http/1.1",
+              "cache": "none",
+              "rendererStartTime": 172.95500000566244,
+              "networkRequestTime": 231.74200000613928,
+              "networkEndTime": 234.3940000012517,
+              "finished": true,
+              "transferSize": 18462,
+              "resourceSize": 18292,
+              "statusCode": 200,
+              "mimeType": "font/woff2",
+              "resourceType": "Font",
+              "priority": "VeryHigh",
+              "experimentalFromMainFrame": true,
+              "entity": "localhost"
+            },
+            {
+              "url": "http://localhost:4173/assets/icone.svg",
+              "sessionTargetType": "page",
+              "protocol": "http/1.1",
+              "cache": "none",
+              "rendererStartTime": 320.1170000061393,
+              "networkRequestTime": 320.7230000048876,
+              "networkEndTime": 323.1540000066161,
+              "finished": true,
+              "transferSize": 485,
+              "resourceSize": 313,
+              "statusCode": 200,
+              "mimeType": "image/svg+xml",
+              "resourceType": "Other",
+              "priority": "High",
+              "experimentalFromMainFrame": true,
+              "entity": "localhost"
+            }
+          ],
+          "debugData": {
+            "type": "debugdata",
+            "networkStartTimeTs": 34398749219,
+            "initiators": [
+              {
+                "type": "parser",
+                "url": "http://localhost:4173/",
+                "lineNumber": 16,
+                "columnNumber": 123
+              },
+              {
+                "type": "parser",
+                "url": "http://localhost:4173/",
+                "lineNumber": 17,
+                "columnNumber": 126
+              },
+              {
+                "type": "parser",
+                "url": "http://localhost:4173/",
+                "lineNumber": 18,
+                "columnNumber": 48
+              },
+              {
+                "type": "parser",
+                "url": "http://localhost:4173/",
+                "lineNumber": 19,
+                "columnNumber": 52
+              },
+              {
+                "type": "parser",
+                "url": "http://localhost:4173/",
+                "lineNumber": 20,
+                "columnNumber": 48
+              },
+              {
+                "type": "parser",
+                "url": "http://localhost:4173/",
+                "lineNumber": 21,
+                "columnNumber": 445
+              },
+              {
+                "type": "parser",
+                "url": "http://localhost:4173/",
+                "lineNumber": 342,
+                "columnNumber": 67
+              },
+              {
+                "type": "parser",
+                "url": "http://localhost:4173/",
+                "lineNumber": 343,
+                "columnNumber": 76
+              },
+              {
+                "type": "parser",
+                "url": "http://localhost:4173/",
+                "lineNumber": 344,
+                "columnNumber": 38
+              },
+              {
+                "type": "parser",
+                "url": "http://localhost:4173/",
+                "lineNumber": 345,
+                "columnNumber": 37
+              },
+              {
+                "type": "parser",
+                "url": "http://localhost:4173/",
+                "lineNumber": 346,
+                "columnNumber": 92
+              },
+              {
+                "type": "parser",
+                "url": "http://localhost:4173/assets/style.css"
+              },
+              {
+                "type": "parser",
+                "url": "http://localhost:4173/assets/filme.css"
+              },
+              {
+                "type": "parser",
+                "url": "http://localhost:4173/assets/style.css"
+              },
+              {
+                "type": "parser",
+                "url": "http://localhost:4173/assets/style.css"
+              },
+              {
+                "type": "parser",
+                "url": "http://localhost:4173/",
+                "lineNumber": 349,
+                "columnNumber": 1
+              },
+              {
+                "type": "parser",
+                "url": "http://localhost:4173/",
+                "lineNumber": 349,
+                "columnNumber": 1
+              },
+              {
+                "type": "parser",
+                "url": "http://localhost:4173/",
+                "lineNumber": 349,
+                "columnNumber": 1
+              },
+              {
+                "type": "parser",
+                "url": "http://localhost:4173/",
+                "lineNumber": 349,
+                "columnNumber": 1
+              },
+              {
+                "type": "parser",
+                "url": "http://localhost:4173/assets/style.css"
+              }
+            ]
+          }
+        }
+      },
+      "lcp-breakdown-insight": {
+        "id": "lcp-breakdown-insight",
+        "title": "LCP breakdown",
+        "description": "Each [subpart has specific improvement strategies](https://developer.chrome.com/docs/performance/insights/lcp-breakdown). Ideally, most of the LCP time should be spent on loading the resources, not within delays.",
+        "score": 1,
+        "scoreDisplayMode": "informative",
+        "metricSavings": {
+          "LCP": 0
+        },
+        "details": {
+          "type": "list",
+          "items": [
+            {
+              "type": "table",
+              "headings": [
+                {
+                  "key": "label",
+                  "valueType": "text",
+                  "label": "Subpart"
+                },
+                {
+                  "key": "duration",
+                  "valueType": "ms",
+                  "label": "Duration"
+                }
+              ],
+              "items": [
+                {
+                  "subpart": "timeToFirstByte",
+                  "label": "Time to first byte",
+                  "duration": 5.097
+                },
+                {
+                  "subpart": "resourceLoadDelay",
+                  "label": "Resource load delay",
+                  "duration": 13.736
+                },
+                {
+                  "subpart": "resourceLoadDuration",
+                  "label": "Resource load duration",
+                  "duration": 13.747
+                },
+                {
+                  "subpart": "elementRenderDelay",
+                  "label": "Element render delay",
+                  "duration": 118.475
+                }
+              ]
+            },
+            {
+              "type": "node",
+              "lhId": "page-0-IMG",
+              "path": "1,HTML,1,BODY,2,MAIN,1,SECTION,2,DIV,1,FIGURE,0,DIV,0,IMG",
+              "selector": "div.miolo > figure.f-quadro > div.f-quadro__moldura > img",
+              "boundingRect": {
+                "top": 104,
+                "bottom": 396,
+                "left": 87,
+                "right": 325,
+                "width": 237,
+                "height": 292
+              },
+              "snippet": "<img src=\"/assets/img/obras/obra-bellini-madona-800.webp\" srcset=\"/assets/img/obras/obra-bellini-madona-480.webp 480w, /assets/img/obras/obr…\" sizes=\"(min-width: 62rem) min(36vw, 32rem), (min-width: 48rem) 44vw, min(78vw, 34…\" width=\"1800\" height=\"2217\" alt=\"Maria em manto azul profundo, com véu claro, segura o Menino Jesus nu dian…\" fetchpriority=\"high\" decoding=\"sync\">",
+              "nodeLabel": "Maria em manto azul profundo, com véu claro, segura o Menino Jesus nu diante de…"
+            }
+          ]
+        },
+        "guidanceLevel": 3
+      },
+      "lcp-discovery-insight": {
+        "id": "lcp-discovery-insight",
+        "title": "LCP request discovery",
+        "description": "[Optimize LCP](https://developer.chrome.com/docs/performance/insights/lcp-discovery) by making the LCP image discoverable from the HTML immediately, and avoiding lazy-loading",
+        "score": 1,
+        "scoreDisplayMode": "numeric",
+        "metricSavings": {
+          "LCP": 0
+        },
+        "details": {
+          "type": "list",
+          "items": [
+            {
+              "type": "checklist",
+              "items": {
+                "priorityHinted": {
+                  "label": "fetchpriority=high applied",
+                  "value": true
+                },
+                "requestDiscoverable": {
+                  "label": "Request is discoverable in initial document",
+                  "value": true
+                },
+                "eagerlyLoaded": {
+                  "label": "LCP resources should not use loading=lazy",
+                  "value": true
+                }
+              }
+            },
+            {
+              "type": "node",
+              "lhId": "page-0-IMG",
+              "path": "1,HTML,1,BODY,2,MAIN,1,SECTION,2,DIV,1,FIGURE,0,DIV,0,IMG",
+              "selector": "div.miolo > figure.f-quadro > div.f-quadro__moldura > img",
+              "boundingRect": {
+                "top": 104,
+                "bottom": 396,
+                "left": 87,
+                "right": 325,
+                "width": 237,
+                "height": 292
+              },
+              "snippet": "<img src=\"/assets/img/obras/obra-bellini-madona-800.webp\" srcset=\"/assets/img/obras/obra-bellini-madona-480.webp 480w, /assets/img/obras/obr…\" sizes=\"(min-width: 62rem) min(36vw, 32rem), (min-width: 48rem) 44vw, min(78vw, 34…\" width=\"1800\" height=\"2217\" alt=\"Maria em manto azul profundo, com véu claro, segura o Menino Jesus nu dian…\" fetchpriority=\"high\" decoding=\"sync\">",
+              "nodeLabel": "Maria em manto azul profundo, com véu claro, segura o Menino Jesus nu diante de…"
+            }
+          ]
+        },
+        "guidanceLevel": 3
+      }
+    },
+    "opportunities": [
+      {
+        "id": "unminified-css",
+        "title": "Minify CSS",
+        "value": "Est savings of 13 KiB"
+      },
+      {
+        "id": "unminified-javascript",
+        "title": "Minify JavaScript",
+        "value": "Est savings of 8 KiB"
+      },
+      {
+        "id": "unused-css-rules",
+        "title": "Reduce unused CSS",
+        "value": "Est savings of 45 KiB"
+      },
+      {
+        "id": "unused-javascript",
+        "title": "Reduce unused JavaScript",
+        "value": "Est savings of 45 KiB"
+      }
+    ]
+  },
+  {
+    "path": "/vida-de-maria/anunciacao/",
+    "scores": {
+      "performance": 0.9,
+      "accessibility": 1,
+      "best-practices": 1,
+      "seo": 0.92
+    },
+    "metrics": {
+      "first-contentful-paint": 2107.15395,
+      "largest-contentful-paint": 3373.15395,
+      "cumulative-layout-shift": 0.0195897042017713,
+      "total-blocking-time": 0,
+      "speed-index": 2107.15395
+    },
+    "diagnostics": {
+      "network-requests": {
+        "id": "network-requests",
+        "title": "Network Requests",
+        "description": "Lists the network requests that were made during page load.",
+        "score": 1,
+        "scoreDisplayMode": "informative",
+        "details": {
+          "type": "table",
+          "headings": [
+            {
+              "key": "url",
+              "valueType": "url",
+              "label": "URL"
+            },
+            {
+              "key": "protocol",
+              "valueType": "text",
+              "label": "Protocol"
+            },
+            {
+              "key": "networkRequestTime",
+              "valueType": "ms",
+              "granularity": 1,
+              "label": "Network Request Time"
+            },
+            {
+              "key": "networkEndTime",
+              "valueType": "ms",
+              "granularity": 1,
+              "label": "Network End Time"
+            },
+            {
+              "key": "transferSize",
+              "valueType": "bytes",
+              "displayUnit": "kb",
+              "granularity": 1,
+              "label": "Transfer Size"
+            },
+            {
+              "key": "resourceSize",
+              "valueType": "bytes",
+              "displayUnit": "kb",
+              "granularity": 1,
+              "label": "Resource Size"
+            },
+            {
+              "key": "statusCode",
+              "valueType": "text",
+              "label": "Status Code"
+            },
+            {
+              "key": "mimeType",
+              "valueType": "text",
+              "label": "MIME Type"
+            },
+            {
+              "key": "resourceType",
+              "valueType": "text",
+              "label": "Resource Type"
+            }
+          ],
+          "items": [
+            {
+              "url": "http://localhost:4173/vida-de-maria/anunciacao/",
+              "sessionTargetType": "page",
+              "protocol": "http/1.1",
+              "cache": "none",
+              "rendererStartTime": 0,
+              "networkRequestTime": 0.7980000004172325,
+              "networkEndTime": 5.287000000476837,
+              "finished": true,
+              "transferSize": 21064,
+              "resourceSize": 20880,
+              "statusCode": 200,
+              "mimeType": "text/html",
+              "resourceType": "Document",
+              "priority": "VeryHigh",
+              "experimentalFromMainFrame": true,
+              "entity": "localhost"
+            },
+            {
+              "url": "http://localhost:4173/assets/fonts/cormorant-garamond-latin-500-normal.woff2",
+              "sessionTargetType": "page",
+              "protocol": "http/1.1",
+              "cache": "none",
+              "rendererStartTime": 13.25500001013279,
+              "networkRequestTime": 14.446000002324581,
+              "networkEndTime": 23.838000006973743,
+              "finished": true,
+              "transferSize": 23482,
+              "resourceSize": 23312,
+              "statusCode": 200,
+              "mimeType": "font/woff2",
+              "resourceType": "Font",
+              "priority": "High",
+              "isLinkPreload": true,
+              "experimentalFromMainFrame": true,
+              "entity": "localhost"
+            },
+            {
+              "url": "http://localhost:4173/assets/fonts/atkinson-hyperlegible-latin-400-normal.woff2",
+              "sessionTargetType": "page",
+              "protocol": "http/1.1",
+              "cache": "none",
+              "rendererStartTime": 13.941000007092953,
+              "networkRequestTime": 14.901000007987022,
+              "networkEndTime": 24.108000010252,
+              "finished": true,
+              "transferSize": 17378,
+              "resourceSize": 17208,
+              "statusCode": 200,
+              "mimeType": "font/woff2",
+              "resourceType": "Font",
+              "priority": "High",
+              "isLinkPreload": true,
+              "experimentalFromMainFrame": true,
+              "entity": "localhost"
+            },
+            {
+              "url": "http://localhost:4173/assets/style.css",
+              "sessionTargetType": "page",
+              "protocol": "http/1.1",
+              "cache": "none",
+              "rendererStartTime": 14.151000007987022,
+              "networkRequestTime": 15.117000006139278,
+              "networkEndTime": 23.189000003039837,
+              "finished": true,
+              "transferSize": 43010,
+              "resourceSize": 42842,
+              "statusCode": 200,
+              "mimeType": "text/css",
+              "resourceType": "Stylesheet",
+              "priority": "VeryHigh",
+              "experimentalFromMainFrame": true,
+              "entity": "localhost"
+            },
+            {
+              "url": "http://localhost:4173/assets/cinematic.css",
+              "sessionTargetType": "page",
+              "protocol": "http/1.1",
+              "cache": "none",
+              "rendererStartTime": 14.358000002801418,
+              "networkRequestTime": 15.296000011265278,
+              "networkEndTime": 23.440000005066395,
+              "finished": true,
+              "transferSize": 14000,
+              "resourceSize": 13832,
+              "statusCode": 200,
+              "mimeType": "text/css",
+              "resourceType": "Stylesheet",
+              "priority": "VeryHigh",
+              "experimentalFromMainFrame": true,
+              "entity": "localhost"
+            },
+            {
+              "url": "http://localhost:4173/assets/filme.css",
+              "sessionTargetType": "page",
+              "protocol": "http/1.1",
+              "cache": "none",
+              "rendererStartTime": 14.532000005245209,
+              "networkRequestTime": 15.485000006854534,
+              "networkEndTime": 23.54900000989437,
+              "finished": true,
+              "transferSize": 21499,
+              "resourceSize": 21331,
+              "statusCode": 200,
+              "mimeType": "text/css",
+              "resourceType": "Stylesheet",
+              "priority": "VeryHigh",
+              "experimentalFromMainFrame": true,
+              "entity": "localhost"
+            },
+            {
+              "url": "http://localhost:4173/assets/img/obras/obra-memling-anunciacao-480.webp",
+              "sessionTargetType": "page",
+              "protocol": "http/1.1",
+              "cache": "none",
+              "rendererStartTime": 14.836000002920628,
+              "networkRequestTime": 15.646000005304813,
+              "networkEndTime": 23.97400000691414,
+              "finished": true,
+              "transferSize": 46942,
+              "resourceSize": 46758,
+              "statusCode": 200,
+              "mimeType": "application/octet-stream",
+              "resourceType": "Image",
+              "priority": "High",
+              "isLinkPreload": true,
+              "experimentalFromMainFrame": true,
+              "entity": "localhost"
+            },
+            {
+              "url": "http://localhost:4173/assets/img/obras/obra-memling-anunciacao-bruma-80.webp",
+              "sessionTargetType": "page",
+              "protocol": "http/1.1",
+              "cache": "none",
+              "rendererStartTime": 14.990000009536743,
+              "networkRequestTime": 27.24200000613928,
+              "networkEndTime": 31.35300000011921,
+              "finished": true,
+              "transferSize": 929,
+              "resourceSize": 746,
+              "statusCode": 200,
+              "mimeType": "application/octet-stream",
+              "resourceType": "Image",
+              "priority": "Low",
+              "experimentalFromMainFrame": true,
+              "entity": "localhost"
+            },
+            {
+              "url": "http://localhost:4173/assets/vendor/gsap.min.js",
+              "sessionTargetType": "page",
+              "protocol": "http/1.1",
+              "cache": "none",
+              "rendererStartTime": 15.216000005602837,
+              "networkRequestTime": 27.419000007212162,
+              "networkEndTime": 31.90600000321865,
+              "finished": true,
+              "transferSize": 73103,
+              "resourceSize": 72927,
+              "statusCode": 200,
+              "mimeType": "text/javascript",
+              "resourceType": "Script",
+              "priority": "Low",
+              "experimentalFromMainFrame": true,
+              "entity": "localhost"
+            },
+            {
+              "url": "http://localhost:4173/assets/vendor/ScrollTrigger.min.js",
+              "sessionTargetType": "page",
+              "protocol": "http/1.1",
+              "cache": "none",
+              "rendererStartTime": 15.356000006198883,
+              "networkRequestTime": 30.316000007092953,
+              "networkEndTime": 38.628000006079674,
+              "finished": true,
+              "transferSize": 44750,
+              "resourceSize": 44575,
+              "statusCode": 200,
+              "mimeType": "text/javascript",
+              "resourceType": "Script",
+              "priority": "Low",
+              "experimentalFromMainFrame": true,
+              "entity": "localhost"
+            },
+            {
+              "url": "http://localhost:4173/assets/filtro.js",
+              "sessionTargetType": "page",
+              "protocol": "http/1.1",
+              "cache": "none",
+              "rendererStartTime": 15.473999999463558,
+              "networkRequestTime": 31.02700001001358,
+              "networkEndTime": 37.76000000536442,
+              "finished": true,
+              "transferSize": 1302,
+              "resourceSize": 1128,
+              "statusCode": 200,
+              "mimeType": "text/javascript",
+              "resourceType": "Script",
+              "priority": "Low",
+              "experimentalFromMainFrame": true,
+              "entity": "localhost"
+            },
+            {
+              "url": "http://localhost:4173/assets/filme.js",
+              "sessionTargetType": "page",
+              "protocol": "http/1.1",
+              "cache": "none",
+              "rendererStartTime": 15.598999999463558,
+              "networkRequestTime": 31.17000000178814,
+              "networkEndTime": 38.30000000447035,
+              "finished": true,
+              "transferSize": 15280,
+              "resourceSize": 15105,
+              "statusCode": 200,
+              "mimeType": "text/javascript",
+              "resourceType": "Script",
+              "priority": "Low",
+              "experimentalFromMainFrame": true,
+              "entity": "localhost"
+            },
+            {
+              "url": "http://localhost:4173/assets/app.js",
+              "sessionTargetType": "page",
+              "protocol": "http/1.1",
+              "cache": "none",
+              "rendererStartTime": 15.703000009059906,
+              "networkRequestTime": 31.27300000190735,
+              "networkEndTime": 38.49700000137091,
+              "finished": true,
+              "transferSize": 15488,
+              "resourceSize": 15313,
+              "statusCode": 200,
+              "mimeType": "text/javascript",
+              "resourceType": "Script",
+              "priority": "Low",
+              "experimentalFromMainFrame": true,
+              "entity": "localhost"
+            },
+            {
+              "url": "http://localhost:4173/assets/fonts/atkinson-hyperlegible-latin-700-normal.woff2",
+              "sessionTargetType": "page",
+              "protocol": "http/1.1",
+              "cache": "none",
+              "rendererStartTime": 42.668000005185604,
+              "networkRequestTime": 94.5240000039339,
+              "networkEndTime": 102.31800000369549,
+              "finished": true,
+              "transferSize": 17694,
+              "resourceSize": 17524,
+              "statusCode": 200,
+              "mimeType": "font/woff2",
+              "resourceType": "Font",
+              "priority": "VeryHigh",
+              "experimentalFromMainFrame": true,
+              "entity": "localhost"
+            },
+            {
+              "url": "http://localhost:4173/assets/fonts/atkinson-hyperlegible-latin-400-italic.woff2",
+              "sessionTargetType": "page",
+              "protocol": "http/1.1",
+              "cache": "none",
+              "rendererStartTime": 53.54100000113249,
+              "networkRequestTime": 95.28700000792742,
+              "networkEndTime": 101.94200000166893,
+              "finished": true,
+              "transferSize": 18462,
+              "resourceSize": 18292,
+              "statusCode": 200,
+              "mimeType": "font/woff2",
+              "resourceType": "Font",
+              "priority": "VeryHigh",
+              "experimentalFromMainFrame": true,
+              "entity": "localhost"
+            },
+            {
+              "url": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='180' height='180'%3E%3Cfilter i…",
+              "sessionTargetType": "page",
+              "protocol": "data",
+              "cache": "memory",
+              "rendererStartTime": 60.05500000715256,
+              "networkRequestTime": 60.05500000715256,
+              "networkEndTime": 60.157999999821186,
+              "finished": true,
+              "transferSize": 0,
+              "resourceSize": 307,
+              "statusCode": 200,
+              "mimeType": "image/svg+xml",
+              "resourceType": "Image",
+              "priority": "Low",
+              "experimentalFromMainFrame": true
+            },
+            {
+              "url": "http://localhost:4173/assets/fonts/cormorant-garamond-latin-600-normal.woff2",
+              "sessionTargetType": "page",
+              "protocol": "http/1.1",
+              "cache": "none",
+              "rendererStartTime": 60.368000000715256,
+              "networkRequestTime": 95.45700000226498,
+              "networkEndTime": 102.55300001055002,
+              "finished": true,
+              "transferSize": 23566,
+              "resourceSize": 23396,
+              "statusCode": 200,
+              "mimeType": "font/woff2",
+              "resourceType": "Font",
+              "priority": "VeryHigh",
+              "experimentalFromMainFrame": true,
+              "entity": "localhost"
+            },
+            {
+              "url": "http://localhost:4173/assets/icone.svg",
+              "sessionTargetType": "page",
+              "protocol": "http/1.1",
+              "cache": "none",
+              "rendererStartTime": 148.51800000667572,
+              "networkRequestTime": 149.01200000196695,
+              "networkEndTime": 150.93800000101328,
+              "finished": true,
+              "transferSize": 485,
+              "resourceSize": 313,
+              "statusCode": 200,
+              "mimeType": "image/svg+xml",
+              "resourceType": "Other",
+              "priority": "High",
+              "experimentalFromMainFrame": true,
+              "entity": "localhost"
+            }
+          ],
+          "debugData": {
+            "type": "debugdata",
+            "networkStartTimeTs": 34408178982.99999,
+            "initiators": [
+              {
+                "type": "parser",
+                "url": "http://localhost:4173/vida-de-maria/anunciacao/",
+                "lineNumber": 16,
+                "columnNumber": 123
+              },
+              {
+                "type": "parser",
+                "url": "http://localhost:4173/vida-de-maria/anunciacao/",
+                "lineNumber": 17,
+                "columnNumber": 126
+              },
+              {
+                "type": "parser",
+                "url": "http://localhost:4173/vida-de-maria/anunciacao/",
+                "lineNumber": 18,
+                "columnNumber": 48
+              },
+              {
+                "type": "parser",
+                "url": "http://localhost:4173/vida-de-maria/anunciacao/",
+                "lineNumber": 19,
+                "columnNumber": 52
+              },
+              {
+                "type": "parser",
+                "url": "http://localhost:4173/vida-de-maria/anunciacao/",
+                "lineNumber": 20,
+                "columnNumber": 48
+              },
+              {
+                "type": "parser",
+                "url": "http://localhost:4173/vida-de-maria/anunciacao/",
+                "lineNumber": 21,
+                "columnNumber": 454
+              },
+              {
+                "type": "parser",
+                "url": "http://localhost:4173/vida-de-maria/anunciacao/",
+                "lineNumber": 51,
+                "columnNumber": 268
+              },
+              {
+                "type": "parser",
+                "url": "http://localhost:4173/vida-de-maria/anunciacao/",
+                "lineNumber": 144,
+                "columnNumber": 67
+              },
+              {
+                "type": "parser",
+                "url": "http://localhost:4173/vida-de-maria/anunciacao/",
+                "lineNumber": 145,
+                "columnNumber": 76
+              },
+              {
+                "type": "parser",
+                "url": "http://localhost:4173/vida-de-maria/anunciacao/",
+                "lineNumber": 146,
+                "columnNumber": 38
+              },
+              {
+                "type": "parser",
+                "url": "http://localhost:4173/vida-de-maria/anunciacao/",
+                "lineNumber": 147,
+                "columnNumber": 37
+              },
+              {
+                "type": "parser",
+                "url": "http://localhost:4173/vida-de-maria/anunciacao/",
+                "lineNumber": 148,
+                "columnNumber": 92
+              },
+              {
+                "type": "parser",
+                "url": "http://localhost:4173/assets/style.css"
+              },
+              {
+                "type": "parser",
+                "url": "http://localhost:4173/assets/style.css"
+              },
+              {
+                "type": "parser",
+                "url": "http://localhost:4173/assets/filme.css"
+              },
+              {
+                "type": "parser",
+                "url": "http://localhost:4173/assets/style.css"
+              }
+            ]
+          }
+        }
+      },
+      "lcp-breakdown-insight": {
+        "id": "lcp-breakdown-insight",
+        "title": "LCP breakdown",
+        "description": "Each [subpart has specific improvement strategies](https://developer.chrome.com/docs/performance/insights/lcp-breakdown). Ideally, most of the LCP time should be spent on loading the resources, not within delays.",
+        "score": 1,
+        "scoreDisplayMode": "informative",
+        "metricSavings": {
+          "LCP": 0
+        },
+        "details": {
+          "type": "list",
+          "items": [
+            {
+              "type": "table",
+              "headings": [
+                {
+                  "key": "label",
+                  "valueType": "text",
+                  "label": "Subpart"
+                },
+                {
+                  "key": "duration",
+                  "valueType": "ms",
+                  "label": "Duration"
+                }
+              ],
+              "items": [
+                {
+                  "subpart": "timeToFirstByte",
+                  "label": "Time to first byte",
+                  "duration": 4.450999992370606
+                },
+                {
+                  "subpart": "resourceLoadDelay",
+                  "label": "Resource load delay",
+                  "duration": 11.128000007629394
+                },
+                {
+                  "subpart": "resourceLoadDuration",
+                  "label": "Resource load duration",
+                  "duration": 9.138
+                },
+                {
+                  "subpart": "elementRenderDelay",
+                  "label": "Element render delay",
+                  "duration": 94.872
+                }
+              ]
+            },
+            {
+              "type": "node",
+              "lhId": "page-0-IMG",
+              "path": "1,HTML,1,BODY,2,MAIN,0,HEADER,2,DIV,1,FIGURE,0,A,0,SPAN,0,IMG",
+              "selector": "figure.abertura__obra > a.abertura__moldura > span.quadro > img",
+              "boundingRect": {
+                "top": 527,
+                "bottom": 911,
+                "left": 86,
+                "right": 326,
+                "width": 240,
+                "height": 384
+              },
+              "snippet": "<img src=\"http://localhost:4173/assets/img/obras/obra-memling-anunciacao-480.webp\" srcset=\"/assets/img/obras/obra-memling-anunciacao-480.webp 480w, /assets/img/obras…\" sizes=\"(min-width: 62rem) 25rem, (min-width: 48rem) 38vw, min(65vw, 15rem)\" width=\"1800\" height=\"2880\" alt=\"O anjo Gabriel, em vestes bordadas de ouro, e Maria, de manto azul sobre v…\" fetchpriority=\"high\" decoding=\"sync\">",
+              "nodeLabel": "O anjo Gabriel, em vestes bordadas de ouro, e Maria, de manto azul sobre vestid…"
+            }
+          ]
+        },
+        "guidanceLevel": 3
+      },
+      "lcp-discovery-insight": {
+        "id": "lcp-discovery-insight",
+        "title": "LCP request discovery",
+        "description": "[Optimize LCP](https://developer.chrome.com/docs/performance/insights/lcp-discovery) by making the LCP image discoverable from the HTML immediately, and avoiding lazy-loading",
+        "score": 1,
+        "scoreDisplayMode": "numeric",
+        "metricSavings": {
+          "LCP": 0
+        },
+        "details": {
+          "type": "list",
+          "items": [
+            {
+              "type": "checklist",
+              "items": {
+                "priorityHinted": {
+                  "label": "fetchpriority=high applied",
+                  "value": true
+                },
+                "requestDiscoverable": {
+                  "label": "Request is discoverable in initial document",
+                  "value": true
+                },
+                "eagerlyLoaded": {
+                  "label": "LCP resources should not use loading=lazy",
+                  "value": true
+                }
+              }
+            },
+            {
+              "type": "node",
+              "lhId": "page-0-IMG",
+              "path": "1,HTML,1,BODY,2,MAIN,0,HEADER,2,DIV,1,FIGURE,0,A,0,SPAN,0,IMG",
+              "selector": "figure.abertura__obra > a.abertura__moldura > span.quadro > img",
+              "boundingRect": {
+                "top": 527,
+                "bottom": 911,
+                "left": 86,
+                "right": 326,
+                "width": 240,
+                "height": 384
+              },
+              "snippet": "<img src=\"http://localhost:4173/assets/img/obras/obra-memling-anunciacao-480.webp\" srcset=\"/assets/img/obras/obra-memling-anunciacao-480.webp 480w, /assets/img/obras…\" sizes=\"(min-width: 62rem) 25rem, (min-width: 48rem) 38vw, min(65vw, 15rem)\" width=\"1800\" height=\"2880\" alt=\"O anjo Gabriel, em vestes bordadas de ouro, e Maria, de manto azul sobre v…\" fetchpriority=\"high\" decoding=\"sync\">",
+              "nodeLabel": "O anjo Gabriel, em vestes bordadas de ouro, e Maria, de manto azul sobre vestid…"
+            }
+          ]
+        },
+        "guidanceLevel": 3
+      }
+    },
+    "opportunities": [
+      {
+        "id": "unminified-css",
+        "title": "Minify CSS",
+        "value": "Est savings of 13 KiB"
+      },
+      {
+        "id": "unminified-javascript",
+        "title": "Minify JavaScript",
+        "value": "Est savings of 8 KiB"
+      },
+      {
+        "id": "unused-css-rules",
+        "title": "Reduce unused CSS",
+        "value": "Est savings of 50 KiB"
+      },
+      {
+        "id": "unused-javascript",
+        "title": "Reduce unused JavaScript",
+        "value": "Est savings of 49 KiB"
+      }
+    ]
+  }
+]

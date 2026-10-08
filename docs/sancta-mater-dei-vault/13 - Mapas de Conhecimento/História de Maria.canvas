@@ -1,0 +1,694 @@
+{
+  "nodes": [
+    {
+      "id": "ce70c313ccbd7e1b",
+      "type": "text",
+      "x": 0,
+      "y": -500,
+      "width": 3040,
+      "height": 180,
+      "text": "# História de Maria\n\n21 notas · 51 relações documentadas\n\nCada grupo identifica um tipo de conteúdo. As setas conservam as relações existentes; as cores não indicam aprovação eclesial.",
+      "color": "#929AA6"
+    },
+    {
+      "id": "f9659712cf61b553",
+      "type": "text",
+      "x": 0,
+      "y": -240,
+      "width": 340,
+      "height": 80,
+      "text": "**Títulos marianos** · 2 notas",
+      "color": "#D6A64B"
+    },
+    {
+      "id": "aaffd32323ab8cca",
+      "type": "text",
+      "x": 380,
+      "y": -240,
+      "width": 340,
+      "height": 80,
+      "text": "**Dogmas** · 4 notas",
+      "color": "#AF8CE0"
+    },
+    {
+      "id": "ab570e9b5ef1ebfd",
+      "type": "text",
+      "x": 760,
+      "y": -240,
+      "width": 340,
+      "height": 80,
+      "text": "**Estudos e capítulos** · 15 notas",
+      "color": "#72BED1"
+    },
+    {
+      "id": "99592e1b77d99e06",
+      "type": "group",
+      "x": 0,
+      "y": 100,
+      "width": 1440,
+      "height": 500,
+      "label": "Títulos marianos  ·  2 notas",
+      "color": "#D6A64B"
+    },
+    {
+      "id": "140a2cd507798ac8",
+      "type": "file",
+      "file": "03 - Títulos Marianos/Nossa Senhora de Lourdes.md",
+      "x": 40,
+      "y": 180,
+      "width": 400,
+      "height": 300,
+      "color": "#D6A64B"
+    },
+    {
+      "id": "eb4c265cea2f98b2",
+      "type": "file",
+      "file": "03 - Títulos Marianos/Mãe de Deus (Theotokos).md",
+      "x": 500,
+      "y": 180,
+      "width": 400,
+      "height": 300,
+      "color": "#D6A64B"
+    },
+    {
+      "id": "3cd667939b425073",
+      "type": "group",
+      "x": 1560,
+      "y": 100,
+      "width": 1440,
+      "height": 880,
+      "label": "Dogmas  ·  4 notas",
+      "color": "#AF8CE0"
+    },
+    {
+      "id": "92f9524ddfc6c245",
+      "type": "file",
+      "file": "06 - Dogmas e Doutrina/Assunção de Maria.md",
+      "x": 1600,
+      "y": 180,
+      "width": 400,
+      "height": 300,
+      "color": "#AF8CE0"
+    },
+    {
+      "id": "70909c05fabddbf7",
+      "type": "file",
+      "file": "06 - Dogmas e Doutrina/Imaculada Conceição.md",
+      "x": 2060,
+      "y": 180,
+      "width": 400,
+      "height": 300,
+      "color": "#AF8CE0"
+    },
+    {
+      "id": "a0172fb3fdc893e6",
+      "type": "file",
+      "file": "06 - Dogmas e Doutrina/Maternidade divina.md",
+      "x": 2520,
+      "y": 180,
+      "width": 400,
+      "height": 300,
+      "color": "#AF8CE0"
+    },
+    {
+      "id": "cf67baaf7b69ca89",
+      "type": "file",
+      "file": "06 - Dogmas e Doutrina/Virgindade perpétua.md",
+      "x": 1600,
+      "y": 560,
+      "width": 400,
+      "height": 300,
+      "color": "#AF8CE0"
+    },
+    {
+      "id": "bd5c9545b8010c82",
+      "type": "group",
+      "x": 0,
+      "y": 1100,
+      "width": 1440,
+      "height": 2020,
+      "label": "Estudos e capítulos  ·  15 notas",
+      "color": "#72BED1"
+    },
+    {
+      "id": "cd3c5de0221b812e",
+      "type": "file",
+      "file": "01 - Maria Santíssima/O mundo em que Maria viveu.md",
+      "x": 40,
+      "y": 1180,
+      "width": 400,
+      "height": 300,
+      "color": "#72BED1"
+    },
+    {
+      "id": "629cf52886d24ea4",
+      "type": "file",
+      "file": "01 - Maria Santíssima/Joaquim e Ana, os pais de Maria.md",
+      "x": 500,
+      "y": 1180,
+      "width": 400,
+      "height": 300,
+      "color": "#72BED1"
+    },
+    {
+      "id": "dad5167d7bf3e237",
+      "type": "file",
+      "file": "01 - Maria Santíssima/O nascimento e a infância de Maria.md",
+      "x": 960,
+      "y": 1180,
+      "width": 400,
+      "height": 300,
+      "color": "#72BED1"
+    },
+    {
+      "id": "51750236e5c22159",
+      "type": "file",
+      "file": "01 - Maria Santíssima/Maria e José.md",
+      "x": 40,
+      "y": 1560,
+      "width": 400,
+      "height": 300,
+      "color": "#72BED1"
+    },
+    {
+      "id": "22c84dfd939208d5",
+      "type": "file",
+      "file": "01 - Maria Santíssima/A Anunciação.md",
+      "x": 500,
+      "y": 1560,
+      "width": 400,
+      "height": 300,
+      "color": "#72BED1"
+    },
+    {
+      "id": "dd963440233229fc",
+      "type": "file",
+      "file": "01 - Maria Santíssima/A Visitação e o Magnificat.md",
+      "x": 960,
+      "y": 1560,
+      "width": 400,
+      "height": 300,
+      "color": "#72BED1"
+    },
+    {
+      "id": "db3cfb7d1362d4c5",
+      "type": "file",
+      "file": "01 - Maria Santíssima/Belém -  o nascimento de Jesus.md",
+      "x": 40,
+      "y": 1940,
+      "width": 400,
+      "height": 300,
+      "color": "#72BED1"
+    },
+    {
+      "id": "4e0f6209bc318936",
+      "type": "file",
+      "file": "01 - Maria Santíssima/Com o Menino -  Templo, Egito e Nazaré.md",
+      "x": 500,
+      "y": 1940,
+      "width": 400,
+      "height": 300,
+      "color": "#72BED1"
+    },
+    {
+      "id": "547d184188ed4150",
+      "type": "file",
+      "file": "01 - Maria Santíssima/Maria na vida pública de Jesus.md",
+      "x": 960,
+      "y": 1940,
+      "width": 400,
+      "height": 300,
+      "color": "#72BED1"
+    },
+    {
+      "id": "5f9ac1787dc4a3ce",
+      "type": "file",
+      "file": "01 - Maria Santíssima/Paixão -  Maria junto à cruz e as dores de Maria.md",
+      "x": 40,
+      "y": 2320,
+      "width": 400,
+      "height": 300,
+      "color": "#72BED1"
+    },
+    {
+      "id": "ec1931b1c0d2506f",
+      "type": "file",
+      "file": "01 - Maria Santíssima/Depois da Ressurreição -  Cenáculo e Pentecostes.md",
+      "x": 500,
+      "y": 2320,
+      "width": 400,
+      "height": 300,
+      "color": "#72BED1"
+    },
+    {
+      "id": "c3aacc6c8cb9b7db",
+      "type": "file",
+      "file": "01 - Maria Santíssima/Dormição e Assunção.md",
+      "x": 960,
+      "y": 2320,
+      "width": 400,
+      "height": 300,
+      "color": "#72BED1"
+    },
+    {
+      "id": "5aaaa2dfabacd59e",
+      "type": "file",
+      "file": "01 - Maria Santíssima/Maria na vida da Igreja.md",
+      "x": 40,
+      "y": 2700,
+      "width": 400,
+      "height": 300,
+      "color": "#72BED1"
+    },
+    {
+      "id": "0c9eba2fa622fbae",
+      "type": "file",
+      "file": "06 - Dogmas e Doutrina/Devoção a Maria e adoração a Deus.md",
+      "x": 500,
+      "y": 2700,
+      "width": 400,
+      "height": 300,
+      "color": "#72BED1"
+    },
+    {
+      "id": "2d6b41222731742f",
+      "type": "file",
+      "file": "06 - Dogmas e Doutrina/Maria, Mãe da Igreja.md",
+      "x": 960,
+      "y": 2700,
+      "width": 400,
+      "height": 300,
+      "color": "#72BED1"
+    }
+  ],
+  "edges": [
+    {
+      "id": "1465529a3762eefb",
+      "fromNode": "92f9524ddfc6c245",
+      "toNode": "70909c05fabddbf7",
+      "label": "estudos relacionados",
+      "toEnd": "arrow",
+      "color": "#AF8CE0"
+    },
+    {
+      "id": "1f39f70b4ef8c5ac",
+      "fromNode": "0c9eba2fa622fbae",
+      "toNode": "70909c05fabddbf7",
+      "label": "menciona",
+      "toEnd": "arrow",
+      "color": "#72BED1"
+    },
+    {
+      "id": "a9b18ddf7c706dca",
+      "fromNode": "0c9eba2fa622fbae",
+      "toNode": "140a2cd507798ac8",
+      "label": "titulos relacionados",
+      "toEnd": "arrow",
+      "color": "#72BED1"
+    },
+    {
+      "id": "b346ee4995a1a255",
+      "fromNode": "70909c05fabddbf7",
+      "toNode": "92f9524ddfc6c245",
+      "label": "estudos relacionados",
+      "toEnd": "arrow",
+      "color": "#AF8CE0"
+    },
+    {
+      "id": "133a2fa65ade64de",
+      "fromNode": "2d6b41222731742f",
+      "toNode": "0c9eba2fa622fbae",
+      "label": "estudos relacionados",
+      "toEnd": "arrow",
+      "color": "#72BED1"
+    },
+    {
+      "id": "edd1717f958c4cea",
+      "fromNode": "2d6b41222731742f",
+      "toNode": "ec1931b1c0d2506f",
+      "label": "estudos relacionados",
+      "toEnd": "arrow",
+      "color": "#72BED1"
+    },
+    {
+      "id": "94d12dbe62998eec",
+      "fromNode": "2d6b41222731742f",
+      "toNode": "5aaaa2dfabacd59e",
+      "label": "estudos relacionados",
+      "toEnd": "arrow",
+      "color": "#72BED1"
+    },
+    {
+      "id": "cf8112d0cd50167d",
+      "fromNode": "a0172fb3fdc893e6",
+      "toNode": "cf67baaf7b69ca89",
+      "label": "estudos relacionados",
+      "toEnd": "arrow",
+      "color": "#AF8CE0"
+    },
+    {
+      "id": "8a3146dfbae85d09",
+      "fromNode": "a0172fb3fdc893e6",
+      "toNode": "eb4c265cea2f98b2",
+      "label": "menciona",
+      "toEnd": "arrow",
+      "color": "#AF8CE0"
+    },
+    {
+      "id": "783805e58e1ca677",
+      "fromNode": "a0172fb3fdc893e6",
+      "toNode": "eb4c265cea2f98b2",
+      "label": "titulos relacionados",
+      "toEnd": "arrow",
+      "color": "#AF8CE0"
+    },
+    {
+      "id": "431359085021020a",
+      "fromNode": "cf67baaf7b69ca89",
+      "toNode": "a0172fb3fdc893e6",
+      "label": "estudos relacionados",
+      "toEnd": "arrow",
+      "color": "#AF8CE0"
+    },
+    {
+      "id": "6e8a1073c1460fff",
+      "fromNode": "140a2cd507798ac8",
+      "toNode": "0c9eba2fa622fbae",
+      "label": "estudos relacionados",
+      "toEnd": "arrow",
+      "color": "#D6A64B"
+    },
+    {
+      "id": "3e6862736763a4d2",
+      "fromNode": "eb4c265cea2f98b2",
+      "toNode": "a0172fb3fdc893e6",
+      "label": "estudos relacionados",
+      "toEnd": "arrow",
+      "color": "#D6A64B"
+    },
+    {
+      "id": "0f0fe2905d247fc8",
+      "fromNode": "eb4c265cea2f98b2",
+      "toNode": "a0172fb3fdc893e6",
+      "label": "expressa dogma",
+      "toEnd": "arrow",
+      "color": "#D6A64B"
+    },
+    {
+      "id": "984843f1066a259b",
+      "fromNode": "cd3c5de0221b812e",
+      "toNode": "629cf52886d24ea4",
+      "label": "estudos relacionados",
+      "toEnd": "arrow",
+      "color": "#72BED1"
+    },
+    {
+      "id": "9a26ecb3b758f289",
+      "fromNode": "cd3c5de0221b812e",
+      "toNode": "22c84dfd939208d5",
+      "label": "estudos relacionados",
+      "toEnd": "arrow",
+      "color": "#72BED1"
+    },
+    {
+      "id": "51238d66f7c8ccf9",
+      "fromNode": "629cf52886d24ea4",
+      "toNode": "dad5167d7bf3e237",
+      "label": "estudos relacionados",
+      "toEnd": "arrow",
+      "color": "#72BED1"
+    },
+    {
+      "id": "d640acff4265d3ba",
+      "fromNode": "629cf52886d24ea4",
+      "toNode": "22c84dfd939208d5",
+      "label": "estudos relacionados",
+      "toEnd": "arrow",
+      "color": "#72BED1"
+    },
+    {
+      "id": "40fa469dde17844b",
+      "fromNode": "dad5167d7bf3e237",
+      "toNode": "629cf52886d24ea4",
+      "label": "estudos relacionados",
+      "toEnd": "arrow",
+      "color": "#72BED1"
+    },
+    {
+      "id": "18312dc7ec3aaba1",
+      "fromNode": "dad5167d7bf3e237",
+      "toNode": "51750236e5c22159",
+      "label": "estudos relacionados",
+      "toEnd": "arrow",
+      "color": "#72BED1"
+    },
+    {
+      "id": "1b74dc00a33179e7",
+      "fromNode": "51750236e5c22159",
+      "toNode": "cf67baaf7b69ca89",
+      "label": "estudos relacionados",
+      "toEnd": "arrow",
+      "color": "#72BED1"
+    },
+    {
+      "id": "8e53008be41bfe64",
+      "fromNode": "51750236e5c22159",
+      "toNode": "cf67baaf7b69ca89",
+      "label": "menciona",
+      "toEnd": "arrow",
+      "color": "#72BED1"
+    },
+    {
+      "id": "f8e68d80d38a009d",
+      "fromNode": "51750236e5c22159",
+      "toNode": "22c84dfd939208d5",
+      "label": "estudos relacionados",
+      "toEnd": "arrow",
+      "color": "#72BED1"
+    },
+    {
+      "id": "5281b1a7ff95db88",
+      "fromNode": "22c84dfd939208d5",
+      "toNode": "a0172fb3fdc893e6",
+      "label": "estudos relacionados",
+      "toEnd": "arrow",
+      "color": "#72BED1"
+    },
+    {
+      "id": "74d17def42c5c2b6",
+      "fromNode": "22c84dfd939208d5",
+      "toNode": "cf67baaf7b69ca89",
+      "label": "estudos relacionados",
+      "toEnd": "arrow",
+      "color": "#72BED1"
+    },
+    {
+      "id": "a2a3522276833d5f",
+      "fromNode": "22c84dfd939208d5",
+      "toNode": "eb4c265cea2f98b2",
+      "label": "titulos relacionados",
+      "toEnd": "arrow",
+      "color": "#72BED1"
+    },
+    {
+      "id": "be38846f754e86da",
+      "fromNode": "22c84dfd939208d5",
+      "toNode": "dd963440233229fc",
+      "label": "estudos relacionados",
+      "toEnd": "arrow",
+      "color": "#72BED1"
+    },
+    {
+      "id": "26d629bd2a0f2fe8",
+      "fromNode": "dd963440233229fc",
+      "toNode": "22c84dfd939208d5",
+      "label": "estudos relacionados",
+      "toEnd": "arrow",
+      "color": "#72BED1"
+    },
+    {
+      "id": "e809bd197885a887",
+      "fromNode": "dd963440233229fc",
+      "toNode": "db3cfb7d1362d4c5",
+      "label": "estudos relacionados",
+      "toEnd": "arrow",
+      "color": "#72BED1"
+    },
+    {
+      "id": "8ad69fed535bc186",
+      "fromNode": "db3cfb7d1362d4c5",
+      "toNode": "a0172fb3fdc893e6",
+      "label": "estudos relacionados",
+      "toEnd": "arrow",
+      "color": "#72BED1"
+    },
+    {
+      "id": "4f94e273fb288de0",
+      "fromNode": "db3cfb7d1362d4c5",
+      "toNode": "eb4c265cea2f98b2",
+      "label": "menciona",
+      "toEnd": "arrow",
+      "color": "#72BED1"
+    },
+    {
+      "id": "6c57ddc986ea816a",
+      "fromNode": "db3cfb7d1362d4c5",
+      "toNode": "eb4c265cea2f98b2",
+      "label": "titulos relacionados",
+      "toEnd": "arrow",
+      "color": "#72BED1"
+    },
+    {
+      "id": "18845a61925a74d1",
+      "fromNode": "db3cfb7d1362d4c5",
+      "toNode": "4e0f6209bc318936",
+      "label": "estudos relacionados",
+      "toEnd": "arrow",
+      "color": "#72BED1"
+    },
+    {
+      "id": "0b9e25b6ce2aa66e",
+      "fromNode": "4e0f6209bc318936",
+      "toNode": "140a2cd507798ac8",
+      "label": "titulos relacionados",
+      "toEnd": "arrow",
+      "color": "#72BED1"
+    },
+    {
+      "id": "6dddd1f2fdb0694b",
+      "fromNode": "4e0f6209bc318936",
+      "toNode": "db3cfb7d1362d4c5",
+      "label": "estudos relacionados",
+      "toEnd": "arrow",
+      "color": "#72BED1"
+    },
+    {
+      "id": "6bcf02cc5b6ea31b",
+      "fromNode": "4e0f6209bc318936",
+      "toNode": "547d184188ed4150",
+      "label": "estudos relacionados",
+      "toEnd": "arrow",
+      "color": "#72BED1"
+    },
+    {
+      "id": "1137b228e6192c94",
+      "fromNode": "547d184188ed4150",
+      "toNode": "0c9eba2fa622fbae",
+      "label": "estudos relacionados",
+      "toEnd": "arrow",
+      "color": "#72BED1"
+    },
+    {
+      "id": "2703e41c1cc74e68",
+      "fromNode": "547d184188ed4150",
+      "toNode": "5f9ac1787dc4a3ce",
+      "label": "estudos relacionados",
+      "toEnd": "arrow",
+      "color": "#72BED1"
+    },
+    {
+      "id": "c4045d507a5cccf2",
+      "fromNode": "5f9ac1787dc4a3ce",
+      "toNode": "ec1931b1c0d2506f",
+      "label": "estudos relacionados",
+      "toEnd": "arrow",
+      "color": "#72BED1"
+    },
+    {
+      "id": "f2dd2dd11d57a1ba",
+      "fromNode": "ec1931b1c0d2506f",
+      "toNode": "2d6b41222731742f",
+      "label": "estudos relacionados",
+      "toEnd": "arrow",
+      "color": "#72BED1"
+    },
+    {
+      "id": "eb601bd8dcbcb7d5",
+      "fromNode": "ec1931b1c0d2506f",
+      "toNode": "c3aacc6c8cb9b7db",
+      "label": "estudos relacionados",
+      "toEnd": "arrow",
+      "color": "#72BED1"
+    },
+    {
+      "id": "3c4935db56362a69",
+      "fromNode": "c3aacc6c8cb9b7db",
+      "toNode": "92f9524ddfc6c245",
+      "label": "estudos relacionados",
+      "toEnd": "arrow",
+      "color": "#72BED1"
+    },
+    {
+      "id": "2098204bde9ba4d6",
+      "fromNode": "c3aacc6c8cb9b7db",
+      "toNode": "5aaaa2dfabacd59e",
+      "label": "estudos relacionados",
+      "toEnd": "arrow",
+      "color": "#72BED1"
+    },
+    {
+      "id": "830b4d70472308cb",
+      "fromNode": "5aaaa2dfabacd59e",
+      "toNode": "92f9524ddfc6c245",
+      "label": "estudos relacionados",
+      "toEnd": "arrow",
+      "color": "#72BED1"
+    },
+    {
+      "id": "f927fa1c6d61bba0",
+      "fromNode": "5aaaa2dfabacd59e",
+      "toNode": "0c9eba2fa622fbae",
+      "label": "estudos relacionados",
+      "toEnd": "arrow",
+      "color": "#72BED1"
+    },
+    {
+      "id": "142475ffdfd474d8",
+      "fromNode": "5aaaa2dfabacd59e",
+      "toNode": "70909c05fabddbf7",
+      "label": "estudos relacionados",
+      "toEnd": "arrow",
+      "color": "#72BED1"
+    },
+    {
+      "id": "8e765c0e9d583ac0",
+      "fromNode": "5aaaa2dfabacd59e",
+      "toNode": "70909c05fabddbf7",
+      "label": "menciona",
+      "toEnd": "arrow",
+      "color": "#72BED1"
+    },
+    {
+      "id": "fb3e1fbf729821b7",
+      "fromNode": "5aaaa2dfabacd59e",
+      "toNode": "2d6b41222731742f",
+      "label": "estudos relacionados",
+      "toEnd": "arrow",
+      "color": "#72BED1"
+    },
+    {
+      "id": "76c3147750336188",
+      "fromNode": "5aaaa2dfabacd59e",
+      "toNode": "a0172fb3fdc893e6",
+      "label": "estudos relacionados",
+      "toEnd": "arrow",
+      "color": "#72BED1"
+    },
+    {
+      "id": "17058098b9b715cc",
+      "fromNode": "5aaaa2dfabacd59e",
+      "toNode": "cf67baaf7b69ca89",
+      "label": "estudos relacionados",
+      "toEnd": "arrow",
+      "color": "#72BED1"
+    },
+    {
+      "id": "060c1cb70c36c804",
+      "fromNode": "5aaaa2dfabacd59e",
+      "toNode": "eb4c265cea2f98b2",
+      "label": "menciona",
+      "toEnd": "arrow",
+      "color": "#72BED1"
+    }
+  ]
+}

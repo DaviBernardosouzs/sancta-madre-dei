@@ -1,0 +1,26 @@
+{
+  "types": {
+    "tipo": "text",
+    "titulo": "text",
+    "aliases": "aliases",
+    "tags": "tags",
+    "pais": "text",
+    "continente": "text",
+    "ano": "number",
+    "data_inicio": "text",
+    "data_fim": "text",
+    "data_reconhecimento": "date",
+    "status_eclesial": "text",
+    "fontes_verificadas": "checkbox",
+    "estado_pesquisa": "text",
+    "fontes": "multitext",
+    "origens": "multitext",
+    "protagonistas": "multitext",
+    "menciona": "multitext",
+    "beneficiario": "multitext",
+    "documentado_em": "multitext",
+    "titulo_associado": "multitext",
+    "santuario_associado": "multitext",
+    "relacionado": "multitext"
+  }
+}

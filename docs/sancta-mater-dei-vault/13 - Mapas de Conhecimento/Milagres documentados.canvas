@@ -1,0 +1,770 @@
+{
+  "nodes": [
+    {
+      "id": "265b17610bcc78af",
+      "type": "text",
+      "x": 0,
+      "y": -500,
+      "width": 3040,
+      "height": 180,
+      "text": "# Milagres documentados\n\n17 notas · 53 relações documentadas\n\nCada grupo identifica um tipo de conteúdo. As setas conservam as relações existentes; as cores não indicam aprovação eclesial.",
+      "color": "#929AA6"
+    },
+    {
+      "id": "1df87110c90bc2a6",
+      "type": "text",
+      "x": 0,
+      "y": -240,
+      "width": 340,
+      "height": 80,
+      "text": "**Aparições** · 1 notas",
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "de6a5e19d8734b20",
+      "type": "text",
+      "x": 380,
+      "y": -240,
+      "width": 340,
+      "height": 80,
+      "text": "**Títulos marianos** · 1 notas",
+      "color": "#D6A64B"
+    },
+    {
+      "id": "1b4f6cec634127da",
+      "type": "text",
+      "x": 760,
+      "y": -240,
+      "width": 340,
+      "height": 80,
+      "text": "**Milagres e curas** · 4 notas",
+      "color": "#E27373"
+    },
+    {
+      "id": "82189da82206fd82",
+      "type": "text",
+      "x": 1140,
+      "y": -240,
+      "width": 340,
+      "height": 80,
+      "text": "**Santos** · 1 notas",
+      "color": "#69B887"
+    },
+    {
+      "id": "0d78e0d3ca86c38a",
+      "type": "text",
+      "x": 1520,
+      "y": -240,
+      "width": 340,
+      "height": 80,
+      "text": "**Pessoas documentadas** · 4 notas",
+      "color": "#69B887"
+    },
+    {
+      "id": "b9ac1a00390b1211",
+      "type": "text",
+      "x": 1900,
+      "y": -240,
+      "width": 340,
+      "height": 80,
+      "text": "**Santuários** · 1 notas",
+      "color": "#DB8B50"
+    },
+    {
+      "id": "309ce4f2177c5b9f",
+      "type": "text",
+      "x": 2280,
+      "y": -240,
+      "width": 340,
+      "height": 80,
+      "text": "**Estudos e capítulos** · 4 notas",
+      "color": "#72BED1"
+    },
+    {
+      "id": "0e1a309d027b5ff8",
+      "type": "text",
+      "x": 2660,
+      "y": -240,
+      "width": 340,
+      "height": 80,
+      "text": "**Fontes e bibliografia** · 1 notas",
+      "color": "#929AA6"
+    },
+    {
+      "id": "cd91ef06756a8e96",
+      "type": "group",
+      "x": 0,
+      "y": 100,
+      "width": 1440,
+      "height": 500,
+      "label": "Aparições  ·  1 notas",
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "88f17c7faa60c2c3",
+      "type": "file",
+      "file": "02 - Aparições Marianas/Europa/Aparições de Lourdes (1858).md",
+      "x": 40,
+      "y": 180,
+      "width": 400,
+      "height": 300,
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "420978db4fee969f",
+      "type": "group",
+      "x": 1560,
+      "y": 100,
+      "width": 1440,
+      "height": 500,
+      "label": "Títulos marianos  ·  1 notas",
+      "color": "#D6A64B"
+    },
+    {
+      "id": "e91286a588d0c47c",
+      "type": "file",
+      "file": "03 - Títulos Marianos/Nossa Senhora de Lourdes.md",
+      "x": 1600,
+      "y": 180,
+      "width": 400,
+      "height": 300,
+      "color": "#D6A64B"
+    },
+    {
+      "id": "931201afbdb2bdf9",
+      "type": "group",
+      "x": 0,
+      "y": 720,
+      "width": 1440,
+      "height": 880,
+      "label": "Milagres e curas  ·  4 notas",
+      "color": "#E27373"
+    },
+    {
+      "id": "80568d06125ee6b9",
+      "type": "file",
+      "file": "04 - Milagres/Cura atribuída — Catherine Latapie.md",
+      "x": 40,
+      "y": 800,
+      "width": 400,
+      "height": 300,
+      "color": "#E27373"
+    },
+    {
+      "id": "2f3effd1521942de",
+      "type": "file",
+      "file": "04 - Milagres/Cura atribuída — Antonietta Raco.md",
+      "x": 500,
+      "y": 800,
+      "width": 400,
+      "height": 300,
+      "color": "#E27373"
+    },
+    {
+      "id": "698d2f957512a37b",
+      "type": "file",
+      "file": "04 - Milagres/Cura atribuída — John Traynor.md",
+      "x": 960,
+      "y": 800,
+      "width": 400,
+      "height": 300,
+      "color": "#E27373"
+    },
+    {
+      "id": "aba10a1ff7377727",
+      "type": "file",
+      "file": "04 - Milagres/Cura atribuída — Sister Bernadette Moriau.md",
+      "x": 40,
+      "y": 1180,
+      "width": 400,
+      "height": 300,
+      "color": "#E27373"
+    },
+    {
+      "id": "68edb36193ea39b5",
+      "type": "group",
+      "x": 1560,
+      "y": 720,
+      "width": 1440,
+      "height": 500,
+      "label": "Santos  ·  1 notas",
+      "color": "#69B887"
+    },
+    {
+      "id": "018d3bbd8c0d0582",
+      "type": "file",
+      "file": "05 - Santos e Videntes/Santa Bernadette Soubirous.md",
+      "x": 1600,
+      "y": 800,
+      "width": 400,
+      "height": 300,
+      "color": "#69B887"
+    },
+    {
+      "id": "8fe2e0e42a3ac142",
+      "type": "group",
+      "x": 0,
+      "y": 1720,
+      "width": 1440,
+      "height": 880,
+      "label": "Pessoas documentadas  ·  4 notas",
+      "color": "#69B887"
+    },
+    {
+      "id": "44f30800cefec253",
+      "type": "file",
+      "file": "05 - Santos e Videntes/Catherine Latapie.md",
+      "x": 40,
+      "y": 1800,
+      "width": 400,
+      "height": 300,
+      "color": "#69B887"
+    },
+    {
+      "id": "8a8b83e271277820",
+      "type": "file",
+      "file": "05 - Santos e Videntes/Bernadette Moriau.md",
+      "x": 500,
+      "y": 1800,
+      "width": 400,
+      "height": 300,
+      "color": "#69B887"
+    },
+    {
+      "id": "ef79833b8603a57d",
+      "type": "file",
+      "file": "05 - Santos e Videntes/Antonietta Raco.md",
+      "x": 960,
+      "y": 1800,
+      "width": 400,
+      "height": 300,
+      "color": "#69B887"
+    },
+    {
+      "id": "dc6a4e3f444ef838",
+      "type": "file",
+      "file": "05 - Santos e Videntes/John Traynor.md",
+      "x": 40,
+      "y": 2180,
+      "width": 400,
+      "height": 300,
+      "color": "#69B887"
+    },
+    {
+      "id": "e0b3e183a247a42f",
+      "type": "group",
+      "x": 1560,
+      "y": 1720,
+      "width": 1440,
+      "height": 500,
+      "label": "Santuários  ·  1 notas",
+      "color": "#DB8B50"
+    },
+    {
+      "id": "ba6f7ea9d28962e1",
+      "type": "file",
+      "file": "08 - Santuários/Santuário de Nossa Senhora de Lourdes.md",
+      "x": 1600,
+      "y": 1800,
+      "width": 400,
+      "height": 300,
+      "color": "#DB8B50"
+    },
+    {
+      "id": "580f4a53a553d6be",
+      "type": "group",
+      "x": 0,
+      "y": 2720,
+      "width": 1440,
+      "height": 880,
+      "label": "Estudos e capítulos  ·  4 notas",
+      "color": "#72BED1"
+    },
+    {
+      "id": "06971f345120db9b",
+      "type": "file",
+      "file": "04 - Milagres/Lourdes -  Antonietta Raco e o reconhecimento de 2025.md",
+      "x": 40,
+      "y": 2800,
+      "width": 400,
+      "height": 300,
+      "color": "#72BED1"
+    },
+    {
+      "id": "dfcf7014836aeb08",
+      "type": "file",
+      "file": "04 - Milagres/Lourdes -  John Traynor e a recuperação de um processo histórico.md",
+      "x": 500,
+      "y": 2800,
+      "width": 400,
+      "height": 300,
+      "color": "#72BED1"
+    },
+    {
+      "id": "80ad8f306f7c24ef",
+      "type": "file",
+      "file": "04 - Milagres/Lourdes -  a irmã Bernadette Moriau.md",
+      "x": 960,
+      "y": 2800,
+      "width": 400,
+      "height": 300,
+      "color": "#72BED1"
+    },
+    {
+      "id": "614d6a222f1c9979",
+      "type": "file",
+      "file": "06 - Dogmas e Doutrina/Curas e milagres em Lourdes -  o que está documentado.md",
+      "x": 40,
+      "y": 3180,
+      "width": 400,
+      "height": 300,
+      "color": "#72BED1"
+    },
+    {
+      "id": "b0e12b7d18644398",
+      "type": "group",
+      "x": 1560,
+      "y": 2720,
+      "width": 1440,
+      "height": 500,
+      "label": "Fontes e bibliografia  ·  1 notas",
+      "color": "#929AA6"
+    },
+    {
+      "id": "769dfb3aa642a45c",
+      "type": "file",
+      "file": "12 - Fontes e Bibliografia/Vatican News — reconhecimento da cura de Antonietta Raco (2025).md",
+      "x": 1600,
+      "y": 2800,
+      "width": 400,
+      "height": 300,
+      "color": "#929AA6"
+    }
+  ],
+  "edges": [
+    {
+      "id": "12475d9cc653a34d",
+      "fromNode": "88f17c7faa60c2c3",
+      "toNode": "018d3bbd8c0d0582",
+      "label": "menciona",
+      "toEnd": "arrow",
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "ff9fb0c7d0771cc3",
+      "fromNode": "88f17c7faa60c2c3",
+      "toNode": "018d3bbd8c0d0582",
+      "label": "protagonistas",
+      "toEnd": "arrow",
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "b1ed8ad285f03d69",
+      "fromNode": "88f17c7faa60c2c3",
+      "toNode": "ba6f7ea9d28962e1",
+      "label": "local associado",
+      "toEnd": "arrow",
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "519b441683b1a739",
+      "fromNode": "88f17c7faa60c2c3",
+      "toNode": "e91286a588d0c47c",
+      "label": "titulos relacionados",
+      "toEnd": "arrow",
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "8254d34b754c6fa2",
+      "fromNode": "698d2f957512a37b",
+      "toNode": "614d6a222f1c9979",
+      "label": "contexto metodologico",
+      "toEnd": "arrow",
+      "color": "#E27373"
+    },
+    {
+      "id": "777835d3f9759fa2",
+      "fromNode": "698d2f957512a37b",
+      "toNode": "dc6a4e3f444ef838",
+      "label": "beneficiario",
+      "toEnd": "arrow",
+      "color": "#E27373"
+    },
+    {
+      "id": "4445413fdd82a7a1",
+      "fromNode": "698d2f957512a37b",
+      "toNode": "dc6a4e3f444ef838",
+      "label": "menciona",
+      "toEnd": "arrow",
+      "color": "#E27373"
+    },
+    {
+      "id": "aa8f941852979c16",
+      "fromNode": "698d2f957512a37b",
+      "toNode": "dfcf7014836aeb08",
+      "label": "estudo do caso",
+      "toEnd": "arrow",
+      "color": "#E27373"
+    },
+    {
+      "id": "204dc0d0e27589e4",
+      "fromNode": "698d2f957512a37b",
+      "toNode": "ba6f7ea9d28962e1",
+      "label": "local associado",
+      "toEnd": "arrow",
+      "color": "#E27373"
+    },
+    {
+      "id": "27e34dfbe8df6588",
+      "fromNode": "aba10a1ff7377727",
+      "toNode": "614d6a222f1c9979",
+      "label": "contexto metodologico",
+      "toEnd": "arrow",
+      "color": "#E27373"
+    },
+    {
+      "id": "64c422d3d769119b",
+      "fromNode": "aba10a1ff7377727",
+      "toNode": "8a8b83e271277820",
+      "label": "beneficiario",
+      "toEnd": "arrow",
+      "color": "#E27373"
+    },
+    {
+      "id": "a177333487843771",
+      "fromNode": "aba10a1ff7377727",
+      "toNode": "8a8b83e271277820",
+      "label": "menciona",
+      "toEnd": "arrow",
+      "color": "#E27373"
+    },
+    {
+      "id": "2debb01fab5a17e5",
+      "fromNode": "aba10a1ff7377727",
+      "toNode": "80ad8f306f7c24ef",
+      "label": "estudo do caso",
+      "toEnd": "arrow",
+      "color": "#E27373"
+    },
+    {
+      "id": "8e6a07543a2625cc",
+      "fromNode": "aba10a1ff7377727",
+      "toNode": "ba6f7ea9d28962e1",
+      "label": "local associado",
+      "toEnd": "arrow",
+      "color": "#E27373"
+    },
+    {
+      "id": "8bb01a3f87e56823",
+      "fromNode": "614d6a222f1c9979",
+      "toNode": "88f17c7faa60c2c3",
+      "label": "aparicoes relacionadas",
+      "toEnd": "arrow",
+      "color": "#72BED1"
+    },
+    {
+      "id": "9875a711445bd7ee",
+      "fromNode": "614d6a222f1c9979",
+      "toNode": "44f30800cefec253",
+      "label": "menciona",
+      "toEnd": "arrow",
+      "color": "#72BED1"
+    },
+    {
+      "id": "348d1e04f40def66",
+      "fromNode": "614d6a222f1c9979",
+      "toNode": "ef79833b8603a57d",
+      "label": "menciona",
+      "toEnd": "arrow",
+      "color": "#72BED1"
+    },
+    {
+      "id": "0e5d3723dd6d4c69",
+      "fromNode": "80568d06125ee6b9",
+      "toNode": "88f17c7faa60c2c3",
+      "label": "aparicoes relacionadas",
+      "toEnd": "arrow",
+      "color": "#E27373"
+    },
+    {
+      "id": "b987a498a715b6cb",
+      "fromNode": "80568d06125ee6b9",
+      "toNode": "614d6a222f1c9979",
+      "label": "contexto metodologico",
+      "toEnd": "arrow",
+      "color": "#E27373"
+    },
+    {
+      "id": "e19917989d54f4eb",
+      "fromNode": "80568d06125ee6b9",
+      "toNode": "44f30800cefec253",
+      "label": "beneficiario",
+      "toEnd": "arrow",
+      "color": "#E27373"
+    },
+    {
+      "id": "09ebeb741cfc2132",
+      "fromNode": "80568d06125ee6b9",
+      "toNode": "44f30800cefec253",
+      "label": "menciona",
+      "toEnd": "arrow",
+      "color": "#E27373"
+    },
+    {
+      "id": "f19b625147b052b5",
+      "fromNode": "80568d06125ee6b9",
+      "toNode": "ba6f7ea9d28962e1",
+      "label": "local associado",
+      "toEnd": "arrow",
+      "color": "#E27373"
+    },
+    {
+      "id": "a8ce3b1ce1e74189",
+      "fromNode": "80568d06125ee6b9",
+      "toNode": "e91286a588d0c47c",
+      "label": "titulos relacionados",
+      "toEnd": "arrow",
+      "color": "#E27373"
+    },
+    {
+      "id": "194f00e1397e3a87",
+      "fromNode": "2f3effd1521942de",
+      "toNode": "88f17c7faa60c2c3",
+      "label": "aparicoes relacionadas",
+      "toEnd": "arrow",
+      "color": "#E27373"
+    },
+    {
+      "id": "09510a7ee6bdea1a",
+      "fromNode": "2f3effd1521942de",
+      "toNode": "769dfb3aa642a45c",
+      "label": "fontes",
+      "toEnd": "arrow",
+      "color": "#E27373"
+    },
+    {
+      "id": "de39767cd0d86373",
+      "fromNode": "2f3effd1521942de",
+      "toNode": "ef79833b8603a57d",
+      "label": "beneficiario",
+      "toEnd": "arrow",
+      "color": "#E27373"
+    },
+    {
+      "id": "ecdee3b011666a72",
+      "fromNode": "2f3effd1521942de",
+      "toNode": "ef79833b8603a57d",
+      "label": "menciona",
+      "toEnd": "arrow",
+      "color": "#E27373"
+    },
+    {
+      "id": "06c440e06046a9bc",
+      "fromNode": "2f3effd1521942de",
+      "toNode": "06971f345120db9b",
+      "label": "estudo do caso",
+      "toEnd": "arrow",
+      "color": "#E27373"
+    },
+    {
+      "id": "9c18ba6472c1869f",
+      "fromNode": "2f3effd1521942de",
+      "toNode": "e91286a588d0c47c",
+      "label": "titulos relacionados",
+      "toEnd": "arrow",
+      "color": "#E27373"
+    },
+    {
+      "id": "57a3b294512b9d4f",
+      "fromNode": "018d3bbd8c0d0582",
+      "toNode": "88f17c7faa60c2c3",
+      "label": "documentado em",
+      "toEnd": "arrow",
+      "color": "#69B887"
+    },
+    {
+      "id": "dfb1ce28e14006fe",
+      "fromNode": "018d3bbd8c0d0582",
+      "toNode": "ba6f7ea9d28962e1",
+      "label": "documentado em",
+      "toEnd": "arrow",
+      "color": "#69B887"
+    },
+    {
+      "id": "f8e1f965db492e95",
+      "fromNode": "018d3bbd8c0d0582",
+      "toNode": "e91286a588d0c47c",
+      "label": "documentado em",
+      "toEnd": "arrow",
+      "color": "#69B887"
+    },
+    {
+      "id": "142323975f8c94c9",
+      "fromNode": "44f30800cefec253",
+      "toNode": "614d6a222f1c9979",
+      "label": "documentado em",
+      "toEnd": "arrow",
+      "color": "#69B887"
+    },
+    {
+      "id": "b64814b27b4e32fb",
+      "fromNode": "44f30800cefec253",
+      "toNode": "80568d06125ee6b9",
+      "label": "documentado em",
+      "toEnd": "arrow",
+      "color": "#69B887"
+    },
+    {
+      "id": "eea7b0f0a6d858ef",
+      "fromNode": "8a8b83e271277820",
+      "toNode": "aba10a1ff7377727",
+      "label": "documentado em",
+      "toEnd": "arrow",
+      "color": "#69B887"
+    },
+    {
+      "id": "97be6d956ce98de1",
+      "fromNode": "8a8b83e271277820",
+      "toNode": "80ad8f306f7c24ef",
+      "label": "documentado em",
+      "toEnd": "arrow",
+      "color": "#69B887"
+    },
+    {
+      "id": "0cf520c6ba405a8d",
+      "fromNode": "ef79833b8603a57d",
+      "toNode": "769dfb3aa642a45c",
+      "label": "fontes",
+      "toEnd": "arrow",
+      "color": "#69B887"
+    },
+    {
+      "id": "baaf08cbfb822f87",
+      "fromNode": "ef79833b8603a57d",
+      "toNode": "614d6a222f1c9979",
+      "label": "documentado em",
+      "toEnd": "arrow",
+      "color": "#69B887"
+    },
+    {
+      "id": "a99bc71c9d165930",
+      "fromNode": "ef79833b8603a57d",
+      "toNode": "2f3effd1521942de",
+      "label": "documentado em",
+      "toEnd": "arrow",
+      "color": "#69B887"
+    },
+    {
+      "id": "da20adcd8e8909f5",
+      "fromNode": "ef79833b8603a57d",
+      "toNode": "06971f345120db9b",
+      "label": "documentado em",
+      "toEnd": "arrow",
+      "color": "#69B887"
+    },
+    {
+      "id": "09f6016181521f9b",
+      "fromNode": "dc6a4e3f444ef838",
+      "toNode": "698d2f957512a37b",
+      "label": "documentado em",
+      "toEnd": "arrow",
+      "color": "#69B887"
+    },
+    {
+      "id": "6deadd64e2149bf1",
+      "fromNode": "dc6a4e3f444ef838",
+      "toNode": "dfcf7014836aeb08",
+      "label": "documentado em",
+      "toEnd": "arrow",
+      "color": "#69B887"
+    },
+    {
+      "id": "67c0fef43d0d3cd1",
+      "fromNode": "06971f345120db9b",
+      "toNode": "769dfb3aa642a45c",
+      "label": "documento contextual",
+      "toEnd": "arrow",
+      "color": "#72BED1"
+    },
+    {
+      "id": "6d0181ee02ecb5c6",
+      "fromNode": "06971f345120db9b",
+      "toNode": "ef79833b8603a57d",
+      "label": "menciona",
+      "toEnd": "arrow",
+      "color": "#72BED1"
+    },
+    {
+      "id": "9f0f7d6cbbc7a341",
+      "fromNode": "dfcf7014836aeb08",
+      "toNode": "dc6a4e3f444ef838",
+      "label": "menciona",
+      "toEnd": "arrow",
+      "color": "#72BED1"
+    },
+    {
+      "id": "3948472082aef9d3",
+      "fromNode": "80ad8f306f7c24ef",
+      "toNode": "8a8b83e271277820",
+      "label": "menciona",
+      "toEnd": "arrow",
+      "color": "#72BED1"
+    },
+    {
+      "id": "a2023dda1c7a5828",
+      "fromNode": "80ad8f306f7c24ef",
+      "toNode": "e91286a588d0c47c",
+      "label": "menciona",
+      "toEnd": "arrow",
+      "color": "#72BED1"
+    },
+    {
+      "id": "82ee38aa0093220e",
+      "fromNode": "ba6f7ea9d28962e1",
+      "toNode": "88f17c7faa60c2c3",
+      "label": "aparicoes relacionadas",
+      "toEnd": "arrow",
+      "color": "#DB8B50"
+    },
+    {
+      "id": "1dc5af8e2125e717",
+      "fromNode": "ba6f7ea9d28962e1",
+      "toNode": "018d3bbd8c0d0582",
+      "label": "menciona",
+      "toEnd": "arrow",
+      "color": "#DB8B50"
+    },
+    {
+      "id": "cee9910ccf53334a",
+      "fromNode": "ba6f7ea9d28962e1",
+      "toNode": "e91286a588d0c47c",
+      "label": "menciona",
+      "toEnd": "arrow",
+      "color": "#DB8B50"
+    },
+    {
+      "id": "915c2371dd1ed849",
+      "fromNode": "ba6f7ea9d28962e1",
+      "toNode": "e91286a588d0c47c",
+      "label": "titulos relacionados",
+      "toEnd": "arrow",
+      "color": "#DB8B50"
+    },
+    {
+      "id": "44adaf320cb4cc52",
+      "fromNode": "e91286a588d0c47c",
+      "toNode": "88f17c7faa60c2c3",
+      "label": "aparicoes relacionadas",
+      "toEnd": "arrow",
+      "color": "#D6A64B"
+    },
+    {
+      "id": "0df466577fc04da1",
+      "fromNode": "e91286a588d0c47c",
+      "toNode": "018d3bbd8c0d0582",
+      "label": "menciona",
+      "toEnd": "arrow",
+      "color": "#D6A64B"
+    }
+  ]
+}

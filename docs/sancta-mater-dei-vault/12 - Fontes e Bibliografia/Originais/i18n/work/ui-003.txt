@@ -1,0 +1,296 @@
+#48
+es: Las apariciones se tratan como revelaciones privadas: ayudan a vivir la fe, pero no pertenecen al depósito de la fe (Catecismo, n. 67). <a href="{link}">Más información y normas vigentes</a>.
+en: Apparitions are treated as private revelations: they help people live the faith, but they do not belong to the deposit of faith (Catechism, § 67). <a href="{link}">Learn more and see the current norms</a>.
+fr: Les apparitions sont traitées comme des révélations privées : elles aident à vivre la foi, mais n’appartiennent pas au dépôt de la foi (Catéchisme, n° 67). <a href="{link}">En savoir plus et voir les normes en vigueur</a>.
+it: Le apparizioni sono trattate come rivelazioni private: aiutano a vivere la fede, ma non appartengono al deposito della fede (Catechismo, n. 67). <a href="{link}">Approfondisci e vedi le norme vigenti</a>.
+de: Erscheinungen werden als Privatoffenbarungen behandelt: Sie helfen, den Glauben zu leben, gehören aber nicht zum Glaubensgut (Katechismus, Nr. 67). <a href="{link}">Mehr erfahren und die geltenden Normen ansehen</a>.
+ja: 出現は私的啓示として扱います。信仰を生きる助けにはなりますが、信仰の遺産には含まれません（『カトリック教会のカテキズム』67項）。<a href="{link}">詳しい説明と現行の規範はこちら</a>。
+zh: 显现被视为私人启示：它们有助于人们活出信仰，但不属于信仰的宝库（《天主教教理》第67条）。<a href="{link}">了解更多，并查看现行规范</a>。
+#49
+es: Las citas bíblicas en portugués proceden del sitio del Vaticano (páginas del Rosario). Los demás pasajes se citan solo por su referencia y deben contrastarse con la edición bíblica adoptada.
+en: The Bible quotations in Portuguese come from the Vatican website (Rosary pages). The other passages are cited by reference only and must be checked against the adopted Bible edition.
+fr: Les citations bibliques en portugais proviennent du site du Vatican (pages du Rosaire). Les autres passages ne sont cités que par leur référence et doivent être vérifiés dans l’édition biblique retenue.
+it: Le citazioni bibliche in portoghese provengono dal sito del Vaticano (pagine del Rosario). Gli altri passi sono citati solo con il riferimento e vanno verificati sull’edizione biblica adottata.
+de: Die Bibelzitate auf Portugiesisch stammen von der Website des Vatikans (Seiten zum Rosenkranz). Die übrigen Stellen sind nur mit ihrer Stellenangabe zitiert und müssen an der gewählten Bibelausgabe überprüft werden.
+ja: ポルトガル語の聖書引用は、バチカンのサイト（ロザリオのページ）から取っています。そのほかの箇所は聖書の箇所名だけを示しており、採用する聖書の版で確認する必要があります。
+zh: 葡萄牙语的圣经引文取自梵蒂冈网站（玫瑰经页面）。其余经文仅标注出处，须对照所采用的圣经版本核对。
+#50
+es: Las obras de museo proceden del acervo Open Access de The Metropolitan Museum of Art, con licencia CC0 declarada por el museo (leída en metmuseum.github.io; la API marca cada obra como de dominio público). Las demás imágenes proceden de Wikimedia Commons, donde la página de cada archivo declara dominio público. En ambos casos el proyecto leyó la declaración, pero no realizó una auditoría jurídica independiente. Las imágenes de arte sacro ilustran el texto y no son evidencia histórica de los hechos. Los recortes usados como fondo derivan de las mismas obras y heredan su crédito.
+en: The museum works come from the Open Access collection of The Metropolitan Museum of Art, under the CC0 license declared by the museum (read at metmuseum.github.io; the API marks each work as public domain). The other images come from Wikimedia Commons, where each file’s page declares public domain. In both cases the project read the declaration but did not carry out an independent legal audit. The sacred-art images illustrate the text and are not historical evidence of the events. The crops used as backgrounds derive from the same works and inherit their credit.
+fr: Les œuvres de musée proviennent de la collection Open Access du Metropolitan Museum of Art, sous licence CC0 déclarée par le musée (lue sur metmuseum.github.io ; l’API indique chaque œuvre comme appartenant au domaine public). Les autres images proviennent de Wikimedia Commons, où la page de chaque fichier déclare le domaine public. Dans les deux cas, le projet a lu la déclaration, sans réaliser d’audit juridique indépendant. Les images d’art sacré illustrent le texte et ne constituent pas des preuves historiques des événements. Les détails utilisés comme arrière-plan dérivent des mêmes œuvres et en reprennent le crédit.
+it: Le opere dei musei provengono dalla collezione Open Access del Metropolitan Museum of Art, con licenza CC0 dichiarata dal museo (letta su metmuseum.github.io; l’API indica ogni opera come di pubblico dominio). Le altre immagini provengono da Wikimedia Commons, dove la pagina di ciascun file dichiara il pubblico dominio. In entrambi i casi il progetto ha letto la dichiarazione, ma non ha condotto una verifica legale indipendente. Le immagini di arte sacra illustrano il testo e non sono prove storiche degli avvenimenti. I ritagli usati come sfondo derivano dalle stesse opere e ne ereditano il credito.
+de: Die Museumswerke stammen aus der Open-Access-Sammlung des Metropolitan Museum of Art, unter der vom Museum erklärten Lizenz CC0 (gelesen auf metmuseum.github.io; die API kennzeichnet jedes Werk als gemeinfrei). Die übrigen Bilder stammen von Wikimedia Commons, wo die Seite jeder Datei Gemeinfreiheit erklärt. In beiden Fällen hat das Projekt die Erklärung gelesen, aber keine unabhängige rechtliche Prüfung vorgenommen. Die Bilder sakraler Kunst illustrieren den Text und sind kein historischer Beleg für die Ereignisse. Die als Hintergrund verwendeten Ausschnitte stammen von denselben Werken und übernehmen deren Nachweis.
+ja: 美術館の作品は、メトロポリタン美術館のオープンアクセス（同館がCC0ライセンスで公開と表明。metmuseum.github.ioで確認、APIは各作品をパブリックドメインとしています）から取っています。そのほかの画像はウィキメディア・コモンズのもので、各ファイルのページがパブリックドメインと表示しています。どちらも当プロジェクトは表示内容を読みましたが、独立した法的監査は行っていません。聖なる芸術の画像は本文を補うための挿絵であり、出来事の歴史的な証拠ではありません。背景に使う切り抜きも同じ作品から作っており、クレジットを引き継ぎます。
+zh: 博物馆作品取自大都会艺术博物馆的“开放获取”藏品，采用该馆声明的 CC0 许可（读自 metmuseum.github.io；API 将每件作品标为公有领域）。其余图像取自维基共享资源（Wikimedia Commons），每个文件页面均声明为公有领域。两种情况下，本项目都只是读取了相关声明，并未进行独立的法律审核。圣艺术图像用来配合文字，并非这些事件的历史证据。用作背景的局部裁切出自同样的作品，并沿用其署名。
+#51
+es: Las obras que contaron esta historia. Todas en dominio público o CC0, con el origen registrado.
+en: The works that told this story. All in the public domain or CC0, with the source recorded.
+fr: Les œuvres qui ont raconté cette histoire. Toutes dans le domaine public ou sous CC0, avec l’origine indiquée.
+it: Le opere che hanno raccontato questa storia. Tutte di pubblico dominio o CC0, con l’origine registrata.
+de: Die Werke, die diese Geschichte erzählt haben. Alle gemeinfrei oder unter CC0, mit angegebener Herkunft.
+ja: この物語を語ってくれた作品たち。すべてパブリックドメインまたはCC0で、出典を記録しています。
+zh: 讲述这段历史的作品。全部为公有领域或 CC0，并记录了来源。
+#52
+es: Las obras proceden del acervo Open Access de The Metropolitan Museum of Art (CC0) y de Wikimedia Commons; el crédito de cada una figura junto a la imagen y en la Biblioteca. La textura de lienzo del fondo la generó el proyecto.
+en: The works come from the Open Access collection of The Metropolitan Museum of Art (CC0) and from Wikimedia Commons; each credit appears next to the image and in the Library. The canvas texture in the background was generated by the project.
+fr: Les œuvres proviennent de la collection Open Access du Metropolitan Museum of Art (CC0) et de Wikimedia Commons ; le crédit de chacune figure à côté de l’image et dans la Bibliothèque. La texture de toile du fond a été générée par le projet.
+it: Le opere provengono dalla collezione Open Access del Metropolitan Museum of Art (CC0) e da Wikimedia Commons; il credito di ciascuna è accanto all’immagine e nella Biblioteca. La texture di tela dello sfondo è stata generata dal progetto.
+de: Die Werke stammen aus der Open-Access-Sammlung des Metropolitan Museum of Art (CC0) und von Wikimedia Commons; der Nachweis jedes Werks steht beim Bild und in der Bibliothek. Die Leinwandtextur im Hintergrund hat das Projekt erzeugt.
+ja: 作品は、メトロポリタン美術館のオープンアクセス（CC0）とウィキメディア・コモンズのものです。各作品のクレジットは画像のそばと「資料室」に記載しています。背景のキャンバス風テクスチャはプロジェクトが生成しました。
+zh: 作品取自大都会艺术博物馆的“开放获取”藏品（CC0）和维基共享资源；每件作品的署名见图像旁及“资料库”。背景的画布纹理由本项目生成。
+#53
+es: Activar animaciones
+en: Turn on animations
+fr: Activer les animations
+it: Attiva le animazioni
+de: Animationen einschalten
+ja: アニメーションをオンにする
+zh: 开启动画
+#54
+es: Atlas de apariciones, títulos y santuarios marianos: elija un país en el mapa para ver lo que hay investigado allí.
+en: Atlas of Marian apparitions, titles and shrines: choose a country on the map to see what has been researched there.
+fr: Atlas des apparitions, titres et sanctuaires mariaux : choisissez un pays sur la carte pour voir ce qui y a été étudié.
+it: Atlante delle apparizioni, dei titoli e dei santuari mariani: scegli un paese sulla mappa per vedere cosa è stato studiato lì.
+de: Atlas marianischer Erscheinungen, Titel und Heiligtümer: Wählen Sie auf der Karte ein Land, um zu sehen, was dort erforscht wurde.
+ja: 聖母の出現・称号・聖地のアトラス。地図で国を選ぶと、その国で調べた内容が見られます。
+zh: 圣母显现、称号与圣地地图集：在地图上选择一个国家，即可查看那里已研究的内容。
+#55
+es: Acto I
+en: Act I
+fr: Acte I
+it: Atto I
+de: Akt I
+ja: 第一幕
+zh: 第一幕
+#56
+es: Acto II
+en: Act II
+fr: Acte II
+it: Atto II
+de: Akt II
+ja: 第二幕
+zh: 第二幕
+#57
+es: Acto III
+en: Act III
+fr: Acte III
+it: Atto III
+de: Akt III
+ja: 第三幕
+zh: 第三幕
+#58
+es: Acto IV
+en: Act IV
+fr: Acte IV
+it: Atto IV
+de: Akt IV
+ja: 第四幕
+zh: 第四幕
+#59
+es: Atribución
+en: Attribution
+fr: Attribution
+it: Attribuzione
+de: Zuschreibung
+ja: 帰属
+zh: 归属
+#60
+es: Atribuida a
+en: Attributed to
+fr: Attribuée à
+it: Attribuita a
+de: Zugeschrieben
+ja: 帰属先
+zh: 归于
+#61
+es: Atribuida a: {quem} · Origen: {origem} · Naturaleza: {natureza}
+en: Attributed to: {quem} · Origin: {origem} · Nature: {natureza}
+fr: Attribuée à : {quem} · Origine : {origem} · Nature : {natureza}
+it: Attribuita a: {quem} · Origine: {origem} · Natura: {natureza}
+de: Zugeschrieben: {quem} · Herkunft: {origem} · Art: {natureza}
+ja: 帰属先：{quem} · 由来：{origem} · 性格：{natureza}
+zh: 归于：{quem} · 来源：{origem} · 性质：{natureza}
+#62
+es: Aumentar el texto
+en: Increase text size
+fr: Agrandir le texte
+it: Ingrandisci il testo
+de: Text vergrößern
+ja: 文字を大きくする
+zh: 放大文字
+#63
+es: Autor fallecido en 1864. La licencia se leyó en la página de Commons; sin auditoría jurídica independiente. Ilustra el lugar, no los hechos relatados.
+en: Author died in 1864. The license was read on the Commons page; no independent legal audit. It illustrates the place, not the events reported.
+fr: Auteur mort en 1864. La licence a été lue sur la page de Commons ; sans audit juridique indépendant. Elle illustre le lieu, non les événements rapportés.
+it: Autore morto nel 1864. La licenza è stata letta nella pagina di Commons; senza verifica legale indipendente. Illustra il luogo, non i fatti riferiti.
+de: Urheber gestorben 1864. Die Lizenz wurde auf der Commons-Seite gelesen; keine unabhängige rechtliche Prüfung. Das Bild zeigt den Ort, nicht die berichteten Ereignisse.
+ja: 作者は1864年に没。ライセンスはコモンズのページで確認しました。独立した法的監査は行っていません。場所を示す画像であり、報告された出来事を示すものではありません。
+zh: 作者卒于1864年。许可协议是在共享资源（Commons）页面上读到的；未经独立的法律审核。图像展示的是地点，而不是所述的事件。
+#64
+es: Autoría
+en: Credit
+fr: Auteur
+it: Autore
+de: Urheber
+ja: 作者
+zh: 作者
+#65
+es: Autoría: {author}. Colección: {institution}. Licencia: {license}.
+en: Credit: {author}. Collection: {institution}. License: {license}.
+fr: Auteur : {author}. Collection : {institution}. Licence : {license}.
+it: Autore: {author}. Collezione: {institution}. Licenza: {license}.
+de: Urheber: {author}. Sammlung: {institution}. Lizenz: {license}.
+ja: 作者：{author}。所蔵：{institution}。ライセンス：{license}。
+zh: 作者：{author}。收藏机构：{institution}。许可：{license}。
+#66
+es: Autoridad
+en: Authority
+fr: Autorité
+it: Autorità
+de: Autorität
+ja: 権限者
+zh: 裁定机构
+#67
+es: Autoridad diocesana
+en: Diocesan authority
+fr: Autorité diocésaine
+it: Autorità diocesana
+de: Diözesane Autorität
+ja: 教区の権限
+zh: 教区当局
+#68
+es: Autoridad: {autoridade}
+en: Authority: {autoridade}
+fr: Autorité : {autoridade}
+it: Autorità: {autoridade}
+de: Autorität: {autoridade}
+ja: 権限者：{autoridade}
+zh: 裁定机构：{autoridade}
+#69
+es: Autorización de culto
+en: Authorization of worship
+fr: Autorisation du culte
+it: Autorizzazione del culto
+de: Erlaubnis des Kultes
+ja: 崇敬の許可
+zh: 准许敬礼
+#70
+es: Evaluación médica de una curación inexplicada
+en: Medical evaluation of an unexplained healing
+fr: Évaluation médicale d’une guérison inexpliquée
+it: Valutazione medica di una guarigione inspiegata
+de: Medizinische Beurteilung einer unerklärten Heilung
+ja: 説明のつかない治癒の医学的評価
+zh: 对无法解释之治愈的医学评估
+#71
+es: Basílica del Santuario Nacional de la Inmaculada Concepción
+en: Basilica of the National Shrine of the Immaculate Conception
+fr: Basilique du Sanctuaire national de l’Immaculée Conception
+it: Basilica del Santuario Nazionale dell’Immacolata Concezione
+de: Basilika des Nationalheiligtums der Unbefleckten Empfängnis
+ja: 無原罪の聖母の国立聖地大聖堂
+zh: 无原罪圣母国家圣地大殿
+#72
+es: Basílica Papal de Santa María la Mayor
+en: Papal Basilica of Saint Mary Major
+fr: Basilique papale Sainte-Marie-Majeure
+it: Basilica Papale di Santa Maria Maggiore
+de: Päpstliche Basilika Santa Maria Maggiore
+ja: 教皇直属の聖マリア大聖堂（サンタ・マリア・マッジョーレ）
+zh: 圣母大殿（宗座圣母大殿）
+#73
+es: Beatificación o canonización relacionada
+en: Related beatification or canonization
+fr: Béatification ou canonisation liée
+it: Beatificazione o canonizzazione collegata
+de: Zugehörige Selig- oder Heiligsprechung
+ja: 関連する列福または列聖
+zh: 相关的宣福或封圣
+#74
+es: Bible Interp, Arizona Center for Judaic Studies; autor: Ken Dark, Universidad de Reading
+en: Bible Interp, Arizona Center for Judaic Studies; author: Ken Dark, University of Reading
+fr: Bible Interp, Arizona Center for Judaic Studies ; auteur : Ken Dark, Université de Reading
+it: Bible Interp, Arizona Center for Judaic Studies; autore: Ken Dark, Università di Reading
+de: Bible Interp, Arizona Center for Judaic Studies; Autor: Ken Dark, Universität Reading
+ja: Bible Interp（アリゾナ・ユダヤ学センター）。著者：ケン・ダーク（レディング大学）
+zh: Bible Interp，亚利桑那犹太研究中心；作者：肯·达克（雷丁大学）
+#75
+es: Biblioteca
+en: Library
+fr: Bibliothèque
+it: Biblioteca
+de: Bibliothek
+ja: 資料室
+zh: 资料库
+#76
+es: Obispo diocesano
+en: Diocesan bishop
+fr: Évêque diocésain
+it: Vescovo diocesano
+de: Diözesanbischof
+ja: 教区司教
+zh: 教区主教
+#77
+es: Búsqueda
+en: Search
+fr: Recherche
+it: Ricerca
+de: Suche
+ja: 検索
+zh: 搜索
+#78
+es: Búsqueda en el archivo de Sancta Mater Dei: apariciones, devociones, títulos, oraciones y artículos.
+en: Search the Sancta Mater Dei collection: apparitions, devotions, titles, prayers and articles.
+fr: Recherche dans le fonds de Sancta Mater Dei : apparitions, dévotions, titres, prières et articles.
+it: Ricerca nell’archivio di Sancta Mater Dei: apparizioni, devozioni, titoli, preghiere e articoli.
+de: Suche im Bestand von Sancta Mater Dei: Erscheinungen, Andachten, Titel, Gebete und Artikel.
+ja: Sancta Mater Deiの収録内容を検索：出現、信心、称号、祈り、記事。
+zh: 在 Sancta Mater Dei 资料库中搜索：显现、敬礼、称号、祷文和文章。
+#79
+es: Buscar
+en: Search
+fr: Rechercher
+it: Cerca
+de: Suchen
+ja: 検索
+zh: 搜索
+#80
+es: Buscar (admite variantes del nombre)
+en: Search (name variants accepted)
+fr: Rechercher (les variantes du nom sont acceptées)
+it: Cerca (accetta varianti del nome)
+de: Suchen (auch Namensvarianten)
+ja: 検索（名称の表記ゆれにも対応）
+zh: 搜索（支持名称的不同写法）
+#81
+es: Buscar (admite variantes: Donglu, Dong Lu, Donglü)
+en: Search (variants accepted: Donglu, Dong Lu, Donglü)
+fr: Rechercher (variantes acceptées : Donglu, Dong Lu, Donglü)
+it: Cerca (accetta varianti: Donglu, Dong Lu, Donglü)
+de: Suchen (Varianten möglich: Donglu, Dong Lu, Donglü)
+ja: 検索（表記ゆれにも対応：Donglu、Dong Lu、Donglü、東閭）
+zh: 搜索（支持不同写法：Donglu、Dong Lu、Donglü、东闾）
+#82
+es: Buscar en el archivo
+en: Search the collection
+fr: Rechercher dans le fonds
+it: Cerca nell’archivio
+de: Im Bestand suchen
+ja: 収録内容を検索
+zh: 搜索资料库
+#83
+es: Bélgica
+en: Belgium
+fr: Belgique
+it: Belgio
+de: Belgien
+ja: ベルギー
+zh: 比利时
+#84
+es: CC BY 2.0
+en: CC BY 2.0
+fr: CC BY 2.0
+it: CC BY 2.0
+de: CC BY 2.0
+ja: CC BY 2.0
+zh: CC BY 2.0

@@ -1,0 +1,30 @@
+filters:
+  and:
+  - tipo == "documento"
+  - '!file.inFolder("12 - Fontes e Bibliografia/Originais")'
+  - tipo != "template"
+properties:
+  tipo:
+    displayName: Tipo
+  fontes_verificadas:
+    displayName: Conferência documental
+views:
+- type: table
+  name: Documentos
+  order:
+  - file.name
+  - tipo
+  - pais
+  - ano
+  - estado_pesquisa
+  - fontes_verificadas
+- type: table
+  name: Por tipo
+  groupBy:
+    property: tipo
+    direction: ASC
+  order:
+  - file.name
+  - tipo
+  - pais
+  - estado_pesquisa

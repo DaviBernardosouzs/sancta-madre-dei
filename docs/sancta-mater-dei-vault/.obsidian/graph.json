@@ -1,0 +1,93 @@
+{
+  "search": "-path:\"12 - Fontes e Bibliografia/Originais\" -path:\"15 - Templates\"",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "colorGroups": [
+    {
+      "query": "[tipo:aparicao]",
+      "color": {
+        "a": 1,
+        "rgb": 5021672
+      }
+    },
+    {
+      "query": "[tipo:titulo]",
+      "color": {
+        "a": 1,
+        "rgb": 14067275
+      }
+    },
+    {
+      "query": "[tipo:milagre]",
+      "color": {
+        "a": 1,
+        "rgb": 14840691
+      }
+    },
+    {
+      "query": "[tipo:santo] OR [tipo:vidente] OR [tipo:pessoa]",
+      "color": {
+        "a": 1,
+        "rgb": 6928519
+      }
+    },
+    {
+      "query": "[tipo:dogma]",
+      "color": {
+        "a": 1,
+        "rgb": 11504864
+      }
+    },
+    {
+      "query": "[tipo:documento]",
+      "color": {
+        "a": 1,
+        "rgb": 7966177
+      }
+    },
+    {
+      "query": "[tipo:oracao] OR [tipo:devocao]",
+      "color": {
+        "a": 1,
+        "rgb": 4372653
+      }
+    },
+    {
+      "query": "[tipo:santuario]",
+      "color": {
+        "a": 1,
+        "rgb": 14388048
+      }
+    },
+    {
+      "query": "[tipo:estudo] OR [tipo:acontecimento] OR [tipo:celebracao]",
+      "color": {
+        "a": 1,
+        "rgb": 7519953
+      }
+    },
+    {
+      "query": "[tipo:iconografia]",
+      "color": {
+        "a": 1,
+        "rgb": 13601975
+      }
+    },
+    {
+      "query": "[tipo:fonte]",
+      "color": {
+        "a": 1,
+        "rgb": 9607846
+      }
+    },
+    {
+      "query": "[tipo:hub] OR [tipo:portal] OR [tipo:guia] OR [tipo:pesquisa] OR [tipo:inventario] OR [tipo:relatorio] OR [tipo:template]",
+      "color": {
+        "a": 1,
+        "rgb": 10986910
+      }
+    }
+  ]
+}

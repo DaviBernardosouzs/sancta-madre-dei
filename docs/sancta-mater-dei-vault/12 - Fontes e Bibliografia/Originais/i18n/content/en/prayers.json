@@ -1,0 +1,103 @@
+{
+ "ora-angelus": {
+  "title": "Angelus",
+  "summary": "Prayer that recalls the Annunciation and the Incarnation.",
+  "text": [
+   "V. The Angel of the Lord declared unto Mary,",
+   "R. And she conceived of the Holy Spirit.",
+   "Hail Mary...",
+   "V. Behold the handmaid of the Lord.",
+   "R. Be it done unto me according to thy word.",
+   "Hail Mary...",
+   "V. And the Word was made flesh,",
+   "R. And dwelt among us.",
+   "Hail Mary...",
+   "V. Pray for us, O holy Mother of God.",
+   "R. That we may be made worthy of the promises of Christ.",
+   "Let us pray. Pour forth, we beseech thee, O Lord, thy grace into our hearts; that we, to whom the Incarnation of Christ thy Son was made known by the message of an angel, may by his Passion and Cross be brought to the glory of his Resurrection. Through the same Christ our Lord. Amen."
+  ],
+  "provenance": "Compendium of the Catechism of the Catholic Church, Appendix (English version, Vatican website).",
+  "rights": "Traditional prayer. Wording as in the Compendium at the Vatican; rights to the edition/translation not legally verified.",
+  "_src": "d04023f7"
+ },
+ "ora-ave-maria": {
+  "title": "Hail Mary",
+  "summary": "The greeting to Mary that joins words of the Gospel and a request for intercession; the core of the Rosary.",
+  "text": [
+   "Hail Mary, full of grace, the Lord is with thee. Blessed art thou amongst women, and blessed is the fruit of thy womb, Jesus.",
+   "Holy Mary, Mother of God, pray for us sinners, now and at the hour of our death.",
+   "Amen."
+  ],
+  "provenance": "Compendium of the Catechism of the Catholic Church, Appendix (English version). The first part joins words of Lk 1:28 and Lk 1:42 (see Vatican, joyful mysteries, which cites Lk 1:42).",
+  "rights": "Traditional prayer. Wording as in the Compendium on the Vatican website; rights to the edition/translation not legally verified. Many English-speaking communities also pray “Hail Mary, full of grace, the Lord is with you...”; the wording used in parishes may vary.",
+  "_src": "166026db"
+ },
+ "ora-gloria": {
+  "title": "Glory Be",
+  "summary": "Trinitarian doxology prayed at the end of each decade of the Rosary.",
+  "text": [
+   "Glory be to the Father and to the Son and to the Holy Spirit.",
+   "As it was in the beginning, is now, and ever shall be, world without end.",
+   "Amen."
+  ],
+  "provenance": "Compendium of the Catechism of the Catholic Church, Appendix (English version, Vatican website).",
+  "rights": "Traditional prayer of the Church. Wording as in the edition of the Compendium at the Vatican; rights to the translation/edition not legally verified.",
+  "_src": "771c9e40"
+ },
+ "ora-magnificat": {
+  "title": "Magnificat",
+  "summary": "The canticle of Mary in Lk 1:46-55, prayed in the Liturgy of the Hours.",
+  "text": [
+   "My soul proclaims the greatness of the Lord, my spirit rejoices in God my Savior.",
+   "For he has looked with favor on his lowly servant: from this day all generations will call me blessed.",
+   "The Almighty has done great things for me: holy is his name.",
+   "He has mercy on those who fear him in every generation.",
+   "He has shown the strength of his arm, he has scattered the proud in their conceit.",
+   "He has cast down the mighty from their thrones, and has lifted up the lowly.",
+   "He has filled the hungry with good things, and the rich he has sent away empty.",
+   "He has come to the help of his servant Israel, for he has remembered his promise of mercy, the promise he made to our fathers, to Abraham and his children for ever.",
+   "Glory to the Father, and to the Son, and to the Holy Spirit.",
+   "As it was in the beginning, is now, and will be for ever. Amen."
+  ],
+  "provenance": "Compendium of the Catechism of the Catholic Church, Appendix (English version, Vatican website). Biblical text in Lk 1:46-55.",
+  "rights": "Biblical text and traditional prayer. Wording as in the Compendium at the Vatican; rights to the edition/translation not legally verified.",
+  "_src": "ace53324"
+ },
+ "ora-salve-rainha": {
+  "title": "Hail, Holy Queen",
+  "summary": "Traditional Marian antiphon, often prayed at the end of the Rosary.",
+  "text": [
+   "Hail, holy Queen, Mother of mercy, our life, our sweetness and our hope.",
+   "To thee do we cry, poor banished children of Eve.",
+   "To thee do we send up our sighs, mourning and weeping in this valley of tears.",
+   "Turn then, most gracious advocate, thine eyes of mercy toward us.",
+   "And after this our exile, show unto us the blessed fruit of thy womb, Jesus.",
+   "O clement, O loving, O sweet Virgin Mary.",
+   "Pray for us, O holy Mother of God, that we may be made worthy of the promises of Christ."
+  ],
+  "provenance": "Compendium of the Catechism of the Catholic Church, Appendix (English version, Vatican website).",
+  "rights": "Traditional prayer. Wording as in the Compendium at the Vatican; rights to the edition/translation not legally verified.",
+  "_src": "3a0860f2"
+ },
+ "ora-sinal-da-cruz": {
+  "title": "Sign of the Cross",
+  "summary": "The prayer with which Christian prayer begins and ends.",
+  "text": [
+   "In the name of the Father and of the Son and of the Holy Spirit.",
+   "Amen."
+  ],
+  "provenance": "Compendium of the Catechism of the Catholic Church, Appendix (English version, Vatican website).",
+  "rights": "Traditional prayer of the Church. The English wording follows the edition of the Compendium on the Vatican website, in common use; the copyright of the translation/edition has not been the subject of a legal opinion. Reproduced in short form with the source indicated.",
+  "_src": "4307d299"
+ },
+ "ora-sob-a-vossa-protecao": {
+  "title": "We Fly to Thy Protection",
+  "summary": "Ancient prayer of trust in Mary in times of need.",
+  "text": [
+   "We fly to thy protection, O holy Mother of God; despise not our petitions in our necessities, but deliver us always from all dangers, O glorious and blessed Virgin."
+  ],
+  "provenance": "Compendium of the Catechism of the Catholic Church, Appendix (English version, Vatican website).",
+  "rights": "Traditional prayer. Wording as in the Compendium at the Vatican; rights to the edition/translation not legally verified.",
+  "_src": "946b508c"
+ }
+}

@@ -1,0 +1,644 @@
+{
+ "durer-anunciacao": {
+  "title": "天使报喜",
+  "alt": "黑白木刻：在一个高大的拱顶房间里，天使和玛利亚分别跪在两侧；上方有一只鸽子。",
+  "caption": "阿尔布雷希特·丢勒，《天使报喜》，选自组画《圣母生平》，1511年。",
+  "_src": "815f1171"
+ },
+ "durer-apresentacao-jesus": {
+  "title": "耶稣献于圣殿",
+  "alt": "黑白木刻：在一座有柱子的大厅里，一位妇女跪在祭台桌旁，周围有司祭和其他人。",
+  "caption": "阿尔布雷希特·丢勒，《耶稣献于圣殿》，选自组画《圣母生平》，约1505年。",
+  "_src": "b4626432"
+ },
+ "durer-apresentacao-maria": {
+  "title": "圣母献于圣殿",
+  "alt": "黑白木刻：在有柱子和拱门的庭院里，一个女孩站在圣殿入口处的司祭面前，前景中有许多信众。",
+  "caption": "阿尔布雷希特·丢勒，《圣母献于圣殿》，选自组画《圣母生平》，约1503年。",
+  "_src": "d4d75a15"
+ },
+ "durer-assuncao-coroacao": {
+  "title": "圣母升天与加冕",
+  "alt": "黑白木刻：玛利亚在云间由两位人物加冕，旁有一只鸽子；下方宗徒们围着一座打开的坟墓。",
+  "caption": "阿尔布雷希特·丢勒，《圣母升天与加冕》，选自组画《圣母生平》，1510年。",
+  "_src": "6bc5c414"
+ },
+ "durer-circuncisao": {
+  "title": "耶稣受割损",
+  "alt": "黑白木刻：在圣殿内，一位司祭和许多信众围在圣婴周围；玛利亚也在其中。",
+  "caption": "阿尔布雷希特·丢勒，《耶稣受割损》，选自组画《圣母生平》，约1504年。",
+  "_src": "229fcbb9"
+ },
+ "durer-despedida": {
+  "title": "基督辞别母亲",
+  "alt": "黑白木刻：在户外的篱笆和树旁，一位妇女在其他人的搀扶下跪在站立的基督面前。",
+  "caption": "阿尔布雷希特·丢勒，《基督辞别母亲》，选自组画《圣母生平》，1511年。",
+  "_src": "861a4e7a"
+ },
+ "durer-desposorios": {
+  "title": "圣母订婚",
+  "alt": "黑白木刻：在大拱门下，一位司祭在见证人面前把一对男女的手连在一起。",
+  "caption": "阿尔布雷希特·丢勒，《圣母订婚》，选自组画《圣母生平》，约1504年。",
+  "_src": "6be72f3d"
+ },
+ "durer-dormicao": {
+  "title": "圣母之死",
+  "alt": "黑白木刻：玛利亚躺在带华盖的床上，宗徒们围绕着她，其中一人在前景中拿着手杖。",
+  "caption": "阿尔布雷希特·丢勒，《圣母之死》，选自组画《圣母生平》，1511年。",
+  "_src": "66ef6264"
+ },
+ "durer-egito-sagrada-familia": {
+  "title": "圣家在埃及",
+  "alt": "黑白木刻：在房屋前，玛利亚抱着圣婴坐着，若瑟在做木工；小天使们在捡拾木屑。",
+  "caption": "阿尔布雷希特·丢勒，《圣家在埃及》，选自组画《圣母生平》，1511年。",
+  "_src": "ba6d90be"
+ },
+ "durer-entre-doutores": {
+  "title": "耶稣在经师中间",
+  "alt": "黑白木刻：少年耶稣站在一群经师面前，周围是拱门和柱子；玛利亚和若瑟在左边。",
+  "caption": "阿尔布雷希特·丢勒，《耶稣在经师中间》，选自组画《圣母生平》，1511年。",
+  "_src": "66efe648"
+ },
+ "durer-fuga-egito": {
+  "title": "逃往埃及",
+  "alt": "黑白木刻：玛利亚抱着圣婴骑在驴上，若瑟走在前面，穿过一片有棕榈树的树林。",
+  "caption": "阿尔布雷希特·丢勒，《逃往埃及》，选自组画《圣母生平》，1511年。",
+  "_src": "21d60abb"
+ },
+ "durer-glorificacao": {
+  "title": "圣母的荣耀",
+  "alt": "下方附有拉丁文的黑白木刻：在有拱门和柱子的大厅里，许多人物围聚在玛利亚周围。",
+  "caption": "阿尔布雷希特·丢勒，《圣母的荣耀》，选自组画《圣母生平》，1511年。",
+  "_src": "404877d2"
+ },
+ "durer-joaquim-anjo": {
+  "title": "若亚敬与天使",
+  "alt": "黑白木刻：一个男人跪在有树木和羊群的风景中，仰望一位展开大翅膀、从枝叶间降下的天使；远处有牧人和湖泊。",
+  "caption": "阿尔布雷希特·丢勒，《若亚敬与天使》，选自组画《圣母生平》，约1504年。",
+  "_src": "76bc8809"
+ },
+ "durer-madona-crescente": {
+  "title": "新月上的圣母，扉页",
+  "alt": "黑白木刻：圣母抱着圣婴坐在新月上，周围是光芒；上方有拉丁文。",
+  "caption": "阿尔布雷希特·丢勒，《新月上的圣母》，组画《圣母生平》扉页，约1511年。",
+  "_src": "f2026eb0"
+ },
+ "durer-magos": {
+  "title": "三王朝拜",
+  "alt": "黑白木刻：在木屋顶下，抱着圣婴的玛利亚迎接跪在前景中的男子；上方有一颗星。",
+  "caption": "阿尔布雷希特·丢勒，《三王朝拜》，选自组画《圣母生平》，约1502年。",
+  "_src": "5926b2db"
+ },
+ "durer-nascimento-maria": {
+  "title": "圣母诞生",
+  "alt": "黑白木刻：室内有一张带华盖的床，母亲躺在床上休息；一位天使在拱门下飞翔，前景中的妇女们照顾新生婴儿。",
+  "caption": "阿尔布雷希特·丢勒，《圣母诞生》，选自组画《圣母生平》，约1503年。",
+  "_src": "cacba2b9"
+ },
+ "durer-natividade": {
+  "title": "耶稣诞生",
+  "alt": "黑白木刻：屋顶残破的马厩里，玛利亚跪在圣婴面前，上方有天使和一颗星。",
+  "caption": "阿尔布雷希特·丢勒，《耶稣诞生》，选自组画《圣母生平》，1502-03年。",
+  "_src": "20efa2ac"
+ },
+ "durer-pentecostes": {
+  "title": "圣神降临",
+  "alt": "黑白木刻：上方一只鸽子放射光芒；下方是聚集的宗徒，中间坐着一位戴头纱、膝上放着书的女性。",
+  "caption": "阿尔布雷希特·丢勒，《圣神降临》，选自组画《小受难》，约1510年。",
+  "_src": "41e46077"
+ },
+ "durer-porta-dourada": {
+  "title": "若亚敬与安纳在金门相会",
+  "alt": "黑白木刻：在装饰华丽的拱门下，一男一女身披长斗篷相拥；左边有人观看；远处是城墙和风景。",
+  "caption": "阿尔布雷希特·丢勒，《若亚敬与安纳在金门相会》，选自组画《圣母生平》，约1504年。",
+  "_src": "0377dbf6"
+ },
+ "durer-rejeicao-joaquim": {
+  "title": "若亚敬的献礼被拒",
+  "alt": "黑白木刻：在大拱门下、帷幔之前，司祭和其他人围在一张正在献礼的祭台桌旁。",
+  "caption": "阿尔布雷希特·丢勒，《若亚敬的献礼被拒》，选自组画《圣母生平》，约1504年。",
+  "_src": "1711b8e4"
+ },
+ "durer-visitacao": {
+  "title": "圣母访亲",
+  "alt": "黑白木刻：两位妇女在房屋前相拥，背景是山峦和树木；门口有一个男人在观看。",
+  "caption": "阿尔布雷希特·丢勒，《圣母访亲》，选自组画《圣母生平》，1503-04年。",
+  "_src": "78b95943"
+ },
+ "foto-altagracia": {
+  "title": "Basílica Nuestra Señora de la Altagracia",
+  "alt": "阿尔塔格拉西亚圣母主教座堂大殿（伊圭）的照片，从外部或在朝圣地拍摄。",
+  "caption": "阿尔塔格拉西亚圣母主教座堂大殿（伊圭）：当地照片。",
+  "_src": "67a704c7"
+ },
+ "foto-altotting": {
+  "title": "Chapel of Grace and St. Magdalena, Altoetting",
+  "alt": "阿尔特廷圣母朝圣地（恩宠小堂）的照片，从外部或在朝圣地拍摄。",
+  "caption": "阿尔特廷圣母朝圣地（恩宠小堂）：当地照片。",
+  "_src": "a9e84524"
+ },
+ "foto-antipolo": {
+  "title": "Antipolo Cathedral facade 2014",
+  "alt": "和平与旅途平安之后国际朝圣地（安蒂波洛）的照片，从外部或在朝圣地拍摄。",
+  "caption": "和平与旅途平安之后国际朝圣地（安蒂波洛）：当地照片。",
+  "_src": "d24521fb"
+ },
+ "foto-aparecida": {
+  "title": "Catedral Basílica de Aparecida",
+  "alt": "远眺带圆顶和高塔的砖砌阿帕雷西达大殿。",
+  "caption": "阿帕雷西达圣母国家朝圣地：当地照片。",
+  "_src": "432ba68e"
+ },
+ "foto-belem-nazare": {
+  "title": "Conjunto Arquitetônico de Nazaré (CAN), tendo ao fundo a Basílica de Nossa Senhora de Nazaré, um dos mais importantes te",
+  "alt": "纳匝肋圣母朝圣大殿（贝伦）的照片，从外部或在朝圣地拍摄。",
+  "caption": "纳匝肋圣母朝圣大殿（贝伦）：当地照片。",
+  "_src": "62a10c0e"
+ },
+ "foto-caacupe": {
+  "title": "Basilica of Caacupé.",
+  "alt": "奇迹圣母主教座堂大殿（卡阿库佩）的照片，从外部或在朝圣地拍摄。",
+  "caption": "奇迹圣母主教座堂大殿（卡阿库佩）：当地照片。",
+  "_src": "e234b7af"
+ },
+ "foto-cartago": {
+  "title": "Basilica of Our Lady of the Angels, Cartago, Costa Rica",
+  "alt": "天使之后圣母大殿（卡塔戈）的照片，从外部或在朝圣地拍摄。",
+  "caption": "天使之后圣母大殿（卡塔戈）：当地照片。",
+  "_src": "a8c40feb"
+ },
+ "foto-chartres": {
+  "title": "west facade",
+  "alt": "沙特尔圣母主教座堂的照片，从外部或在朝圣地拍摄。",
+  "caption": "沙特尔圣母主教座堂：当地照片。",
+  "_src": "7bff86f5"
+ },
+ "foto-copacabana": {
+  "title": "Panoramic view of Copacabana, Bolivia, on the lake Titicaca. Photo taken from Calvario hill.",
+  "alt": "玻利维亚科帕卡巴纳镇的景色，位于的的喀喀湖畔，群山环绕。",
+  "caption": "科帕卡巴纳圣母大殿（玻利维亚）：当地照片。",
+  "_src": "0c381c1d"
+ },
+ "foto-covadonga": {
+  "title": "Vista de cerca de la \"Santa Cueva\"La Santa cueva 2",
+  "alt": "嵌在岩洞中的科瓦东加圣洞小堂。",
+  "caption": "科瓦东加圣洞：当地照片。",
+  "_src": "72b0d0e8"
+ },
+ "foto-efeso": {
+  "title": "Exterior of \"The House of the Virgin Mary\" near Ephesus, Selçuk in Turkey. Photographer: Martin H. Fryc. A note: the pho",
+  "alt": "以弗所附近树林中的小石屋 Meryem Ana。",
+  "caption": "圣母之家（Meryem Ana Evi），以弗所：当地照片。",
+  "_src": "52324c06"
+ },
+ "foto-einsiedeln": {
+  "title": "Einsiedeln Abbey with Lady Fountain, Canton of Schwyz (Switzerland)",
+  "alt": "艾因西德伦修道院（黑圣母）的照片，从外部或在朝圣地拍摄。",
+  "caption": "艾因西德伦修道院（黑圣母）：当地照片。",
+  "_src": "ce99d1ff"
+ },
+ "foto-fatima": {
+  "title": "em1018_2083257",
+  "alt": "法蒂玛朝圣地宽阔的广场，远处是大殿及其钟楼。",
+  "caption": "法蒂玛朝圣地（伊里亚湾）：当地照片。",
+  "_src": "440c849e"
+ },
+ "foto-fourviere": {
+  "title": "The first place we were to visit..... The Basilica of Notre-Dame de Fourvière is a minor basilica in Lyon. It was built ",
+  "alt": "富维耶圣母大殿（里昂）的照片，从外部或在朝圣地拍摄。",
+  "caption": "富维耶圣母大殿（里昂）：当地照片。",
+  "_src": "9787e634"
+ },
+ "foto-guadalupe-extremadura": {
+  "title": "Claustro mudéjar en el Monasterio de Guadalupe",
+  "alt": "瓜达卢佩圣母皇家修道院（埃斯特雷马杜拉）的照片，从外部或在朝圣地拍摄。",
+  "caption": "瓜达卢佩圣母皇家修道院（埃斯特雷马杜拉）：当地照片。",
+  "_src": "cea7114c"
+ },
+ "foto-guadalupe-mexico": {
+  "title": "Nacional Basílica de Santa María de Guadalupe, Mexico City, Mexico",
+  "alt": "瓜达卢佩的现代大殿，圆形平面、绿色屋顶，前面是一个大广场。",
+  "caption": "瓜达卢佩圣母大殿（墨西哥城）：当地照片。",
+  "_src": "155502af"
+ },
+ "foto-harissa": {
+  "title": "Statue of Our Lady of Lebanon in Harissa, Lebanon.",
+  "alt": "立在高塔顶端、映衬着蓝天的黎巴嫩圣母白色巨像。",
+  "caption": "黎巴嫩圣母朝圣地（哈里萨）：当地照片。",
+  "_src": "38d18745"
+ },
+ "foto-jasna-gora": {
+  "title": "Częstochowa, zespół klasztorny oo. Paulinów na Jasnej Górze",
+  "alt": "光明山朝圣地（琴斯托霍瓦）的照片，从外部或在朝圣地拍摄。",
+  "caption": "光明山朝圣地（琴斯托霍瓦）：当地照片。",
+  "_src": "ab501851"
+ },
+ "foto-lichen": {
+  "title": "View at dusk of the Basilica of Our Lady of Sorrows, Queen of Poland, located in the village of Licheń Stary, near Konin",
+  "alt": "利痕圣母大殿的照片，从外部或在朝圣地拍摄。",
+  "caption": "利痕圣母大殿：当地照片。",
+  "_src": "4e93ccb0"
+ },
+ "foto-loreto": {
+  "title": "Basilica del Santuario di Loreto",
+  "alt": "洛雷托圣屋朝圣地的照片，从外部或在朝圣地拍摄。",
+  "caption": "洛雷托圣屋朝圣地：当地照片。",
+  "_src": "a18c5af4"
+ },
+ "foto-lourdes": {
+  "title": "La basilique de l'Immaculée-Conception et la basilique Notre-Dame du Rosaire, Lourdes, Hautes-Pyrénées, France.",
+  "alt": "俯瞰卢尔德山谷，绿色的广场和远处的大殿被群山环绕。",
+  "caption": "卢尔德圣母朝圣地：当地照片。",
+  "_src": "1153a097"
+ },
+ "foto-lujan": {
+  "title": "Marienbasilika von Luján, Argentinien",
+  "alt": "卢汉圣母大殿的照片，从外部或在朝圣地拍摄。",
+  "caption": "卢汉圣母大殿：当地照片。",
+  "_src": "3db4a8d8"
+ },
+ "foto-manaoag": {
+  "title": "This is a photo of a cultural heritage property in the Philippines with ID",
+  "alt": "马瑙阿格玫瑰圣母朝圣地的照片，从外部或在朝圣地拍摄。",
+  "caption": "马瑙阿格玫瑰圣母朝圣地：当地照片。",
+  "_src": "4fa0dfcd"
+ },
+ "foto-mariazell": {
+  "title": "Die Nordwestansicht der Basilika, Pfarr- und Wallfahrtskirche Maria Geburt in der obersteirischen Stadt Mariazell.",
+  "alt": "玛利亚采尔大殿（圣母诞辰）的照片，从外部或在朝圣地拍摄。",
+  "caption": "玛利亚采尔大殿（圣母诞辰）：当地照片。",
+  "_src": "2141762d"
+ },
+ "foto-montserrat": {
+  "title": "Basilica de Montserrat",
+  "alt": "位于巨大岩壁脚下的蒙特塞拉特隐修院。",
+  "caption": "蒙特塞拉特圣母隐修院：当地照片。",
+  "_src": "67171b7d"
+ },
+ "foto-nazare-anunciacao": {
+  "title": "Church of the Annunciation, Nazareth, Israel",
+  "alt": "圣母领报大殿（纳匝肋）的照片，从外部或在朝圣地拍摄。",
+  "caption": "圣母领报大殿（纳匝肋）：当地照片。",
+  "_src": "bf704ef6"
+ },
+ "foto-notre-dame-afrique": {
+  "title": "Notre-Dame d'Afrique, Algiers",
+  "alt": "非洲圣母大殿（阿尔及尔）的照片，从外部或在朝圣地拍摄。",
+  "caption": "非洲圣母大殿（阿尔及尔）：当地照片。",
+  "_src": "63cc1450"
+ },
+ "foto-notre-dame-de-la-garde": {
+  "title": "Notre-Dame de la Garde",
+  "alt": "守护圣母大殿（马赛）的照片，从外部或在朝圣地拍摄。",
+  "caption": "守护圣母大殿（马赛）：当地照片。",
+  "_src": "2f7efc62"
+ },
+ "foto-notre-dame-montreal": {
+  "title": "Basilique Notre-Dame de Montréal",
+  "alt": "蒙特利尔圣母大殿的照片，从外部或在朝圣地拍摄。",
+  "caption": "蒙特利尔圣母大殿：当地照片。",
+  "_src": "1a886a09"
+ },
+ "foto-notre-dame-paris": {
+  "title": "Cathedral Notre Dame de Paris, West view, Paris, France",
+  "alt": "巴黎圣母院主教座堂的照片，从外部或在朝圣地拍摄。",
+  "caption": "巴黎圣母院主教座堂：当地照片。",
+  "_src": "46048d5f"
+ },
+ "foto-pilar": {
+  "title": "Zaragoza - Basilica de Nuestra Señora del Pilar",
+  "alt": "柱前圣母主教座堂大殿（萨拉戈萨）的照片，从外部或在朝圣地拍摄。",
+  "caption": "柱前圣母主教座堂大殿（萨拉戈萨）：当地照片。",
+  "_src": "05864127"
+ },
+ "foto-pompeia": {
+  "title": "Le Santuario della Beata Vergine del Rosario de Pompei (Italie).",
+  "alt": "庞贝玫瑰圣母宗座朝圣地的照片，从外部或在朝圣地拍摄。",
+  "caption": "庞贝玫瑰圣母宗座朝圣地：当地照片。",
+  "_src": "655554a1"
+ },
+ "foto-rue-du-bac": {
+  "title": "La maison des Filles de la charité, 136-140 rue du Bac, à Paris.",
+  "alt": "巴黎巴克街仁爱修女会会院的正面。",
+  "caption": "神迹圣牌圣母小堂（巴黎巴克街）：当地照片。",
+  "_src": "b0babfdf"
+ },
+ "foto-sameiro": {
+  "title": "Our Lady of Sameiro sanctuary in Braga, Braga District, Portugal This building is classified as Sem proteção legal.It is",
+  "alt": "萨梅罗圣母朝圣地（布拉加）的照片，从外部或在朝圣地拍摄。",
+  "caption": "萨梅罗圣母朝圣地（布拉加）：当地照片。",
+  "_src": "544ae9f6"
+ },
+ "foto-santa-maria-maior": {
+  "title": "Basilica di Santa Maria Maggiore",
+  "alt": "圣母大殿（罗马）的照片，从外部或在朝圣地拍摄。",
+  "caption": "圣母大殿（罗马）：当地照片。",
+  "_src": "e2603dfa"
+ },
+ "foto-sheshan": {
+  "title": "The She Shan Basilica in Shanghai, China",
+  "alt": "建在树木葱郁的山顶上的佘山大殿。",
+  "caption": "佘山圣母大殿（上海）：当地照片。",
+  "_src": "5094c7c6"
+ },
+ "foto-siracusa": {
+  "title": "Basilica Santuario Madonna delle Lacrime di Siracusa",
+  "alt": "锡拉库萨朝圣地的航拍图，城市建筑之间有一个巨大的锥形混凝土屋顶。",
+  "caption": "泪水圣母朝圣地（锡拉库萨）：当地照片。",
+  "_src": "851cecbf"
+ },
+ "foto-sydney": {
+  "title": "St Mary's Cathedral, Sydney, Australia",
+  "alt": "圣玛利亚主教座堂（悉尼），进教之佑圣母的照片，从外部或在朝圣地拍摄。",
+  "caption": "圣玛利亚主教座堂（悉尼），进教之佑圣母：当地照片。",
+  "_src": "bdc569f2"
+ },
+ "foto-tumba-maria": {
+  "title": "Mary's tomb - outside view",
+  "alt": "耶路撒冷圣母之墓教堂的拱形石门。",
+  "caption": "圣母玛利亚之墓教堂（耶路撒冷）：当地照片。",
+  "_src": "4b51afc5"
+ },
+ "foto-washington": {
+  "title": "The Basilica of the National Shrine of the Immaculate Conception located next to The Catholic University of America camp",
+  "alt": "圣母无原罪始胎国家朝圣地大殿（华盛顿）的照片，从外部或在朝圣地拍摄。",
+  "caption": "圣母无原罪始胎国家朝圣地大殿（华盛顿）：当地照片。",
+  "_src": "90b41ca0"
+ },
+ "foto-yamoussoukro": {
+  "title": "La photo du dessus de la Basilique notre Dame de la Paix de Yamoussoukro",
+  "alt": "亚穆苏克罗和平之后圣母大殿的巨大圆顶。",
+  "caption": "和平之后圣母大殿（亚穆苏克罗）：当地照片。",
+  "_src": "6ebc3780"
+ },
+ "img-criancas-fatima": {
+  "title": "Children of Fátima portrait (Attributed to Joshua Benoliel), Ilustração Portuguesa, 1917",
+  "alt": "棕褐色调的老照片，三个孩子站在石墙前：两个戴深色头巾的女孩，中间是一个戴帽子的男孩。",
+  "caption": "法蒂玛的三个孩子，照片据信为约书亚·贝诺利尔所摄，1917年刊于《葡萄牙画报》。",
+  "_src": "58fcaaa6"
+ },
+ "img-gruta-lourdes": {
+  "title": "La grotte miraculeuse à Lourdes (vers 1860)",
+  "alt": "棕褐色调的旧版画，描绘卢尔德的马萨比耶勒山洞，周围是岩石和树木，河岸边有几个小人物。",
+  "caption": "卢尔德的马萨比耶勒山洞，约1860年的版画。",
+  "_src": "8561a2ca"
+ },
+ "img-virgem-em-oracao": {
+  "title": "祈祷中的圣母",
+  "alt": "玛利亚祈祷的画像：头戴浅色头纱，身披蓝色斗篷，双手合十，眼睛低垂，背景深暗。",
+  "caption": "萨索费拉托，《祈祷中的圣母》，约1640-50年。",
+  "_src": "0c1a7e83"
+ },
+ "obra-bellini-dormindo": {
+  "title": "朝拜熟睡圣婴的圣母",
+  "alt": "双手合十、披蓝灰色斗篷和浅色头纱的玛利亚，在可见天空的拱门下，凝视着她面前熟睡的圣婴耶稣。",
+  "caption": "乔瓦尼·贝利尼，《朝拜熟睡圣婴的圣母》，1460年代初。",
+  "_src": "203f9de1"
+ },
+ "obra-bellini-madona": {
+  "title": "圣母子",
+  "alt": "身披深蓝色斗篷、头戴浅色头纱的玛利亚，在红色布幔前抱着赤身的圣婴耶稣；左侧窗外可见云天、山峦和村庄。",
+  "caption": "乔瓦尼·贝利尼，《圣母子》，1480年代末。",
+  "_src": "c5416741"
+ },
+ "obra-carnevale-nascimento": {
+  "title": "圣母诞生",
+  "alt": "画中是蓝天下灰色调的古典建筑，有柱子和拱门；前景中身穿蓝色和粉色衣袍的妇女走过地面，远处另一些人在照顾一个新生婴儿。",
+  "caption": "卡尔内瓦莱修士，《圣母诞生》，1467年。",
+  "_src": "fdb44b1a"
+ },
+ "obra-david-crucificacao": {
+  "title": "耶稣受难",
+  "alt": "十字架上的基督，下方是远处有城市的风景；左边是戴浅色头纱、披深色斗篷的玛利亚和若望；右边是圣热罗尼莫和一位跪着的女圣人。",
+  "caption": "赫拉德·达维德，《耶稣受难》，约1495年。",
+  "_src": "45bf3176"
+ },
+ "obra-david-descanso": {
+  "title": "逃往埃及途中的休息",
+  "alt": "身披蓝色斗篷的玛利亚抱着圣婴坐在小丘上，头顶是高大的树木，前方是开阔的风景、城市和晴朗的天空。",
+  "caption": "赫拉德·达维德，《逃往埃及途中的休息》，约1512-15年。",
+  "_src": "09930276"
+ },
+ "obra-david-natividade": {
+  "title": "耶稣诞生",
+  "alt": "玛利亚和若瑟跪着朝拜躺在地上的圣婴，周围是拱门朝向风景的废墟；远处有牧羊人观望。",
+  "caption": "赫拉德·达维德，《耶稣诞生》，1480年代初。",
+  "_src": "595b2dcb"
+ },
+ "obra-david-virgem-paisagem": {
+  "title": "圣母子",
+  "alt": "长发、披深色斗篷的玛利亚，抱着身穿浅色长衣的圣婴，背景是树木、湖泊和泛蓝的山峦。",
+  "caption": "赫拉德·达维德，《圣母子》，约1520年。",
+  "_src": "61e0580b"
+ },
+ "obra-durer-virgem": {
+  "title": "圣母子",
+  "alt": "玛利亚侧着脸、垂下眼睛，身披红色斗篷，在深色背景前把赤身的圣婴耶稣抱在膝上。",
+  "caption": "阿尔布雷希特·丢勒，《圣母子》，1516年。",
+  "_src": "dcec09c4"
+ },
+ "obra-flandes-cana": {
+  "title": "加纳婚宴",
+  "alt": "在有柱子的大厅里，宾客围坐在铺着白布的桌旁；耶稣和戴头纱的玛利亚坐在左侧，一名仆人在大石缸旁用水壶倒水。",
+  "caption": "胡安·德·弗兰德斯，《加纳婚宴》，约1497年。",
+  "_src": "d4d8d695"
+ },
+ "obra-memling-anunciacao": {
+  "title": "天使报喜",
+  "alt": "身着金线刺绣衣袍的天使加俾尔，与红袍外披蓝色斗篷、跪在书前的玛利亚，房间里有红色帷幔和敞开的窗户。",
+  "caption": "汉斯·梅姆林，《天使报喜》，约1465-70年。",
+  "_src": "e49ffe3a"
+ },
+ "obra-pieta-alema": {
+  "title": "圣殇",
+  "alt": "彩绘雕塑：身披金色斗篷和头纱的玛利亚坐着，膝上抱着头向后仰的基督遗体。",
+  "caption": "《圣殇》，德国彩绘木雕，1435-40年（修道院博物馆）。",
+  "_src": "a999ad8e"
+ },
+ "obra-ram-visitacao": {
+  "title": "圣母访亲（圣若翰祭坛画的一幅）",
+  "alt": "身披蓝色斗篷、头有金色光环的玛利亚拥吻身披绿色斗篷的依撒伯尔；旁边有一位粉衣女子和一位穿金色长袍的老人，地面呈粉红色的庭院。",
+  "caption": "多明戈·拉姆，《圣母访亲（圣若翰祭坛画的一幅）》，十五世纪。",
+  "_src": "01d43b54"
+ },
+ "obra-raphael-entronizada": {
+  "title": "圣母子登基与众圣人",
+  "alt": "玛利亚抱着圣婴坐在宝座上，两旁是圣人，上方是由天主圣父和天使冠顶的金色拱门，置于灰色背景上的建筑式画框中。",
+  "caption": "拉斐尔，《圣母子登基与众圣人》，约1504年。",
+  "_src": "843d16eb"
+ },
+ "obra-reni-imaculada": {
+  "title": "圣母无原罪始胎",
+  "alt": "玛利亚站在新月上，身穿粉色长袍、披蓝色斗篷，双手合十，仰望天上，处在有云彩的金色天空中，两位天使之间。",
+  "caption": "圭多·雷尼，《圣母无原罪始胎》，1627年。",
+  "_src": "4fc9f277"
+ },
+ "obra-rosario-misterios": {
+  "title": "十五端奥迹与玫瑰圣母",
+  "alt": "画板上分三排绘有耶稣和玛利亚生平的十五个小场景，下方是金色壁龛中的玫瑰圣母，周围是信众。",
+  "caption": "尼德兰画家（布鲁塞尔），《十五端奥迹与玫瑰圣母》，约1515-20年。",
+  "_src": "023d069c"
+ },
+ "obra-saraceni-dormicao": {
+  "title": "圣母安眠",
+  "alt": "身披蓝色斗篷、双手合十的玛利亚，被身穿红色、赭色和绿色衣袍的宗徒们围绕，在一座有柱子的大厅中。",
+  "caption": "卡洛·萨拉切尼，《圣母安眠》，约1612年。",
+  "_src": "310f176a"
+ },
+ "obra-signorelli-assuncao": {
+  "title": "圣母升天与圣弥额尔、圣本笃",
+  "alt": "玛利亚坐在云端，身披蓝灰色斗篷、双手合十，周围是奏乐的天使；下方是身穿盔甲、战胜魔鬼的圣弥额尔，以及圣本笃。",
+  "caption": "卢卡·西尼奥雷利，《圣母升天与圣弥额尔、圣本笃》，约1493-96年。",
+  "_src": "237703ae"
+ },
+ "retrato-akita": {
+  "title": "Our Lady of Akita Japan",
+  "alt": "站在十字架前、双臂向下张开的木雕玛利亚像。",
+  "caption": "秋田圣母像（日本）。",
+  "_src": "39956f3b"
+ },
+ "retrato-altagracia": {
+  "title": "Imagen oficial de Nuestra Señora de la Altagracia.",
+  "alt": "玛利亚双手合十，身披缀星的蓝色斗篷、头戴冠冕，面对躺着的圣婴；若瑟出现在左后方。",
+  "caption": "阿尔塔格拉西亚圣母像（多米尼加共和国伊圭）。",
+  "_src": "ac93c806"
+ },
+ "retrato-antipolo": {
+  "title": "The Black Madonna image of Our Lady of Peace and Good Voyage, also known as Our Lady of Antipolo, enshrined at the Antip",
+  "alt": "深色的玛利亚像，身披华丽的刺绣斗篷，戴金冠和光环。",
+  "caption": "安蒂波洛（菲律宾）主教座堂中的和平与旅途平安之后。",
+  "_src": "e9437cd8"
+ },
+ "retrato-aparecida": {
+  "title": "Devoção à imagem, na Basílica do Santuário Nacional de Nossa Senhora da Conceição Aparecida.",
+  "alt": "信徒在安放阿帕雷西达圣母深色小像的金色壁龛前祈祷。",
+  "caption": "阿帕雷西达（巴西）国家朝圣地大殿中的阿帕雷西达圣母像。",
+  "_src": "b729ead1"
+ },
+ "retrato-banneux": {
+  "title": "The statue and source of Mary Virgin of the poor at Banneux",
+  "alt": "泉水上方石龛中的白色小玛利亚像，周围有鲜花。",
+  "caption": "巴纳（比利时）泉水旁的穷人之贞女像。",
+  "_src": "f75229d3"
+ },
+ "retrato-boa-saude-vailankanni": {
+  "title": "Our Lady of Vailankanni, a statue in the crypt of Basilique Notre-Dame de Fourvière, Lyon, France.",
+  "alt": "圣母和圣婴都戴着高高的金冠，背景为红色。",
+  "caption": "法国里昂富维耶大殿地下圣堂中的维兰卡尼圣母像。不是印度朝圣地的圣像。",
+  "_src": "373b661c"
+ },
+ "retrato-cartago": {
+  "title": "Sculpture of the Virgen de los Ángeles in the Basilica of Our Lady of the Angels, Cartago, Costa Rica",
+  "alt": "放在石头上的深色小像，玛利亚抱着圣婴，旁边有鲜花。",
+  "caption": "卡塔戈（哥斯达黎加）大殿中的天使之后圣母，“小黑圣母”。",
+  "_src": "ddec0c42"
+ },
+ "retrato-covadonga": {
+  "title": "Imaxe de la Virxe de Cuadonga, la Santina, con mantu blancu.",
+  "alt": "抱着圣婴的小玛利亚像，身披绣花白斗篷，头戴冠冕。",
+  "caption": "阿斯图里亚斯（西班牙）的科瓦东加圣母，“小圣女”。",
+  "_src": "766cc44c"
+ },
+ "retrato-einsiedeln": {
+  "title": "Schwarze Madonna von Einsiedeln, mit Kind. Steht in der Klosterkirche von Einsiedeln in der Schweiz. Liegt an einem Weg ",
+  "alt": "修道院教堂内用黑色大理石建成的恩宠小堂；正中是深色的小玛利亚像，前面坐着信徒。",
+  "caption": "艾因西德伦黑圣母（瑞士）。",
+  "_src": "7e9549bd"
+ },
+ "retrato-fatima": {
+  "title": "Fatima",
+  "alt": "身穿金边白衣的玛利亚像，双手合十，垂着念珠，头戴冠冕。",
+  "caption": "法蒂玛圣母的第一尊像（葡萄牙）。",
+  "_src": "8d4be868"
+ },
+ "retrato-guadalupe-mexico": {
+  "title": "Original Picture of Our Lady of Guadalupe (also known as the Virgin of Guadalupe) shown in the Basilica of Our Lady of G",
+  "alt": "玛利亚站在月亮上，身披布满星星的蓝绿色斗篷，双手合十，周围是金色光芒，由一位天使托着。",
+  "caption": "墨西哥城瓜达卢佩大殿中受敬礼的瓜达卢佩圣母像。",
+  "_src": "e48a91a7"
+ },
+ "retrato-harissa": {
+  "title": "Statue of Our Lady of Lebanon in Harissa, Lebanon.",
+  "alt": "台座上张开双臂的白色玛利亚巨像，背景是天空。",
+  "caption": "哈里萨（黎巴嫩）的黎巴嫩圣母像。",
+  "_src": "bb60429b"
+ },
+ "retrato-jasna-gora": {
+  "title": "Obraz Matki Bożej Częstochowskiej",
+  "alt": "深色面容的圣像：玛利亚左臂抱着圣婴，并用手指向他；她右脸颊上有两道伤痕。",
+  "caption": "琴斯托霍瓦圣母圣像（波兰光明山），未加覆盖。",
+  "_src": "b28f6932"
+ },
+ "retrato-kibeho": {
+  "title": "Ishusho ya Bikira Mariya Nyina wa Jambo, akaba kandi yitwa Mwamikazi wa Kibeho, iherereye mu cyanya cy'Ingoro ya Yezu Ny",
+  "alt": "身披蓝色斗篷、身穿白衣、双手合十的玛利亚像，台座上刻着“Kibeho”。",
+  "caption": "基贝霍圣母像（“Nyina wa Jambo”，圣言之母），位于卢旺达鲁汉戈朝圣地。不是基贝霍的圣像。",
+  "_src": "eabca79e"
+ },
+ "retrato-la-salette": {
+  "title": "Statue de la Vierge de la Salette avec les enfants (détail), intérieur de l'église de Corps.",
+  "alt": "头戴玫瑰花冠、胸前挂着十字架和链子的玛利亚像，面对两个孩子。",
+  "caption": "科尔（法国）教堂中与孩子们在一起的拉萨莱特圣母像。",
+  "_src": "895bb21a"
+ },
+ "retrato-lourdes": {
+  "title": "The grotto where St Bernadette's visions took place is very simple and stark. Above the main recess is the niche where t",
+  "alt": "白色的玛利亚像系着蓝色腰带、双手合十，位于山洞岩壁高处的壁龛中。",
+  "caption": "卢尔德（法国）马萨比耶勒山洞壁龛中的圣母像。",
+  "_src": "af7be839"
+ },
+ "retrato-lujan": {
+  "title": "Statue of Our Lady of Lujan in the Institute's seminary in the United States.",
+  "alt": "台座上的小玛利亚像，身披蓝白色斗篷，周围有金色光芒。",
+  "caption": "卢汉圣母（阿根廷）的复制像，位于美国的一所修院。不是大殿中的原像。",
+  "_src": "12cefdca"
+ },
+ "retrato-manaoag": {
+  "title": "Our lady of Manaoag",
+  "alt": "身穿金色衣袍、头戴冠冕的玛利亚像，位于装饰华丽的壁龛中，前面摆着白色鲜花。",
+  "caption": "马瑙阿格玫瑰圣母（菲律宾）。",
+  "_src": "e0ecc39e"
+ },
+ "retrato-mariazell": {
+  "title": "Gnadenstatue von Mariazell, \"Magna Mater Austriae\"",
+  "alt": "身披红色斗篷的小玛利亚像，安放在被金色柱子环绕的银祭台上。",
+  "caption": "玛利亚采尔的恩宠圣像，“奥地利伟大之母”（奥地利）。",
+  "_src": "67360046"
+ },
+ "retrato-montserrat": {
+  "title": "The Virgin of Montserrat",
+  "alt": "深色面容的玛利亚坐像，膝上抱着圣婴，两人都戴冠冕、身穿金色衣袍。",
+  "caption": "蒙特塞拉特圣母，“黑脸小圣母”（西班牙加泰罗尼亚）。",
+  "_src": "da6c3345"
+ },
+ "retrato-nossa-senhora-da-china": {
+  "title": "An apparition of the Blessed Virgin Mary in Donglu, China, first appearing in 190",
+  "alt": "旧画中的圣母和圣婴，两人都身穿中国皇室服饰、头戴皇冠。",
+  "caption": "中华圣母，约1900年的图像，身穿皇室服饰。",
+  "_src": "ac6e31aa"
+ },
+ "retrato-pompeia": {
+  "title": "Basilica di San Gennaro ad Antignano (Napoli) - Nella navata destra, sulla parete destra, in corrispondenza della 2° col",
+  "alt": "玛利亚抱着圣婴坐在宝座上，把念珠交给圣道明和圣加大利纳的画像。",
+  "caption": "庞贝玫瑰圣母画像的复制品，位于那不勒斯安蒂尼亚诺圣雅纳略大殿。不是庞贝的原画。",
+  "_src": "d50b5a35"
+ },
+ "retrato-santa-maria-maior": {
+  "title": "Salus Populi Romani icon after restoration, completed by the work of the Vatican Museum conservators in 2018.",
+  "alt": "玛利亚身披金边深蓝色斗篷，抱着手持书本的圣婴；金色背景。",
+  "caption": "罗马人民之救援圣像（罗马圣母大殿），梵蒂冈博物馆于2018年完成修复之后。",
+  "_src": "5f1c59a9"
+ },
+ "retrato-suyapa": {
+  "title": "Artistic representation of the Virgin of Suyapa, Patron of Honduras and central America.",
+  "alt": "双手合十、身披斗篷、有光环的小玛利亚像的素描。",
+  "caption": "苏亚帕圣母（洪都拉斯）的艺术描绘。不是受敬礼圣像的照片。",
+  "_src": "12b92d21"
+ },
+ "retrato-walsingham": {
+  "title": "The statue of Our Lady of Walsingham, the Slipper Chapel, Walsingham, Norfolk, England.",
+  "alt": "戴冠的玛利亚抱着同样戴冠的圣婴，手持一枝百合。",
+  "caption": "沃尔辛厄姆圣母像，位于拖鞋小堂（英格兰）。",
+  "_src": "097912cc"
+ }
+}

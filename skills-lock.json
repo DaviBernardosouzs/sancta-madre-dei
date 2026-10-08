@@ -1,6 +1,12 @@
 {
   "version": 1,
   "skills": {
+    "defuddle": {
+      "source": "kepano/obsidian-skills",
+      "sourceType": "github",
+      "computedHash": "5ae2d9f2d5de3f27adb5b4d0a752c16be38f1a2d6316721a74ab721866d5fb2e",
+      "skillPath": "skills/defuddle/SKILL.md"
+    },
     "design-taste-frontend": {
       "source": "Leonxlnx/taste-skill",
       "sourceType": "github",
@@ -36,6 +42,36 @@
       "sourceType": "github",
       "skillPath": "skills/soft-skill/SKILL.md",
       "computedHash": "7db385e4c5370e5a7fca9704a1361b056e4504ea6a03924bb86f33a4f00b5c73"
+    },
+    "json-canvas": {
+      "source": "kepano/obsidian-skills",
+      "sourceType": "github",
+      "computedHash": "56cbac74a93e4fba97f4d44bccfdeaae89e545b223f47df392c7705e01e6c543",
+      "skillPath": "skills/json-canvas/SKILL.md"
+    },
+    "knap": {
+      "source": "kepano/obsidian-skills",
+      "sourceType": "github",
+      "computedHash": "e376a3f24ed9c48a00afff39372dae304e18c89f5c8bd69d4d6e1819d6333145",
+      "skillPath": "skills/knap/SKILL.md"
+    },
+    "obsidian-bases": {
+      "source": "kepano/obsidian-skills",
+      "sourceType": "github",
+      "computedHash": "65db029661f38daadc8b8eb755bd7b96011336f49bdc11e966ec7fd157d8f125",
+      "skillPath": "skills/obsidian-bases/SKILL.md"
+    },
+    "obsidian-cli": {
+      "source": "kepano/obsidian-skills",
+      "sourceType": "github",
+      "computedHash": "f46ae626875f7e47c410c2ee93896c4526024ebe127719e8fb430261b5677edc",
+      "skillPath": "skills/obsidian-cli/SKILL.md"
+    },
+    "obsidian-markdown": {
+      "source": "kepano/obsidian-skills",
+      "sourceType": "github",
+      "computedHash": "0f47297035d7824e7bf0f1984e8145a59a123e2258b5d54c9ac9642f9f77e177",
+      "skillPath": "skills/obsidian-markdown/SKILL.md"
     }
   }
 }

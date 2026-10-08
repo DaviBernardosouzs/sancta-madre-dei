@@ -1,0 +1,101 @@
+{
+ "rosario": {
+  "steps": [
+   "Machen Sie das Kreuzzeichen.",
+   "Nennen Sie das erste Geheimnis der Reihe des Tages und halten Sie kurz inne, um es zu bedenken; wenn Sie möchten, lesen Sie die angegebene Bibelstelle.",
+   "Beten Sie ein Vaterunser.",
+   "Beten Sie zehn Ave Maria und betrachten Sie dabei das Geheimnis.",
+   "Beten Sie das Ehre sei dem Vater.",
+   "Wiederholen Sie dies für jedes der fünf Geheimnisse der Reihe.",
+   "Zum Schluss kann man das Salve Regina oder ein anderes Mariengebet beten."
+  ],
+  "stepsNote": "Aufbau jedes Geheimnisses nach der Website des Vatikans (Ankündigung, Vaterunser, zehn Ave Maria mit Betrachtung des Geheimnisses, Ehre sei dem Vater). Die genaue Reihenfolge der Anfangs- und Schlussgebete ist in den Gemeinschaften unterschiedlich und wurde hier nicht anhand eines Dokuments vereinheitlicht; das Kreuzzeichen am Anfang und das Salve Regina am Ende sind verbreitete Praxis.",
+  "cycles": [
+   {
+    "name": "Freudenreiche Geheimnisse",
+    "days": "montags und samstags",
+    "mysteries": [
+     {
+      "name": "Die Verkündigung an Maria"
+     },
+     {
+      "name": "Der Besuch Marias bei ihrer Verwandten Elisabet"
+     },
+     {
+      "name": "Die Geburt Jesu"
+     },
+     {
+      "name": "Die Darstellung des Jesuskindes im Tempel"
+     },
+     {
+      "name": "Das Wiederfinden des Jesuskindes im Tempel"
+     }
+    ]
+   },
+   {
+    "name": "Lichtreiche Geheimnisse",
+    "days": "donnerstags",
+    "mysteries": [
+     {
+      "name": "Die Taufe Jesu im Jordan"
+     },
+     {
+      "name": "Die Selbstoffenbarung Jesu bei der Hochzeit zu Kana"
+     },
+     {
+      "name": "Die Verkündigung des Reiches Gottes"
+     },
+     {
+      "name": "Die Verklärung Jesu"
+     },
+     {
+      "name": "Die Einsetzung der Eucharistie"
+     }
+    ]
+   },
+   {
+    "name": "Schmerzhafte Geheimnisse",
+    "days": "dienstags und freitags",
+    "mysteries": [
+     {
+      "name": "Die Todesangst Jesu im Garten"
+     },
+     {
+      "name": "Die Geißelung Jesu"
+     },
+     {
+      "name": "Die Dornenkrönung"
+     },
+     {
+      "name": "Jesus trägt das Kreuz auf dem Weg nach Golgota"
+     },
+     {
+      "name": "Die Kreuzigung und der Tod Jesu"
+     }
+    ]
+   },
+   {
+    "name": "Glorreiche Geheimnisse",
+    "days": "mittwochs und sonntags",
+    "mysteries": [
+     {
+      "name": "Die Auferstehung Jesu"
+     },
+     {
+      "name": "Die Himmelfahrt Jesu"
+     },
+     {
+      "name": "Die Sendung des Heiligen Geistes auf die Apostel"
+     },
+     {
+      "name": "Die Aufnahme Marias in den Himmel"
+     },
+     {
+      "name": "Die Krönung Marias im Himmel"
+     }
+    ]
+   }
+  ],
+  "_src": "c7ebc875"
+ }
+}

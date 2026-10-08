@@ -1,0 +1,55 @@
+{
+  "sourceId": "vaticano-misterios-rosario",
+  "steps": [
+    "Faça o Sinal da Cruz.",
+    "Anuncie o primeiro mistério do ciclo do dia e faça uma breve pausa para recordá-lo; se desejar, leia a passagem bíblica indicada.",
+    "Reze um Pai-Nosso.",
+    "Reze dez Ave-Marias, meditando o mistério.",
+    "Reze o Glória ao Pai.",
+    "Repita para cada um dos cinco mistérios do ciclo.",
+    "Ao final, pode-se rezar a Salve Rainha ou outra oração mariana."
+  ],
+  "stepsNote": "Estrutura de cada mistério conforme o sítio do Vaticano (anúncio, Pai-Nosso, dez Ave-Marias meditando o mistério, Glória ao Pai). A ordem exata das orações iniciais e finais varia entre comunidades e não foi aqui padronizada por documento; o Sinal da Cruz inicial e a Salve Rainha final são práticas comuns.",
+  "cycles": [
+    {
+      "id": "gozosos", "name": "Mistérios Gozosos", "days": "segundas-feiras e sábados",
+      "mysteries": [
+        { "name": "A Anunciação a Maria", "ref": "Lc 1,26-27" },
+        { "name": "A Visitação de Nossa Senhora a sua prima Isabel", "ref": "Lc 1,39-42" },
+        { "name": "O Nascimento de Jesus", "ref": "Lc 2,1-7" },
+        { "name": "A Apresentação do Menino Jesus no Templo", "ref": "Lc 2,21-24" },
+        { "name": "A Perda e o encontro do Menino Jesus no Templo", "ref": "Lc 2,41-47" }
+      ]
+    },
+    {
+      "id": "luminosos", "name": "Mistérios Luminosos", "days": "quintas-feiras",
+      "mysteries": [
+        { "name": "O Batismo de Jesus no rio Jordão", "ref": "Mt 3,16-17" },
+        { "name": "A auto-revelação de Jesus nas Bodas de Caná", "ref": "Jo 2,1-5" },
+        { "name": "O Anúncio do Reino de Deus", "ref": "Mc 1,15" },
+        { "name": "A Transfiguração de Jesus", "ref": "Mt 17,1-2" },
+        { "name": "A Instituição da Eucaristia", "ref": "Mt 26,26" }
+      ]
+    },
+    {
+      "id": "dolorosos", "name": "Mistérios Dolorosos", "days": "terças e sextas-feiras",
+      "mysteries": [
+        { "name": "A Agonia de Jesus no Horto", "ref": "Mt 26,36-39" },
+        { "name": "A Flagelação de Jesus", "ref": "Mt 27,26" },
+        { "name": "A Coroação de Espinhos", "ref": "Mt 27,27-29" },
+        { "name": "Jesus carregando a cruz no caminho do Calvário", "ref": "Mc 15,21-22" },
+        { "name": "A Crucifixão e morte de Jesus", "ref": "Lc 23,33-46" }
+      ]
+    },
+    {
+      "id": "gloriosos", "name": "Mistérios Gloriosos", "days": "quartas-feiras e domingos",
+      "mysteries": [
+        { "name": "A Ressurreição de Jesus", "ref": "Lc 24,1-6" },
+        { "name": "A Ascensão de Jesus ao Céu", "ref": "Mc 16,19" },
+        { "name": "A Vinda do Espírito Santo sobre os Apóstolos", "ref": "At 2,1-4" },
+        { "name": "A Assunção de Maria", "ref": "Lc 1,48-49" },
+        { "name": "A Coroação de Maria no Céu", "ref": "Ap 12,1" }
+      ]
+    }
+  ]
+}

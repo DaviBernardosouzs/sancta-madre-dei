@@ -1,0 +1,31 @@
+/* Sancta Mater Dei: organização visual local, sem fontes externas. */
+.markdown-preview-view { --h1-font: Georgia, "Times New Roman", serif; --h2-font: Georgia, "Times New Roman", serif; --h1-weight: 500; --h2-weight: 500; --p-spacing: 1.15rem; --line-height-normal: 1.65; }
+.canvas-node-container { border-radius: 12px; }
+.canvas-node-label { font-weight: 600; letter-spacing: .02em; }
+.smd-graph-legend table { width: 100%; }
+.smd-graph-legend td, .smd-graph-legend th { padding: 12px 16px; }
+.smd-graph-legend tbody td:first-child { font-weight: 600; border-left: 4px solid var(--smd-category); }
+.smd-graph-legend tbody tr:nth-child(1) { --smd-category: #4C9FE8; }
+.smd-graph-legend tbody tr:nth-child(2) { --smd-category: #D6A64B; }
+.smd-graph-legend tbody tr:nth-child(3) { --smd-category: #E27373; }
+.smd-graph-legend tbody tr:nth-child(4) { --smd-category: #69B887; }
+.smd-graph-legend tbody tr:nth-child(5) { --smd-category: #AF8CE0; }
+.smd-graph-legend tbody tr:nth-child(6) { --smd-category: #798DE1; }
+.smd-graph-legend tbody tr:nth-child(7) { --smd-category: #42B8AD; }
+.smd-graph-legend tbody tr:nth-child(8) { --smd-category: #DB8B50; }
+.smd-graph-legend tbody tr:nth-child(9) { --smd-category: #72BED1; }
+.smd-graph-legend tbody tr:nth-child(10) { --smd-category: #CF8CB7; }
+.smd-graph-legend tbody tr:nth-child(11) { --smd-category: #929AA6; }
+.smd-graph-legend tbody tr:nth-child(12) { --smd-category: #A7A59E; }
+.nav-folder-title[data-path="01 - Maria Santíssima"] { border-left: 3px solid #72BED1; padding-left: 10px; }
+.nav-folder-title[data-path="02 - Aparições Marianas"] { border-left: 3px solid #4C9FE8; padding-left: 10px; }
+.nav-folder-title[data-path="03 - Títulos Marianos"] { border-left: 3px solid #D6A64B; padding-left: 10px; }
+.nav-folder-title[data-path="04 - Milagres"] { border-left: 3px solid #E27373; padding-left: 10px; }
+.nav-folder-title[data-path="05 - Santos e Videntes"] { border-left: 3px solid #69B887; padding-left: 10px; }
+.nav-folder-title[data-path="06 - Dogmas e Doutrina"] { border-left: 3px solid #AF8CE0; padding-left: 10px; }
+.nav-folder-title[data-path="07 - Orações e Devoções"] { border-left: 3px solid #42B8AD; padding-left: 10px; }
+.nav-folder-title[data-path="08 - Santuários"] { border-left: 3px solid #DB8B50; padding-left: 10px; }
+.nav-folder-title[data-path="09 - Documentos da Igreja"] { border-left: 3px solid #798DE1; padding-left: 10px; }
+.nav-folder-title[data-path="10 - História e Cronologias"] { border-left: 3px solid #72BED1; padding-left: 10px; }
+.nav-folder-title[data-path="11 - Iconografia Mariana"] { border-left: 3px solid #CF8CB7; padding-left: 10px; }
+.nav-folder-title[data-path="12 - Fontes e Bibliografia"] { border-left: 3px solid #929AA6; padding-left: 10px; }

@@ -1,0 +1,644 @@
+{
+ "durer-anunciacao": {
+  "title": "受胎告知",
+  "alt": "白黒の木版画。大きな丸天井の部屋で、天使とマリアが向かい合ってひざまずいている。上には鳩。",
+  "caption": "アルブレヒト・デューラー《受胎告知》連作『聖母伝』より、1511年。",
+  "_src": "815f1171"
+ },
+ "durer-apresentacao-jesus": {
+  "title": "神殿奉献",
+  "alt": "白黒の木版画。柱の並ぶ大広間で、祭壇の卓のそばにひざまずく女性と、周りを囲む祭司や人々。",
+  "caption": "アルブレヒト・デューラー《神殿奉献》連作『聖母伝』より、1505年頃。",
+  "_src": "b4626432"
+ },
+ "durer-apresentacao-maria": {
+  "title": "聖母の神殿奉献",
+  "alt": "白黒の木版画。柱とアーチのある中庭で、神殿の入口にいる祭司たちの前に少女が立つ。手前には大勢の信者。",
+  "caption": "アルブレヒト・デューラー《聖母の神殿奉献》連作『聖母伝』より、1503年頃。",
+  "_src": "d4d75a15"
+ },
+ "durer-assuncao-coroacao": {
+  "title": "聖母の被昇天と戴冠",
+  "alt": "白黒の木版画。雲の間で、鳩とともに二人の人物がマリアに冠を授ける。下には開いた墓を囲む使徒たち。",
+  "caption": "アルブレヒト・デューラー《聖母の被昇天と戴冠》連作『聖母伝』より、1510年。",
+  "_src": "6bc5c414"
+ },
+ "durer-circuncisao": {
+  "title": "割礼",
+  "alt": "白黒の木版画。神殿の中で、祭司と大勢の信者が幼子を囲んでいる。その中にマリアもいる。",
+  "caption": "アルブレヒト・デューラー《割礼》連作『聖母伝』より、1504年頃。",
+  "_src": "229fcbb9"
+ },
+ "durer-despedida": {
+  "title": "母に別れを告げるキリスト",
+  "alt": "白黒の木版画。屋外の柵と木のそばで、他の女性たちに支えられてひざまずく女性が、立っているキリストの前にいる。",
+  "caption": "アルブレヒト・デューラー《母に別れを告げるキリスト》連作『聖母伝』より、1511年。",
+  "_src": "861a4e7a"
+ },
+ "durer-desposorios": {
+  "title": "聖母の婚約",
+  "alt": "白黒の木版画。大きなアーチの下で、祭司が証人たちの前で男女の手を結び合わせている。",
+  "caption": "アルブレヒト・デューラー《聖母の婚約》連作『聖母伝』より、1504年頃。",
+  "_src": "6be72f3d"
+ },
+ "durer-dormicao": {
+  "title": "聖母の死",
+  "alt": "白黒の木版画。天蓋付きの寝台に横たわるマリアを使徒たちが囲み、手前の一人は杖を持っている。",
+  "caption": "アルブレヒト・デューラー《聖母の死》連作『聖母伝』より、1511年。",
+  "_src": "66ef6264"
+ },
+ "durer-egito-sagrada-familia": {
+  "title": "エジプトの聖家族",
+  "alt": "白黒の木版画。家々の前で幼子と座るマリアと、木材を加工するヨセフ。小さな天使たちが木くずを集めている。",
+  "caption": "アルブレヒト・デューラー《エジプトの聖家族》連作『聖母伝』より、1511年。",
+  "_src": "ba6d90be"
+ },
+ "durer-entre-doutores": {
+  "title": "学者たちの中のイエス",
+  "alt": "白黒の木版画。アーチと柱のある空間で、少年イエスが学者たちの前にいる。左にマリアとヨセフ。",
+  "caption": "アルブレヒト・デューラー《学者たちの中のイエス》連作『聖母伝』より、1511年。",
+  "_src": "66efe648"
+ },
+ "durer-fuga-egito": {
+  "title": "エジプトへの逃避",
+  "alt": "白黒の木版画。幼子を抱いてロバに乗るマリアと、先を歩くヨセフが、ヤシの木のある森を進む。",
+  "caption": "アルブレヒト・デューラー《エジプトへの逃避》連作『聖母伝』より、1511年。",
+  "_src": "21d60abb"
+ },
+ "durer-glorificacao": {
+  "title": "聖母の栄光",
+  "alt": "下にラテン語の文字のある白黒の木版画。アーチと柱の大広間で、多くの人々がマリアを囲んでいる。",
+  "caption": "アルブレヒト・デューラー《聖母の栄光》連作『聖母伝』より、1511年。",
+  "_src": "404877d2"
+ },
+ "durer-joaquim-anjo": {
+  "title": "ヨアキムと天使",
+  "alt": "白黒の木版画。木々と羊の群れのいる風景にひざまずく男が見上げると、大きな翼の天使が枝の間から降りてくる。奥には羊飼いたちと湖。",
+  "caption": "アルブレヒト・デューラー《ヨアキムと天使》連作『聖母伝』より、1504年頃。",
+  "_src": "76bc8809"
+ },
+ "durer-madona-crescente": {
+  "title": "三日月の上の聖母、扉絵",
+  "alt": "白黒の木版画。光線の光輪の中、三日月の上に座る幼子を抱いた聖母。上部にラテン語の文字。",
+  "caption": "アルブレヒト・デューラー《三日月の上の聖母》連作『聖母伝』の扉絵、1511年頃。",
+  "_src": "f2026eb0"
+ },
+ "durer-magos": {
+  "title": "東方三博士の礼拝",
+  "alt": "白黒の木版画。木の屋根の下で、幼子を抱くマリアが手前にひざまずく男たちを迎える。上には星。",
+  "caption": "アルブレヒト・デューラー《東方三博士の礼拝》連作『聖母伝』より、1502年頃。",
+  "_src": "5926b2db"
+ },
+ "durer-nascimento-maria": {
+  "title": "聖母の誕生",
+  "alt": "白黒の木版画。天蓋付きの寝台で母が休む室内。アーチの下を天使が舞い、手前では女性たちが生まれた子の世話をしている。",
+  "caption": "アルブレヒト・デューラー《聖母の誕生》連作『聖母伝』より、1503年頃。",
+  "_src": "cacba2b9"
+ },
+ "durer-natividade": {
+  "title": "降誕",
+  "alt": "白黒の木版画。屋根の崩れた馬小屋で、幼子の前にひざまずくマリア。上には天使たちと星。",
+  "caption": "アルブレヒト・デューラー《降誕》連作『聖母伝』より、1502-03年。",
+  "_src": "20efa2ac"
+ },
+ "durer-pentecostes": {
+  "title": "聖霊降臨",
+  "alt": "白黒の木版画。上で鳩が光を放ち、下には使徒たちが集まっている。中央には本を膝に置いたベールの女性が座っている。",
+  "caption": "アルブレヒト・デューラー《聖霊降臨》連作『小受難伝』より、1510年頃。",
+  "_src": "41e46077"
+ },
+ "durer-porta-dourada": {
+  "title": "金門でのヨアキムとアンナ",
+  "alt": "白黒の木版画。装飾されたアーチの下で、長いマントの男女が抱き合う。左には見守る人々、奥には城壁と風景。",
+  "caption": "アルブレヒト・デューラー《金門でのヨアキムとアンナ》連作『聖母伝』より、1504年頃。",
+  "_src": "0377dbf6"
+ },
+ "durer-rejeicao-joaquim": {
+  "title": "ヨアキムの捧げ物の拒絶",
+  "alt": "白黒の木版画。大きなアーチの下、垂れ幕の前で、捧げ物がなされる祭壇の卓を祭司たちと人々が囲んでいる。",
+  "caption": "アルブレヒト・デューラー《ヨアキムの捧げ物の拒絶》連作『聖母伝』より、1504年頃。",
+  "_src": "1711b8e4"
+ },
+ "durer-visitacao": {
+  "title": "訪問",
+  "alt": "白黒の木版画。山と木々の風景の中、家の前で二人の女性が抱き合う。戸口で男が見守っている。",
+  "caption": "アルブレヒト・デューラー《訪問》連作『聖母伝』より、1503-04年。",
+  "_src": "78b95943"
+ },
+ "foto-altagracia": {
+  "title": "Basílica Nuestra Señora de la Altagracia",
+  "alt": "アルタグラシアの聖母司教座大聖堂（イグエイ）の写真。外観、または巡礼地の様子。",
+  "caption": "アルタグラシアの聖母司教座大聖堂（イグエイ）：現地の写真。",
+  "_src": "67a704c7"
+ },
+ "foto-altotting": {
+  "title": "Chapel of Grace and St. Magdalena, Altoetting",
+  "alt": "アルトエッティングの聖母巡礼地（恵みの礼拝堂）の写真。外観、または巡礼地の様子。",
+  "caption": "アルトエッティングの聖母巡礼地（恵みの礼拝堂）：現地の写真。",
+  "_src": "a9e84524"
+ },
+ "foto-antipolo": {
+  "title": "Antipolo Cathedral facade 2014",
+  "alt": "平和と良い旅の聖母国際巡礼聖堂（アンティポロ）の写真。外観、または巡礼地の様子。",
+  "caption": "平和と良い旅の聖母国際巡礼聖堂（アンティポロ）：現地の写真。",
+  "_src": "d24521fb"
+ },
+ "foto-aparecida": {
+  "title": "Catedral Basílica de Aparecida",
+  "alt": "ドームと高い塔のある、れんが造りのアパレシーダ大聖堂を遠くから見たところ。",
+  "caption": "アパレシーダの聖母国立巡礼聖堂：現地の写真。",
+  "_src": "432ba68e"
+ },
+ "foto-belem-nazare": {
+  "title": "Conjunto Arquitetônico de Nazaré (CAN), tendo ao fundo a Basílica de Nossa Senhora de Nazaré, um dos mais importantes te",
+  "alt": "ナザレの聖母巡礼大聖堂（ベレン）の写真。外観、または巡礼地の様子。",
+  "caption": "ナザレの聖母巡礼大聖堂（ベレン）：現地の写真。",
+  "_src": "62a10c0e"
+ },
+ "foto-caacupe": {
+  "title": "Basilica of Caacupé.",
+  "alt": "奇跡の聖母司教座大聖堂（カアクペ）の写真。外観、または巡礼地の様子。",
+  "caption": "奇跡の聖母司教座大聖堂（カアクペ）：現地の写真。",
+  "_src": "e234b7af"
+ },
+ "foto-cartago": {
+  "title": "Basilica of Our Lady of the Angels, Cartago, Costa Rica",
+  "alt": "天使の聖母大聖堂（カルタゴ）の写真。外観、または巡礼地の様子。",
+  "caption": "天使の聖母大聖堂（カルタゴ）：現地の写真。",
+  "_src": "a8c40feb"
+ },
+ "foto-chartres": {
+  "title": "west facade",
+  "alt": "シャルトルのノートルダム大聖堂の写真。外観、または巡礼地の様子。",
+  "caption": "シャルトルのノートルダム大聖堂：現地の写真。",
+  "_src": "7bff86f5"
+ },
+ "foto-copacabana": {
+  "title": "Panoramic view of Copacabana, Bolivia, on the lake Titicaca. Photo taken from Calvario hill.",
+  "alt": "山々に囲まれたチチカカ湖のほとり、ボリビアのコパカバーナの町の眺め。",
+  "caption": "コパカバーナの聖母大聖堂（ボリビア）：現地の写真。",
+  "_src": "0c381c1d"
+ },
+ "foto-covadonga": {
+  "title": "Vista de cerca de la \"Santa Cueva\"La Santa cueva 2",
+  "alt": "岩の洞窟にはめ込まれたコバドンガの聖なる洞窟の礼拝堂。",
+  "caption": "コバドンガの聖なる洞窟：現地の写真。",
+  "_src": "72b0d0e8"
+ },
+ "foto-efeso": {
+  "title": "Exterior of \"The House of the Virgin Mary\" near Ephesus, Selçuk in Turkey. Photographer: Martin H. Fryc. A note: the pho",
+  "alt": "エフェソ近くの木々の間にある、メリエム・アナの小さな石造りの家。",
+  "caption": "マリアの家（メリエム・アナ・エヴィ）、エフェソ：現地の写真。",
+  "_src": "52324c06"
+ },
+ "foto-einsiedeln": {
+  "title": "Einsiedeln Abbey with Lady Fountain, Canton of Schwyz (Switzerland)",
+  "alt": "アインジーデルン修道院（黒い聖母）の写真。外観、または巡礼地の様子。",
+  "caption": "アインジーデルン修道院（黒い聖母）：現地の写真。",
+  "_src": "ce99d1ff"
+ },
+ "foto-fatima": {
+  "title": "em1018_2083257",
+  "alt": "奥に大聖堂と塔が見える、ファチマの聖母巡礼聖堂の広い広場。",
+  "caption": "ファチマの聖母巡礼聖堂（コヴァ・ダ・イリア）：現地の写真。",
+  "_src": "440c849e"
+ },
+ "foto-fourviere": {
+  "title": "The first place we were to visit..... The Basilica of Notre-Dame de Fourvière is a minor basilica in Lyon. It was built ",
+  "alt": "フルヴィエールのノートルダム大聖堂（リヨン）の写真。外観、または巡礼地の様子。",
+  "caption": "フルヴィエールのノートルダム大聖堂（リヨン）：現地の写真。",
+  "_src": "9787e634"
+ },
+ "foto-guadalupe-extremadura": {
+  "title": "Claustro mudéjar en el Monasterio de Guadalupe",
+  "alt": "グアダルーペの王立サンタ・マリア修道院（エストレマドゥーラ）の写真。外観、または巡礼地の様子。",
+  "caption": "グアダルーペの王立サンタ・マリア修道院（エストレマドゥーラ）：現地の写真。",
+  "_src": "cea7114c"
+ },
+ "foto-guadalupe-mexico": {
+  "title": "Nacional Basílica de Santa María de Guadalupe, Mexico City, Mexico",
+  "alt": "大きな広場に面した、円形の平面に緑の屋根を持つグアダルーペの現代の大聖堂。",
+  "caption": "グアダルーペの聖母大聖堂（メキシコシティ）：現地の写真。",
+  "_src": "155502af"
+ },
+ "foto-harissa": {
+  "title": "Statue of Our Lady of Lebanon in Harissa, Lebanon.",
+  "alt": "青空を背に、塔の上に立つレバノンの聖母の大きな白い像。",
+  "caption": "レバノンの聖母巡礼聖堂（ハリッサ）：現地の写真。",
+  "_src": "38d18745"
+ },
+ "foto-jasna-gora": {
+  "title": "Częstochowa, zespół klasztorny oo. Paulinów na Jasnej Górze",
+  "alt": "ヤスナ・グラ聖堂（チェンストホヴァ）の写真。外観、または巡礼地の様子。",
+  "caption": "ヤスナ・グラ聖堂（チェンストホヴァ）：現地の写真。",
+  "_src": "ab501851"
+ },
+ "foto-lichen": {
+  "title": "View at dusk of the Basilica of Our Lady of Sorrows, Queen of Poland, located in the village of Licheń Stary, near Konin",
+  "alt": "リヘンの聖母大聖堂の写真。外観、または巡礼地の様子。",
+  "caption": "リヘンの聖母大聖堂：現地の写真。",
+  "_src": "4e93ccb0"
+ },
+ "foto-loreto": {
+  "title": "Basilica del Santuario di Loreto",
+  "alt": "ロレトの聖なる家の聖堂の写真。外観、または巡礼地の様子。",
+  "caption": "ロレトの聖なる家の聖堂：現地の写真。",
+  "_src": "a18c5af4"
+ },
+ "foto-lourdes": {
+  "title": "La basilique de l'Immaculée-Conception et la basilique Notre-Dame du Rosaire, Lourdes, Hautes-Pyrénées, France.",
+  "alt": "山々の間に、緑の広場と奥の大聖堂を見下ろすルルドの谷。",
+  "caption": "ルルドの聖母巡礼聖堂：現地の写真。",
+  "_src": "1153a097"
+ },
+ "foto-lujan": {
+  "title": "Marienbasilika von Luján, Argentinien",
+  "alt": "ルハンの聖母大聖堂の写真。外観、または巡礼地の様子。",
+  "caption": "ルハンの聖母大聖堂：現地の写真。",
+  "_src": "3db4a8d8"
+ },
+ "foto-manaoag": {
+  "title": "This is a photo of a cultural heritage property in the Philippines with ID",
+  "alt": "マナオアグの聖なるロザリオの聖母巡礼聖堂の写真。外観、または巡礼地の様子。",
+  "caption": "マナオアグの聖なるロザリオの聖母巡礼聖堂：現地の写真。",
+  "_src": "4fa0dfcd"
+ },
+ "foto-mariazell": {
+  "title": "Die Nordwestansicht der Basilika, Pfarr- und Wallfahrtskirche Maria Geburt in der obersteirischen Stadt Mariazell.",
+  "alt": "マリアツェル大聖堂（聖母誕生）の写真。外観、または巡礼地の様子。",
+  "caption": "マリアツェル大聖堂（聖母誕生）：現地の写真。",
+  "_src": "2141762d"
+ },
+ "foto-montserrat": {
+  "title": "Basilica de Montserrat",
+  "alt": "巨大な岩壁のふもとにあるモンセラート修道院。",
+  "caption": "モンセラートのサンタ・マリア修道院：現地の写真。",
+  "_src": "67171b7d"
+ },
+ "foto-nazare-anunciacao": {
+  "title": "Church of the Annunciation, Nazareth, Israel",
+  "alt": "受胎告知教会（ナザレ）の写真。外観、または巡礼地の様子。",
+  "caption": "受胎告知教会（ナザレ）：現地の写真。",
+  "_src": "bf704ef6"
+ },
+ "foto-notre-dame-afrique": {
+  "title": "Notre-Dame d'Afrique, Algiers",
+  "alt": "アフリカの聖母大聖堂（アルジェ）の写真。外観、または巡礼地の様子。",
+  "caption": "アフリカの聖母大聖堂（アルジェ）：現地の写真。",
+  "_src": "63cc1450"
+ },
+ "foto-notre-dame-de-la-garde": {
+  "title": "Notre-Dame de la Garde",
+  "alt": "ノートルダム・ド・ラ・ガルド大聖堂（マルセイユ）の写真。外観、または巡礼地の様子。",
+  "caption": "ノートルダム・ド・ラ・ガルド大聖堂（マルセイユ）：現地の写真。",
+  "_src": "2f7efc62"
+ },
+ "foto-notre-dame-montreal": {
+  "title": "Basilique Notre-Dame de Montréal",
+  "alt": "モントリオールのノートルダム大聖堂の写真。外観、または巡礼地の様子。",
+  "caption": "モントリオールのノートルダム大聖堂：現地の写真。",
+  "_src": "1a886a09"
+ },
+ "foto-notre-dame-paris": {
+  "title": "Cathedral Notre Dame de Paris, West view, Paris, France",
+  "alt": "パリのノートルダム大聖堂の写真。外観、または巡礼地の様子。",
+  "caption": "パリのノートルダム大聖堂：現地の写真。",
+  "_src": "46048d5f"
+ },
+ "foto-pilar": {
+  "title": "Zaragoza - Basilica de Nuestra Señora del Pilar",
+  "alt": "柱の聖母大聖堂（サラゴサ）の写真。外観、または巡礼地の様子。",
+  "caption": "柱の聖母大聖堂（サラゴサ）：現地の写真。",
+  "_src": "05864127"
+ },
+ "foto-pompeia": {
+  "title": "Le Santuario della Beata Vergine del Rosario de Pompei (Italie).",
+  "alt": "ポンペイのロザリオの聖母教皇庁巡礼聖堂の写真。外観、または巡礼地の様子。",
+  "caption": "ポンペイのロザリオの聖母教皇庁巡礼聖堂：現地の写真。",
+  "_src": "655554a1"
+ },
+ "foto-rue-du-bac": {
+  "title": "La maison des Filles de la charité, 136-140 rue du Bac, à Paris.",
+  "alt": "パリのバック通りにある愛徳姉妹会の本部の正面。",
+  "caption": "不思議のメダイの聖母の聖堂（パリ、バック通り）：現地の写真。",
+  "_src": "b0babfdf"
+ },
+ "foto-sameiro": {
+  "title": "Our Lady of Sameiro sanctuary in Braga, Braga District, Portugal This building is classified as Sem proteção legal.It is",
+  "alt": "サメイロの聖母巡礼聖堂（ブラガ）の写真。外観、または巡礼地の様子。",
+  "caption": "サメイロの聖母巡礼聖堂（ブラガ）：現地の写真。",
+  "_src": "544ae9f6"
+ },
+ "foto-santa-maria-maior": {
+  "title": "Basilica di Santa Maria Maggiore",
+  "alt": "サンタ・マリア・マッジョーレ大聖堂（ローマ）の写真。外観、または巡礼地の様子。",
+  "caption": "サンタ・マリア・マッジョーレ大聖堂（ローマ）：現地の写真。",
+  "_src": "e2603dfa"
+ },
+ "foto-sheshan": {
+  "title": "The She Shan Basilica in Shanghai, China",
+  "alt": "木々に覆われた丘の上に建つ佘山の大聖堂。",
+  "caption": "佘山の聖母大聖堂（上海）：現地の写真。",
+  "_src": "5094c7c6"
+ },
+ "foto-siracusa": {
+  "title": "Basilica Santuario Madonna delle Lacrime di Siracusa",
+  "alt": "シラクーサの巡礼聖堂の空撮。街の建物の間にコンクリートの巨大な円錐形の屋根がある。",
+  "caption": "涙の聖母巡礼聖堂（シラクーサ）：現地の写真。",
+  "_src": "851cecbf"
+ },
+ "foto-sydney": {
+  "title": "St Mary's Cathedral, Sydney, Australia",
+  "alt": "聖マリア大聖堂（シドニー）、扶助者聖母の写真。外観、または巡礼地の様子。",
+  "caption": "聖マリア大聖堂（シドニー）、扶助者聖母：現地の写真。",
+  "_src": "bdc569f2"
+ },
+ "foto-tumba-maria": {
+  "title": "Mary's tomb - outside view",
+  "alt": "エルサレムにある聖母の墓の教会の、アーチ形の石の入口。",
+  "caption": "聖母マリアの墓の教会（エルサレム）：現地の写真。",
+  "_src": "4b51afc5"
+ },
+ "foto-washington": {
+  "title": "The Basilica of the National Shrine of the Immaculate Conception located next to The Catholic University of America camp",
+  "alt": "無原罪の御宿り国立巡礼聖堂（ワシントン）の写真。外観、または巡礼地の様子。",
+  "caption": "無原罪の御宿り国立巡礼聖堂（ワシントン）：現地の写真。",
+  "_src": "90b41ca0"
+ },
+ "foto-yamoussoukro": {
+  "title": "La photo du dessus de la Basilique notre Dame de la Paix de Yamoussoukro",
+  "alt": "ヤムスクロにある平和の聖母大聖堂の巨大なドーム。",
+  "caption": "平和の聖母大聖堂（ヤムスクロ）：現地の写真。",
+  "_src": "6ebc3780"
+ },
+ "img-criancas-fatima": {
+  "title": "Children of Fátima portrait (Attributed to Joshua Benoliel), Ilustração Portuguesa, 1917",
+  "alt": "石垣の前に立つ三人の子どものセピア調の古い写真。暗いベールの少女二人と、中央に帽子の少年。",
+  "caption": "ファチマの三人の子ども。ジョシュア・ベノリエルの撮影とされる写真で、1917年に『イルストラサン・ポルトゥゲーザ』誌に掲載された。",
+  "_src": "58fcaaa6"
+ },
+ "img-gruta-lourdes": {
+  "title": "La grotte miraculeuse à Lourdes (vers 1860)",
+  "alt": "ルルドのマサビエルの洞窟を、岩と木々の間に描いたセピア調の古い版画。川岸に小さな人物がいくつか見える。",
+  "caption": "ルルドのマサビエルの洞窟。1860年頃の版画。",
+  "_src": "8561a2ca"
+ },
+ "img-virgem-em-oracao": {
+  "title": "祈る聖母",
+  "alt": "祈るマリアの絵。頭に明るいベール、青いマント、合わせた手と伏せた目。暗い背景。",
+  "caption": "サッソフェラート《祈る聖母》1640-50年頃。",
+  "_src": "0c1a7e83"
+ },
+ "obra-bellini-dormindo": {
+  "title": "眠る幼子を礼拝する聖母",
+  "alt": "青灰色のマントと明るいベールのマリアが、空の見えるアーチの下で手を合わせ、目の前で眠る幼子イエスを見つめている。",
+  "caption": "ジョヴァンニ・ベッリーニ《眠る幼子を礼拝する聖母》1460年代初め。",
+  "_src": "203f9de1"
+ },
+ "obra-bellini-madona": {
+  "title": "聖母子",
+  "alt": "深い青のマントと明るいベールをまとったマリアが、赤い布の前で裸の幼子イエスを抱いている。左側の窓からは、雲の浮かぶ空、山々、村が見える。",
+  "caption": "ジョヴァンニ・ベッリーニ《聖母子》1480年代末。",
+  "_src": "c5416741"
+ },
+ "obra-carnevale-nascimento": {
+  "title": "聖母の誕生",
+  "alt": "青空の下、灰色を基調とした柱とアーチの古典建築を描いた絵。手前では青やピンクの衣の女性たちが歩き、奥では生まれた子を世話する女性たちがいる。",
+  "caption": "フラ・カルネヴァーレ《聖母の誕生》1467年。",
+  "_src": "fdb44b1a"
+ },
+ "obra-david-crucificacao": {
+  "title": "磔刑",
+  "alt": "遠くに町が見える風景の上で十字架にかけられたキリスト。左に明るいベールと暗いマントのマリアとヨハネ、右に聖ヒエロニムスとひざまずく女性聖人。",
+  "caption": "ヘラルト・ダヴィト《磔刑》1495年頃。",
+  "_src": "45bf3176"
+ },
+ "obra-david-descanso": {
+  "title": "エジプトへの逃避途上の休息",
+  "alt": "青いマントのマリアが幼子を膝に、高い木々の下の小高い丘に座っている。前方には町と澄んだ空のある広い風景。",
+  "caption": "ヘラルト・ダヴィト《エジプトへの逃避途上の休息》1512-15年頃。",
+  "_src": "09930276"
+ },
+ "obra-david-natividade": {
+  "title": "降誕",
+  "alt": "地面に横たわる幼子の前で礼拝するマリアとヨセフ。アーチが風景に開く廃墟の中にいる。奥では羊飼いたちが見守っている。",
+  "caption": "ヘラルト・ダヴィト《降誕》1480年代初め。",
+  "_src": "595b2dcb"
+ },
+ "obra-david-virgem-paisagem": {
+  "title": "聖母子",
+  "alt": "長い髪に暗いマントのマリアが、明るい衣の幼子を抱いている。背景は木々、湖、青みがかった山々の風景。",
+  "caption": "ヘラルト・ダヴィト《聖母子》1520年頃。",
+  "_src": "61e0580b"
+ },
+ "obra-durer-virgem": {
+  "title": "聖母子",
+  "alt": "顔を傾け目を伏せた赤いマントのマリアが、暗い背景の前で裸の幼子イエスを膝に抱いている。",
+  "caption": "アルブレヒト・デューラー《聖母子》1516年。",
+  "_src": "dcec09c4"
+ },
+ "obra-flandes-cana": {
+  "title": "カナの婚礼",
+  "alt": "柱のある広間で白い布のかかった食卓を囲む客たち。左側にイエスとベールのマリアが座り、大きな水がめのそばで召し使いが水差しから水を注いでいる。",
+  "caption": "フアン・デ・フランデス《カナの婚礼》1497年頃。",
+  "_src": "d4d8d695"
+ },
+ "obra-memling-anunciacao": {
+  "title": "受胎告知",
+  "alt": "金糸の刺繍の衣をまとった天使ガブリエルと、赤い衣の上に青いマントをまとい本の前にひざまずくマリア。赤いカーテンと開いた窓のある部屋。",
+  "caption": "ハンス・メムリンク《受胎告知》1465-70年頃。",
+  "_src": "e49ffe3a"
+ },
+ "obra-pieta-alema": {
+  "title": "ピエタ",
+  "alt": "彩色彫刻。金色のマントとベールのマリアが座り、頭を後ろに傾けたキリストの亡骸を膝に抱いている。",
+  "caption": "ピエタ。ドイツの彩色木彫、1435-40年（クロイスターズ美術館）。",
+  "_src": "a999ad8e"
+ },
+ "obra-ram-visitacao": {
+  "title": "訪問（聖ヨハネ祭壇画のパネル）",
+  "alt": "青いマントに金色の光輪のマリアが、緑のマントのエリサベトを抱擁し口づけしている。そばにはピンクの服の女性と金色の衣の老人。ピンクがかった床の中庭。",
+  "caption": "ドミンゴ・ラム《訪問（聖ヨハネ祭壇画のパネル）》15世紀。",
+  "_src": "01d43b54"
+ },
+ "obra-raphael-entronizada": {
+  "title": "玉座の聖母子と聖人たち",
+  "alt": "聖人たちの間で玉座に着く聖母子。父なる神と天使たちを頂く金色のアーチの下、灰色の背景の建築的な枠の中に描かれている。",
+  "caption": "ラファエロ《玉座の聖母子と聖人たち》1504年頃。",
+  "_src": "843d16eb"
+ },
+ "obra-reni-imaculada": {
+  "title": "無原罪の御宿り",
+  "alt": "ピンクの衣と青いマントのマリアが三日月の上に立ち、手を合わせて天を仰いでいる。雲の浮かぶ金色の空、二人の天使の間。",
+  "caption": "グイド・レーニ《無原罪の御宿り》1627年。",
+  "_src": "4fc9f277"
+ },
+ "obra-rosario-misterios": {
+  "title": "十五の神秘とロザリオの聖母",
+  "alt": "イエスとマリアの生涯の十五の小さな場面が三段に並び、その下に金色の壁龕のロザリオの聖母と信者たちが描かれたパネル。",
+  "caption": "ネーデルラントの画家（ブリュッセル）《十五の神秘とロザリオの聖母》1515-20年頃。",
+  "_src": "023d069c"
+ },
+ "obra-saraceni-dormicao": {
+  "title": "聖母の眠り",
+  "alt": "手を合わせた青いマントのマリアが、赤、黄土色、緑の衣をまとった使徒たちに囲まれている。柱のある大きな広間。",
+  "caption": "カルロ・サラチェーニ《聖母の眠り》1612年頃。",
+  "_src": "310f176a"
+ },
+ "obra-signorelli-assuncao": {
+  "title": "聖ミカエルと聖ベネディクトのいる聖母被昇天",
+  "alt": "青灰色のマントで手を合わせ、雲の上に座すマリアを、楽器を奏でる天使たちが囲む。下には悪魔を打ち倒す鎧姿の聖ミカエルと聖ベネディクト。",
+  "caption": "ルカ・シニョレッリ《聖ミカエルと聖ベネディクトのいる聖母被昇天》1493-96年頃。",
+  "_src": "237703ae"
+ },
+ "retrato-akita": {
+  "title": "Our Lady of Akita Japan",
+  "alt": "十字架の前で両腕を下に開いた、木彫りのマリア像。",
+  "caption": "秋田の聖母像（日本）。",
+  "_src": "39956f3b"
+ },
+ "retrato-altagracia": {
+  "title": "Imagen oficial de Nuestra Señora de la Altagracia.",
+  "alt": "星をちりばめた青いマントと冠のマリアが、横たわる幼子の前で手を合わせている絵。左奥にヨセフが見える。",
+  "caption": "アルタグラシアの聖母の御絵（ドミニカ共和国、イグエイ）。",
+  "_src": "ac93c806"
+ },
+ "retrato-antipolo": {
+  "title": "The Black Madonna image of Our Lady of Peace and Good Voyage, also known as Our Lady of Antipolo, enshrined at the Antip",
+  "alt": "刺繍の豪華なマントと金の冠、光輪をまとった黒いマリア像。",
+  "caption": "アンティポロ（フィリピン）大聖堂の平和と良い旅の聖母。",
+  "_src": "e9437cd8"
+ },
+ "retrato-aparecida": {
+  "title": "Devoção à imagem, na Basílica do Santuário Nacional de Nossa Senhora da Conceição Aparecida.",
+  "alt": "アパレシーダの聖母の小さな黒い像が安置された金色の壁龕の前で祈る信者たち。",
+  "caption": "アパレシーダ（ブラジル）の国立巡礼聖堂大聖堂にあるアパレシーダの聖母像。",
+  "_src": "b729ead1"
+ },
+ "retrato-banneux": {
+  "title": "The statue and source of Mary Virgin of the poor at Banneux",
+  "alt": "泉の上の石の壁龕に置かれ、花に囲まれた小さな白いマリア像。",
+  "caption": "バヌー（ベルギー）の泉のそばにある貧しい人々の聖母像。",
+  "_src": "f75229d3"
+ },
+ "retrato-boa-saude-vailankanni": {
+  "title": "Our Lady of Vailankanni, a statue in the crypt of Basilique Notre-Dame de Fourvière, Lyon, France.",
+  "alt": "赤い背景の前で、高い金の冠を頂いた聖母子像。",
+  "caption": "リヨン（フランス）のフルヴィエール大聖堂の地下聖堂にあるヴェランカンニの聖母像。インドの巡礼地の像ではない。",
+  "_src": "373b661c"
+ },
+ "retrato-cartago": {
+  "title": "Sculpture of the Virgen de los Ángeles in the Basilica of Our Lady of the Angels, Cartago, Costa Rica",
+  "alt": "石の上に置かれた、幼子を抱く小さな黒いマリア像。そばに花がある。",
+  "caption": "カルタゴ（コスタリカ）の大聖堂にある天使の聖母、「ネグリータ」。",
+  "_src": "ddec0c42"
+ },
+ "retrato-covadonga": {
+  "title": "Imaxe de la Virxe de Cuadonga, la Santina, con mantu blancu.",
+  "alt": "刺繍の白いマントと冠をまとった、幼子を抱く小さなマリア像。",
+  "caption": "アストゥリアス（スペイン）のコバドンガの聖母、「ラ・サンティーナ」。",
+  "_src": "766cc44c"
+ },
+ "retrato-einsiedeln": {
+  "title": "Schwarze Madonna von Einsiedeln, mit Kind. Steht in der Klosterkirche von Einsiedeln in der Schweiz. Liegt an einem Weg ",
+  "alt": "修道院教会の中にある黒い大理石の恵みの礼拝堂。中央に小さな黒いマリア像があり、前に信者が座っている。",
+  "caption": "アインジーデルン（スイス）の黒い聖母。",
+  "_src": "7e9549bd"
+ },
+ "retrato-fatima": {
+  "title": "Fatima",
+  "alt": "金の縁取りのある白い衣をまとい、手を合わせてロザリオを下げ、冠を頂くマリア像。",
+  "caption": "ファチマの聖母の最初の像（ポルトガル）。",
+  "_src": "8d4be868"
+ },
+ "retrato-guadalupe-mexico": {
+  "title": "Original Picture of Our Lady of Guadalupe (also known as the Virgin of Guadalupe) shown in the Basilica of Our Lady of G",
+  "alt": "星をちりばめた青緑のマントをまとい、手を合わせ、金色の光線に囲まれて月の上に立つマリア。天使が支えている。",
+  "caption": "メキシコシティのグアダルーペ大聖堂で崇敬されているグアダルーペの聖母の御絵。",
+  "_src": "e48a91a7"
+ },
+ "retrato-harissa": {
+  "title": "Statue of Our Lady of Lebanon in Harissa, Lebanon.",
+  "alt": "空を背に台座の上で両腕を広げる、大きな白いマリア像。",
+  "caption": "ハリッサ（レバノン）のレバノンの聖母像。",
+  "_src": "bb60429b"
+ },
+ "retrato-jasna-gora": {
+  "title": "Obraz Matki Bożej Częstochowskiej",
+  "alt": "顔の黒いイコン。マリアは左腕に幼子を抱き、幼子を指し示している。右の頬に二本の傷がある。",
+  "caption": "チェンストホヴァの聖母のイコン（ポーランド、ヤスナ・グラ）。覆いを外した状態。",
+  "_src": "b28f6932"
+ },
+ "retrato-kibeho": {
+  "title": "Ishusho ya Bikira Mariya Nyina wa Jambo, akaba kandi yitwa Mwamikazi wa Kibeho, iherereye mu cyanya cy'Ingoro ya Yezu Ny",
+  "alt": "「Kibeho」と刻まれた台座の上の、青いマントと白い衣で手を合わせたマリア像。",
+  "caption": "ルハンゴ（ルワンダ）の巡礼聖堂にあるキベホの聖母像（「ニイナ・ワ・ジャンボ」、みことばの母）。キベホにある像ではない。",
+  "_src": "eabca79e"
+ },
+ "retrato-la-salette": {
+  "title": "Statue de la Vierge de la Salette avec les enfants (détail), intérieur de l'église de Corps.",
+  "alt": "バラの冠をかぶり、胸に十字架と鎖を掛けたマリアが、二人の子どもの前にいる像。",
+  "caption": "コール（フランス）の教会にある、子どもたちと一緒のラ・サレットの聖母像。",
+  "_src": "895bb21a"
+ },
+ "retrato-lourdes": {
+  "title": "The grotto where St Bernadette's visions took place is very simple and stark. Above the main recess is the niche where t",
+  "alt": "洞窟の岩の高い壁龕に立つ、青い帯を締め手を合わせた白いマリア像。",
+  "caption": "ルルド（フランス）のマサビエルの洞窟の壁龕にある聖母像。",
+  "_src": "af7be839"
+ },
+ "retrato-lujan": {
+  "title": "Statue of Our Lady of Lujan in the Institute's seminary in the United States.",
+  "alt": "青と白のマントをまとい、金色の光線に囲まれた台座の上の小さなマリア像。",
+  "caption": "アメリカ合衆国の神学校にあるルハンの聖母（アルゼンチン）の複製像。大聖堂にある原像ではない。",
+  "_src": "12cefdca"
+ },
+ "retrato-manaoag": {
+  "title": "Our lady of Manaoag",
+  "alt": "白い花の飾られた豪華な壁龕に立つ、金色の衣と冠のマリア像。",
+  "caption": "マナオアグの聖なるロザリオの聖母（フィリピン）。",
+  "_src": "e0ecc39e"
+ },
+ "retrato-mariazell": {
+  "title": "Gnadenstatue von Mariazell, \"Magna Mater Austriae\"",
+  "alt": "金の柱に囲まれた銀の祭壇に置かれた、赤いマントの小さなマリア像。",
+  "caption": "マリアツェルの恵みの像、「マグナ・マーテル・アウストリアエ」（オーストリア）。",
+  "_src": "67360046"
+ },
+ "retrato-montserrat": {
+  "title": "The Virgin of Montserrat",
+  "alt": "顔の黒いマリアが幼子を膝に座る彫像。二人とも冠と金色の衣をまとっている。",
+  "caption": "モンセラートの聖母、「モレネタ」（スペイン、カタルーニャ）。",
+  "_src": "da6c3345"
+ },
+ "retrato-nossa-senhora-da-china": {
+  "title": "An apparition of the Blessed Virgin Mary in Donglu, China, first appearing in 190",
+  "alt": "中国の皇帝の衣と冠をまとった聖母子を描いた古い絵。",
+  "caption": "中華聖母。1900年頃の図像で、皇帝の衣をまとっている。",
+  "_src": "ac6e31aa"
+ },
+ "retrato-pompeia": {
+  "title": "Basilica di San Gennaro ad Antignano (Napoli) - Nella navata destra, sulla parete destra, in corrispondenza della 2° col",
+  "alt": "玉座に座る聖母子が、聖ドミニコと聖カタリナにロザリオを授けている絵。",
+  "caption": "ナポリのサン・ジェンナーロ・アド・アンティニャーノ大聖堂にある、ポンペイのロザリオの聖母の絵の複製。ポンペイの原画ではない。",
+  "_src": "d50b5a35"
+ },
+ "retrato-santa-maria-maior": {
+  "title": "Salus Populi Romani icon after restoration, completed by the work of the Vatican Museum conservators in 2018.",
+  "alt": "金の縁取りのある濃紺のマントをまとい、本を持つ幼子を抱くマリアのイコン。金地の背景。",
+  "caption": "サルス・ポプリ・ロマーニのイコン（ローマ、サンタ・マリア・マッジョーレ大聖堂）。2018年に完了したバチカン美術館による修復後。",
+  "_src": "5f1c59a9"
+ },
+ "retrato-suyapa": {
+  "title": "Artistic representation of the Virgin of Suyapa, Patron of Honduras and central America.",
+  "alt": "手を合わせ、マントと光輪をまとった小さなマリア像の素描。",
+  "caption": "スヤパの聖母（ホンジュラス）の芸術的表現。崇敬されている像の写真ではない。",
+  "_src": "12b92d21"
+ },
+ "retrato-walsingham": {
+  "title": "The statue of Our Lady of Walsingham, the Slipper Chapel, Walsingham, Norfolk, England.",
+  "alt": "冠を頂いたマリアと、同じく冠を頂いた幼子、そしてユリの枝を持つ像。",
+  "caption": "スリッパー・チャペル（イングランド）にあるウォルシンガムの聖母像。",
+  "_src": "097912cc"
+ }
+}

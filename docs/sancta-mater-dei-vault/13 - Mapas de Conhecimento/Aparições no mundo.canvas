@@ -1,0 +1,1786 @@
+{
+  "nodes": [
+    {
+      "id": "432730262a2d5827",
+      "type": "text",
+      "x": 0,
+      "y": -500,
+      "width": 3040,
+      "height": 180,
+      "text": "# Aparições no mundo\n\n59 notas · 130 relações documentadas\n\nCada grupo identifica um tipo de conteúdo. As setas conservam as relações existentes; as cores não indicam aprovação eclesial.",
+      "color": "#929AA6"
+    },
+    {
+      "id": "cf633b3b1bf0a175",
+      "type": "text",
+      "x": 0,
+      "y": -240,
+      "width": 340,
+      "height": 80,
+      "text": "**Aparições** · 17 notas",
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "65cc3479b53748ec",
+      "type": "text",
+      "x": 380,
+      "y": -240,
+      "width": 340,
+      "height": 80,
+      "text": "**Títulos marianos** · 18 notas",
+      "color": "#D6A64B"
+    },
+    {
+      "id": "0e2ab3e87a873c9a",
+      "type": "text",
+      "x": 760,
+      "y": -240,
+      "width": 340,
+      "height": 80,
+      "text": "**Santos** · 4 notas",
+      "color": "#69B887"
+    },
+    {
+      "id": "412cce8dca3a41dc",
+      "type": "text",
+      "x": 1140,
+      "y": -240,
+      "width": 340,
+      "height": 80,
+      "text": "**Videntes** · 8 notas",
+      "color": "#69B887"
+    },
+    {
+      "id": "866580c52084ec1a",
+      "type": "text",
+      "x": 1520,
+      "y": -240,
+      "width": 340,
+      "height": 80,
+      "text": "**Dogmas** · 1 notas",
+      "color": "#AF8CE0"
+    },
+    {
+      "id": "11d0c87a04cba7ba",
+      "type": "text",
+      "x": 1900,
+      "y": -240,
+      "width": 340,
+      "height": 80,
+      "text": "**Santuários** · 2 notas",
+      "color": "#DB8B50"
+    },
+    {
+      "id": "4433431c4ca5a036",
+      "type": "text",
+      "x": 2280,
+      "y": -240,
+      "width": 340,
+      "height": 80,
+      "text": "**Estudos e capítulos** · 9 notas",
+      "color": "#72BED1"
+    },
+    {
+      "id": "1fd7c5ca40679a34",
+      "type": "group",
+      "x": 0,
+      "y": 100,
+      "width": 1440,
+      "height": 2400,
+      "label": "Aparições  ·  17 notas",
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "53cf50a79e8d6d3a",
+      "type": "file",
+      "file": "02 - Aparições Marianas/Europa/Aparições de Lourdes (1858).md",
+      "x": 40,
+      "y": 180,
+      "width": 400,
+      "height": 300,
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "65fe05d4b7035460",
+      "type": "file",
+      "file": "02 - Aparições Marianas/Europa/Aparições de Fátima (1917).md",
+      "x": 500,
+      "y": 180,
+      "width": 400,
+      "height": 300,
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "3cd466a85e6ff1ab",
+      "type": "file",
+      "file": "02 - Aparições Marianas/América/Relatos de aparições — Guadalupe (México).md",
+      "x": 960,
+      "y": 180,
+      "width": 400,
+      "height": 300,
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "b43266d5afd43d7e",
+      "type": "file",
+      "file": "02 - Aparições Marianas/América/Relatos de aparições — Champion.md",
+      "x": 40,
+      "y": 560,
+      "width": 400,
+      "height": 300,
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "8253516f001d70d4",
+      "type": "file",
+      "file": "02 - Aparições Marianas/África/Relatos de aparições — Kibeho.md",
+      "x": 500,
+      "y": 560,
+      "width": 400,
+      "height": 300,
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "2183c994d04fb2f4",
+      "type": "file",
+      "file": "02 - Aparições Marianas/Europa/Relatos de aparições — La Salette.md",
+      "x": 960,
+      "y": 560,
+      "width": 400,
+      "height": 300,
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "4cf020aed8e40a6d",
+      "type": "file",
+      "file": "02 - Aparições Marianas/Ásia/Relatos de aparições — Akita.md",
+      "x": 40,
+      "y": 940,
+      "width": 400,
+      "height": 300,
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "37826ab314de2abb",
+      "type": "file",
+      "file": "02 - Aparições Marianas/Europa/Relatos de aparições — Banneux.md",
+      "x": 500,
+      "y": 940,
+      "width": 400,
+      "height": 300,
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "cc18af55626e9719",
+      "type": "file",
+      "file": "02 - Aparições Marianas/Europa/Relatos de aparições — Knock.md",
+      "x": 960,
+      "y": 940,
+      "width": 400,
+      "height": 300,
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "0b15a6d0161beea0",
+      "type": "file",
+      "file": "02 - Aparições Marianas/Europa/Relatos e discernimento — Nossa Senhora de Pontmain.md",
+      "x": 40,
+      "y": 1320,
+      "width": 400,
+      "height": 300,
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "cf480b10b6466219",
+      "type": "file",
+      "file": "02 - Aparições Marianas/Europa/Relatos e discernimento — Nossa Senhora de Beauraing.md",
+      "x": 500,
+      "y": 1320,
+      "width": 400,
+      "height": 300,
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "c8765eab640c98f4",
+      "type": "file",
+      "file": "02 - Aparições Marianas/Europa/Relatos e discernimento — Nossa Senhora de Pellevoisin.md",
+      "x": 960,
+      "y": 1320,
+      "width": 400,
+      "height": 300,
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "06d7abc903e9d906",
+      "type": "file",
+      "file": "02 - Aparições Marianas/Europa/Relatos e discernimento — Nossa Senhora Rainha da Paz de Medjugorje.md",
+      "x": 40,
+      "y": 1700,
+      "width": 400,
+      "height": 300,
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "9ec206cb45a1da34",
+      "type": "file",
+      "file": "02 - Aparições Marianas/Europa/Relatos e discernimento — Maria Rosa Mística de Montichiari.md",
+      "x": 500,
+      "y": 1700,
+      "width": 400,
+      "height": 300,
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "426ef036b6d0f70a",
+      "type": "file",
+      "file": "02 - Aparições Marianas/Europa/Relatos e discernimento — Nossa Senhora de Chandavila.md",
+      "x": 960,
+      "y": 1700,
+      "width": 400,
+      "height": 300,
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "f8cc501bbed302e8",
+      "type": "file",
+      "file": "02 - Aparições Marianas/Europa/Relatos e discernimento — Nossa Senhora do Scoglio.md",
+      "x": 40,
+      "y": 2080,
+      "width": 400,
+      "height": 300,
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "50971c4a92737ca1",
+      "type": "file",
+      "file": "02 - Aparições Marianas/Europa/Relatos e discernimento — Devoção mariana de Litmanová.md",
+      "x": 500,
+      "y": 2080,
+      "width": 400,
+      "height": 300,
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "58b6f8685764942e",
+      "type": "group",
+      "x": 1560,
+      "y": 100,
+      "width": 1440,
+      "height": 2400,
+      "label": "Títulos marianos  ·  18 notas",
+      "color": "#D6A64B"
+    },
+    {
+      "id": "38e82052a46c77c4",
+      "type": "file",
+      "file": "03 - Títulos Marianos/Nossa Senhora de Pontmain.md",
+      "x": 1600,
+      "y": 180,
+      "width": 400,
+      "height": 300,
+      "color": "#D6A64B"
+    },
+    {
+      "id": "b7932471748dbac5",
+      "type": "file",
+      "file": "03 - Títulos Marianos/Nossa Senhora de Beauraing.md",
+      "x": 2060,
+      "y": 180,
+      "width": 400,
+      "height": 300,
+      "color": "#D6A64B"
+    },
+    {
+      "id": "f6a42bd0bf3857b4",
+      "type": "file",
+      "file": "03 - Títulos Marianos/Nossa Senhora de Pellevoisin.md",
+      "x": 2520,
+      "y": 180,
+      "width": 400,
+      "height": 300,
+      "color": "#D6A64B"
+    },
+    {
+      "id": "2b20b8d4bef16403",
+      "type": "file",
+      "file": "03 - Títulos Marianos/Nossa Senhora Rainha da Paz de Medjugorje.md",
+      "x": 1600,
+      "y": 560,
+      "width": 400,
+      "height": 300,
+      "color": "#D6A64B"
+    },
+    {
+      "id": "c40c6882abf2b7a1",
+      "type": "file",
+      "file": "03 - Títulos Marianos/Maria Rosa Mística de Montichiari.md",
+      "x": 2060,
+      "y": 560,
+      "width": 400,
+      "height": 300,
+      "color": "#D6A64B"
+    },
+    {
+      "id": "e132719ba66534b4",
+      "type": "file",
+      "file": "03 - Títulos Marianos/Nossa Senhora de Chandavila.md",
+      "x": 2520,
+      "y": 560,
+      "width": 400,
+      "height": 300,
+      "color": "#D6A64B"
+    },
+    {
+      "id": "33c990c5768ad066",
+      "type": "file",
+      "file": "03 - Títulos Marianos/Nossa Senhora do Scoglio.md",
+      "x": 1600,
+      "y": 940,
+      "width": 400,
+      "height": 300,
+      "color": "#D6A64B"
+    },
+    {
+      "id": "033686790eeced74",
+      "type": "file",
+      "file": "03 - Títulos Marianos/Devoção mariana de Litmanová.md",
+      "x": 2060,
+      "y": 940,
+      "width": 400,
+      "height": 300,
+      "color": "#D6A64B"
+    },
+    {
+      "id": "250c10f7c36bdd4b",
+      "type": "file",
+      "file": "03 - Títulos Marianos/Nossa Senhora de Akita.md",
+      "x": 2520,
+      "y": 940,
+      "width": 400,
+      "height": 300,
+      "color": "#D6A64B"
+    },
+    {
+      "id": "d023b1f82c127588",
+      "type": "file",
+      "file": "03 - Títulos Marianos/Nossa Senhora de Banneux (Virgem dos Pobres).md",
+      "x": 1600,
+      "y": 1320,
+      "width": 400,
+      "height": 300,
+      "color": "#D6A64B"
+    },
+    {
+      "id": "9e596a4b8ad2426a",
+      "type": "file",
+      "file": "03 - Títulos Marianos/Nossa Senhora do Bom Socorro (Champion, Wisconsin).md",
+      "x": 2060,
+      "y": 1320,
+      "width": 400,
+      "height": 300,
+      "color": "#D6A64B"
+    },
+    {
+      "id": "46a6ccd8bb1a8bca",
+      "type": "file",
+      "file": "03 - Títulos Marianos/Nossa Senhora de Fátima.md",
+      "x": 2520,
+      "y": 1320,
+      "width": 400,
+      "height": 300,
+      "color": "#D6A64B"
+    },
+    {
+      "id": "47fa019448eae9a0",
+      "type": "file",
+      "file": "03 - Títulos Marianos/Nossa Senhora de Guadalupe (México).md",
+      "x": 1600,
+      "y": 1700,
+      "width": 400,
+      "height": 300,
+      "color": "#D6A64B"
+    },
+    {
+      "id": "2080df680e5399de",
+      "type": "file",
+      "file": "03 - Títulos Marianos/Nossa Senhora da Imaculada Conceição.md",
+      "x": 2060,
+      "y": 1700,
+      "width": 400,
+      "height": 300,
+      "color": "#D6A64B"
+    },
+    {
+      "id": "08d995851c40b33d",
+      "type": "file",
+      "file": "03 - Títulos Marianos/Nossa Senhora de Kibeho (Ruanda).md",
+      "x": 2520,
+      "y": 1700,
+      "width": 400,
+      "height": 300,
+      "color": "#D6A64B"
+    },
+    {
+      "id": "be7e7be4ab0a7bfb",
+      "type": "file",
+      "file": "03 - Títulos Marianos/Nossa Senhora de Knock.md",
+      "x": 1600,
+      "y": 2080,
+      "width": 400,
+      "height": 300,
+      "color": "#D6A64B"
+    },
+    {
+      "id": "8d2eb4acd24bc5d6",
+      "type": "file",
+      "file": "03 - Títulos Marianos/Nossa Senhora de La Salette.md",
+      "x": 2060,
+      "y": 2080,
+      "width": 400,
+      "height": 300,
+      "color": "#D6A64B"
+    },
+    {
+      "id": "32745b4461117176",
+      "type": "file",
+      "file": "03 - Títulos Marianos/Nossa Senhora de Lourdes.md",
+      "x": 2520,
+      "y": 2080,
+      "width": 400,
+      "height": 300,
+      "color": "#D6A64B"
+    },
+    {
+      "id": "8439e78fecc3a540",
+      "type": "group",
+      "x": 0,
+      "y": 2620,
+      "width": 1440,
+      "height": 880,
+      "label": "Santos  ·  4 notas",
+      "color": "#69B887"
+    },
+    {
+      "id": "3b97207b4756682e",
+      "type": "file",
+      "file": "05 - Santos e Videntes/Santa Bernadette Soubirous.md",
+      "x": 40,
+      "y": 2700,
+      "width": 400,
+      "height": 300,
+      "color": "#69B887"
+    },
+    {
+      "id": "641f1427323bf9cd",
+      "type": "file",
+      "file": "05 - Santos e Videntes/São Francisco Marto.md",
+      "x": 500,
+      "y": 2700,
+      "width": 400,
+      "height": 300,
+      "color": "#69B887"
+    },
+    {
+      "id": "3785b4651017a90b",
+      "type": "file",
+      "file": "05 - Santos e Videntes/Santa Jacinta Marto.md",
+      "x": 960,
+      "y": 2700,
+      "width": 400,
+      "height": 300,
+      "color": "#69B887"
+    },
+    {
+      "id": "caf6750b8ea34776",
+      "type": "file",
+      "file": "05 - Santos e Videntes/São Juan Diego.md",
+      "x": 40,
+      "y": 3080,
+      "width": 400,
+      "height": 300,
+      "color": "#69B887"
+    },
+    {
+      "id": "1a2c406755367f73",
+      "type": "group",
+      "x": 1560,
+      "y": 2620,
+      "width": 1440,
+      "height": 1260,
+      "label": "Videntes  ·  8 notas",
+      "color": "#69B887"
+    },
+    {
+      "id": "96c66c02372fe112",
+      "type": "file",
+      "file": "05 - Santos e Videntes/Adele Brise.md",
+      "x": 1600,
+      "y": 2700,
+      "width": 400,
+      "height": 300,
+      "color": "#69B887"
+    },
+    {
+      "id": "e0c18c28f01d6daf",
+      "type": "file",
+      "file": "05 - Santos e Videntes/Alphonsine Mumureke.md",
+      "x": 2060,
+      "y": 2700,
+      "width": 400,
+      "height": 300,
+      "color": "#69B887"
+    },
+    {
+      "id": "30985fe61ada5e7d",
+      "type": "file",
+      "file": "05 - Santos e Videntes/Lúcia dos Santos.md",
+      "x": 2520,
+      "y": 2700,
+      "width": 400,
+      "height": 300,
+      "color": "#69B887"
+    },
+    {
+      "id": "c0e1638aac342ccc",
+      "type": "file",
+      "file": "05 - Santos e Videntes/Marie-Claire Mukangango.md",
+      "x": 1600,
+      "y": 3080,
+      "width": 400,
+      "height": 300,
+      "color": "#69B887"
+    },
+    {
+      "id": "4d6c8be1dd6e4901",
+      "type": "file",
+      "file": "05 - Santos e Videntes/Mariette Beco.md",
+      "x": 2060,
+      "y": 3080,
+      "width": 400,
+      "height": 300,
+      "color": "#69B887"
+    },
+    {
+      "id": "a1989341b01f72b9",
+      "type": "file",
+      "file": "05 - Santos e Videntes/Maximin Giraud.md",
+      "x": 2520,
+      "y": 3080,
+      "width": 400,
+      "height": 300,
+      "color": "#69B887"
+    },
+    {
+      "id": "b42cc98b709f30f9",
+      "type": "file",
+      "file": "05 - Santos e Videntes/Mélanie Calvat.md",
+      "x": 1600,
+      "y": 3460,
+      "width": 400,
+      "height": 300,
+      "color": "#69B887"
+    },
+    {
+      "id": "9b631bae74be9df4",
+      "type": "file",
+      "file": "05 - Santos e Videntes/Nathalie Mukamazimpaka.md",
+      "x": 2060,
+      "y": 3460,
+      "width": 400,
+      "height": 300,
+      "color": "#69B887"
+    },
+    {
+      "id": "681973419f4d97cd",
+      "type": "group",
+      "x": 0,
+      "y": 4000,
+      "width": 1440,
+      "height": 500,
+      "label": "Dogmas  ·  1 notas",
+      "color": "#AF8CE0"
+    },
+    {
+      "id": "94ad55e3f619aaa5",
+      "type": "file",
+      "file": "06 - Dogmas e Doutrina/Imaculada Conceição.md",
+      "x": 40,
+      "y": 4080,
+      "width": 400,
+      "height": 300,
+      "color": "#AF8CE0"
+    },
+    {
+      "id": "05c3d40af326a0e6",
+      "type": "group",
+      "x": 1560,
+      "y": 4000,
+      "width": 1440,
+      "height": 500,
+      "label": "Santuários  ·  2 notas",
+      "color": "#DB8B50"
+    },
+    {
+      "id": "db1bcb84ecb4d897",
+      "type": "file",
+      "file": "08 - Santuários/Santuário de Fátima (Cova da Iria).md",
+      "x": 1600,
+      "y": 4080,
+      "width": 400,
+      "height": 300,
+      "color": "#DB8B50"
+    },
+    {
+      "id": "531bd54aeaa1e12c",
+      "type": "file",
+      "file": "08 - Santuários/Santuário de Nossa Senhora de Lourdes.md",
+      "x": 2060,
+      "y": 4080,
+      "width": 400,
+      "height": 300,
+      "color": "#DB8B50"
+    },
+    {
+      "id": "0aa1f0931ab8467e",
+      "type": "group",
+      "x": 0,
+      "y": 4620,
+      "width": 1440,
+      "height": 1260,
+      "label": "Estudos e capítulos  ·  9 notas",
+      "color": "#72BED1"
+    },
+    {
+      "id": "3300bc5003eb8f65",
+      "type": "file",
+      "file": "06 - Dogmas e Doutrina/Revelações privadas e aparições.md",
+      "x": 40,
+      "y": 4700,
+      "width": 400,
+      "height": 300,
+      "color": "#72BED1"
+    },
+    {
+      "id": "6e7fd979c799a81a",
+      "type": "file",
+      "file": "10 - História e Cronologias/Nossa Senhora de Pontmain -  oração durante a guerra.md",
+      "x": 500,
+      "y": 4700,
+      "width": 400,
+      "height": 300,
+      "color": "#72BED1"
+    },
+    {
+      "id": "2b8c6608fbc8e07a",
+      "type": "file",
+      "file": "10 - História e Cronologias/Nossa Senhora de Beauraing -  o coração de ouro.md",
+      "x": 960,
+      "y": 4700,
+      "width": 400,
+      "height": 300,
+      "color": "#72BED1"
+    },
+    {
+      "id": "626948629ea07464",
+      "type": "file",
+      "file": "10 - História e Cronologias/Pellevoisin -  devoção autorizada e discernimento.md",
+      "x": 40,
+      "y": 5080,
+      "width": 400,
+      "height": 300,
+      "color": "#72BED1"
+    },
+    {
+      "id": "bed529ab9fbfa929",
+      "type": "file",
+      "file": "09 - Documentos da Igreja/Medjugorje -  o que a nota de 2024 permite afirmar.md",
+      "x": 500,
+      "y": 5080,
+      "width": 400,
+      "height": 300,
+      "color": "#72BED1"
+    },
+    {
+      "id": "97e04cfecf2713b2",
+      "type": "file",
+      "file": "09 - Documentos da Igreja/Maria Rosa Mística -  leitura da carta sobre Montichiari.md",
+      "x": 960,
+      "y": 5080,
+      "width": 400,
+      "height": 300,
+      "color": "#72BED1"
+    },
+    {
+      "id": "113375975f7b6bc2",
+      "type": "file",
+      "file": "09 - Documentos da Igreja/Nossa Senhora de Chandavila -  confiança e caridade.md",
+      "x": 40,
+      "y": 5460,
+      "width": 400,
+      "height": 300,
+      "color": "#72BED1"
+    },
+    {
+      "id": "bab6c78cd1aba8b8",
+      "type": "file",
+      "file": "09 - Documentos da Igreja/Nossa Senhora do Scoglio -  santuário e acompanhamento pastoral.md",
+      "x": 500,
+      "y": 5460,
+      "width": 400,
+      "height": 300,
+      "color": "#72BED1"
+    },
+    {
+      "id": "dc303cd03fc6647b",
+      "type": "file",
+      "file": "09 - Documentos da Igreja/Litmanová -  acolher os frutos e corrigir as mensagens.md",
+      "x": 960,
+      "y": 5460,
+      "width": 400,
+      "height": 300,
+      "color": "#72BED1"
+    }
+  ],
+  "edges": [
+    {
+      "id": "395214e4d526393d",
+      "fromNode": "65fe05d4b7035460",
+      "toNode": "3300bc5003eb8f65",
+      "label": "estudos relacionados",
+      "toEnd": "arrow",
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "0dbdf49ed54ab319",
+      "fromNode": "65fe05d4b7035460",
+      "toNode": "641f1427323bf9cd",
+      "label": "protagonistas",
+      "toEnd": "arrow",
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "6894bc2e8e626a47",
+      "fromNode": "65fe05d4b7035460",
+      "toNode": "3785b4651017a90b",
+      "label": "protagonistas",
+      "toEnd": "arrow",
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "17dfbe50e68e2477",
+      "fromNode": "65fe05d4b7035460",
+      "toNode": "30985fe61ada5e7d",
+      "label": "menciona",
+      "toEnd": "arrow",
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "c0fb75d03fe05659",
+      "fromNode": "65fe05d4b7035460",
+      "toNode": "30985fe61ada5e7d",
+      "label": "protagonistas",
+      "toEnd": "arrow",
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "6e52e46d34bf2632",
+      "fromNode": "65fe05d4b7035460",
+      "toNode": "db1bcb84ecb4d897",
+      "label": "local associado",
+      "toEnd": "arrow",
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "f3471b0a18030356",
+      "fromNode": "65fe05d4b7035460",
+      "toNode": "46a6ccd8bb1a8bca",
+      "label": "menciona",
+      "toEnd": "arrow",
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "dca36efb33aa92bd",
+      "fromNode": "65fe05d4b7035460",
+      "toNode": "46a6ccd8bb1a8bca",
+      "label": "titulos relacionados",
+      "toEnd": "arrow",
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "1d195621d8082889",
+      "fromNode": "53cf50a79e8d6d3a",
+      "toNode": "94ad55e3f619aaa5",
+      "label": "estudos relacionados",
+      "toEnd": "arrow",
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "e044f36483e2f92a",
+      "fromNode": "53cf50a79e8d6d3a",
+      "toNode": "94ad55e3f619aaa5",
+      "label": "mensagem relacionada ao dogma",
+      "toEnd": "arrow",
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "cd85dcd36d4ca52d",
+      "fromNode": "53cf50a79e8d6d3a",
+      "toNode": "3300bc5003eb8f65",
+      "label": "estudos relacionados",
+      "toEnd": "arrow",
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "074e55e4825ea0d1",
+      "fromNode": "53cf50a79e8d6d3a",
+      "toNode": "3b97207b4756682e",
+      "label": "menciona",
+      "toEnd": "arrow",
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "f53269c292d5f187",
+      "fromNode": "53cf50a79e8d6d3a",
+      "toNode": "3b97207b4756682e",
+      "label": "protagonistas",
+      "toEnd": "arrow",
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "7196b191065a9076",
+      "fromNode": "53cf50a79e8d6d3a",
+      "toNode": "531bd54aeaa1e12c",
+      "label": "local associado",
+      "toEnd": "arrow",
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "6b7a93be7d2af4d4",
+      "fromNode": "53cf50a79e8d6d3a",
+      "toNode": "2080df680e5399de",
+      "label": "titulos relacionados",
+      "toEnd": "arrow",
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "2d6e2528f698a418",
+      "fromNode": "53cf50a79e8d6d3a",
+      "toNode": "32745b4461117176",
+      "label": "titulos relacionados",
+      "toEnd": "arrow",
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "1247a70c86bda309",
+      "fromNode": "4cf020aed8e40a6d",
+      "toNode": "250c10f7c36bdd4b",
+      "label": "menciona",
+      "toEnd": "arrow",
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "9c0773c809e8925d",
+      "fromNode": "4cf020aed8e40a6d",
+      "toNode": "250c10f7c36bdd4b",
+      "label": "titulo associado",
+      "toEnd": "arrow",
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "c3c440c64389ee6c",
+      "fromNode": "37826ab314de2abb",
+      "toNode": "4d6c8be1dd6e4901",
+      "label": "protagonistas",
+      "toEnd": "arrow",
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "003fc288ef17d61b",
+      "fromNode": "37826ab314de2abb",
+      "toNode": "d023b1f82c127588",
+      "label": "menciona",
+      "toEnd": "arrow",
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "394ebaa5001e0442",
+      "fromNode": "37826ab314de2abb",
+      "toNode": "d023b1f82c127588",
+      "label": "titulo associado",
+      "toEnd": "arrow",
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "279e1835b2cac371",
+      "fromNode": "b43266d5afd43d7e",
+      "toNode": "96c66c02372fe112",
+      "label": "protagonistas",
+      "toEnd": "arrow",
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "740d8435c85d0c48",
+      "fromNode": "b43266d5afd43d7e",
+      "toNode": "9e596a4b8ad2426a",
+      "label": "menciona",
+      "toEnd": "arrow",
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "8377ab8889c0c017",
+      "fromNode": "b43266d5afd43d7e",
+      "toNode": "9e596a4b8ad2426a",
+      "label": "titulo associado",
+      "toEnd": "arrow",
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "2e85d8b04240e8b1",
+      "fromNode": "3cd466a85e6ff1ab",
+      "toNode": "caf6750b8ea34776",
+      "label": "protagonistas",
+      "toEnd": "arrow",
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "5774722bb5b2a7b8",
+      "fromNode": "3cd466a85e6ff1ab",
+      "toNode": "47fa019448eae9a0",
+      "label": "menciona",
+      "toEnd": "arrow",
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "f3607b252fa23a57",
+      "fromNode": "3cd466a85e6ff1ab",
+      "toNode": "47fa019448eae9a0",
+      "label": "titulo associado",
+      "toEnd": "arrow",
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "efbcf412ebb42cbd",
+      "fromNode": "8253516f001d70d4",
+      "toNode": "e0c18c28f01d6daf",
+      "label": "protagonistas",
+      "toEnd": "arrow",
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "eae773e3dfe42ec4",
+      "fromNode": "8253516f001d70d4",
+      "toNode": "c0e1638aac342ccc",
+      "label": "protagonistas",
+      "toEnd": "arrow",
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "df15f4ae3473d06c",
+      "fromNode": "8253516f001d70d4",
+      "toNode": "9b631bae74be9df4",
+      "label": "protagonistas",
+      "toEnd": "arrow",
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "a36b4480c3aa74bc",
+      "fromNode": "8253516f001d70d4",
+      "toNode": "08d995851c40b33d",
+      "label": "menciona",
+      "toEnd": "arrow",
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "98957920dff3cf10",
+      "fromNode": "8253516f001d70d4",
+      "toNode": "08d995851c40b33d",
+      "label": "titulo associado",
+      "toEnd": "arrow",
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "1ca68568304f86c7",
+      "fromNode": "cc18af55626e9719",
+      "toNode": "be7e7be4ab0a7bfb",
+      "label": "menciona",
+      "toEnd": "arrow",
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "a0efd17d282d4569",
+      "fromNode": "cc18af55626e9719",
+      "toNode": "be7e7be4ab0a7bfb",
+      "label": "titulo associado",
+      "toEnd": "arrow",
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "722a496218574942",
+      "fromNode": "2183c994d04fb2f4",
+      "toNode": "a1989341b01f72b9",
+      "label": "protagonistas",
+      "toEnd": "arrow",
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "6ec1f101dc7c424f",
+      "fromNode": "2183c994d04fb2f4",
+      "toNode": "b42cc98b709f30f9",
+      "label": "protagonistas",
+      "toEnd": "arrow",
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "f3bebbb8a3ecffc7",
+      "fromNode": "2183c994d04fb2f4",
+      "toNode": "8d2eb4acd24bc5d6",
+      "label": "menciona",
+      "toEnd": "arrow",
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "deace04008b632a0",
+      "fromNode": "2183c994d04fb2f4",
+      "toNode": "8d2eb4acd24bc5d6",
+      "label": "titulo associado",
+      "toEnd": "arrow",
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "2c0bcc47a906a1ae",
+      "fromNode": "94ad55e3f619aaa5",
+      "toNode": "53cf50a79e8d6d3a",
+      "label": "aparicoes relacionadas",
+      "toEnd": "arrow",
+      "color": "#AF8CE0"
+    },
+    {
+      "id": "dd1d70396d4f98cf",
+      "fromNode": "94ad55e3f619aaa5",
+      "toNode": "2080df680e5399de",
+      "label": "titulos relacionados",
+      "toEnd": "arrow",
+      "color": "#AF8CE0"
+    },
+    {
+      "id": "e6a023fd2e2f743c",
+      "fromNode": "3300bc5003eb8f65",
+      "toNode": "65fe05d4b7035460",
+      "label": "aparicoes relacionadas",
+      "toEnd": "arrow",
+      "color": "#72BED1"
+    },
+    {
+      "id": "af048a8628b98a31",
+      "fromNode": "3300bc5003eb8f65",
+      "toNode": "53cf50a79e8d6d3a",
+      "label": "aparicoes relacionadas",
+      "toEnd": "arrow",
+      "color": "#72BED1"
+    },
+    {
+      "id": "1d214f30a39797ce",
+      "fromNode": "38e82052a46c77c4",
+      "toNode": "6e7fd979c799a81a",
+      "label": "estudos relacionados",
+      "toEnd": "arrow",
+      "color": "#D6A64B"
+    },
+    {
+      "id": "d17fc73d8fbf9fb7",
+      "fromNode": "b7932471748dbac5",
+      "toNode": "2b8c6608fbc8e07a",
+      "label": "estudos relacionados",
+      "toEnd": "arrow",
+      "color": "#D6A64B"
+    },
+    {
+      "id": "346624128fa0dd19",
+      "fromNode": "f6a42bd0bf3857b4",
+      "toNode": "626948629ea07464",
+      "label": "estudos relacionados",
+      "toEnd": "arrow",
+      "color": "#D6A64B"
+    },
+    {
+      "id": "f1294d7cee394a6a",
+      "fromNode": "2b20b8d4bef16403",
+      "toNode": "bed529ab9fbfa929",
+      "label": "estudos relacionados",
+      "toEnd": "arrow",
+      "color": "#D6A64B"
+    },
+    {
+      "id": "0db317f7d29bca43",
+      "fromNode": "c40c6882abf2b7a1",
+      "toNode": "97e04cfecf2713b2",
+      "label": "estudos relacionados",
+      "toEnd": "arrow",
+      "color": "#D6A64B"
+    },
+    {
+      "id": "b87696ffdecd33b3",
+      "fromNode": "e132719ba66534b4",
+      "toNode": "113375975f7b6bc2",
+      "label": "estudos relacionados",
+      "toEnd": "arrow",
+      "color": "#D6A64B"
+    },
+    {
+      "id": "a9e3a6fbddedfdc1",
+      "fromNode": "33c990c5768ad066",
+      "toNode": "bab6c78cd1aba8b8",
+      "label": "estudos relacionados",
+      "toEnd": "arrow",
+      "color": "#D6A64B"
+    },
+    {
+      "id": "ea3296bd1e5133a9",
+      "fromNode": "033686790eeced74",
+      "toNode": "dc303cd03fc6647b",
+      "label": "estudos relacionados",
+      "toEnd": "arrow",
+      "color": "#D6A64B"
+    },
+    {
+      "id": "af0a899511a2e6c2",
+      "fromNode": "96c66c02372fe112",
+      "toNode": "b43266d5afd43d7e",
+      "label": "documentado em",
+      "toEnd": "arrow",
+      "color": "#69B887"
+    },
+    {
+      "id": "c6a8730da0559d8e",
+      "fromNode": "96c66c02372fe112",
+      "toNode": "9e596a4b8ad2426a",
+      "label": "documentado em",
+      "toEnd": "arrow",
+      "color": "#69B887"
+    },
+    {
+      "id": "b16a366848e2effb",
+      "fromNode": "e0c18c28f01d6daf",
+      "toNode": "8253516f001d70d4",
+      "label": "documentado em",
+      "toEnd": "arrow",
+      "color": "#69B887"
+    },
+    {
+      "id": "f8a33631c8b47af0",
+      "fromNode": "e0c18c28f01d6daf",
+      "toNode": "08d995851c40b33d",
+      "label": "documentado em",
+      "toEnd": "arrow",
+      "color": "#69B887"
+    },
+    {
+      "id": "7c5cfa67a5b98f11",
+      "fromNode": "3b97207b4756682e",
+      "toNode": "53cf50a79e8d6d3a",
+      "label": "documentado em",
+      "toEnd": "arrow",
+      "color": "#69B887"
+    },
+    {
+      "id": "ca548ea62f88f878",
+      "fromNode": "3b97207b4756682e",
+      "toNode": "531bd54aeaa1e12c",
+      "label": "documentado em",
+      "toEnd": "arrow",
+      "color": "#69B887"
+    },
+    {
+      "id": "c1eebe6819261969",
+      "fromNode": "3b97207b4756682e",
+      "toNode": "32745b4461117176",
+      "label": "documentado em",
+      "toEnd": "arrow",
+      "color": "#69B887"
+    },
+    {
+      "id": "6e7f9ed5948506c0",
+      "fromNode": "641f1427323bf9cd",
+      "toNode": "65fe05d4b7035460",
+      "label": "documentado em",
+      "toEnd": "arrow",
+      "color": "#69B887"
+    },
+    {
+      "id": "23e16d8f938becc8",
+      "fromNode": "3785b4651017a90b",
+      "toNode": "65fe05d4b7035460",
+      "label": "documentado em",
+      "toEnd": "arrow",
+      "color": "#69B887"
+    },
+    {
+      "id": "2e4d40f3981c762b",
+      "fromNode": "caf6750b8ea34776",
+      "toNode": "3cd466a85e6ff1ab",
+      "label": "documentado em",
+      "toEnd": "arrow",
+      "color": "#69B887"
+    },
+    {
+      "id": "31e46731a3c3406e",
+      "fromNode": "caf6750b8ea34776",
+      "toNode": "47fa019448eae9a0",
+      "label": "documentado em",
+      "toEnd": "arrow",
+      "color": "#69B887"
+    },
+    {
+      "id": "044a0b1290fc80c9",
+      "fromNode": "30985fe61ada5e7d",
+      "toNode": "65fe05d4b7035460",
+      "label": "documentado em",
+      "toEnd": "arrow",
+      "color": "#69B887"
+    },
+    {
+      "id": "2e6711137de84243",
+      "fromNode": "c0e1638aac342ccc",
+      "toNode": "8253516f001d70d4",
+      "label": "documentado em",
+      "toEnd": "arrow",
+      "color": "#69B887"
+    },
+    {
+      "id": "1389294e29814855",
+      "fromNode": "c0e1638aac342ccc",
+      "toNode": "08d995851c40b33d",
+      "label": "documentado em",
+      "toEnd": "arrow",
+      "color": "#69B887"
+    },
+    {
+      "id": "c8ef58e51a291453",
+      "fromNode": "4d6c8be1dd6e4901",
+      "toNode": "37826ab314de2abb",
+      "label": "documentado em",
+      "toEnd": "arrow",
+      "color": "#69B887"
+    },
+    {
+      "id": "217ccf4cc8d380ee",
+      "fromNode": "4d6c8be1dd6e4901",
+      "toNode": "d023b1f82c127588",
+      "label": "documentado em",
+      "toEnd": "arrow",
+      "color": "#69B887"
+    },
+    {
+      "id": "9bc160e978a874a7",
+      "fromNode": "a1989341b01f72b9",
+      "toNode": "2183c994d04fb2f4",
+      "label": "documentado em",
+      "toEnd": "arrow",
+      "color": "#69B887"
+    },
+    {
+      "id": "16b3017592172174",
+      "fromNode": "a1989341b01f72b9",
+      "toNode": "8d2eb4acd24bc5d6",
+      "label": "documentado em",
+      "toEnd": "arrow",
+      "color": "#69B887"
+    },
+    {
+      "id": "b0b63b523c7ec388",
+      "fromNode": "b42cc98b709f30f9",
+      "toNode": "2183c994d04fb2f4",
+      "label": "documentado em",
+      "toEnd": "arrow",
+      "color": "#69B887"
+    },
+    {
+      "id": "336651a2b9c9d846",
+      "fromNode": "b42cc98b709f30f9",
+      "toNode": "8d2eb4acd24bc5d6",
+      "label": "documentado em",
+      "toEnd": "arrow",
+      "color": "#69B887"
+    },
+    {
+      "id": "8d40a8757a13517d",
+      "fromNode": "9b631bae74be9df4",
+      "toNode": "8253516f001d70d4",
+      "label": "documentado em",
+      "toEnd": "arrow",
+      "color": "#69B887"
+    },
+    {
+      "id": "79bd7b5e38015905",
+      "fromNode": "9b631bae74be9df4",
+      "toNode": "08d995851c40b33d",
+      "label": "documentado em",
+      "toEnd": "arrow",
+      "color": "#69B887"
+    },
+    {
+      "id": "642ac430c4906381",
+      "fromNode": "6e7fd979c799a81a",
+      "toNode": "38e82052a46c77c4",
+      "label": "titulo estudado",
+      "toEnd": "arrow",
+      "color": "#72BED1"
+    },
+    {
+      "id": "ebe4bd44131e2d8a",
+      "fromNode": "2b8c6608fbc8e07a",
+      "toNode": "b7932471748dbac5",
+      "label": "titulo estudado",
+      "toEnd": "arrow",
+      "color": "#72BED1"
+    },
+    {
+      "id": "73efa1d3cadfe824",
+      "fromNode": "626948629ea07464",
+      "toNode": "f6a42bd0bf3857b4",
+      "label": "titulo estudado",
+      "toEnd": "arrow",
+      "color": "#72BED1"
+    },
+    {
+      "id": "7ff6262dab3129e1",
+      "fromNode": "bed529ab9fbfa929",
+      "toNode": "2b20b8d4bef16403",
+      "label": "titulo estudado",
+      "toEnd": "arrow",
+      "color": "#72BED1"
+    },
+    {
+      "id": "dd67ac6cf9a64581",
+      "fromNode": "97e04cfecf2713b2",
+      "toNode": "c40c6882abf2b7a1",
+      "label": "titulo estudado",
+      "toEnd": "arrow",
+      "color": "#72BED1"
+    },
+    {
+      "id": "7208f73f0ff5db99",
+      "fromNode": "113375975f7b6bc2",
+      "toNode": "e132719ba66534b4",
+      "label": "titulo estudado",
+      "toEnd": "arrow",
+      "color": "#72BED1"
+    },
+    {
+      "id": "0270c5814b79d329",
+      "fromNode": "bab6c78cd1aba8b8",
+      "toNode": "33c990c5768ad066",
+      "label": "titulo estudado",
+      "toEnd": "arrow",
+      "color": "#72BED1"
+    },
+    {
+      "id": "c9005368296ecce2",
+      "fromNode": "dc303cd03fc6647b",
+      "toNode": "033686790eeced74",
+      "label": "titulo estudado",
+      "toEnd": "arrow",
+      "color": "#72BED1"
+    },
+    {
+      "id": "9ade60bb069625d1",
+      "fromNode": "0b15a6d0161beea0",
+      "toNode": "38e82052a46c77c4",
+      "label": "menciona",
+      "toEnd": "arrow",
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "50b02505d9da5990",
+      "fromNode": "0b15a6d0161beea0",
+      "toNode": "38e82052a46c77c4",
+      "label": "titulo associado",
+      "toEnd": "arrow",
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "4c2bfcc90c90c58d",
+      "fromNode": "0b15a6d0161beea0",
+      "toNode": "6e7fd979c799a81a",
+      "label": "relato documentado em",
+      "toEnd": "arrow",
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "4ec6c8293aefc616",
+      "fromNode": "cf480b10b6466219",
+      "toNode": "b7932471748dbac5",
+      "label": "menciona",
+      "toEnd": "arrow",
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "5c83c573f696b000",
+      "fromNode": "cf480b10b6466219",
+      "toNode": "b7932471748dbac5",
+      "label": "titulo associado",
+      "toEnd": "arrow",
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "808246b5f0bda1bb",
+      "fromNode": "cf480b10b6466219",
+      "toNode": "2b8c6608fbc8e07a",
+      "label": "relato documentado em",
+      "toEnd": "arrow",
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "f63e7d2e06ff9184",
+      "fromNode": "c8765eab640c98f4",
+      "toNode": "f6a42bd0bf3857b4",
+      "label": "titulo associado",
+      "toEnd": "arrow",
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "0b6cdcc5aaa3a2d0",
+      "fromNode": "c8765eab640c98f4",
+      "toNode": "626948629ea07464",
+      "label": "relato documentado em",
+      "toEnd": "arrow",
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "161eb61cebe4fad0",
+      "fromNode": "06d7abc903e9d906",
+      "toNode": "2b20b8d4bef16403",
+      "label": "titulo associado",
+      "toEnd": "arrow",
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "65c8f4070216e55e",
+      "fromNode": "06d7abc903e9d906",
+      "toNode": "bed529ab9fbfa929",
+      "label": "relato documentado em",
+      "toEnd": "arrow",
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "a1eda7194709520c",
+      "fromNode": "9ec206cb45a1da34",
+      "toNode": "c40c6882abf2b7a1",
+      "label": "titulo associado",
+      "toEnd": "arrow",
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "2921895d331d153d",
+      "fromNode": "9ec206cb45a1da34",
+      "toNode": "97e04cfecf2713b2",
+      "label": "relato documentado em",
+      "toEnd": "arrow",
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "4f94b8f7e9cacfa5",
+      "fromNode": "426ef036b6d0f70a",
+      "toNode": "e132719ba66534b4",
+      "label": "menciona",
+      "toEnd": "arrow",
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "f7c58e27b712b245",
+      "fromNode": "426ef036b6d0f70a",
+      "toNode": "e132719ba66534b4",
+      "label": "titulo associado",
+      "toEnd": "arrow",
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "8379e76065978dfa",
+      "fromNode": "426ef036b6d0f70a",
+      "toNode": "113375975f7b6bc2",
+      "label": "relato documentado em",
+      "toEnd": "arrow",
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "70db26f6652adb7f",
+      "fromNode": "f8cc501bbed302e8",
+      "toNode": "33c990c5768ad066",
+      "label": "menciona",
+      "toEnd": "arrow",
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "f7e000c250b7bbff",
+      "fromNode": "f8cc501bbed302e8",
+      "toNode": "33c990c5768ad066",
+      "label": "titulo associado",
+      "toEnd": "arrow",
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "98e1eff7919460a9",
+      "fromNode": "f8cc501bbed302e8",
+      "toNode": "bab6c78cd1aba8b8",
+      "label": "relato documentado em",
+      "toEnd": "arrow",
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "a20f8f09637ba7f8",
+      "fromNode": "50971c4a92737ca1",
+      "toNode": "033686790eeced74",
+      "label": "titulo associado",
+      "toEnd": "arrow",
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "5478f27449d26b63",
+      "fromNode": "50971c4a92737ca1",
+      "toNode": "dc303cd03fc6647b",
+      "label": "relato documentado em",
+      "toEnd": "arrow",
+      "color": "#4C9FE8"
+    },
+    {
+      "id": "d88217f071357c2b",
+      "fromNode": "db1bcb84ecb4d897",
+      "toNode": "65fe05d4b7035460",
+      "label": "aparicoes relacionadas",
+      "toEnd": "arrow",
+      "color": "#DB8B50"
+    },
+    {
+      "id": "39dad51758018bc7",
+      "fromNode": "db1bcb84ecb4d897",
+      "toNode": "46a6ccd8bb1a8bca",
+      "label": "menciona",
+      "toEnd": "arrow",
+      "color": "#DB8B50"
+    },
+    {
+      "id": "d5ba034bbdc1e8c2",
+      "fromNode": "db1bcb84ecb4d897",
+      "toNode": "46a6ccd8bb1a8bca",
+      "label": "titulos relacionados",
+      "toEnd": "arrow",
+      "color": "#DB8B50"
+    },
+    {
+      "id": "88df98954653c7de",
+      "fromNode": "531bd54aeaa1e12c",
+      "toNode": "53cf50a79e8d6d3a",
+      "label": "aparicoes relacionadas",
+      "toEnd": "arrow",
+      "color": "#DB8B50"
+    },
+    {
+      "id": "25de42f369770f1c",
+      "fromNode": "531bd54aeaa1e12c",
+      "toNode": "3b97207b4756682e",
+      "label": "menciona",
+      "toEnd": "arrow",
+      "color": "#DB8B50"
+    },
+    {
+      "id": "576a29728ba0f88a",
+      "fromNode": "531bd54aeaa1e12c",
+      "toNode": "32745b4461117176",
+      "label": "menciona",
+      "toEnd": "arrow",
+      "color": "#DB8B50"
+    },
+    {
+      "id": "6588af947701d2f1",
+      "fromNode": "531bd54aeaa1e12c",
+      "toNode": "32745b4461117176",
+      "label": "titulos relacionados",
+      "toEnd": "arrow",
+      "color": "#DB8B50"
+    },
+    {
+      "id": "1e38280a0a2417e8",
+      "fromNode": "d023b1f82c127588",
+      "toNode": "4d6c8be1dd6e4901",
+      "label": "menciona",
+      "toEnd": "arrow",
+      "color": "#D6A64B"
+    },
+    {
+      "id": "044935dcb886f3f7",
+      "fromNode": "d023b1f82c127588",
+      "toNode": "4d6c8be1dd6e4901",
+      "label": "protagonistas",
+      "toEnd": "arrow",
+      "color": "#D6A64B"
+    },
+    {
+      "id": "c2e5b2198bc0b136",
+      "fromNode": "9e596a4b8ad2426a",
+      "toNode": "96c66c02372fe112",
+      "label": "menciona",
+      "toEnd": "arrow",
+      "color": "#D6A64B"
+    },
+    {
+      "id": "84c1b6946ed5891a",
+      "fromNode": "9e596a4b8ad2426a",
+      "toNode": "96c66c02372fe112",
+      "label": "protagonistas",
+      "toEnd": "arrow",
+      "color": "#D6A64B"
+    },
+    {
+      "id": "d303aa7f72fa6756",
+      "fromNode": "46a6ccd8bb1a8bca",
+      "toNode": "65fe05d4b7035460",
+      "label": "aparicoes relacionadas",
+      "toEnd": "arrow",
+      "color": "#D6A64B"
+    },
+    {
+      "id": "f6d18d9026125b2d",
+      "fromNode": "47fa019448eae9a0",
+      "toNode": "caf6750b8ea34776",
+      "label": "menciona",
+      "toEnd": "arrow",
+      "color": "#D6A64B"
+    },
+    {
+      "id": "bd0ac55c18fd4766",
+      "fromNode": "47fa019448eae9a0",
+      "toNode": "caf6750b8ea34776",
+      "label": "protagonistas",
+      "toEnd": "arrow",
+      "color": "#D6A64B"
+    },
+    {
+      "id": "25520da57f522c79",
+      "fromNode": "47fa019448eae9a0",
+      "toNode": "2080df680e5399de",
+      "label": "titulos relacionados",
+      "toEnd": "arrow",
+      "color": "#D6A64B"
+    },
+    {
+      "id": "a072833344662896",
+      "fromNode": "2080df680e5399de",
+      "toNode": "53cf50a79e8d6d3a",
+      "label": "aparicoes relacionadas",
+      "toEnd": "arrow",
+      "color": "#D6A64B"
+    },
+    {
+      "id": "5dd2b9938e9f637e",
+      "fromNode": "2080df680e5399de",
+      "toNode": "94ad55e3f619aaa5",
+      "label": "estudos relacionados",
+      "toEnd": "arrow",
+      "color": "#D6A64B"
+    },
+    {
+      "id": "a9dbc856bbd88da4",
+      "fromNode": "2080df680e5399de",
+      "toNode": "94ad55e3f619aaa5",
+      "label": "expressa dogma",
+      "toEnd": "arrow",
+      "color": "#D6A64B"
+    },
+    {
+      "id": "3ceb6aedd7f0a300",
+      "fromNode": "2080df680e5399de",
+      "toNode": "94ad55e3f619aaa5",
+      "label": "menciona",
+      "toEnd": "arrow",
+      "color": "#D6A64B"
+    },
+    {
+      "id": "02e5ccdaaec13767",
+      "fromNode": "2080df680e5399de",
+      "toNode": "32745b4461117176",
+      "label": "titulos relacionados",
+      "toEnd": "arrow",
+      "color": "#D6A64B"
+    },
+    {
+      "id": "c6c8c5e0b6ec8419",
+      "fromNode": "08d995851c40b33d",
+      "toNode": "e0c18c28f01d6daf",
+      "label": "menciona",
+      "toEnd": "arrow",
+      "color": "#D6A64B"
+    },
+    {
+      "id": "fb9a1a8120601a3e",
+      "fromNode": "08d995851c40b33d",
+      "toNode": "e0c18c28f01d6daf",
+      "label": "protagonistas",
+      "toEnd": "arrow",
+      "color": "#D6A64B"
+    },
+    {
+      "id": "24f9dd13e9686bdd",
+      "fromNode": "08d995851c40b33d",
+      "toNode": "c0e1638aac342ccc",
+      "label": "protagonistas",
+      "toEnd": "arrow",
+      "color": "#D6A64B"
+    },
+    {
+      "id": "e77e2d81e818152e",
+      "fromNode": "08d995851c40b33d",
+      "toNode": "9b631bae74be9df4",
+      "label": "menciona",
+      "toEnd": "arrow",
+      "color": "#D6A64B"
+    },
+    {
+      "id": "1184acf9012df456",
+      "fromNode": "08d995851c40b33d",
+      "toNode": "9b631bae74be9df4",
+      "label": "protagonistas",
+      "toEnd": "arrow",
+      "color": "#D6A64B"
+    },
+    {
+      "id": "d0f0930de2f075f4",
+      "fromNode": "8d2eb4acd24bc5d6",
+      "toNode": "a1989341b01f72b9",
+      "label": "protagonistas",
+      "toEnd": "arrow",
+      "color": "#D6A64B"
+    },
+    {
+      "id": "6220b4b78f66c339",
+      "fromNode": "8d2eb4acd24bc5d6",
+      "toNode": "b42cc98b709f30f9",
+      "label": "protagonistas",
+      "toEnd": "arrow",
+      "color": "#D6A64B"
+    },
+    {
+      "id": "fd2bbdf373b483a8",
+      "fromNode": "32745b4461117176",
+      "toNode": "53cf50a79e8d6d3a",
+      "label": "aparicoes relacionadas",
+      "toEnd": "arrow",
+      "color": "#D6A64B"
+    },
+    {
+      "id": "c2608ace210fecf5",
+      "fromNode": "32745b4461117176",
+      "toNode": "3b97207b4756682e",
+      "label": "menciona",
+      "toEnd": "arrow",
+      "color": "#D6A64B"
+    },
+    {
+      "id": "2beef73d2769aeb9",
+      "fromNode": "32745b4461117176",
+      "toNode": "2080df680e5399de",
+      "label": "titulos relacionados",
+      "toEnd": "arrow",
+      "color": "#D6A64B"
+    }
+  ]
+}

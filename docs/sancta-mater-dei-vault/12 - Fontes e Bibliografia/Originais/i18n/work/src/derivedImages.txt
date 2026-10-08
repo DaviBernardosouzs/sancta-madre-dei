@@ -1,0 +1,9 @@
+@@ derivedImages/obra-bellini-madona:ceu
+## alt
+Detalhe do céu com nuvens e montanhas na janela da pintura de Bellini.
+@@ derivedImages/obra-bellini-madona:manto
+## alt
+Detalhe do manto azul profundo.
+@@ derivedImages/obra-david-descanso:ceu
+## alt
+Detalhe de árvores altas, colinas e céu claro na paisagem de Gerard David.

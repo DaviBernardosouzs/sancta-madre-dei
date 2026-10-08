@@ -1,0 +1,584 @@
+#323
+es: Lo que la Iglesia católica enseña sobre María, con los documentos de referencia: el Catecismo y las definiciones dogmáticas. También la diferencia entre devoción y adoración y el lugar de las revelaciones privadas.
+en: What the Catholic Church teaches about Mary, with the reference documents: the Catechism and the dogmatic definitions. Also the difference between devotion and worship, and the place of private revelations.
+fr: Ce que l’Église catholique enseigne sur Marie, avec les documents de référence : le Catéchisme et les définitions dogmatiques. Aussi la différence entre dévotion et adoration et la place des révélations privées.
+it: Che cosa insegna la Chiesa cattolica su Maria, con i documenti di riferimento: il Catechismo e le definizioni dogmatiche. Inoltre la differenza tra devozione e adorazione e il posto delle rivelazioni private.
+de: Was die katholische Kirche über Maria lehrt, mit den maßgeblichen Dokumenten: dem Katechismus und den dogmatischen Definitionen. Dazu der Unterschied zwischen Verehrung und Anbetung und der Platz der Privatoffenbarungen.
+ja: カトリック教会がマリアについて教えていること。基本となる文書（『カトリック教会のカテキズム』と教義の定義）とともに紹介します。崇敬と礼拝の違い、私的啓示の位置づけも扱います。
+zh: 天主教会关于玛利亚的教导，附参考文件：《天主教教理》和信理定义。也说明敬礼与钦崇的区别，以及私人启示的地位。
+#324
+es: Lo que aún falta por investigar
+en: What remains to be researched
+fr: Ce qui reste à étudier
+it: Ciò che resta da ricercare
+de: Was noch zu erforschen ist
+ja: まだ調べていないこと
+zh: 尚待研究的内容
+#325
+es: Qué es este reconocimiento y qué no es
+en: What this recognition is, and what it is not
+fr: Ce qu’est cette reconnaissance, et ce qu’elle n’est pas
+it: Che cos’è questo riconoscimento e che cosa non è
+de: Was diese Anerkennung ist und was nicht
+ja: この認定が意味すること、意味しないこと
+zh: 这一承认是什么，不是什么
+#326
+es: Qué es este sitio y qué no es
+en: What this site is and what it is not
+fr: Ce qu’est ce site, et ce qu’il n’est pas
+it: Che cos’è questo sito e che cosa non è
+de: Was diese Website ist und was nicht
+ja: このサイトが何であり、何でないか
+zh: 本站是什么，不是什么
+#327
+es: Lo que falta por investigar
+en: What remains to be researched
+fr: Ce qui reste à étudier
+it: Ciò che resta da ricercare
+de: Was noch zu erforschen ist
+ja: 未調査の事項
+zh: 待研究事项
+#328
+es: Lo que no hacemos
+en: What we do not do
+fr: Ce que nous ne faisons pas
+it: Ciò che non facciamo
+de: Was wir nicht tun
+ja: 行っていないこと
+zh: 我们不做的事
+#329
+es: Lo que no se leyó se registra como laguna. La ausencia de una fuente hallada no es prueba de rechazo por parte de la Iglesia.
+en: What was not read is recorded as a gap. The absence of a source found is not proof of rejection by the Church.
+fr: Ce qui n’a pas été lu est consigné comme lacune. L’absence de source trouvée n’est pas une preuve de rejet par l’Église.
+it: Ciò che non è stato letto viene registrato come lacuna. L’assenza di una fonte trovata non è prova di rifiuto da parte della Chiesa.
+de: Was nicht gelesen wurde, wird als Lücke vermerkt. Dass keine Quelle gefunden wurde, ist kein Beweis für eine Ablehnung durch die Kirche.
+ja: 確認していないことは「空白」として記録します。出典が見つからなかったことは、教会が否定した証拠にはなりません。
+zh: 没有查阅到的内容会记为空白。找不到来源，并不能证明教会已经否定。
+#330
+es: Lo que enseña el Magisterio, con el documento.
+en: What the Magisterium teaches, with the document.
+fr: Ce qu’enseigne le Magistère, avec le document.
+it: Ciò che insegna il Magistero, con il documento.
+de: Was das Lehramt lehrt, mit dem Dokument.
+ja: 教導職が教えていること。文書を添えて示します。
+zh: 教会训导所教导的内容，附有文件。
+#331
+es: Lo que dicen los textos bíblicos, con la referencia.
+en: What the biblical texts say, with the reference.
+fr: Ce que disent les textes bibliques, avec la référence.
+it: Ciò che dicono i testi biblici, con il riferimento.
+de: Was die biblischen Texte sagen, mit der Stellenangabe.
+ja: 聖書の本文が述べていること。箇所を添えて示します。
+zh: 圣经经文所说的内容，附有出处。
+#332
+es: El sitio se ha diseñado para el móvil, para lectores mayores y para personas con baja visión: texto grande ajustable (A−, A, A+), alto contraste, navegación por teclado, foco visible, HTML semántico y respeto por la preferencia de menos movimiento. El objetivo es la conformidad con WCAG 2.2 AA; consulte el informe de verificación en <code>docs/VERIFICACAO.md</code> del repositorio.
+en: The site was designed for mobile phones, older readers and people with low vision: adjustable large text (A−, A, A+), high contrast, keyboard navigation, visible focus, semantic HTML and respect for the reduced-motion preference. The goal is conformance with WCAG 2.2 AA; see the verification report in <code>docs/VERIFICACAO.md</code> in the repository.
+fr: Le site a été conçu pour le téléphone, les lecteurs âgés et les personnes malvoyantes : grand texte réglable (A−, A, A+), contraste élevé, navigation au clavier, focus visible, HTML sémantique et respect de la préférence pour moins de mouvement. L’objectif est la conformité WCAG 2.2 AA ; voir le rapport de vérification dans <code>docs/VERIFICACAO.md</code> du dépôt.
+it: Il sito è stato progettato per il cellulare, per i lettori anziani e per le persone ipovedenti: testo grande regolabile (A−, A, A+), alto contrasto, navigazione da tastiera, focus visibile, HTML semantico e rispetto della preferenza per meno movimento. L’obiettivo è la conformità a WCAG 2.2 AA; vedi il rapporto di verifica in <code>docs/VERIFICACAO.md</code> nel repository.
+de: Die Website wurde für Smartphones, ältere Leserinnen und Leser und Menschen mit Sehschwäche gestaltet: einstellbare große Schrift (A−, A, A+), hoher Kontrast, Tastaturbedienung, sichtbarer Fokus, semantisches HTML und Rücksicht auf die Einstellung „weniger Bewegung“. Ziel ist die Konformität mit WCAG 2.2 AA; den Prüfbericht finden Sie in <code>docs/VERIFICACAO.md</code> im Repository.
+ja: このサイトは、スマートフォン、高齢の読者、ロービジョンの方を想定して作られています。調整できる大きな文字（A−、A、A+）、高コントラスト、キーボード操作、見やすいフォーカス表示、セマンティックなHTML、動きを減らす設定への配慮を備えています。目標はWCAG 2.2 AAへの準拠です。検証レポートはリポジトリの<code>docs/VERIFICACAO.md</code>をご覧ください。
+zh: 本站为手机、年长读者和低视力人士而设计：可调节的大字号（A−、A、A+）、高对比度、键盘操作、清晰的焦点显示、语义化 HTML，并尊重“减少动态效果”的偏好。目标是符合 WCAG 2.2 AA；验证报告见代码库中的 <code>docs/VERIFICACAO.md</code>。
+#333
+es: El tamaño de la letra, la opción de leer sin animaciones y el idioma elegido se guardan únicamente en el propio dispositivo, en el almacenamiento local del navegador o de la aplicación. Esos datos nunca se nos envían. Para borrarlos, limpie los datos del sitio en el navegador o los datos de la aplicación en los ajustes de Android.
+en: The font size, the option to read without animations and the chosen language are stored only on your own device, in the local storage of the browser or the app. That data is never sent to us. To delete it, clear the site data in your browser or the app data in Android settings.
+fr: La taille du texte, l’option de lecture sans animations et la langue choisie sont enregistrées uniquement sur votre appareil, dans le stockage local du navigateur ou de l’application. Ces données ne nous sont jamais envoyées. Pour les supprimer, effacez les données du site dans le navigateur ou les données de l’application dans les réglages d’Android.
+it: La dimensione del testo, l’opzione di leggere senza animazioni e la lingua scelta vengono salvate solo sul dispositivo, nella memoria locale del browser o dell’app. Questi dati non ci vengono mai inviati. Per cancellarli, svuota i dati del sito nel browser o i dati dell’app nelle impostazioni di Android.
+de: Schriftgröße, die Option, ohne Animationen zu lesen, und die gewählte Sprache werden nur auf Ihrem eigenen Gerät gespeichert, im lokalen Speicher des Browsers oder der App. Diese Daten werden nie an uns gesendet. Zum Löschen entfernen Sie die Websitedaten im Browser oder die App-Daten in den Android-Einstellungen.
+ja: 文字サイズ、アニメーションなしで読む設定、選んだ言語は、お使いの端末の中（ブラウザまたはアプリのローカルストレージ）にだけ保存されます。これらのデータが当方に送られることはありません。消すには、ブラウザでサイトのデータを消去するか、Androidの設定でアプリのデータを消去してください。
+zh: 字号、无动画阅读的选项和所选语言，只保存在您自己的设备上（浏览器或应用的本地存储中）。这些数据绝不会发送给我们。如需清除，请在浏览器中清除网站数据，或在 Android 设置中清除应用数据。
+#334
+es: Obra anterior
+en: Previous work
+fr: Œuvre précédente
+it: Opera precedente
+de: Vorheriges Werk
+ja: 前の作品
+zh: 上一件作品
+#335
+es: Obra de un autor fallecido en 1685. La licencia se leyó en la página de Commons; la institución que la custodia se deduce del nombre del archivo. Sin auditoría jurídica independiente de la reproducción.
+en: Work by an author who died in 1685. The license was read on the Commons page; the holding institution is inferred from the file name. No independent legal audit of the reproduction.
+fr: Œuvre d’un auteur mort en 1685. La licence a été lue sur la page de Commons ; l’institution qui la conserve est déduite du nom du fichier. Sans audit juridique indépendant de la reproduction.
+it: Opera di un autore morto nel 1685. La licenza è stata letta nella pagina di Commons; l’istituzione di conservazione è dedotta dal nome del file. Senza verifica legale indipendente della riproduzione.
+de: Werk eines 1685 gestorbenen Urhebers. Die Lizenz wurde auf der Commons-Seite gelesen; die aufbewahrende Institution wird aus dem Dateinamen erschlossen. Keine unabhängige rechtliche Prüfung der Reproduktion.
+ja: 1685年に没した作者の作品です。ライセンスはコモンズのページで確認しました。所蔵機関はファイル名から推定しています。複製について独立した法的監査は行っていません。
+zh: 作者卒于1685年的作品。许可协议是在共享资源（Commons）页面上读到的；收藏机构是根据文件名推断的。复制品未经独立的法律审核。
+#336
+es: Obra {n} de {total}
+en: Work {n} of {total}
+fr: Œuvre {n} sur {total}
+it: Opera {n} di {total}
+de: Werk {n} von {total}
+ja: 作品 {n} / {total}
+zh: 第 {n} 件，共 {total} 件
+#337
+es: Obras que guían la lectura
+en: Works that guide the reading
+fr: Des œuvres qui guident la lecture
+it: Opere che guidano la lettura
+de: Werke, die durch die Lektüre führen
+ja: 読み進めを導く作品
+zh: 引导阅读的作品
+#338
+es: Observación
+en: Note
+fr: Remarque
+it: Osservazione
+de: Anmerkung
+ja: 備考
+zh: 备注
+#339
+es: Oceanía
+en: Oceania
+fr: Océanie
+it: Oceania
+de: Ozeanien
+ja: オセアニア
+zh: 大洋洲
+#340
+es: Oración
+en: Prayer
+fr: Prière
+it: Preghiera
+de: Gebet
+ja: 祈り
+zh: 祷文
+#341
+es: Oraciones
+en: Prayers
+fr: Prières
+it: Preghiere
+de: Gebete
+ja: 祈り
+zh: 祷文
+#342
+es: Oraciones marianas con procedencia y situación de derechos comprobadas, y guía del Rosario.
+en: Marian prayers with verified provenance and rights status, and a Rosary guide.
+fr: Prières mariales dont la provenance et la situation des droits ont été vérifiées, et guide du Rosaire.
+it: Preghiere mariane con provenienza e situazione dei diritti verificate, e guida al Rosario.
+de: Mariengebete mit geprüfter Herkunft und Rechtslage sowie eine Rosenkranz-Anleitung.
+ja: 由来と権利の状況を確認した聖母の祈りと、ロザリオの手引き。
+zh: 已核实出处和权利状况的圣母祷文，以及玫瑰经指南。
+#343
+es: Oraciones utilizadas
+en: Prayers used
+fr: Prières utilisées
+it: Preghiere utilizzate
+de: Verwendete Gebete
+ja: 唱える祈り
+zh: 所用的祷文
+#344
+es: Origen
+en: Source
+fr: Origine
+it: Origine
+de: Herkunft
+ja: 出所
+zh: 来源
+#345
+es: Origen:
+en: Source:
+fr: Origine :
+it: Origine:
+de: Herkunft:
+ja: 出所：
+zh: 来源：
+#346
+es: Origen: {origem}
+en: Source: {origem}
+fr: Origine : {origem}
+it: Origine: {origem}
+de: Herkunft: {origem}
+ja: 出所：{origem}
+zh: 来源：{origem}
+#347
+es: Los países resaltados en el mapa son solo los que tienen registro investigado ({n}); eso está lejos de cubrir el mundo, y un país sin resaltar no significa ausencia de devoción. Aparición relatada no es lo mismo que aparición reconocida: cada página dice lo que decidió la autoridad eclesial. El mapa no representa disputas fronterizas.
+en: The countries highlighted on the map are only those with researched records ({n}); that is far from covering the world, and a country that is not highlighted does not mean an absence of devotion. A reported apparition is not the same as a recognized apparition: each page says what the ecclesial authority decided. The map does not represent border disputes.
+fr: Les pays mis en évidence sur la carte sont seulement ceux qui ont une fiche étudiée ({n}) ; cela est loin de couvrir le monde, et un pays non mis en évidence ne signifie pas absence de dévotion. Une apparition rapportée n’est pas une apparition reconnue : chaque page dit ce que l’autorité ecclésiale a décidé. La carte ne représente pas les différends frontaliers.
+it: I paesi evidenziati sulla mappa sono solo quelli con una scheda studiata ({n}); è ben lontano dal coprire il mondo, e un paese non evidenziato non significa assenza di devozione. Un’apparizione riferita non è la stessa cosa di un’apparizione riconosciuta: ogni pagina dice ciò che l’autorità ecclesiale ha deciso. La mappa non rappresenta le dispute di confine.
+de: Die auf der Karte hervorgehobenen Länder sind nur jene mit erforschten Einträgen ({n}); das deckt die Welt bei Weitem nicht ab, und ein nicht hervorgehobenes Land bedeutet nicht, dass es dort keine Frömmigkeit gibt. Eine berichtete Erscheinung ist nicht dasselbe wie eine anerkannte Erscheinung: Jede Seite sagt, was die kirchliche Autorität entschieden hat. Die Karte bildet keine Grenzstreitigkeiten ab.
+ja: 地図で強調されている国は、調査済みの記録がある国（{n}か国）だけです。世界を覆うには程遠く、強調されていない国に信心がないという意味ではありません。報告された出現は、認められた出現とは別のものです。各ページに、教会の権限者が何を決めたかを記しています。この地図は国境をめぐる争いを表すものではありません。
+zh: 地图上突出显示的国家，只是有已研究记录的国家（{n} 个）；这远远不能覆盖全世界，没有突出显示的国家也并不意味着没有敬礼。所报告的显现不等于已获承认的显现：每一页都会说明教会当局作了怎样的裁定。本地图不代表任何边界争议。
+#348
+es: Los veinte misterios
+en: The twenty mysteries
+fr: Les vingt mystères
+it: I venti misteri
+de: Die zwanzig Geheimnisse
+ja: 20の神秘
+zh: 二十端奥迹
+#349
+es: Otra decisión
+en: Other decision
+fr: Autre décision
+it: Altra decisione
+de: Sonstige Entscheidung
+ja: その他の決定
+zh: 其他裁定
+#350
+es: Otras formas del nombre
+en: Other forms of the name
+fr: Autres formes du nom
+it: Altre forme del nome
+de: Weitere Namensformen
+ja: ほかの呼び名
+zh: 名称的其他写法
+#351
+es: Patrona de una localidad o de un país
+en: Patroness of a locality or country
+fr: Patronne d’une localité ou d’un pays
+it: Patrona di una località o di un paese
+de: Patronin eines Ortes oder Landes
+ja: 地域または国の守護の聖母
+zh: 某地或某国的主保
+#352
+es: Padrenuestro: texto aún no incluido en esta edición (use el de su comunidad).
+en: Our Father: text not yet included in this edition (use the one from your community).
+fr: Notre Père : texte pas encore inclus dans cette édition (utilisez celui de votre communauté).
+it: Padre Nostro: testo non ancora incluso in questa edizione (usa quello della tua comunità).
+de: Vaterunser: Text in dieser Ausgabe noch nicht enthalten (verwenden Sie den Ihrer Gemeinde).
+ja: 主の祈り：本文はこの版にはまだ収録していません（お住まいの共同体で用いている本文をお使いください）。
+zh: 天主经：本版尚未收录文本（请使用您所在团体通用的文本）。
+#353
+es: Papa
+en: Pope
+fr: Pape
+it: Papa
+de: Papst
+ja: 教皇
+zh: 教宗
+#354
+es: Papa Benedicto XVI (Santa Sede)
+en: Pope Benedict XVI (Holy See)
+fr: Pape Benoît XVI (Saint-Siège)
+it: Papa Benedetto XVI (Santa Sede)
+de: Papst Benedikt XVI. (Heiliger Stuhl)
+ja: 教皇ベネディクト16世（教皇庁）
+zh: 教宗本笃十六世（圣座）
+#355
+es: Papa Juan Pablo II (Santa Sede)
+en: Pope John Paul II (Holy See)
+fr: Pape Jean-Paul II (Saint-Siège)
+it: Papa Giovanni Paolo II (Santa Sede)
+de: Papst Johannes Paul II. (Heiliger Stuhl)
+ja: 教皇ヨハネ・パウロ2世（教皇庁）
+zh: 教宗若望·保禄二世（圣座）
+#356
+es: Papa Pío IX (Santa Sede)
+en: Pope Pius IX (Holy See)
+fr: Pape Pie IX (Saint-Siège)
+it: Papa Pio IX (Santa Sede)
+de: Papst Pius IX. (Heiliger Stuhl)
+ja: 教皇ピオ9世（教皇庁）
+zh: 教宗庇护九世（圣座）
+#357
+es: Papa Pío XII (Santa Sede)
+en: Pope Pius XII (Holy See)
+fr: Pape Pie XII (Saint-Siège)
+it: Papa Pio XII (Santa Sede)
+de: Papst Pius XII. (Heiliger Stuhl)
+ja: 教皇ピオ12世（教皇庁）
+zh: 教宗庇护十二世（圣座）
+#358
+es: Para abrir el sitio en su idioma, el navegador o la aplicación lee la lista de idiomas del propio dispositivo. Esa lectura ocurre en el dispositivo: no usamos su dirección IP ni su ubicación para elegir el idioma.
+en: To open the site in your language, the browser or the app reads the list of languages on the device itself. This happens on the device: we do not use your IP address or your location to choose the language.
+fr: Pour ouvrir le site dans votre langue, le navigateur ou l’application lit la liste des langues de l’appareil lui-même. Cette lecture se fait sur l’appareil : nous n’utilisons ni votre adresse IP ni votre position pour choisir la langue.
+it: Per aprire il sito nella tua lingua, il browser o l’app legge l’elenco delle lingue del dispositivo stesso. Questa lettura avviene sul dispositivo: non usiamo il tuo indirizzo IP né la tua posizione per scegliere la lingua.
+de: Um die Website in Ihrer Sprache zu öffnen, liest der Browser oder die App die Liste der Sprachen des Geräts selbst aus. Das geschieht auf dem Gerät: Wir verwenden weder Ihre IP-Adresse noch Ihren Standort, um die Sprache zu wählen.
+ja: サイトをお使いの言語で開くため、ブラウザまたはアプリは端末自体の言語設定の一覧を読み取ります。この読み取りは端末の中で行われ、言語の選択にIPアドレスや位置情報は使いません。
+zh: 为了用您的语言打开本站，浏览器或应用会读取设备自身的语言列表。这一读取在设备上完成：我们不会使用您的IP地址或位置来选择语言。
+#359
+es: Para seguir leyendo
+en: Keep reading
+fr: Pour continuer
+it: Per continuare
+de: Zum Weiterlesen
+ja: 続けて読む
+zh: 继续阅读
+#360
+es: Paso a paso
+en: Step by step
+fr: Pas à pas
+it: Passo dopo passo
+de: Schritt für Schritt
+ja: 手順
+zh: 分步指引
+#361
+es: Pausar el cielo estrellado
+en: Pause the starry sky
+fr: Mettre en pause le ciel étoilé
+it: Metti in pausa il cielo stellato
+de: Sternenhimmel anhalten
+ja: 星空を一時停止する
+zh: 暂停星空
+#362
+es: País
+en: Country
+fr: Pays
+it: Paese
+de: Land
+ja: 国
+zh: 国家
+#363
+es: País con registro
+en: Country with records
+fr: Pays avec fiche
+it: Paese con scheda
+de: Land mit Einträgen
+ja: 記録のある国
+zh: 有记录的国家
+#364
+es: Permiso de culto o de peregrinación en un lugar. Es distinto del reconocimiento de una aparición.
+en: Permission for worship or pilgrimage at a place. It is distinct from the recognition of an apparition.
+fr: Permission de culte ou de pèlerinage en un lieu. Elle est distincte de la reconnaissance d’une apparition.
+it: Permesso di culto o di pellegrinaggio in un luogo. È distinto dal riconoscimento di un’apparizione.
+de: Erlaubnis zu Kult oder Wallfahrt an einem Ort. Sie ist von der Anerkennung einer Erscheinung zu unterscheiden.
+ja: ある場所での崇敬または巡礼の許可です。出現の承認とは別のものです。
+zh: 准许在某地举行敬礼或朝圣。它不同于对显现的承认。
+#365
+es: Período
+en: Period
+fr: Période
+it: Periodo
+de: Zeitraum
+ja: 時期
+zh: 时期
+#366
+es: Período relatado
+en: Reported period
+fr: Période rapportée
+it: Periodo riferito
+de: Berichteter Zeitraum
+ja: 報告された時期
+zh: 所述时期
+#367
+es: Investigación documental en 32 capítulos y 512 afirmaciones numeradas: vida de María, doctrina, oración, apariciones, santuarios, títulos e iconografía. Cada capítulo mantiene sus fuentes identificadas y distingue Escritura, doctrina, tradición y relato devocional.
+en: Documentary research in 32 chapters and 512 numbered claims: the life of Mary, doctrine, prayer, apparitions, shrines, titles and iconography. Each chapter keeps its sources identified and distinguishes Scripture, doctrine, tradition and devotional account.
+fr: Recherche documentaire en 32 chapitres et 512 affirmations numérotées : vie de Marie, doctrine, prière, apparitions, sanctuaires, titres et iconographie. Chaque chapitre garde ses sources identifiées et distingue Écriture, doctrine, tradition et récit dévotionnel.
+it: Ricerca documentale in 32 capitoli e 512 affermazioni numerate: vita di Maria, dottrina, preghiera, apparizioni, santuari, titoli e iconografia. Ogni capitolo mantiene le proprie fonti identificate e distingue Scrittura, dottrina, tradizione e racconto devozionale.
+de: Dokumentarische Recherche in 32 Kapiteln und 512 nummerierten Aussagen: Leben Marias, Lehre, Gebet, Erscheinungen, Heiligtümer, Titel und Ikonographie. Jedes Kapitel hält seine Quellen fest und unterscheidet zwischen Schrift, Lehre, Tradition und frommem Bericht.
+ja: 32の章と、番号を付けた512の主張からなる文献調査です。マリアの生涯、教え、祈り、出現、聖地、称号、図像を扱います。各章は出典を明示し、聖書、教え、伝承、信心上の報告を区別しています。
+zh: 文献研究共32章、512条编号论述：玛利亚的生平、教义、祈祷、显现、圣地、称号与圣像学。每章都标明资料来源，并区分圣经、教义、传统和敬礼性叙述。
+#368
+es: Personas involucradas
+en: People involved
+fr: Personnes concernées
+it: Persone coinvolte
+de: Beteiligte Personen
+ja: 関わった人々
+zh: 相关人物
+#369
+es: Pinturas y grabados de los siglos XV a XVII, cada uno con autoría, colección y licencia. Abra cualquiera en tamaño ampliado.
+en: Paintings and prints from the 15th to the 17th century, each with its artist, collection and license. Open any of them at enlarged size.
+fr: Peintures et gravures des XVe au XVIIe siècles, chacune avec son auteur, sa collection et sa licence. Ouvrez-en une pour la voir en grand.
+it: Dipinti e incisioni dei secoli XV–XVII, ciascuno con autore, collezione e licenza. Aprine uno per vederlo ingrandito.
+de: Gemälde und Grafiken des 15. bis 17. Jahrhunderts, jeweils mit Urheber, Sammlung und Lizenz. Öffnen Sie eines davon in vergrößerter Ansicht.
+ja: 15〜17世紀の絵画と版画。それぞれに作者・所蔵・ライセンスを示しています。どの作品も拡大して見られます。
+zh: 15至17世纪的绘画和版画，每件都注明作者、收藏和许可。点开任何一件即可放大查看。
+#370
+es: Pinturas, esculturas y grabados marianos de los siglos XV a XVII que acompañan al sitio, con autoría, colección y licencia a la vista. Cada obra puede abrirse en tamaño ampliado; se cierra con el botón o con la tecla Esc.
+en: Marian paintings, sculptures and prints from the 15th to the 17th century that accompany the site, with the artist, collection and license in plain view. Each work can be opened at enlarged size; it closes with the button or the Esc key.
+fr: Peintures, sculptures et gravures mariales des XVe au XVIIe siècles qui accompagnent le site, avec l’auteur, la collection et la licence bien visibles. Chaque œuvre peut s’ouvrir en grand ; on la ferme avec le bouton ou la touche Échap.
+it: Dipinti, sculture e incisioni mariane dei secoli XV–XVII che accompagnano il sito, con autore, collezione e licenza in vista. Ogni opera può essere aperta ingrandita; si chiude con il pulsante o con il tasto Esc.
+de: Marianische Gemälde, Skulpturen und Grafiken des 15. bis 17. Jahrhunderts, die die Website begleiten, mit gut sichtbarem Urheber, Sammlung und Lizenz. Jedes Werk lässt sich vergrößert öffnen; geschlossen wird es mit der Schaltfläche oder der Esc-Taste.
+ja: サイトに添えた15〜17世紀の聖母の絵画・彫刻・版画です。作者・所蔵・ライセンスをはっきり示しています。各作品は拡大表示でき、ボタンまたはEscキーで閉じます。
+zh: 配合本站的15至17世纪圣母绘画、雕塑和版画，作者、收藏和许可一目了然。每件作品都可放大查看，用按钮或 Esc 键关闭。
+#371
+es: Pío IX define el dogma de la Inmaculada Concepción (Ineffabilis Deus)
+en: Pius IX defines the dogma of the Immaculate Conception (Ineffabilis Deus)
+fr: Pie IX définit le dogme de l’Immaculée Conception (Ineffabilis Deus)
+it: Pio IX definisce il dogma dell’Immacolata Concezione (Ineffabilis Deus)
+de: Pius IX. verkündet das Dogma von der Unbefleckten Empfängnis (Ineffabilis Deus)
+ja: ピオ9世が無原罪の御宿りの教義を定義（『イネッファビリス・デウス』）
+zh: 庇护九世宣布无原罪成胎的信理（《不可言喻的天主》）
+#372
+es: Pío XII define el dogma de la Asunción (Munificentissimus Deus)
+en: Pius XII defines the dogma of the Assumption (Munificentissimus Deus)
+fr: Pie XII définit le dogme de l’Assomption (Munificentissimus Deus)
+it: Pio XII definisce il dogma dell’Assunzione (Munificentissimus Deus)
+de: Pius XII. verkündet das Dogma von der Aufnahme Marias in den Himmel (Munificentissimus Deus)
+ja: ピオ12世が聖母の被昇天の教義を定義（『ムニフィチェンティッシムス・デウス』）
+zh: 庇护十二世宣布圣母蒙召升天的信理（《至慷慨的天主》）
+#373
+es: Política de privacidad
+en: Privacy policy
+fr: Politique de confidentialité
+it: Informativa sulla privacy
+de: Datenschutzerklärung
+ja: プライバシーポリシー
+zh: 隐私政策
+#374
+es: Preferencias de lectura e idioma
+en: Reading and language preferences
+fr: Préférences de lecture et de langue
+it: Preferenze di lettura e di lingua
+de: Lese- und Spracheinstellungen
+ja: 読み方と言語の設定
+zh: 阅读与语言偏好
+#375
+es: Presidencia de la República de Brasil (Planalto)
+en: Presidency of the Republic of Brazil (Planalto)
+fr: Présidence de la République du Brésil (Planalto)
+it: Presidenza della Repubblica del Brasile (Planalto)
+de: Präsidentschaft der Republik Brasilien (Planalto)
+ja: ブラジル共和国大統領府（プラナルト）
+zh: 巴西共和国总统府（Planalto）
+#376
+es: Principal
+en: Main
+fr: Principale
+it: Principale
+de: Hauptmenü
+ja: メイン
+zh: 主导航
+#377
+es: Prioridad: documentos de la Santa Sede y del Dicasterio; Catecismo, concilios y textos pontificios; decretos y comunicaciones de las diócesis; documentación de santuarios oficiales; estudios históricos identificables.
+en: Priority: documents of the Holy See and of the Dicastery; the Catechism, councils and papal texts; decrees and communications of dioceses; documentation of official shrines; identifiable historical studies.
+fr: Priorité : documents du Saint-Siège et du Dicastère ; Catéchisme, conciles et textes pontificaux ; décrets et communications des diocèses ; documentation des sanctuaires officiels ; études historiques identifiables.
+it: Priorità: documenti della Santa Sede e del Dicastero; Catechismo, concili e testi pontifici; decreti e comunicazioni delle diocesi; documentazione dei santuari ufficiali; studi storici identificabili.
+de: Vorrang: Dokumente des Heiligen Stuhls und des Dikasteriums; Katechismus, Konzilien und päpstliche Texte; Dekrete und Mitteilungen der Diözesen; Dokumentation offizieller Heiligtümer; identifizierbare historische Studien.
+ja: 優先順位：教皇庁と教理省の文書、カテキズム・公会議・教皇文書、教区の教令と通達、公式の聖地の文書、出典の特定できる歴史研究。
+zh: 优先顺序：圣座和教理部的文件；《教理》、大公会议与教宗文献；各教区的法令和公告；官方圣地的文献；可明确出处的历史研究。
+#378
+es: Procedencia
+en: Provenance
+fr: Provenance
+it: Provenienza
+de: Herkunftsnachweis
+ja: 由来
+zh: 出处
+#379
+es: Procedencia y derechos
+en: Provenance and rights
+fr: Provenance et droits
+it: Provenienza e diritti
+de: Herkunft und Rechte
+ja: 由来と権利
+zh: 出处与权利
+#380
+es: Proclamación de patrona
+en: Proclamation as patroness
+fr: Proclamation comme patronne
+it: Proclamazione a patrona
+de: Ausrufung zur Patronin
+ja: 守護の聖母としての宣言
+zh: 宣布为主保
+#381
+es: Busque en apariciones, devociones, títulos, oraciones y artículos. La búsqueda ignora los acentos y las mayúsculas; todas las palabras escritas deben aparecer. Los borradores no entran en la búsqueda.
+en: Search apparitions, devotions, titles, prayers and articles. The search ignores accents and capitalization; all the words you type must appear. Drafts are not included in the search.
+fr: Recherchez dans les apparitions, dévotions, titres, prières et articles. La recherche ignore les accents et les majuscules ; tous les mots saisis doivent apparaître. Les brouillons ne sont pas inclus dans la recherche.
+it: Cerca tra apparizioni, devozioni, titoli, preghiere e articoli. La ricerca ignora accenti e maiuscole; tutte le parole digitate devono comparire. Le bozze non rientrano nella ricerca.
+de: Suchen Sie in Erscheinungen, Andachten, Titeln, Gebeten und Artikeln. Die Suche ignoriert Akzente und Groß-/Kleinschreibung; alle eingegebenen Wörter müssen vorkommen. Entwürfe sind nicht Teil der Suche.
+ja: 出現、信心、称号、祈り、記事を検索できます。アクセント記号と大文字・小文字は区別せず、入力した語がすべて含まれるものを探します。下書きは検索の対象外です。
+zh: 可在显现、敬礼、称号、祷文和文章中搜索。搜索不区分重音和大小写；输入的所有词都必须出现。草稿不在搜索范围内。
+#382
+es: Proyecto independiente, gratuito y sin ánimo de lucro. Metodología editorial, límites de esta edición, accesibilidad y proceso de corrección.
+en: An independent, free, non-profit project. Editorial methodology, limits of this edition, accessibility and correction process.
+fr: Projet indépendant, gratuit et sans but lucratif. Méthodologie éditoriale, limites de cette édition, accessibilité et processus de correction.
+it: Progetto indipendente, gratuito e senza scopo di lucro. Metodologia editoriale, limiti di questa edizione, accessibilità e processo di correzione.
+de: Unabhängiges, kostenloses und gemeinnütziges Projekt. Redaktionelle Methodik, Grenzen dieser Ausgabe, Barrierefreiheit und Korrekturverfahren.
+ja: 独立した、無料の、非営利のプロジェクトです。編集方法、この版の限界、アクセシビリティ、訂正の手続きについて説明します。
+zh: 独立、免费、非营利的项目。编辑方法、本版的局限、无障碍与更正流程。
+#383
+es: Proyecto personal, creado y mantenido por una sola persona. No publicamos biografía, contactos ni vínculos institucionales. Las correcciones se reciben en el repositorio del proyecto (abra un <em>issue</em>, cuando el repositorio se publique) y siguen el proceso descrito en <code>docs/POLITICA-EDITORIAL.md</code>: contrastar la fuente, corregir el registro, actualizar la fecha de verificación y anotar el cambio.
+en: A personal project, created and maintained by one person. We do not publish a biography, contacts or institutional ties. Corrections are received in the project repository (open an <em>issue</em>, once the repository is published) and follow the process described in <code>docs/POLITICA-EDITORIAL.md</code>: check the source, correct the record, update the verification date and log the change.
+fr: Projet personnel, créé et entretenu par une seule personne. Nous ne publions ni biographie, ni coordonnées, ni liens institutionnels. Les corrections sont reçues dans le dépôt du projet (ouvrez une <em>issue</em>, une fois le dépôt publié) et suivent le processus décrit dans <code>docs/POLITICA-EDITORIAL.md</code> : vérifier la source, corriger la fiche, mettre à jour la date de vérification et consigner la modification.
+it: Progetto personale, creato e mantenuto da una sola persona. Non pubblichiamo biografia, contatti né legami istituzionali. Le correzioni si ricevono nel repository del progetto (apri una <em>issue</em>, quando il repository sarà pubblicato) e seguono il processo descritto in <code>docs/POLITICA-EDITORIAL.md</code>: verificare la fonte, correggere la scheda, aggiornare la data di verifica e registrare la modifica.
+de: Ein persönliches Projekt, von einer einzelnen Person erstellt und gepflegt. Wir veröffentlichen keine Biografie, keine Kontaktdaten und keine institutionellen Bindungen. Korrekturen nehmen wir im Repository des Projekts entgegen (eröffnen Sie ein <em>Issue</em>, sobald das Repository veröffentlicht ist); sie folgen dem in <code>docs/POLITICA-EDITORIAL.md</code> beschriebenen Verfahren: Quelle prüfen, Eintrag korrigieren, Prüfdatum aktualisieren und die Änderung festhalten.
+ja: 一人の人が作り、運営している個人のプロジェクトです。経歴、連絡先、所属する組織は公開していません。訂正はプロジェクトのリポジトリで受け付けます（リポジトリが公開されたら<em>issue</em>を立ててください）。手順は<code>docs/POLITICA-EDITORIAL.md</code>に記したとおりです：出典を確認し、項目を訂正し、確認日を更新して、変更を記録します。
+zh: 这是由一个人创建并维护的个人项目。我们不公开个人简历、联系方式或所属机构。更正请在项目代码库提出（代码库公开后，请提交 <em>issue</em>），并遵循 <code>docs/POLITICA-EDITORIAL.md</code> 中所述的流程：核对来源、更正记录、更新核实日期并记录更改。
+#384
+es: Proyecto personal, independiente, gratuito y sin ánimo de lucro. <strong>No es un órgano oficial de la Iglesia católica</strong> y no sustituye la enseñanza del Magisterio ni la orientación de un párroco o de un director espiritual.
+en: A personal, independent, free, non-profit project. <strong>It is not an official body of the Catholic Church</strong> and does not replace the teaching of the Magisterium or the guidance of a parish priest or spiritual director.
+fr: Projet personnel, indépendant, gratuit et sans but lucratif. <strong>Ce n’est pas un organe officiel de l’Église catholique</strong> et il ne remplace ni l’enseignement du Magistère ni les conseils d’un curé ou d’un directeur spirituel.
+it: Progetto personale, indipendente, gratuito e senza scopo di lucro. <strong>Non è un organo ufficiale della Chiesa cattolica</strong> e non sostituisce l’insegnamento del Magistero né la guida di un parroco o di un direttore spirituale.
+de: Persönliches, unabhängiges, kostenloses und gemeinnütziges Projekt. <strong>Es ist kein offizielles Organ der katholischen Kirche</strong> und ersetzt weder die Lehre des Lehramts noch den Rat eines Pfarrers oder geistlichen Begleiters.
+ja: 個人による独立した、無料の、非営利のプロジェクトです。<strong>カトリック教会の公式な機関ではなく</strong>、教導職の教えや、主任司祭・霊的指導者の助言に代わるものでもありません。
+zh: 这是个人的、独立的、免费且非营利的项目。<strong>它不是天主教会的官方机构</strong>，也不能取代教会训导的教导，或本堂神父、神师的指导。
+#385
+es: Proyección Equal Earth. Tierras y países: Natural Earth (dominio público). Puntos: coordenadas de Wikidata (CC0), con la precisión de un punto en el lugar. Haga clic en un país para acercarse; haga clic de nuevo para volver.
+en: Equal Earth projection. Land and countries: Natural Earth (public domain). Points: Wikidata coordinates (CC0), with the precision of a point at the place. Click a country to zoom in; click again to go back.
+fr: Projection Equal Earth. Terres et pays : Natural Earth (domaine public). Points : coordonnées de Wikidata (CC0), avec la précision d’un point sur le lieu. Cliquez sur un pays pour zoomer ; cliquez de nouveau pour revenir.
+it: Proiezione Equal Earth. Terre e paesi: Natural Earth (pubblico dominio). Punti: coordinate di Wikidata (CC0), con la precisione di un punto sul luogo. Clicca su un paese per ingrandire; clicca di nuovo per tornare indietro.
+de: Equal-Earth-Projektion. Landflächen und Länder: Natural Earth (gemeinfrei). Punkte: Koordinaten von Wikidata (CC0), mit der Genauigkeit eines Punktes am Ort. Klicken Sie auf ein Land, um hineinzuzoomen; klicken Sie erneut, um zurückzukehren.
+ja: イコール・アース図法。陸地と国：Natural Earth（パブリックドメイン）。地点：Wikidataの座標（CC0）で、その場所の一点の精度です。国をクリックすると拡大し、もう一度クリックすると元に戻ります。
+zh: 等地球投影。陆地与国家：Natural Earth（公有领域）。标点：Wikidata 坐标（CC0），精度为该地点的一个点。点击某个国家即可放大；再次点击则返回。
+#386
+es: Promesas atribuidas
+en: Attributed promises
+fr: Promesses attribuées
+it: Promesse attribuite
+de: Zugeschriebene Verheißungen
+ja: 帰せられた約束
+zh: 被归于圣母的许诺
+#387
+es: Promesas y devociones
+en: Promises and devotions
+fr: Promesses et dévotions
+it: Promesse e devozioni
+de: Verheißungen und Andachten
+ja: 約束と信心
+zh: 许诺与敬礼
+#388
+es: Práctica de oración
+en: Prayer practice
+fr: Pratique de prière
+it: Pratica di preghiera
+de: Gebetspraxis
+ja: 祈りの実践
+zh: 祈祷方式
+#389
+es: Prácticas de oración y mensajes atribuidos a María, con el origen, quién los atribuye, la fuente y los límites de lo que puede afirmarse.
+en: Prayer practices and messages attributed to Mary, with the origin, who attributes them, the source and the limits of what can be claimed.
+fr: Pratiques de prière et messages attribués à Marie, avec l’origine, qui les attribue, la source et les limites de ce que l’on peut affirmer.
+it: Pratiche di preghiera e messaggi attribuiti a Maria, con l’origine, chi li attribuisce, la fonte e i limiti di ciò che si può affermare.
+de: Gebetspraktiken und Botschaften, die Maria zugeschrieben werden, mit Herkunft, Zuschreibender, Quelle und den Grenzen dessen, was sich behaupten lässt.
+ja: 祈りの実践と、マリアに帰せられたメッセージ。由来、誰が帰したのか、出典、そして言い切れることの限界を示します。
+zh: 祈祷方式与被归于玛利亚的讯息，附来源、归属者、资料出处，以及可以断言之事的限度。
+#390
+es: Prácticas y relatos posteriores, presentados como tradición.
+en: Later practices and accounts, presented as tradition.
+fr: Pratiques et récits postérieurs, présentés comme tradition.
+it: Pratiche e racconti successivi, presentati come tradizione.
+de: Spätere Praktiken und Berichte, als Tradition dargestellt.
+ja: のちの時代の慣行や報告で、伝承として示すもの。
+zh: 后世的习俗与叙述，作为传统呈现。
+#391
+es: Obra siguiente
+en: Next work
+fr: Œuvre suivante
+it: Opera successiva
+de: Nächstes Werk
+ja: 次の作品
+zh: 下一件作品
+#392
+es: Capítulo siguiente
+en: Next chapter
+fr: Chapitre suivant
+it: Capitolo successivo
+de: Nächstes Kapitel
+ja: 次の章
+zh: 下一章
+#393
+es: Dominio público
+en: Public domain
+fr: Domaine public
+it: Pubblico dominio
+de: Gemeinfrei
+ja: パブリックドメイン
+zh: 公有领域
+#394
+es: Dominio público (según lo declarado en la página del archivo en Wikimedia Commons)
+en: Public domain (as declared on the file page at Wikimedia Commons)
+fr: Domaine public (tel que déclaré sur la page du fichier sur Wikimedia Commons)
+it: Pubblico dominio (come dichiarato nella pagina del file su Wikimedia Commons)
+de: Gemeinfrei (laut Angabe auf der Dateiseite bei Wikimedia Commons)
+ja: パブリックドメイン（ウィキメディア・コモンズのファイルページの表示による）
+zh: 公有领域（依维基共享资源文件页面的声明）
+#395
+es: Publicamos solo lo que se leyó en la fuente. Lo que falta por investigar queda a la vista como laguna, y ninguna decisión se llama «aprobada» sin decir qué autoridad la tomó.
+en: We publish only what was read at the source. What remains to be researched stays visible as a gap, and no decision is called “approved” without saying which authority made it.
+fr: Nous ne publions que ce qui a été lu à la source. Ce qui reste à étudier demeure visible comme lacune, et aucune décision n’est dite « approuvée » sans préciser quelle autorité l’a prise.
+it: Pubblichiamo solo ciò che è stato letto alla fonte. Ciò che resta da ricercare rimane visibile come lacuna, e nessuna decisione è detta «approvata» senza dire quale autorità l’ha presa.
+de: Wir veröffentlichen nur, was an der Quelle gelesen wurde. Was noch zu erforschen ist, bleibt als Lücke sichtbar, und keine Entscheidung heißt „genehmigt“, ohne zu sagen, welche Autorität sie getroffen hat.
+ja: 出典で確認したことだけを公開します。まだ調べていないことは「空白」として見える形で残し、どの権限者が決めたのかを示さずに「承認された」と呼ぶ決定はありません。
+zh: 我们只发布在来源中读到的内容。尚待研究的部分会作为空白保持可见；任何裁定，若不说明是哪个机构作出的，就不会称为“已批准”。
