@@ -1,0 +1,103 @@
+{
+ "ora-angelus": {
+  "title": "Ángelus",
+  "summary": "Oración que recuerda la Anunciación y la Encarnación.",
+  "text": [
+   "V. El Ángel del Señor anunció a María.",
+   "R. Y concibió por obra del Espíritu Santo.",
+   "Dios te salve, María...",
+   "V. He aquí la esclava del Señor.",
+   "R. Hágase en mí según tu palabra.",
+   "Dios te salve, María...",
+   "V. Y el Verbo se hizo carne.",
+   "R. Y habitó entre nosotros.",
+   "Dios te salve, María...",
+   "V. Ruega por nosotros, santa Madre de Dios.",
+   "R. Para que seamos dignos de alcanzar las promesas de nuestro Señor Jesucristo.",
+   "Oremos: Derrama, Señor, tu gracia en nuestros corazones, para que, habiendo conocido, por el anuncio del Ángel, la encarnación de tu Hijo Jesucristo, lleguemos, por su pasión y su cruz, a la gloria de la resurrección. Por el mismo Jesucristo, nuestro Señor. Amén."
+  ],
+  "provenance": "Compendio del Catecismo de la Iglesia Católica, Apéndice (versión en español, sitio del Vaticano).",
+  "rights": "Oración tradicional. Redacción según el Compendio en el Vaticano; derechos de la edición o traducción no verificados jurídicamente.",
+  "_src": "d04023f7"
+ },
+ "ora-ave-maria": {
+  "title": "Ave María",
+  "summary": "El saludo a María que une palabras del Evangelio y una petición de intercesión; núcleo del Rosario.",
+  "text": [
+   "Dios te salve, María, llena eres de gracia, el Señor es contigo. Bendita tú eres entre todas las mujeres, y bendito es el fruto de tu vientre, Jesús.",
+   "Santa María, Madre de Dios, ruega por nosotros, pecadores, ahora y en la hora de nuestra muerte.",
+   "Amén."
+  ],
+  "provenance": "Compendio del Catecismo de la Iglesia Católica, Apéndice (versión en español). La primera parte reúne palabras de Lc 1,28 y Lc 1,42 (véase Vaticano, misterios gozosos, que cita Lc 1,42).",
+  "rights": "Oración tradicional. Redacción según el Compendio en el sitio del Vaticano; derechos de la edición o traducción no verificados jurídicamente. La redacción usada en las parroquias puede variar según el país.",
+  "_src": "166026db"
+ },
+ "ora-gloria": {
+  "title": "Gloria",
+  "summary": "Doxología trinitaria que se reza al final de cada decena del Rosario.",
+  "text": [
+   "Gloria al Padre, y al Hijo, y al Espíritu Santo.",
+   "Como era en el principio, ahora y siempre, por los siglos de los siglos.",
+   "Amén."
+  ],
+  "provenance": "Compendio del Catecismo de la Iglesia Católica, Apéndice (versión en español, sitio del Vaticano).",
+  "rights": "Oración tradicional de la Iglesia. Redacción según la edición del Compendio en el Vaticano; derechos de la traducción o edición no verificados jurídicamente.",
+  "_src": "771c9e40"
+ },
+ "ora-magnificat": {
+  "title": "Magníficat",
+  "summary": "El cántico de María en Lc 1,46-55, que se reza en la Liturgia de las Horas.",
+  "text": [
+   "Proclama mi alma la grandeza del Señor, se alegra mi espíritu en Dios, mi salvador;",
+   "porque ha mirado la humillación de su esclava. Desde ahora me felicitarán todas las generaciones,",
+   "porque el Poderoso ha hecho obras grandes por mí: su nombre es santo,",
+   "y su misericordia llega a sus fieles de generación en generación.",
+   "Él hace proezas con su brazo: dispersa a los soberbios de corazón,",
+   "derriba del trono a los poderosos y enaltece a los humildes,",
+   "a los hambrientos los colma de bienes y a los ricos los despide vacíos.",
+   "Auxilia a Israel, su siervo, acordándose de la misericordia, como lo había prometido a nuestros padres, en favor de Abrahán y su descendencia por siempre.",
+   "Gloria al Padre, y al Hijo, y al Espíritu Santo.",
+   "Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén."
+  ],
+  "provenance": "Compendio del Catecismo de la Iglesia Católica, Apéndice (versión en español, sitio del Vaticano). Texto bíblico en Lc 1,46-55.",
+  "rights": "Texto bíblico y oración tradicional. Redacción según el Compendio en el Vaticano; derechos de la edición o traducción no verificados jurídicamente.",
+  "_src": "ace53324"
+ },
+ "ora-salve-rainha": {
+  "title": "Salve",
+  "summary": "Antífona mariana tradicional, que se reza a menudo al final del Rosario.",
+  "text": [
+   "Dios te salve, Reina y Madre de misericordia, vida, dulzura y esperanza nuestra; Dios te salve.",
+   "A ti llamamos los desterrados hijos de Eva;",
+   "a ti suspiramos, gimiendo y llorando en este valle de lágrimas.",
+   "Ea, pues, Señora, abogada nuestra, vuelve a nosotros esos tus ojos misericordiosos;",
+   "y después de este destierro muéstranos a Jesús, fruto bendito de tu vientre.",
+   "¡Oh clementísima, oh piadosa, oh dulce Virgen María!",
+   "Ruega por nosotros, santa Madre de Dios, para que seamos dignos de alcanzar las promesas de nuestro Señor Jesucristo."
+  ],
+  "provenance": "Compendio del Catecismo de la Iglesia Católica, Apéndice (versión en español, sitio del Vaticano).",
+  "rights": "Oración tradicional. Redacción según el Compendio en el Vaticano; derechos de la edición o traducción no verificados jurídicamente.",
+  "_src": "3a0860f2"
+ },
+ "ora-sinal-da-cruz": {
+  "title": "Señal de la Cruz",
+  "summary": "La oración con la que comienza y termina la oración cristiana.",
+  "text": [
+   "En el nombre del Padre, y del Hijo, y del Espíritu Santo.",
+   "Amén."
+  ],
+  "provenance": "Compendio del Catecismo de la Iglesia Católica, Apéndice (versión en español, sitio del Vaticano).",
+  "rights": "Oración tradicional de la Iglesia. La redacción en español sigue la edición del Compendio en el sitio del Vaticano, de uso común; los derechos de autor de la traducción o edición no han sido objeto de dictamen jurídico. Reproducida en extensión breve con indicación de la fuente.",
+  "_src": "4307d299"
+ },
+ "ora-sob-a-vossa-protecao": {
+  "title": "Bajo tu amparo",
+  "summary": "Antigua plegaria de confianza en María en las necesidades.",
+  "text": [
+   "Bajo tu amparo nos acogemos, santa Madre de Dios; no deseches las súplicas que te dirigimos en nuestras necesidades, antes bien, líbranos de todo peligro, ¡oh Virgen gloriosa y bendita!"
+  ],
+  "provenance": "Compendio del Catecismo de la Iglesia Católica, Apéndice (versión en español, sitio del Vaticano).",
+  "rights": "Oración tradicional. Redacción según el Compendio en el Vaticano; derechos de la edición o traducción no verificados jurídicamente.",
+  "_src": "946b508c"
+ }
+}

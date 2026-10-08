@@ -1,0 +1,101 @@
+{
+ "rosario": {
+  "steps": [
+   "Fa' il segno della croce.",
+   "Annuncia il primo mistero del ciclo del giorno e fa' una breve pausa per ricordarlo; se vuoi, leggi il passo biblico indicato.",
+   "Recita un Padre nostro.",
+   "Recita dieci Ave Maria, meditando il mistero.",
+   "Recita il Gloria al Padre.",
+   "Ripeti per ciascuno dei cinque misteri del ciclo.",
+   "Alla fine si può recitare la Salve Regina o un'altra preghiera mariana."
+  ],
+  "stepsNote": "Struttura di ogni mistero secondo il sito del Vaticano (annuncio, Padre nostro, dieci Ave Maria meditando il mistero, Gloria al Padre). L'ordine esatto delle preghiere iniziali e finali varia tra le comunità e non è stato qui uniformato in base a un documento; il segno della croce iniziale e la Salve Regina finale sono pratiche comuni.",
+  "cycles": [
+   {
+    "name": "Misteri gaudiosi",
+    "days": "lunedì e sabato",
+    "mysteries": [
+     {
+      "name": "L'Annunciazione a Maria"
+     },
+     {
+      "name": "La Visitazione di Maria alla cugina Elisabetta"
+     },
+     {
+      "name": "La nascita di Gesù"
+     },
+     {
+      "name": "La presentazione di Gesù Bambino al Tempio"
+     },
+     {
+      "name": "Lo smarrimento e il ritrovamento di Gesù Bambino nel Tempio"
+     }
+    ]
+   },
+   {
+    "name": "Misteri luminosi",
+    "days": "giovedì",
+    "mysteries": [
+     {
+      "name": "Il Battesimo di Gesù nel Giordano"
+     },
+     {
+      "name": "L'autorivelazione di Gesù alle nozze di Cana"
+     },
+     {
+      "name": "L'annuncio del Regno di Dio"
+     },
+     {
+      "name": "La Trasfigurazione di Gesù"
+     },
+     {
+      "name": "L'istituzione dell'Eucaristia"
+     }
+    ]
+   },
+   {
+    "name": "Misteri dolorosi",
+    "days": "martedì e venerdì",
+    "mysteries": [
+     {
+      "name": "L'agonia di Gesù nell'orto"
+     },
+     {
+      "name": "La flagellazione di Gesù"
+     },
+     {
+      "name": "L'incoronazione di spine"
+     },
+     {
+      "name": "Gesù carica la croce sulla via del Calvario"
+     },
+     {
+      "name": "La crocifissione e morte di Gesù"
+     }
+    ]
+   },
+   {
+    "name": "Misteri gloriosi",
+    "days": "mercoledì e domenica",
+    "mysteries": [
+     {
+      "name": "La Risurrezione di Gesù"
+     },
+     {
+      "name": "L'Ascensione di Gesù al cielo"
+     },
+     {
+      "name": "La discesa dello Spirito Santo sugli apostoli"
+     },
+     {
+      "name": "L'Assunzione di Maria"
+     },
+     {
+      "name": "L'incoronazione di Maria in cielo"
+     }
+    ]
+   }
+  ],
+  "_src": "c7ebc875"
+ }
+}

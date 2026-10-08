@@ -1,0 +1,103 @@
+{
+ "ora-angelus": {
+  "title": "Angelus",
+  "summary": "Preghiera che ricorda l'Annunciazione e l'Incarnazione.",
+  "text": [
+   "V. L'Angelo del Signore portò l'annunzio a Maria.",
+   "R. Ed ella concepì per opera dello Spirito Santo.",
+   "Ave, o Maria...",
+   "V. Eccomi, sono la serva del Signore.",
+   "R. Si compia in me la tua parola.",
+   "Ave, o Maria...",
+   "V. E il Verbo si fece carne.",
+   "R. E venne ad abitare in mezzo a noi.",
+   "Ave, o Maria...",
+   "V. Prega per noi, santa Madre di Dio.",
+   "R. Perché siamo resi degni delle promesse di Cristo.",
+   "Preghiamo. Infondi nel nostro spirito la tua grazia, o Padre; tu, che nell'annunzio dell'angelo ci hai rivelato l'incarnazione del tuo Figlio, per la sua passione e la sua croce guidaci alla gloria della risurrezione. Per Cristo nostro Signore. Amen."
+  ],
+  "provenance": "Compendio del Catechismo della Chiesa Cattolica, Appendice (versione italiana, sito del Vaticano).",
+  "rights": "Preghiera tradizionale. Redazione conforme al Compendio in Vaticano; diritti dell'edizione o della traduzione non verificati legalmente.",
+  "_src": "d04023f7"
+ },
+ "ora-ave-maria": {
+  "title": "Ave Maria",
+  "summary": "Il saluto a Maria che unisce parole del Vangelo e una richiesta di intercessione; cuore del Rosario.",
+  "text": [
+   "Ave, o Maria, piena di grazia, il Signore è con te. Tu sei benedetta fra le donne e benedetto è il frutto del tuo seno, Gesù.",
+   "Santa Maria, Madre di Dio, prega per noi peccatori, adesso e nell'ora della nostra morte.",
+   "Amen."
+  ],
+  "provenance": "Compendio del Catechismo della Chiesa Cattolica, Appendice (versione italiana). La prima parte unisce parole di Lc 1,28 e Lc 1,42 (vedi Vaticano, misteri gaudiosi, che cita Lc 1,42).",
+  "rights": "Preghiera tradizionale. Redazione conforme al Compendio sul sito del Vaticano; diritti dell'edizione o della traduzione non verificati legalmente. La redazione usata nelle parrocchie può variare.",
+  "_src": "166026db"
+ },
+ "ora-gloria": {
+  "title": "Gloria al Padre",
+  "summary": "Dossologia trinitaria recitata alla fine di ogni decina del Rosario.",
+  "text": [
+   "Gloria al Padre e al Figlio e allo Spirito Santo.",
+   "Come era nel principio, e ora e sempre, nei secoli dei secoli.",
+   "Amen."
+  ],
+  "provenance": "Compendio del Catechismo della Chiesa Cattolica, Appendice (versione italiana, sito del Vaticano).",
+  "rights": "Preghiera tradizionale della Chiesa. Redazione conforme all'edizione del Compendio in Vaticano; diritti della traduzione o dell'edizione non verificati legalmente.",
+  "_src": "771c9e40"
+ },
+ "ora-magnificat": {
+  "title": "Magnificat",
+  "summary": "Il cantico di Maria in Lc 1,46-55, pregato nella Liturgia delle Ore.",
+  "text": [
+   "L'anima mia magnifica il Signore e il mio spirito esulta in Dio, mio salvatore,",
+   "perché ha guardato l'umiltà della sua serva. D'ora in poi tutte le generazioni mi chiameranno beata.",
+   "Grandi cose ha fatto in me l'Onnipotente e Santo è il suo nome;",
+   "di generazione in generazione la sua misericordia si stende su quelli che lo temono.",
+   "Ha spiegato la potenza del suo braccio, ha disperso i superbi nei pensieri del loro cuore;",
+   "ha rovesciato i potenti dai troni, ha innalzato gli umili;",
+   "ha ricolmato di beni gli affamati, ha rimandato i ricchi a mani vuote.",
+   "Ha soccorso Israele, suo servo, ricordandosi della sua misericordia, come aveva promesso ai nostri padri, ad Abramo e alla sua discendenza, per sempre.",
+   "Gloria al Padre e al Figlio e allo Spirito Santo.",
+   "Come era nel principio, e ora e sempre, nei secoli dei secoli. Amen."
+  ],
+  "provenance": "Compendio del Catechismo della Chiesa Cattolica, Appendice (versione italiana, sito del Vaticano). Testo biblico in Lc 1,46-55.",
+  "rights": "Testo biblico e preghiera tradizionale. Redazione conforme al Compendio in Vaticano; diritti dell'edizione o della traduzione non verificati legalmente.",
+  "_src": "ace53324"
+ },
+ "ora-salve-rainha": {
+  "title": "Salve Regina",
+  "summary": "Antifona mariana tradizionale, spesso recitata alla fine del Rosario.",
+  "text": [
+   "Salve, Regina, Madre di misericordia, vita, dolcezza e speranza nostra, salve.",
+   "A te ricorriamo, esuli figli di Eva;",
+   "a te sospiriamo, gementi e piangenti in questa valle di lacrime.",
+   "Orsù dunque, avvocata nostra, rivolgi a noi gli occhi tuoi misericordiosi.",
+   "E mostraci, dopo questo esilio, Gesù, il frutto benedetto del tuo seno.",
+   "O clemente, o pia, o dolce Vergine Maria.",
+   "Prega per noi, santa Madre di Dio, perché siamo resi degni delle promesse di Cristo."
+  ],
+  "provenance": "Compendio del Catechismo della Chiesa Cattolica, Appendice (versione italiana, sito del Vaticano).",
+  "rights": "Preghiera tradizionale. Redazione conforme al Compendio in Vaticano; diritti dell'edizione o della traduzione non verificati legalmente.",
+  "_src": "3a0860f2"
+ },
+ "ora-sinal-da-cruz": {
+  "title": "Segno della croce",
+  "summary": "La preghiera con cui inizia e termina la preghiera cristiana.",
+  "text": [
+   "Nel nome del Padre e del Figlio e dello Spirito Santo.",
+   "Amen."
+  ],
+  "provenance": "Compendio del Catechismo della Chiesa Cattolica, Appendice (versione italiana, sito del Vaticano).",
+  "rights": "Preghiera tradizionale della Chiesa. La redazione italiana segue l'edizione del Compendio sul sito del Vaticano, di uso comune; i diritti d'autore della traduzione o dell'edizione non sono stati oggetto di parere legale. Riprodotta in forma breve con indicazione della fonte.",
+  "_src": "4307d299"
+ },
+ "ora-sob-a-vossa-protecao": {
+  "title": "Sotto la tua protezione",
+  "summary": "Antica preghiera di fiducia in Maria nelle necessità.",
+  "text": [
+   "Sotto la tua protezione cerchiamo rifugio, santa Madre di Dio: non disprezzare le suppliche di noi che siamo nella prova, ma liberaci da ogni pericolo, o Vergine gloriosa e benedetta."
+  ],
+  "provenance": "Compendio del Catechismo della Chiesa Cattolica, Appendice (versione italiana, sito del Vaticano).",
+  "rights": "Preghiera tradizionale. Redazione conforme al Compendio in Vaticano; diritti dell'edizione o della traduzione non verificati legalmente.",
+  "_src": "946b508c"
+ }
+}

@@ -1,0 +1,103 @@
+{
+ "ora-angelus": {
+  "title": "Angelus",
+  "summary": "Gebet, das an die Verkündigung und die Menschwerdung erinnert.",
+  "text": [
+   "V. Der Engel des Herrn brachte Maria die Botschaft,",
+   "R. und sie empfing vom Heiligen Geist.",
+   "Gegrüßet seist du, Maria...",
+   "V. Maria sprach: Siehe, ich bin die Magd des Herrn;",
+   "R. mir geschehe nach deinem Wort.",
+   "Gegrüßet seist du, Maria...",
+   "V. Und das Wort ist Fleisch geworden",
+   "R. und hat unter uns gewohnt.",
+   "Gegrüßet seist du, Maria...",
+   "V. Bitte für uns, heilige Gottesmutter,",
+   "R. auf dass wir würdig werden der Verheißungen Christi.",
+   "Lasset uns beten. Allmächtiger Gott, gieße deine Gnade in unsere Herzen ein. Durch die Botschaft des Engels haben wir die Menschwerdung Christi, deines Sohnes, erkannt. Lass uns durch sein Leiden und Kreuz zur Herrlichkeit der Auferstehung gelangen. Darum bitten wir durch Christus, unseren Herrn. Amen."
+  ],
+  "provenance": "Kompendium des Katechismus der Katholischen Kirche, Anhang (deutsche Fassung, Website des Vatikans).",
+  "rights": "Überliefertes Gebet. Wortlaut nach dem Kompendium beim Vatikan; Rechte an Ausgabe oder Übersetzung nicht rechtlich geprüft.",
+  "_src": "d04023f7"
+ },
+ "ora-ave-maria": {
+  "title": "Gegrüßet seist du, Maria",
+  "summary": "Der Gruß an Maria, der Worte des Evangeliums mit einer Bitte um Fürsprache verbindet; Kern des Rosenkranzes.",
+  "text": [
+   "Gegrüßet seist du, Maria, voll der Gnade, der Herr ist mit dir. Du bist gebenedeit unter den Frauen, und gebenedeit ist die Frucht deines Leibes, Jesus.",
+   "Heilige Maria, Mutter Gottes, bitte für uns Sünder jetzt und in der Stunde unseres Todes.",
+   "Amen."
+  ],
+  "provenance": "Kompendium des Katechismus der Katholischen Kirche, Anhang (deutsche Fassung). Der erste Teil verbindet Worte aus Lk 1,28 und Lk 1,42 (siehe Vatikan, freudenreiche Geheimnisse, die Lk 1,42 zitieren).",
+  "rights": "Überliefertes Gebet. Wortlaut nach dem Kompendium auf der Website des Vatikans; Rechte an Ausgabe oder Übersetzung nicht rechtlich geprüft. Der in den Pfarreien gebräuchliche Wortlaut kann abweichen.",
+  "_src": "166026db"
+ },
+ "ora-gloria": {
+  "title": "Ehre sei dem Vater",
+  "summary": "Trinitarischer Lobpreis am Ende jedes Gesätzes des Rosenkranzes.",
+  "text": [
+   "Ehre sei dem Vater und dem Sohn und dem Heiligen Geist,",
+   "wie im Anfang, so auch jetzt und alle Zeit und in Ewigkeit.",
+   "Amen."
+  ],
+  "provenance": "Kompendium des Katechismus der Katholischen Kirche, Anhang (deutsche Fassung, Website des Vatikans).",
+  "rights": "Überliefertes Gebet der Kirche. Wortlaut nach der Ausgabe des Kompendiums beim Vatikan; Rechte an Übersetzung oder Ausgabe nicht rechtlich geprüft.",
+  "_src": "771c9e40"
+ },
+ "ora-magnificat": {
+  "title": "Magnificat",
+  "summary": "Der Lobgesang Marias aus Lk 1,46-55, gebetet im Stundengebet.",
+  "text": [
+   "Meine Seele preist die Größe des Herrn, und mein Geist jubelt über Gott, meinen Retter.",
+   "Denn auf die Niedrigkeit seiner Magd hat er geschaut. Siehe, von nun an preisen mich selig alle Geschlechter.",
+   "Denn der Mächtige hat Großes an mir getan, und sein Name ist heilig.",
+   "Er erbarmt sich von Geschlecht zu Geschlecht über alle, die ihn fürchten.",
+   "Er vollbringt mit seinem Arm machtvolle Taten: Er zerstreut, die im Herzen voll Hochmut sind;",
+   "er stürzt die Mächtigen vom Thron und erhöht die Niedrigen.",
+   "Die Hungernden beschenkt er mit seinen Gaben und lässt die Reichen leer ausgehen.",
+   "Er nimmt sich seines Knechtes Israel an und denkt an sein Erbarmen, das er unsern Vätern verheißen hat, Abraham und seinen Nachkommen auf ewig.",
+   "Ehre sei dem Vater und dem Sohn und dem Heiligen Geist,",
+   "wie im Anfang, so auch jetzt und alle Zeit und in Ewigkeit. Amen."
+  ],
+  "provenance": "Kompendium des Katechismus der Katholischen Kirche, Anhang (deutsche Fassung, Website des Vatikans). Bibeltext in Lk 1,46-55.",
+  "rights": "Bibeltext und überliefertes Gebet. Wortlaut nach dem Kompendium beim Vatikan; Rechte an Ausgabe oder Übersetzung nicht rechtlich geprüft.",
+  "_src": "ace53324"
+ },
+ "ora-salve-rainha": {
+  "title": "Salve Regina",
+  "summary": "Überlieferte marianische Antiphon, oft am Ende des Rosenkranzes gebetet.",
+  "text": [
+   "Sei gegrüßt, o Königin, Mutter der Barmherzigkeit, unser Leben, unsre Wonne und unsre Hoffnung, sei gegrüßt!",
+   "Zu dir rufen wir verbannte Kinder Evas;",
+   "zu dir seufzen wir trauernd und weinend in diesem Tal der Tränen.",
+   "Wohlan denn, unsre Fürsprecherin, wende deine barmherzigen Augen uns zu,",
+   "und nach diesem Elend zeige uns Jesus, die gebenedeite Frucht deines Leibes.",
+   "O gütige, o milde, o süße Jungfrau Maria.",
+   "Bitte für uns, heilige Gottesmutter, auf dass wir würdig werden der Verheißungen Christi."
+  ],
+  "provenance": "Kompendium des Katechismus der Katholischen Kirche, Anhang (deutsche Fassung, Website des Vatikans).",
+  "rights": "Überliefertes Gebet. Wortlaut nach dem Kompendium beim Vatikan; Rechte an Ausgabe oder Übersetzung nicht rechtlich geprüft.",
+  "_src": "3a0860f2"
+ },
+ "ora-sinal-da-cruz": {
+  "title": "Kreuzzeichen",
+  "summary": "Das Gebet, mit dem das christliche Gebet beginnt und endet.",
+  "text": [
+   "Im Namen des Vaters und des Sohnes und des Heiligen Geistes.",
+   "Amen."
+  ],
+  "provenance": "Kompendium des Katechismus der Katholischen Kirche, Anhang (deutsche Fassung, Website des Vatikans).",
+  "rights": "Überliefertes Gebet der Kirche. Der deutsche Wortlaut folgt der Ausgabe des Kompendiums auf der Website des Vatikans und ist allgemein gebräuchlich; die Urheberrechte an Übersetzung oder Ausgabe wurden nicht rechtlich geprüft. In kurzer Form mit Quellenangabe wiedergegeben.",
+  "_src": "4307d299"
+ },
+ "ora-sob-a-vossa-protecao": {
+  "title": "Unter deinen Schutz und Schirm",
+  "summary": "Altes Gebet des Vertrauens auf Maria in der Not.",
+  "text": [
+   "Unter deinen Schutz und Schirm fliehen wir, o heilige Gottesgebärerin. Verschmähe nicht unser Gebet in unseren Nöten, sondern erlöse uns jederzeit von allen Gefahren, o du glorreiche und gebenedeite Jungfrau."
+  ],
+  "provenance": "Kompendium des Katechismus der Katholischen Kirche, Anhang (deutsche Fassung, Website des Vatikans).",
+  "rights": "Überliefertes Gebet. Wortlaut nach dem Kompendium beim Vatikan; Rechte an Ausgabe oder Übersetzung nicht rechtlich geprüft.",
+  "_src": "946b508c"
+ }
+}

@@ -112,6 +112,8 @@ const BOOKS = {
   Eclo: { pt: 'Eclo', en: 'Sir', es: 'Eclo', fr: 'Si', it: 'Sir', de: 'Sir', ja: 'シラ書', zh: '德' },
   Lc: { pt: 'Lc', en: 'Lk', es: 'Lc', fr: 'Lc', it: 'Lc', de: 'Lk', ja: 'ルカ', zh: '路' },
   Mt: { pt: 'Mt', en: 'Mt', es: 'Mt', fr: 'Mt', it: 'Mt', de: 'Mt', ja: 'マタイ', zh: '玛' },
+  Lucas: { pt: 'Lucas', en: 'Lk', es: 'Lc', fr: 'Lc', it: 'Lc', de: 'Lk', ja: 'ルカ', zh: '路' },
+  Mateus: { pt: 'Mateus', en: 'Mt', es: 'Mt', fr: 'Mt', it: 'Mt', de: 'Mt', ja: 'マタイ', zh: '玛' },
   Mc: { pt: 'Mc', en: 'Mk', es: 'Mc', fr: 'Mc', it: 'Mc', de: 'Mk', ja: 'マルコ', zh: '谷' },
   Jo: { pt: 'Jo', en: 'Jn', es: 'Jn', fr: 'Jn', it: 'Gv', de: 'Joh', ja: 'ヨハネ', zh: '若' },
   At: { pt: 'At', en: 'Acts', es: 'Hch', fr: 'Ac', it: 'At', de: 'Apg', ja: '使徒言行録', zh: '宗' },
@@ -130,7 +132,7 @@ export function bibleRef(ref) {
     const m = part.trim().match(/^(\d?[A-Za-zÀ-ú]+)\s+(.+)$/);
     if (!m) return part.trim();
     const book = BOOKS[m[1]];
-    if (!book) { missing.add(`[livro bíblico] ${m[1]}`); return part.trim(); }
+    if (!book) return _(part.trim());
     const nums = (L.code === 'en' || isCJK) ? m[2].replace(/,/g, ':') : m[2];
     const sep = isCJK ? '' : ' ';
     return `${book[L.code]}${sep}${nums}`;

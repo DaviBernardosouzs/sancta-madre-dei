@@ -1,0 +1,644 @@
+{
+ "durer-anunciacao": {
+  "title": "L'Annonciation",
+  "alt": "Gravure en noir et blanc : dans une grande salle voûtée, l'ange et Marie sont agenouillés de part et d'autre ; en haut, une colombe.",
+  "caption": "Albrecht Dürer, L'Annonciation, de la série La Vie de la Vierge, 1511.",
+  "_src": "815f1171"
+ },
+ "durer-apresentacao-jesus": {
+  "title": "La Présentation de Jésus au Temple",
+  "alt": "Gravure en noir et blanc : dans une grande salle à colonnes, une femme agenouillée près d'une table d'autel, avec un prêtre et d'autres personnes autour.",
+  "caption": "Albrecht Dürer, La Présentation de Jésus au Temple, de la série La Vie de la Vierge, vers 1505.",
+  "_src": "b4626432"
+ },
+ "durer-apresentacao-maria": {
+  "title": "La Présentation de la Vierge au Temple",
+  "alt": "Gravure en noir et blanc : dans une cour à colonnes et à arcs, une enfant devant des prêtres à l'entrée du temple, avec de nombreux fidèles au premier plan.",
+  "caption": "Albrecht Dürer, La Présentation de la Vierge au Temple, de la série La Vie de la Vierge, vers 1503.",
+  "_src": "d4d75a15"
+ },
+ "durer-assuncao-coroacao": {
+  "title": "L'Assomption et le Couronnement de la Vierge",
+  "alt": "Gravure en noir et blanc : Marie est couronnée parmi les nuées par deux figures, avec une colombe ; en bas, des apôtres autour d'un tombeau ouvert.",
+  "caption": "Albrecht Dürer, L'Assomption et le Couronnement de la Vierge, de la série La Vie de la Vierge, 1510.",
+  "_src": "6bc5c414"
+ },
+ "durer-circuncisao": {
+  "title": "La Circoncision",
+  "alt": "Gravure en noir et blanc : à l'intérieur d'un temple, un prêtre et de nombreux fidèles réunis autour de l'Enfant ; Marie parmi eux.",
+  "caption": "Albrecht Dürer, La Circoncision, de la série La Vie de la Vierge, vers 1504.",
+  "_src": "229fcbb9"
+ },
+ "durer-despedida": {
+  "title": "Le Christ prend congé de sa Mère",
+  "alt": "Gravure en noir et blanc : en plein air, près d'une clôture et d'un arbre, une femme agenouillée, soutenue par d'autres, devant le Christ debout.",
+  "caption": "Albrecht Dürer, Le Christ prend congé de sa Mère, de la série La Vie de la Vierge, 1511.",
+  "_src": "861a4e7a"
+ },
+ "durer-desposorios": {
+  "title": "Le Mariage de la Vierge",
+  "alt": "Gravure en noir et blanc : sous un grand arc, un prêtre unit les mains d'un couple devant des témoins.",
+  "caption": "Albrecht Dürer, Le Mariage de la Vierge, de la série La Vie de la Vierge, vers 1504.",
+  "_src": "6be72f3d"
+ },
+ "durer-dormicao": {
+  "title": "La Mort de la Vierge",
+  "alt": "Gravure en noir et blanc : Marie couchée dans un lit à baldaquin, entourée des apôtres, l'un d'eux au premier plan avec un bâton.",
+  "caption": "Albrecht Dürer, La Mort de la Vierge, de la série La Vie de la Vierge, 1511.",
+  "_src": "66ef6264"
+ },
+ "durer-egito-sagrada-familia": {
+  "title": "La Sainte Famille en Égypte",
+  "alt": "Gravure en noir et blanc : devant des maisons, Marie assise avec l'Enfant et Joseph travaillant le bois ; des angelots ramassent des copeaux.",
+  "caption": "Albrecht Dürer, La Sainte Famille en Égypte, de la série La Vie de la Vierge, 1511.",
+  "_src": "ba6d90be"
+ },
+ "durer-entre-doutores": {
+  "title": "Jésus parmi les docteurs",
+  "alt": "Gravure en noir et blanc : Jésus adolescent devant un groupe de docteurs, dans un espace d'arcs et de colonnes ; Marie et Joseph à gauche.",
+  "caption": "Albrecht Dürer, Jésus parmi les docteurs, de la série La Vie de la Vierge, 1511.",
+  "_src": "66efe648"
+ },
+ "durer-fuga-egito": {
+  "title": "La Fuite en Égypte",
+  "alt": "Gravure en noir et blanc : Marie, montée sur un âne avec l'Enfant, et Joseph devant traversent un bois avec un palmier.",
+  "caption": "Albrecht Dürer, La Fuite en Égypte, de la série La Vie de la Vierge, 1511.",
+  "_src": "21d60abb"
+ },
+ "durer-glorificacao": {
+  "title": "La Glorification de la Vierge",
+  "alt": "Gravure en noir et blanc avec un texte latin en dessous : grande salle d'arcs et de colonnes où de nombreux personnages sont réunis autour de Marie.",
+  "caption": "Albrecht Dürer, La Glorification de la Vierge, de la série La Vie de la Vierge, 1511.",
+  "_src": "404877d2"
+ },
+ "durer-joaquim-anjo": {
+  "title": "Joachim et l'ange",
+  "alt": "Gravure en noir et blanc : un homme agenouillé dans un paysage d'arbres et de troupeau lève les yeux vers un ange aux grandes ailes qui descend entre les branches ; au fond, des bergers et un lac.",
+  "caption": "Albrecht Dürer, Joachim et l'ange, de la série La Vie de la Vierge, vers 1504.",
+  "_src": "76bc8809"
+ },
+ "durer-madona-crescente": {
+  "title": "La Vierge sur le croissant de lune, frontispice",
+  "alt": "Gravure en noir et blanc : la Vierge avec l'Enfant assise sur un croissant de lune, dans une auréole de rayons ; texte latin en haut.",
+  "caption": "Albrecht Dürer, La Vierge sur le croissant de lune, frontispice, de la série La Vie de la Vierge, vers 1511.",
+  "_src": "f2026eb0"
+ },
+ "durer-magos": {
+  "title": "L'Adoration des Mages",
+  "alt": "Gravure en noir et blanc : sous un toit de bois, Marie avec l'Enfant reçoit des hommes agenouillés au premier plan ; en haut, une étoile.",
+  "caption": "Albrecht Dürer, L'Adoration des Mages, de la série La Vie de la Vierge, vers 1502.",
+  "_src": "5926b2db"
+ },
+ "durer-nascimento-maria": {
+  "title": "La Naissance de la Vierge",
+  "alt": "Gravure en noir et blanc : intérieur avec un lit à baldaquin où repose la mère ; un ange vole sous l'arc, des femmes au premier plan prennent soin du nouveau-né.",
+  "caption": "Albrecht Dürer, La Naissance de la Vierge, de la série La Vie de la Vierge, vers 1503.",
+  "_src": "cacba2b9"
+ },
+ "durer-natividade": {
+  "title": "La Nativité",
+  "alt": "Gravure en noir et blanc : une étable au toit en ruine, Marie agenouillée devant l'Enfant, des anges en haut et une étoile.",
+  "caption": "Albrecht Dürer, La Nativité, de la série La Vie de la Vierge, 1502-3.",
+  "_src": "20efa2ac"
+ },
+ "durer-pentecostes": {
+  "title": "La Pentecôte",
+  "alt": "Gravure en noir et blanc : une colombe rayonne de lumière en haut ; en bas, des apôtres réunis et, au centre, une figure féminine assise et voilée, un livre sur les genoux.",
+  "caption": "Albrecht Dürer, La Pentecôte, de la série La Petite Passion, vers 1510.",
+  "_src": "41e46077"
+ },
+ "durer-porta-dourada": {
+  "title": "Joachim et Anne à la Porte dorée",
+  "alt": "Gravure en noir et blanc : sous un arc orné, un homme et une femme aux longs manteaux s'embrassent ; à gauche, d'autres personnages regardent ; au fond, une muraille et un paysage.",
+  "caption": "Albrecht Dürer, Joachim et Anne à la Porte dorée, de la série La Vie de la Vierge, vers 1504.",
+  "_src": "0377dbf6"
+ },
+ "durer-rejeicao-joaquim": {
+  "title": "Le Refus de l'offrande de Joachim",
+  "alt": "Gravure en noir et blanc : sous un grand arc, devant des tentures, des prêtres et d'autres personnes réunis autour d'une table d'autel où se fait une offrande.",
+  "caption": "Albrecht Dürer, Le Refus de l'offrande de Joachim, de la série La Vie de la Vierge, vers 1504.",
+  "_src": "1711b8e4"
+ },
+ "durer-visitacao": {
+  "title": "La Visitation",
+  "alt": "Gravure en noir et blanc : deux femmes s'embrassent devant une maison, dans un paysage de montagnes et d'arbres ; à la porte, un homme regarde.",
+  "caption": "Albrecht Dürer, La Visitation, de la série La Vie de la Vierge, 1503-4.",
+  "_src": "78b95943"
+ },
+ "foto-altagracia": {
+  "title": "Basílica Nuestra Señora de la Altagracia",
+  "alt": "Photographie : Basilique-cathédrale Notre-Dame de l'Altagracia (Higüey), vue extérieure ou sur le lieu de pèlerinage.",
+  "caption": "Basilique-cathédrale Notre-Dame de l'Altagracia (Higüey) : photographie du lieu.",
+  "_src": "67a704c7"
+ },
+ "foto-altotting": {
+  "title": "Chapel of Grace and St. Magdalena, Altoetting",
+  "alt": "Photographie : Sanctuaire Notre-Dame d'Altötting (chapelle des Grâces), vue extérieure ou sur le lieu de pèlerinage.",
+  "caption": "Sanctuaire Notre-Dame d'Altötting (chapelle des Grâces) : photographie du lieu.",
+  "_src": "a9e84524"
+ },
+ "foto-antipolo": {
+  "title": "Antipolo Cathedral facade 2014",
+  "alt": "Photographie : Sanctuaire international Notre-Dame de la Paix et du Bon Voyage (Antipolo), vue extérieure ou sur le lieu de pèlerinage.",
+  "caption": "Sanctuaire international Notre-Dame de la Paix et du Bon Voyage (Antipolo) : photographie du lieu.",
+  "_src": "d24521fb"
+ },
+ "foto-aparecida": {
+  "title": "Catedral Basílica de Aparecida",
+  "alt": "La basilique d'Aparecida, en brique, avec sa coupole et sa haute tour, vue de loin.",
+  "caption": "Sanctuaire national de Notre-Dame Aparecida : photographie du lieu.",
+  "_src": "432ba68e"
+ },
+ "foto-belem-nazare": {
+  "title": "Conjunto Arquitetônico de Nazaré (CAN), tendo ao fundo a Basílica de Nossa Senhora de Nazaré, um dos mais importantes te",
+  "alt": "Photographie : Basilique-sanctuaire Notre-Dame de Nazareth (Belém), vue extérieure ou sur le lieu de pèlerinage.",
+  "caption": "Basilique-sanctuaire Notre-Dame de Nazareth (Belém) : photographie du lieu.",
+  "_src": "62a10c0e"
+ },
+ "foto-caacupe": {
+  "title": "Basilica of Caacupé.",
+  "alt": "Photographie : Cathédrale-basilique Notre-Dame des Miracles (Caacupé), vue extérieure ou sur le lieu de pèlerinage.",
+  "caption": "Cathédrale-basilique Notre-Dame des Miracles (Caacupé) : photographie du lieu.",
+  "_src": "e234b7af"
+ },
+ "foto-cartago": {
+  "title": "Basilica of Our Lady of the Angels, Cartago, Costa Rica",
+  "alt": "Photographie : Basilique Notre-Dame des Anges (Cartago), vue extérieure ou sur le lieu de pèlerinage.",
+  "caption": "Basilique Notre-Dame des Anges (Cartago) : photographie du lieu.",
+  "_src": "a8c40feb"
+ },
+ "foto-chartres": {
+  "title": "west facade",
+  "alt": "Photographie : Cathédrale Notre-Dame de Chartres, vue extérieure ou sur le lieu de pèlerinage.",
+  "caption": "Cathédrale Notre-Dame de Chartres : photographie du lieu.",
+  "_src": "7bff86f5"
+ },
+ "foto-copacabana": {
+  "title": "Panoramic view of Copacabana, Bolivia, on the lake Titicaca. Photo taken from Calvario hill.",
+  "alt": "Vue de la ville de Copacabana, en Bolivie, au bord du lac Titicaca, entre les montagnes.",
+  "caption": "Basilique Notre-Dame de Copacabana (Bolivie) : photographie du lieu.",
+  "_src": "0c381c1d"
+ },
+ "foto-covadonga": {
+  "title": "Vista de cerca de la \"Santa Cueva\"La Santa cueva 2",
+  "alt": "La chapelle de la Sainte Grotte de Covadonga, nichée dans une cavité de la roche.",
+  "caption": "Sainte Grotte de Covadonga : photographie du lieu.",
+  "_src": "72b0d0e8"
+ },
+ "foto-efeso": {
+  "title": "Exterior of \"The House of the Virgin Mary\" near Ephesus, Selçuk in Turkey. Photographer: Martin H. Fryc. A note: the pho",
+  "alt": "La petite maison de pierre de Meryem Ana, parmi les arbres, près d'Éphèse.",
+  "caption": "Maison de Marie (Meryem Ana Evi), Éphèse : photographie du lieu.",
+  "_src": "52324c06"
+ },
+ "foto-einsiedeln": {
+  "title": "Einsiedeln Abbey with Lady Fountain, Canton of Schwyz (Switzerland)",
+  "alt": "Photographie : Abbaye d'Einsiedeln (Vierge noire), vue extérieure ou sur le lieu de pèlerinage.",
+  "caption": "Abbaye d'Einsiedeln (Vierge noire) : photographie du lieu.",
+  "_src": "ce99d1ff"
+ },
+ "foto-fatima": {
+  "title": "em1018_2083257",
+  "alt": "La vaste esplanade du sanctuaire de Fatima, avec la basilique et sa tour au fond.",
+  "caption": "Sanctuaire de Fatima (Cova da Iria) : photographie du lieu.",
+  "_src": "440c849e"
+ },
+ "foto-fourviere": {
+  "title": "The first place we were to visit..... The Basilica of Notre-Dame de Fourvière is a minor basilica in Lyon. It was built ",
+  "alt": "Photographie : Basilique Notre-Dame de Fourvière (Lyon), vue extérieure ou sur le lieu de pèlerinage.",
+  "caption": "Basilique Notre-Dame de Fourvière (Lyon) : photographie du lieu.",
+  "_src": "9787e634"
+ },
+ "foto-guadalupe-extremadura": {
+  "title": "Claustro mudéjar en el Monasterio de Guadalupe",
+  "alt": "Photographie : Monastère royal de Santa María de Guadalupe (Estrémadure), vue extérieure ou sur le lieu de pèlerinage.",
+  "caption": "Monastère royal de Santa María de Guadalupe (Estrémadure) : photographie du lieu.",
+  "_src": "cea7114c"
+ },
+ "foto-guadalupe-mexico": {
+  "title": "Nacional Basílica de Santa María de Guadalupe, Mexico City, Mexico",
+  "alt": "La basilique moderne de Guadalupe, au plan circulaire et au toit vert, devant une grande place.",
+  "caption": "Basilique Notre-Dame de Guadalupe (Mexico) : photographie du lieu.",
+  "_src": "155502af"
+ },
+ "foto-harissa": {
+  "title": "Statue of Our Lady of Lebanon in Harissa, Lebanon.",
+  "alt": "La grande statue blanche de Notre-Dame du Liban au sommet d'une tour, sur le ciel bleu.",
+  "caption": "Sanctuaire Notre-Dame du Liban (Harissa) : photographie du lieu.",
+  "_src": "38d18745"
+ },
+ "foto-jasna-gora": {
+  "title": "Częstochowa, zespół klasztorny oo. Paulinów na Jasnej Górze",
+  "alt": "Photographie : Sanctuaire de Jasna Góra (Częstochowa), vue extérieure ou sur le lieu de pèlerinage.",
+  "caption": "Sanctuaire de Jasna Góra (Częstochowa) : photographie du lieu.",
+  "_src": "ab501851"
+ },
+ "foto-lichen": {
+  "title": "View at dusk of the Basilica of Our Lady of Sorrows, Queen of Poland, located in the village of Licheń Stary, near Konin",
+  "alt": "Photographie : Basilique Notre-Dame de Licheń, vue extérieure ou sur le lieu de pèlerinage.",
+  "caption": "Basilique Notre-Dame de Licheń : photographie du lieu.",
+  "_src": "4e93ccb0"
+ },
+ "foto-loreto": {
+  "title": "Basilica del Santuario di Loreto",
+  "alt": "Photographie : Sanctuaire de la Sainte Maison de Lorette, vue extérieure ou sur le lieu de pèlerinage.",
+  "caption": "Sanctuaire de la Sainte Maison de Lorette : photographie du lieu.",
+  "_src": "a18c5af4"
+ },
+ "foto-lourdes": {
+  "title": "La basilique de l'Immaculée-Conception et la basilique Notre-Dame du Rosaire, Lourdes, Hautes-Pyrénées, France.",
+  "alt": "La vallée de Lourdes vue d'en haut, avec l'esplanade verte et la basilique au fond, entre les montagnes.",
+  "caption": "Sanctuaire Notre-Dame de Lourdes : photographie du lieu.",
+  "_src": "1153a097"
+ },
+ "foto-lujan": {
+  "title": "Marienbasilika von Luján, Argentinien",
+  "alt": "Photographie : Basilique Notre-Dame de Luján, vue extérieure ou sur le lieu de pèlerinage.",
+  "caption": "Basilique Notre-Dame de Luján : photographie du lieu.",
+  "_src": "3db4a8d8"
+ },
+ "foto-manaoag": {
+  "title": "This is a photo of a cultural heritage property in the Philippines with ID",
+  "alt": "Photographie : Sanctuaire Notre-Dame du Saint-Rosaire de Manaoag, vue extérieure ou sur le lieu de pèlerinage.",
+  "caption": "Sanctuaire Notre-Dame du Saint-Rosaire de Manaoag : photographie du lieu.",
+  "_src": "4fa0dfcd"
+ },
+ "foto-mariazell": {
+  "title": "Die Nordwestansicht der Basilika, Pfarr- und Wallfahrtskirche Maria Geburt in der obersteirischen Stadt Mariazell.",
+  "alt": "Photographie : Basilique de Mariazell (Nativité de Marie), vue extérieure ou sur le lieu de pèlerinage.",
+  "caption": "Basilique de Mariazell (Nativité de Marie) : photographie du lieu.",
+  "_src": "2141762d"
+ },
+ "foto-montserrat": {
+  "title": "Basilica de Montserrat",
+  "alt": "Le monastère de Montserrat au pied de grandes parois rocheuses.",
+  "caption": "Abbaye Sainte-Marie de Montserrat : photographie du lieu.",
+  "_src": "67171b7d"
+ },
+ "foto-nazare-anunciacao": {
+  "title": "Church of the Annunciation, Nazareth, Israel",
+  "alt": "Photographie : Basilique de l'Annonciation (Nazareth), vue extérieure ou sur le lieu de pèlerinage.",
+  "caption": "Basilique de l'Annonciation (Nazareth) : photographie du lieu.",
+  "_src": "bf704ef6"
+ },
+ "foto-notre-dame-afrique": {
+  "title": "Notre-Dame d'Afrique, Algiers",
+  "alt": "Photographie : Basilique Notre-Dame d'Afrique (Alger), vue extérieure ou sur le lieu de pèlerinage.",
+  "caption": "Basilique Notre-Dame d'Afrique (Alger) : photographie du lieu.",
+  "_src": "63cc1450"
+ },
+ "foto-notre-dame-de-la-garde": {
+  "title": "Notre-Dame de la Garde",
+  "alt": "Photographie : Basilique Notre-Dame de la Garde (Marseille), vue extérieure ou sur le lieu de pèlerinage.",
+  "caption": "Basilique Notre-Dame de la Garde (Marseille) : photographie du lieu.",
+  "_src": "2f7efc62"
+ },
+ "foto-notre-dame-montreal": {
+  "title": "Basilique Notre-Dame de Montréal",
+  "alt": "Photographie : Basilique Notre-Dame de Montréal, vue extérieure ou sur le lieu de pèlerinage.",
+  "caption": "Basilique Notre-Dame de Montréal : photographie du lieu.",
+  "_src": "1a886a09"
+ },
+ "foto-notre-dame-paris": {
+  "title": "Cathedral Notre Dame de Paris, West view, Paris, France",
+  "alt": "Photographie : Cathédrale Notre-Dame de Paris, vue extérieure ou sur le lieu de pèlerinage.",
+  "caption": "Cathédrale Notre-Dame de Paris : photographie du lieu.",
+  "_src": "46048d5f"
+ },
+ "foto-pilar": {
+  "title": "Zaragoza - Basilica de Nuestra Señora del Pilar",
+  "alt": "Photographie : Cathédrale-basilique Notre-Dame du Pilier (Saragosse), vue extérieure ou sur le lieu de pèlerinage.",
+  "caption": "Cathédrale-basilique Notre-Dame du Pilier (Saragosse) : photographie du lieu.",
+  "_src": "05864127"
+ },
+ "foto-pompeia": {
+  "title": "Le Santuario della Beata Vergine del Rosario de Pompei (Italie).",
+  "alt": "Photographie : Sanctuaire pontifical de la Vierge du Rosaire de Pompéi, vue extérieure ou sur le lieu de pèlerinage.",
+  "caption": "Sanctuaire pontifical de la Vierge du Rosaire de Pompéi : photographie du lieu.",
+  "_src": "655554a1"
+ },
+ "foto-rue-du-bac": {
+  "title": "La maison des Filles de la charité, 136-140 rue du Bac, à Paris.",
+  "alt": "Façade de la maison mère des Filles de la Charité, rue du Bac, à Paris.",
+  "caption": "Chapelle Notre-Dame de la Médaille miraculeuse (rue du Bac, Paris) : photographie du lieu.",
+  "_src": "b0babfdf"
+ },
+ "foto-sameiro": {
+  "title": "Our Lady of Sameiro sanctuary in Braga, Braga District, Portugal This building is classified as Sem proteção legal.It is",
+  "alt": "Photographie : Sanctuaire Notre-Dame du Sameiro (Braga), vue extérieure ou sur le lieu de pèlerinage.",
+  "caption": "Sanctuaire Notre-Dame du Sameiro (Braga) : photographie du lieu.",
+  "_src": "544ae9f6"
+ },
+ "foto-santa-maria-maior": {
+  "title": "Basilica di Santa Maria Maggiore",
+  "alt": "Photographie : Basilique Sainte-Marie-Majeure (Rome), vue extérieure ou sur le lieu de pèlerinage.",
+  "caption": "Basilique Sainte-Marie-Majeure (Rome) : photographie du lieu.",
+  "_src": "e2603dfa"
+ },
+ "foto-sheshan": {
+  "title": "The She Shan Basilica in Shanghai, China",
+  "alt": "La basilique de Sheshan au sommet d'une colline boisée.",
+  "caption": "Basilique Notre-Dame de Sheshan (Shanghai) : photographie du lieu.",
+  "_src": "5094c7c6"
+ },
+ "foto-siracusa": {
+  "title": "Basilica Santuario Madonna delle Lacrime di Siracusa",
+  "alt": "Vue aérienne du sanctuaire de Syracuse, une grande couverture conique en béton parmi les immeubles de la ville.",
+  "caption": "Sanctuaire Notre-Dame des Larmes (Syracuse) : photographie du lieu.",
+  "_src": "851cecbf"
+ },
+ "foto-sydney": {
+  "title": "St Mary's Cathedral, Sydney, Australia",
+  "alt": "Photographie : Cathédrale Sainte-Marie (Sydney), Marie Auxiliatrice, vue extérieure ou sur le lieu de pèlerinage.",
+  "caption": "Cathédrale Sainte-Marie (Sydney), Marie Auxiliatrice : photographie du lieu.",
+  "_src": "bdc569f2"
+ },
+ "foto-tumba-maria": {
+  "title": "Mary's tomb - outside view",
+  "alt": "Portail de pierre en arc de l'église du Sépulcre de Marie, à Jérusalem.",
+  "caption": "Église du Sépulcre de la Vierge Marie (Jérusalem) : photographie du lieu.",
+  "_src": "4b51afc5"
+ },
+ "foto-washington": {
+  "title": "The Basilica of the National Shrine of the Immaculate Conception located next to The Catholic University of America camp",
+  "alt": "Photographie : Basilique du sanctuaire national de l'Immaculée Conception (Washington), vue extérieure ou sur le lieu de pèlerinage.",
+  "caption": "Basilique du sanctuaire national de l'Immaculée Conception (Washington) : photographie du lieu.",
+  "_src": "90b41ca0"
+ },
+ "foto-yamoussoukro": {
+  "title": "La photo du dessus de la Basilique notre Dame de la Paix de Yamoussoukro",
+  "alt": "L'immense coupole de la basilique Notre-Dame de la Paix, à Yamoussoukro.",
+  "caption": "Basilique Notre-Dame de la Paix (Yamoussoukro) : photographie du lieu.",
+  "_src": "6ebc3780"
+ },
+ "img-criancas-fatima": {
+  "title": "Children of Fátima portrait (Attributed to Joshua Benoliel), Ilustração Portuguesa, 1917",
+  "alt": "Photographie ancienne aux tons sépia de trois enfants debout devant un mur de pierre : deux fillettes au voile sombre et un garçon au chapeau au centre.",
+  "caption": "Les trois enfants de Fatima, sur une photographie attribuée à Joshua Benoliel, publiée dans Ilustração Portuguesa en 1917.",
+  "_src": "58fcaaa6"
+ },
+ "img-gruta-lourdes": {
+  "title": "La grotte miraculeuse à Lourdes (vers 1860)",
+  "alt": "Gravure ancienne aux tons sépia montrant la grotte de Massabielle, à Lourdes, entre rochers et arbres, avec quelques petits personnages au bord de la rivière.",
+  "caption": "La grotte de Massabielle, à Lourdes, dans une gravure d'environ 1860.",
+  "_src": "8561a2ca"
+ },
+ "img-virgem-em-oracao": {
+  "title": "La Vierge en prière",
+  "alt": "Peinture de Marie en prière : voile clair sur la tête, manteau bleu, mains jointes et yeux baissés, sur fond sombre.",
+  "caption": "Sassoferrato, La Vierge en prière, vers 1640-50.",
+  "_src": "0c1a7e83"
+ },
+ "obra-bellini-dormindo": {
+  "title": "La Vierge adorant l'Enfant endormi",
+  "alt": "Marie, les mains jointes, en manteau bleu-gris et voile clair, sous un arc ouvert sur le ciel, contemple l'Enfant Jésus endormi devant elle.",
+  "caption": "Giovanni Bellini, La Vierge adorant l'Enfant endormi, début des années 1460.",
+  "_src": "203f9de1"
+ },
+ "obra-bellini-madona": {
+  "title": "Vierge à l'Enfant",
+  "alt": "Marie, dans un manteau bleu profond et un voile clair, tient l'Enfant Jésus nu devant une étoffe rouge ; à gauche, une fenêtre s'ouvre sur un ciel nuageux, des montagnes et un village.",
+  "caption": "Giovanni Bellini, Vierge à l'Enfant, fin des années 1480.",
+  "_src": "c5416741"
+ },
+ "obra-carnevale-nascimento": {
+  "title": "La Naissance de la Vierge",
+  "alt": "Peinture d'une architecture classique de colonnes et d'arcs dans des tons gris sous un ciel bleu ; des femmes en vêtements bleus et rosés traversent le sol au premier plan et, au fond, d'autres prennent soin d'un nouveau-né.",
+  "caption": "Fra Carnevale, La Naissance de la Vierge, 1467.",
+  "_src": "fdb44b1a"
+ },
+ "obra-david-crucificacao": {
+  "title": "La Crucifixion",
+  "alt": "Le Christ en croix au-dessus d'un paysage avec une ville au loin ; à gauche, Marie, au voile clair et au manteau sombre, et Jean ; à droite, saint Jérôme et une sainte agenouillée.",
+  "caption": "Gerard David, La Crucifixion, vers 1495.",
+  "_src": "45bf3176"
+ },
+ "obra-david-descanso": {
+  "title": "Le Repos pendant la fuite en Égypte",
+  "alt": "Marie, en manteau bleu, assise sur un tertre avec l'Enfant sur les genoux, sous de grands arbres, devant un vaste paysage avec une ville et un ciel clair.",
+  "caption": "Gerard David, Le Repos pendant la fuite en Égypte, vers 1512-15.",
+  "_src": "09930276"
+ },
+ "obra-david-natividade": {
+  "title": "La Nativité",
+  "alt": "Marie et Joseph agenouillés en adoration devant l'Enfant couché sur le sol, parmi des ruines dont les arcs s'ouvrent sur un paysage ; au fond, des bergers regardent.",
+  "caption": "Gerard David, La Nativité, début des années 1480.",
+  "_src": "595b2dcb"
+ },
+ "obra-david-virgem-paisagem": {
+  "title": "La Vierge à l'Enfant",
+  "alt": "Marie, aux longs cheveux et au manteau sombre, tient l'Enfant en tunique claire, devant un paysage d'arbres, de lac et de montagnes bleutées.",
+  "caption": "Gerard David, La Vierge à l'Enfant, vers 1520.",
+  "_src": "61e0580b"
+ },
+ "obra-durer-virgem": {
+  "title": "La Vierge à l'Enfant",
+  "alt": "Marie, le visage incliné et les yeux baissés, en manteau rouge, tient sur ses genoux l'Enfant Jésus nu, sur fond sombre.",
+  "caption": "Albrecht Dürer, La Vierge à l'Enfant, 1516.",
+  "_src": "dcec09c4"
+ },
+ "obra-flandes-cana": {
+  "title": "Les Noces de Cana",
+  "alt": "Des convives à une table couverte de blanc dans une salle à colonnes ; Jésus et Marie, voilée, sont assis à gauche, et un serviteur verse l'eau d'une cruche près des grandes jarres.",
+  "caption": "Juan de Flandes, Les Noces de Cana, vers 1497.",
+  "_src": "d4d8d695"
+ },
+ "obra-memling-anunciacao": {
+  "title": "L'Annonciation",
+  "alt": "L'ange Gabriel, en vêtements brodés d'or, et Marie, en manteau bleu sur une robe rouge, agenouillée devant un livre, dans une chambre au rideau rouge et à la fenêtre ouverte.",
+  "caption": "Hans Memling, L'Annonciation, vers 1465-70.",
+  "_src": "e49ffe3a"
+ },
+ "obra-pieta-alema": {
+  "title": "Pietà",
+  "alt": "Sculpture polychrome : Marie, en manteau doré et voile, assise, tient sur ses genoux le corps du Christ mort, la tête renversée en arrière.",
+  "caption": "Pietà, sculpture allemande en bois polychrome, 1435-40 (The Cloisters).",
+  "_src": "a999ad8e"
+ },
+ "obra-ram-visitacao": {
+  "title": "La Visitation (panneau du retable de saint Jean)",
+  "alt": "Marie, en manteau bleu et nimbe doré, embrasse Élisabeth, en manteau vert ; à côté, une femme en rose et un vieillard en tunique dorée, dans une cour au sol rosé.",
+  "caption": "Domingo Ram, La Visitation (panneau du retable de saint Jean), XVe siècle.",
+  "_src": "01d43b54"
+ },
+ "obra-raphael-entronizada": {
+  "title": "La Vierge à l'Enfant en majesté, avec des saints",
+  "alt": "Marie trônant avec l'Enfant, entre des saints, sous un arc doré couronné par Dieu le Père et des anges, dans un cadre architectural sur fond gris.",
+  "caption": "Raphaël, La Vierge à l'Enfant en majesté, avec des saints, vers 1504.",
+  "_src": "843d16eb"
+ },
+ "obra-reni-imaculada": {
+  "title": "L'Immaculée Conception",
+  "alt": "Marie debout sur un croissant de lune, en robe rose et manteau bleu, les mains jointes et le regard levé, dans un ciel doré et nuageux, entre deux anges.",
+  "caption": "Guido Reni, L'Immaculée Conception, 1627.",
+  "_src": "4fc9f277"
+ },
+ "obra-rosario-misterios": {
+  "title": "Les Quinze Mystères et la Vierge du Rosaire",
+  "alt": "Panneau de quinze petites scènes de la vie de Jésus et de Marie, en trois rangées, au-dessus de la Vierge du Rosaire dans une niche dorée, parmi des fidèles.",
+  "caption": "Peintre néerlandais (Bruxelles), Les Quinze Mystères et la Vierge du Rosaire, vers 1515-20.",
+  "_src": "023d069c"
+ },
+ "obra-saraceni-dormicao": {
+  "title": "La Dormition de la Vierge",
+  "alt": "Marie, en manteau bleu, les mains jointes, entourée des apôtres aux vêtements rouges, ocre et verts, dans une grande salle à colonnes.",
+  "caption": "Carlo Saraceni, La Dormition de la Vierge, vers 1612.",
+  "_src": "310f176a"
+ },
+ "obra-signorelli-assuncao": {
+  "title": "L'Assomption de la Vierge avec saint Michel et saint Benoît",
+  "alt": "Marie trônant sur des nuées, en manteau bleu-gris, les mains jointes, entourée d'anges musiciens ; en bas, saint Michel en armure, terrassant le démon, et saint Benoît.",
+  "caption": "Luca Signorelli, L'Assomption de la Vierge avec saint Michel et saint Benoît, vers 1493-96.",
+  "_src": "237703ae"
+ },
+ "retrato-akita": {
+  "title": "Our Lady of Akita Japan",
+  "alt": "Sculpture en bois de Marie devant une croix, les bras ouverts vers le bas.",
+  "caption": "La statue de Notre-Dame d'Akita (Japon).",
+  "_src": "39956f3b"
+ },
+ "retrato-altagracia": {
+  "title": "Imagen oficial de Nuestra Señora de la Altagracia.",
+  "alt": "Peinture de Marie aux mains jointes, en manteau bleu étoilé et couronne, devant l'Enfant couché ; Joseph apparaît au fond, à gauche.",
+  "caption": "L'image de Notre-Dame de l'Altagracia (Higüey, République dominicaine).",
+  "_src": "ac93c806"
+ },
+ "retrato-antipolo": {
+  "title": "The Black Madonna image of Our Lady of Peace and Good Voyage, also known as Our Lady of Antipolo, enshrined at the Antip",
+  "alt": "Statue sombre de Marie au riche manteau brodé, avec couronne et auréole dorées.",
+  "caption": "Notre-Dame de la Paix et du Bon Voyage, dans la cathédrale d'Antipolo (Philippines).",
+  "_src": "e9437cd8"
+ },
+ "retrato-aparecida": {
+  "title": "Devoção à imagem, na Basílica do Santuário Nacional de Nossa Senhora da Conceição Aparecida.",
+  "alt": "Des fidèles prient devant la niche dorée où se trouve la petite statue sombre de Notre-Dame Aparecida.",
+  "caption": "La statue de Notre-Dame Aparecida dans la basilique du sanctuaire national, à Aparecida (Brésil).",
+  "_src": "b729ead1"
+ },
+ "retrato-banneux": {
+  "title": "The statue and source of Mary Virgin of the poor at Banneux",
+  "alt": "Petite statue blanche de Marie dans une niche de pierre, au-dessus d'une source, entourée de fleurs.",
+  "caption": "La statue de la Vierge des Pauvres près de la source de Banneux (Belgique).",
+  "_src": "f75229d3"
+ },
+ "retrato-boa-saude-vailankanni": {
+  "title": "Our Lady of Vailankanni, a statue in the crypt of Basilique Notre-Dame de Fourvière, Lyon, France.",
+  "alt": "Statue de Marie avec l'Enfant, tous deux portant de hautes couronnes dorées, sur fond rouge.",
+  "caption": "Statue de Notre-Dame de Vailankanni dans la crypte de la basilique de Fourvière, à Lyon (France). Ce n'est pas la statue du sanctuaire indien.",
+  "_src": "373b661c"
+ },
+ "retrato-cartago": {
+  "title": "Sculpture of the Virgen de los Ángeles in the Basilica of Our Lady of the Angels, Cartago, Costa Rica",
+  "alt": "Petite statue sombre de Marie avec l'Enfant, sur une pierre, avec des fleurs à côté.",
+  "caption": "La Vierge des Anges, la « Negrita », dans la basilique de Cartago (Costa Rica).",
+  "_src": "ddec0c42"
+ },
+ "retrato-covadonga": {
+  "title": "Imaxe de la Virxe de Cuadonga, la Santina, con mantu blancu.",
+  "alt": "Petite statue de Marie avec l'Enfant, au manteau blanc brodé et couronnée.",
+  "caption": "La Vierge de Covadonga, « la Santina », dans les Asturies (Espagne).",
+  "_src": "766cc44c"
+ },
+ "retrato-einsiedeln": {
+  "title": "Schwarze Madonna von Einsiedeln, mit Kind. Steht in der Klosterkirche von Einsiedeln in der Schweiz. Liegt an einem Weg ",
+  "alt": "La chapelle des grâces, en marbre noir, à l'intérieur de l'église abbatiale ; au centre, la petite statue sombre de Marie, et des fidèles assis devant.",
+  "caption": "La Vierge noire d'Einsiedeln (Suisse).",
+  "_src": "7e9549bd"
+ },
+ "retrato-fatima": {
+  "title": "Fatima",
+  "alt": "Statue de Marie vêtue de blanc aux bords dorés, les mains jointes, un chapelet pendant, sous une couronne.",
+  "caption": "La première statue de Notre-Dame de Fatima (Portugal).",
+  "_src": "8d4be868"
+ },
+ "retrato-guadalupe-mexico": {
+  "title": "Original Picture of Our Lady of Guadalupe (also known as the Virgin of Guadalupe) shown in the Basilica of Our Lady of G",
+  "alt": "Marie debout sur la lune, dans un manteau bleu-vert couvert d'étoiles, les mains jointes et entourée de rayons dorés, soutenue par un ange.",
+  "caption": "L'image de Notre-Dame de Guadalupe vénérée dans la basilique de Guadalupe, à Mexico.",
+  "_src": "e48a91a7"
+ },
+ "retrato-harissa": {
+  "title": "Statue of Our Lady of Lebanon in Harissa, Lebanon.",
+  "alt": "Grande statue blanche de Marie aux bras ouverts sur un piédestal, sur le ciel.",
+  "caption": "La statue de Notre-Dame du Liban, à Harissa (Liban).",
+  "_src": "bb60429b"
+ },
+ "retrato-jasna-gora": {
+  "title": "Obraz Matki Bożej Częstochowskiej",
+  "alt": "Icône au visage sombre : Marie tient l'Enfant sur son bras gauche et le désigne ; deux cicatrices marquent sa joue droite.",
+  "caption": "L'icône de Notre-Dame de Częstochowa (Jasna Góra, Pologne), sans son revêtement.",
+  "_src": "b28f6932"
+ },
+ "retrato-kibeho": {
+  "title": "Ishusho ya Bikira Mariya Nyina wa Jambo, akaba kandi yitwa Mwamikazi wa Kibeho, iherereye mu cyanya cy'Ingoro ya Yezu Ny",
+  "alt": "Statue de Marie en manteau bleu et robe blanche, les mains jointes, sur un piédestal portant l'inscription « Kibeho ».",
+  "caption": "Statue de Notre-Dame de Kibeho (« Nyina wa Jambo », Mère du Verbe), au sanctuaire de Ruhango (Rwanda). Ce n'est pas la statue de Kibeho.",
+  "_src": "eabca79e"
+ },
+ "retrato-la-salette": {
+  "title": "Statue de la Vierge de la Salette avec les enfants (détail), intérieur de l'église de Corps.",
+  "alt": "Statue de Marie avec une couronne de roses, un crucifix et une chaîne sur la poitrine, devant deux enfants.",
+  "caption": "Statue de Notre-Dame de La Salette avec les enfants, dans l'église de Corps (France).",
+  "_src": "895bb21a"
+ },
+ "retrato-lourdes": {
+  "title": "The grotto where St Bernadette's visions took place is very simple and stark. Above the main recess is the niche where t",
+  "alt": "Statue blanche de Marie à la ceinture bleue, les mains jointes, en haut d'une niche dans le rocher de la grotte.",
+  "caption": "La statue de Notre-Dame dans la niche de la grotte de Massabielle, à Lourdes (France).",
+  "_src": "af7be839"
+ },
+ "retrato-lujan": {
+  "title": "Statue of Our Lady of Lujan in the Institute's seminary in the United States.",
+  "alt": "Petite statue de Marie en manteau bleu et blanc, entourée de rayons dorés, sur un piédestal.",
+  "caption": "Réplique de la statue de Notre-Dame de Luján (Argentine), dans un séminaire aux États-Unis. Ce n'est pas la statue originale de la basilique.",
+  "_src": "12cefdca"
+ },
+ "retrato-manaoag": {
+  "title": "Our lady of Manaoag",
+  "alt": "Statue de Marie aux vêtements dorés et couronnée, dans une niche richement ornée, avec des fleurs blanches devant.",
+  "caption": "Notre-Dame du Saint-Rosaire de Manaoag (Philippines).",
+  "_src": "e0ecc39e"
+ },
+ "retrato-mariazell": {
+  "title": "Gnadenstatue von Mariazell, \"Magna Mater Austriae\"",
+  "alt": "Petite statue de Marie au manteau rouge, sur un autel d'argent entouré de colonnes dorées.",
+  "caption": "La statue miraculeuse de Mariazell, « Magna Mater Austriae » (Autriche).",
+  "_src": "67360046"
+ },
+ "retrato-montserrat": {
+  "title": "The Virgin of Montserrat",
+  "alt": "Sculpture de Marie au visage sombre, assise, avec l'Enfant sur les genoux, tous deux couronnés et vêtus d'or.",
+  "caption": "La Vierge de Montserrat, la « Moreneta » (Catalogne, Espagne).",
+  "_src": "da6c3345"
+ },
+ "retrato-nossa-senhora-da-china": {
+  "title": "An apparition of the Blessed Virgin Mary in Donglu, China, first appearing in 190",
+  "alt": "Marie avec l'Enfant, tous deux en vêtements et couronnes impériales chinoises, dans une peinture ancienne.",
+  "caption": "Notre-Dame de Chine, dans une image d'environ 1900, en vêtements impériaux.",
+  "_src": "ac6e31aa"
+ },
+ "retrato-pompeia": {
+  "title": "Basilica di San Gennaro ad Antignano (Napoli) - Nella navata destra, sulla parete destra, in corrispondenza della 2° col",
+  "alt": "Peinture de Marie trônant avec l'Enfant, remettant le rosaire à saint Dominique et à sainte Catherine.",
+  "caption": "Copie du tableau de Notre-Dame du Rosaire de Pompéi, dans la basilique San Gennaro ad Antignano, à Naples. Ce n'est pas l'original de Pompéi.",
+  "_src": "d50b5a35"
+ },
+ "retrato-santa-maria-maior": {
+  "title": "Salus Populi Romani icon after restoration, completed by the work of the Vatican Museum conservators in 2018.",
+  "alt": "Icône de Marie en manteau bleu foncé bordé d'or, tenant l'Enfant, qui porte un livre ; fond doré.",
+  "caption": "L'icône Salus Populi Romani (basilique Sainte-Marie-Majeure, Rome), après la restauration des Musées du Vatican achevée en 2018.",
+  "_src": "5f1c59a9"
+ },
+ "retrato-suyapa": {
+  "title": "Artistic representation of the Virgin of Suyapa, Patron of Honduras and central America.",
+  "alt": "Dessin de la petite statue de Marie aux mains jointes, avec manteau et auréole.",
+  "caption": "Représentation artistique de la Vierge de Suyapa (Honduras). Ce n'est pas une photographie de la statue vénérée.",
+  "_src": "12b92d21"
+ },
+ "retrato-walsingham": {
+  "title": "The statue of Our Lady of Walsingham, the Slipper Chapel, Walsingham, Norfolk, England.",
+  "alt": "Statue couronnée de Marie avec l'Enfant, également couronné, et une branche de lys.",
+  "caption": "La statue de Notre-Dame de Walsingham dans la Slipper Chapel (Angleterre).",
+  "_src": "097912cc"
+ }
+}

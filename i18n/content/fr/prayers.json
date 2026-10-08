@@ -1,0 +1,103 @@
+{
+ "ora-angelus": {
+  "title": "Angélus",
+  "summary": "Prière qui rappelle l'Annonciation et l'Incarnation.",
+  "text": [
+   "V. L'ange du Seigneur apporta l'annonce à Marie,",
+   "R. Et elle conçut du Saint-Esprit.",
+   "Je vous salue, Marie...",
+   "V. Voici la servante du Seigneur.",
+   "R. Qu'il me soit fait selon votre parole.",
+   "Je vous salue, Marie...",
+   "V. Et le Verbe s'est fait chair,",
+   "R. Et il a habité parmi nous.",
+   "Je vous salue, Marie...",
+   "V. Priez pour nous, sainte Mère de Dieu.",
+   "R. Afin que nous soyons rendus dignes des promesses du Christ.",
+   "Prions. Que ta grâce, Seigneur notre Père, se répande en nos cœurs : par le message de l'ange, tu nous as fait connaître l'incarnation de ton Fils bien-aimé ; conduis-nous, par sa passion et par sa croix, jusqu'à la gloire de la résurrection. Par Jésus-Christ, notre Seigneur. Amen."
+  ],
+  "provenance": "Abrégé du Catéchisme de l'Église catholique, Appendice (version française, site du Vatican).",
+  "rights": "Prière traditionnelle. Rédaction conforme à l'Abrégé au Vatican ; droits de l'édition ou de la traduction non vérifiés juridiquement.",
+  "_src": "d04023f7"
+ },
+ "ora-ave-maria": {
+  "title": "Je vous salue, Marie",
+  "summary": "La salutation à Marie qui unit des paroles de l'Évangile et une demande d'intercession ; cœur du Rosaire.",
+  "text": [
+   "Je vous salue, Marie, pleine de grâce ; le Seigneur est avec vous. Vous êtes bénie entre toutes les femmes, et Jésus, le fruit de vos entrailles, est béni.",
+   "Sainte Marie, Mère de Dieu, priez pour nous, pauvres pécheurs, maintenant et à l'heure de notre mort.",
+   "Amen."
+  ],
+  "provenance": "Abrégé du Catéchisme de l'Église catholique, Appendice (version française). La première partie unit des paroles de Lc 1,28 et Lc 1,42 (voir Vatican, mystères joyeux, qui cite Lc 1,42).",
+  "rights": "Prière traditionnelle. Rédaction conforme à l'Abrégé sur le site du Vatican ; droits de l'édition ou de la traduction non vérifiés juridiquement. Une forme plus récente, « le Seigneur est avec toi... », est aussi en usage ; la rédaction employée dans les paroisses peut varier.",
+  "_src": "166026db"
+ },
+ "ora-gloria": {
+  "title": "Gloire au Père",
+  "summary": "Doxologie trinitaire récitée à la fin de chaque dizaine du Rosaire.",
+  "text": [
+   "Gloire au Père, et au Fils, et au Saint-Esprit,",
+   "comme il était au commencement, maintenant et toujours, et dans les siècles des siècles.",
+   "Amen."
+  ],
+  "provenance": "Abrégé du Catéchisme de l'Église catholique, Appendice (version française, site du Vatican).",
+  "rights": "Prière traditionnelle de l'Église. Rédaction conforme à l'édition de l'Abrégé au Vatican ; droits de la traduction ou de l'édition non vérifiés juridiquement.",
+  "_src": "771c9e40"
+ },
+ "ora-magnificat": {
+  "title": "Magnificat",
+  "summary": "Le cantique de Marie en Lc 1,46-55, prié dans la liturgie des Heures.",
+  "text": [
+   "Mon âme exalte le Seigneur, exulte mon esprit en Dieu, mon Sauveur !",
+   "Il s'est penché sur son humble servante ; désormais tous les âges me diront bienheureuse.",
+   "Le Puissant fit pour moi des merveilles ; Saint est son nom !",
+   "Sa miséricorde s'étend d'âge en âge sur ceux qui le craignent.",
+   "Déployant la force de son bras, il disperse les superbes.",
+   "Il renverse les puissants de leurs trônes, il élève les humbles.",
+   "Il comble de biens les affamés, renvoie les riches les mains vides.",
+   "Il relève Israël son serviteur, il se souvient de son amour, de la promesse faite à nos pères, en faveur d'Abraham et sa descendance à jamais.",
+   "Gloire au Père, et au Fils, et au Saint-Esprit,",
+   "pour les siècles des siècles. Amen."
+  ],
+  "provenance": "Abrégé du Catéchisme de l'Église catholique, Appendice (version française, site du Vatican). Texte biblique en Lc 1,46-55.",
+  "rights": "Texte biblique et prière traditionnelle. Rédaction conforme à l'Abrégé au Vatican ; droits de l'édition ou de la traduction non vérifiés juridiquement.",
+  "_src": "ace53324"
+ },
+ "ora-salve-rainha": {
+  "title": "Salve Regina",
+  "summary": "Antienne mariale traditionnelle, souvent récitée à la fin du Rosaire.",
+  "text": [
+   "Salut, ô Reine, Mère de miséricorde, notre vie, notre douceur et notre espérance, salut !",
+   "Enfants d'Ève, exilés, nous crions vers vous ;",
+   "vers vous nous soupirons, gémissant et pleurant dans cette vallée de larmes.",
+   "Ô vous, notre avocate, tournez vers nous vos regards miséricordieux.",
+   "Et, après cet exil, montrez-nous Jésus, le fruit béni de vos entrailles.",
+   "Ô clémente, ô miséricordieuse, ô douce Vierge Marie.",
+   "Priez pour nous, sainte Mère de Dieu, afin que nous soyons rendus dignes des promesses du Christ."
+  ],
+  "provenance": "Abrégé du Catéchisme de l'Église catholique, Appendice (version française, site du Vatican).",
+  "rights": "Prière traditionnelle. Rédaction conforme à l'Abrégé au Vatican ; droits de l'édition ou de la traduction non vérifiés juridiquement.",
+  "_src": "3a0860f2"
+ },
+ "ora-sinal-da-cruz": {
+  "title": "Signe de la croix",
+  "summary": "La prière par laquelle commence et se termine la prière chrétienne.",
+  "text": [
+   "Au nom du Père, et du Fils, et du Saint-Esprit.",
+   "Amen."
+  ],
+  "provenance": "Abrégé du Catéchisme de l'Église catholique, Appendice (version française, site du Vatican).",
+  "rights": "Prière traditionnelle de l'Église. La rédaction française suit l'édition de l'Abrégé sur le site du Vatican, d'usage courant ; les droits d'auteur de la traduction ou de l'édition n'ont pas fait l'objet d'un avis juridique. Reproduite sous forme brève avec indication de la source.",
+  "_src": "4307d299"
+ },
+ "ora-sob-a-vossa-protecao": {
+  "title": "Sous l'abri de ta miséricorde",
+  "summary": "Ancienne prière de confiance en Marie dans les besoins.",
+  "text": [
+   "Sous l'abri de votre miséricorde, nous nous réfugions, sainte Mère de Dieu ; ne méprisez pas nos prières quand nous sommes dans l'épreuve, mais de tous les dangers délivrez-nous toujours, Vierge glorieuse et bénie."
+  ],
+  "provenance": "Abrégé du Catéchisme de l'Église catholique, Appendice (version française, site du Vatican).",
+  "rights": "Prière traditionnelle. Rédaction conforme à l'Abrégé au Vatican ; droits de l'édition ou de la traduction non vérifiés juridiquement.",
+  "_src": "946b508c"
+ }
+}
