@@ -579,6 +579,26 @@ body.modo-leitura h1 { font-size: 1.7rem; }
 /* ---------- rodapé: atalho para o pedido de oração ---------- */
 .rodape__pedir a { display: inline-flex; align-items: center; gap: .5rem; min-height: 44px; font-weight: 700; }
 
+/* ---------- fim da página inicial: índice de todo o site ---------- */
+.indice-site { border-top: 1px solid var(--filete); }
+.indice-site__sobre { margin: 0 0 .6rem; font-size: .8125rem; letter-spacing: .26em; text-transform: uppercase; color: var(--ouro); }
+.indice-site h2 { margin-top: 0; }
+.indice-site__pedir { display: grid; grid-template-columns: auto 1fr auto; align-items: center; column-gap: 1.1rem; margin: 1.5rem 0 2.5rem; padding: 1.4rem 1.6rem; color: #f6e7bd; text-decoration: none; background: radial-gradient(120% 140% at 0% 0%, #22306e 0%, #111a3d 60%); box-shadow: inset 0 0 0 1px #e3c27a55, 0 24px 40px -28px #111a3d; transition: transform .35s var(--suave), box-shadow .35s var(--suave); }
+.indice-site__pedir:hover { transform: translateY(-2px); box-shadow: inset 0 0 0 1px #e3c27a, 0 30px 50px -28px #111a3d; }
+.indice-site__pedir .pedir__icone { grid-row: span 2; width: 34px; height: 34px; color: #e3c27a; }
+.indice-site__pt { font-family: var(--serifa); font-weight: 600; font-size: clamp(1.5rem, 1.2rem + 1.2vw, 2rem); line-height: 1.1; color: #fbf4e2; }
+.indice-site__pr { grid-column: 2; color: #d8cfb6; max-width: 60ch; }
+.indice-site__seta { grid-column: 3; grid-row: 1 / span 2; font-size: 1.8rem; color: #e3c27a; transition: transform .35s var(--suave); }
+.indice-site__pedir:hover .indice-site__seta { transform: translateX(4px); }
+.indice-site__grade { list-style: none; margin: 0; padding: 0; display: grid; gap: 0 2.5rem; }
+@media (min-width: 40rem) { .indice-site__grade { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+@media (min-width: 62rem) { .indice-site__grade { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
+.indice-site__grade li { max-width: none; border-top: 1px solid var(--filete); }
+.indice-site__grade a { display: grid; gap: .2rem; padding: 1rem 0 1.1rem; min-height: 44px; text-decoration: none; color: var(--tinta); }
+.indice-site__t { font-family: var(--serifa); font-weight: 600; font-size: 1.35rem; line-height: 1.15; color: var(--ultramar); transition: color .25s var(--suave); }
+.indice-site__r { font-size: .9375rem; color: var(--tinta-2); }
+.indice-site__grade a:hover .indice-site__t, .indice-site__grade a:focus-visible .indice-site__t { color: var(--ouro); }
+
 /* ---------- página de orações: chamada para o mural de pedidos ---------- */
 .chamada-pedido { margin: var(--e4) 0; padding: var(--e3) var(--e3) var(--e2); background: var(--papel-2); border-left: 3px solid var(--ouro-filete); }
 .chamada-pedido h2 { display: flex; align-items: center; gap: .6rem; margin-top: 0; }

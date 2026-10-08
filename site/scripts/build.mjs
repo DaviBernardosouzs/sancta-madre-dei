@@ -466,6 +466,39 @@ const letras = (text) => `<span class="f-titulo__l" aria-hidden="true">${wordsOf
 const palavras = (text) => wordsOf(text).map((w) => `<span class="f-pal">${esc(w)}</span>`).join(JOIN);
 const creditoCurto = (id) => { const im = imageById[id]; return `${esc(_p(im.author))}${im.institution ? ` · ${esc(_(im.institution).split(',')[0])}` : ''}`; };
 
+/** Uma linha sobre cada seção do menu: o índice do fim da página inicial. */
+const RESUMO_SECAO = {
+  'vida-de-maria/': 'Os capítulos da vida de Maria, na ordem da narrativa.',
+  'fe-catolica/': 'O que a Igreja ensina sobre Maria: dogmas e títulos.',
+  'aparicoes/': 'Aparições, relatos e a decisão da Igreja sobre cada uma.',
+  'milagres/': 'Curas e milagres, com o que foi investigado.',
+  'promessas/': 'Rosário, escapulários, medalhas e outras devoções.',
+  'titulos/': 'Os nomes de Maria e de onde vem cada um.',
+  'maria-pelo-mundo/': 'O atlas: títulos, santuários e festas em cada país.',
+  'aprofundar/': 'Catorze caminhos de estudo, da Mariologia à pesquisa documentada.',
+  'oracoes/': 'Orações marianas e o guia do Rosário.',
+  'dossie/': 'Capítulos de pesquisa com as fontes de cada afirmação.',
+  'biblioteca/': 'Documentos, fontes e licenças de tudo o que o site usa.',
+  'sobre/': 'Quem faz o site, o método e como pedir correções.',
+  'galeria/': 'Todas as obras, em tamanho ampliado.',
+  'cronologia/': 'A história de Maria e da devoção, em datas.',
+  'santuarios/': 'Lugares de peregrinação e o que a Igreja decidiu sobre eles.',
+  'calendario/': 'As festas marianas ao longo do ano.',
+  'busca/': 'Procure qualquer tema, lugar ou oração.'
+};
+/** Fim da página inicial: o pedido de oração em destaque e todas as seções do menu, cada uma com uma linha. */
+function indiceDoSite() {
+  const secoes = [...NAV, ...UTIL].filter(([p]) => p !== 'pedidos-de-oracao/' && RESUMO_SECAO[p]);
+  return `<section class="secao indice-site" id="indice" aria-labelledby="indice-titulo">
+  <div class="miolo">
+    <p class="indice-site__sobre" data-revela>${esc(_('Por onde continuar'))}</p>
+    <h2 id="indice-titulo" data-revela>${esc(_('Todos os conteúdos sobre Maria'))}</h2>
+    <a class="indice-site__pedir" href="${href('pedidos-de-oracao/')}" data-revela>${VELA}<span class="indice-site__pt">${esc(_('Pedir oração'))}</span><span class="indice-site__pr">${esc(_('Deixe o seu nome e a sua necessidade no mural da semana. Outras pessoas rezam por você.'))}</span><span class="indice-site__seta" aria-hidden="true">→</span></a>
+    <ul class="indice-site__grade">${secoes.map(([p, rot]) => `<li><a href="${href(p)}"><span class="indice-site__t">${esc(_(rot))}</span><span class="indice-site__r">${esc(_(RESUMO_SECAO[p]))}</span></a></li>`).join('')}</ul>
+  </div>
+</section>`;
+}
+
 function pageHome() {
   const lourdes = cat.apparitions.find((a) => a.slug === 'lourdes');
   const fatima = cat.apparitions.find((a) => a.slug === 'fatima');
@@ -669,7 +702,9 @@ function pageHome() {
     </dl>
     <p>${_h('No acervo inicial, {milagres} registros de milagres e {devocoes} de promessas aguardam verificação e ficam fora do catálogo público. <a href="{link}">Conheça o método</a>.', { milagres: drafts.miracles, devocoes: drafts.devotions, link: href('sobre/') })}</p>
   </div>
-</section>`;
+</section>
+
+${indiceDoSite()}`;
   return layout({
     title: SITE, path: '', section: '', body, home: true, ogImage: 'obra-bellini-madona',
     description: _('Livro digital independente sobre Maria: a sua vida segundo a Escritura, a fé católica, aparições, santuários, devoções e orações, com as fontes e a autoridade de cada decisão.'),
