@@ -56,6 +56,6 @@ Inspeção do manifesto, das variantes locais e da folha de contato (`capturas/a
 - Gravuras de Dürer: conjunto estilisticamente coerente para história e leitura; usadas inteiras. Pietà permanece documental, sem animar a escultura.
 - Lourdes/Fátima: reproduções documentais preservadas, sem simular fotografias dos acontecimentos.
 - Sassoferrato: origem Commons com a ressalva institucional já registrada, sem elevar o grau de certeza.
-- Arquivos de public/: sem procedência confirmada, continuam excluídos.
+- Arquivos de docs/referencias-pessoais/: sem procedência confirmada, continuam excluídos.
 
 Não houve recoloração, reconstrução ou geração de figuras sacras. Recortes decorativos são reproduzíveis com `npm run prepare-images -- --only-derived`; as variantes completas só são regeneradas pelo comando sem a opção.

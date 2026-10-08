@@ -23,7 +23,7 @@
 1. Escolha no acervo de um museu com declaração de uso aberta e confirme `isPublicDomain` e a licença.
 2. Acrescente a entrada em `content/images.json` (crédito completo, `alt` descritivo, `focus`, `related`).
 3. `npm run fetch-art` e `npm run prepare-images` (requer ImageMagick); confira o enquadramento no navegador.
-4. Use em `banner` do registro e inclua o id em `GALERIA_ORDEM` (em `scripts/build.mjs`) para entrar na galeria.
+4. Use em `banner` do registro e inclua o id em `GALERIA_ORDEM` (em `site/scripts/build.mjs`) para entrar na galeria.
 5. `npm run painel` atualiza o painel de referências; `npm run check` valida.
 
 ## Corrigir um registro

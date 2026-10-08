@@ -2,7 +2,7 @@
 
 ## Atualização cinematográfica de 05/10/2026
 
-A implementação atual está em `src/assets/cinematic.css` (composição) e `src/assets/app.js` (movimento). Veja [storyboard](STORYBOARD.md), [curadoria](AUDITORIA-VISUAL.md) e [revisão renderizada](REVISAO-CINEMATOGRAFICA.md). As seções abaixo registram a direção anterior e permanecem como histórico.
+A implementação atual está em `site/src/assets/css/cinematic.css` (composição) e `site/src/assets/js/app.js` (movimento). Veja [storyboard](STORYBOARD.md), [curadoria](AUDITORIA-VISUAL.md) e [revisão renderizada](REVISAO-CINEMATOGRAFICA.md). As seções abaixo registram a direção anterior e permanecem como histórico.
 
 As duas skills de design agora estão instaladas em `.agents/skills/` para Codex, sem duplicar GSAP. O percurso usa a abertura de Bellini, a Anunciação de Memling, o manto e a paisagem de Gerard David. A navegação abre por `details` nativo em qualquer largura. A primeira dobra deixa a obra inteira; celular, tablet e desktop têm composições próprias.
 
@@ -41,7 +41,7 @@ Design Read: referência editorial devocional para público amplo, incluindo ido
 - Regras adotadas das skills: sem travessões no texto visível, sem faixas decorativas, sem selos sobre imagens, eyebrows com moderação, tema com modo escuro, estados vazios compostos, movimento sempre motivado, `matchMedia` para redução de movimento e celular, ScrollTrigger só em animações de topo, animar apenas transform e opacity.
 
 ## Paleta (extraída das obras)
-Amostras medidas nas imagens (ver `docs/painel-de-referencias.html`): manto de Bellini (#161424 a #1A1A32 nas sombras), cortina madder (#952A0C), ocres e dourados (#B89764, #B8935D), céus de Gerard David (#789EAC), verde de paisagem (#545136), umbra (#582B22). Tokens finais, ajustados para contraste, em `src/assets/style.css`:
+Amostras medidas nas imagens (ver `docs/painel-de-referencias.html`): manto de Bellini (#161424 a #1A1A32 nas sombras), cortina madder (#952A0C), ocres e dourados (#B89764, #B8935D), céus de Gerard David (#789EAC), verde de paisagem (#545136), umbra (#582B22). Tokens finais, ajustados para contraste, em `site/src/assets/css/style.css`:
 
 | Token | Valor | Uso |
 |---|---|---|
@@ -55,7 +55,7 @@ Amostras medidas nas imagens (ver `docs/painel-de-referencias.html`): manto de B
 Modo escuro automático: azul-noite (#0f1530) com ouro claro (#e0bd6a).
 
 ## Tipografia
-Cormorant Garamond 500/600/500 itálico (títulos, citações bíblicas e orações) e Atkinson Hyperlegible 400/700 (texto e interface; desenhada para baixa visão). Ambas SIL OFL 1.1, auto-hospedadas em `src/assets/fonts/`. Corpo 19 px, entrelinha 1,7, coluna de 62 caracteres, numerais alinhados nos títulos de bloco.
+Cormorant Garamond 500/600/500 itálico (títulos, citações bíblicas e orações) e Atkinson Hyperlegible 400/700 (texto e interface; desenhada para baixa visão). Ambas SIL OFL 1.1, auto-hospedadas em `site/src/assets/fonts/`. Corpo 19 px, entrelinha 1,7, coluna de 62 caracteres, numerais alinhados nos títulos de bloco.
 
 ## Ambientes e fundos
 Nenhum fundo sólido repetido. Cada tela tem um ambiente derivado das obras:
@@ -71,7 +71,7 @@ Quinze pinturas do acervo Open Access do The Metropolitan Museum of Art (CC0 dec
 
 Enquadramento: cada obra tem ponto focal para desktop e celular (`focus`), e as aberturas mostram a pintura **inteira** (sem cortar rosto, mãos ou o Menino). A visualização ampliada abre a imagem maior com legenda e crédito.
 
-## Movimento (GSAP 3.15, copiado sem modificação para `src/assets/vendor/`)
+## Movimento (GSAP 3.15, copiado sem modificação para `site/src/assets/vendor/`)
 Tudo é camada opcional: o HTML é legível sem JavaScript, com GSAP indisponível ou com movimento reduzido.
 - **Abertura da página inicial (timeline):** a pintura já está na página; aproximação lenta (escala 1,07 para 1), o céu entra, o título sobe palavra por palavra de dentro de uma máscara, depois subtítulo, texto e botões em grupos, e por fim a navegação.
 - **Abertura de capítulos:** bruma, obra e texto em sequência, título por palavras.

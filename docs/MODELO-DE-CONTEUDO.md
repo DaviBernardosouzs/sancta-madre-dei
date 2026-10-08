@@ -1,6 +1,6 @@
 # Modelo de conteúdo
 
-Todo registro tem `id` estável (ex.: `apar-lourdes-1858`), `slug`, `status` (`published` ou `draft`), `title`, `summary`, `review` e relações por id. Os campos obrigatórios por tipo são impostos por `scripts/lib/content.mjs`.
+Todo registro tem `id` estável (ex.: `apar-lourdes-1858`), `slug`, `status` (`published` ou `draft`), `title`, `summary`, `review` e relações por id. Os campos obrigatórios por tipo são impostos por `site/scripts/lib/content.mjs`.
 
 ## Fontes (`sources.json`)
 `id`, `type` (magisterio, catecismo, escritura, decreto-diocesano, santuario, estudo), `title`, `institution`, `url` (https), `documentDate`, `accessedDate`, `note`, `supports` (as afirmações exatas que a fonte sustenta).

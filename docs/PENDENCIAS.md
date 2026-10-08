@@ -23,7 +23,7 @@
 - Sem AVIF (ImageMagick local sem suporte): WebP apenas.
 - Visualizador ampliado: sem zoom por gesto de pinça próprio (o navegador amplia a página normalmente).
 - Textos de legenda das obras limitam-se aos dados do acervo; contexto iconográfico e histórico das obras não foi pesquisado.
-- Cartões de `public/`: avaliar procedência e licença se o autor quiser usá-los.
+- Cartões de `docs/referencias-pessoais/`: avaliar procedência e licença se o autor quiser usá-los.
 
 ## Produto
 - Mapa interativo: adiado até haver coordenadas verificadas.

@@ -6,7 +6,7 @@ O site vira um aplicativo Android com o [Capacitor](https://capacitorjs.com). O 
 
 | Peça | Onde |
 |---|---|
-| Modo app do build (`--app`) | `scripts/build.mjs`: saída em `dist-app/`, links de página apontando para `index.html` (o servidor local do Capacitor não resolve pastas) e imagens até 1280 px (o pacote cai de 117 MB para cerca de 59 MB) |
+| Modo app do build (`--app`) | `site/scripts/build.mjs`: saída em `dist-app/`, links de página apontando para `index.html` (o servidor local do Capacitor não resolve pastas) e imagens até 1280 px (o pacote cai de 117 MB para cerca de 59 MB) |
 | Configuração do app | `capacitor.config.json` (id `io.github.davibernardosouzs.sanctamaterdei`) |
 | Projeto Android nativo | `android/` (ícones, splash, tema, assinatura por variáveis de ambiente) |
 | Build automático | `.github/workflows/android.yml` |

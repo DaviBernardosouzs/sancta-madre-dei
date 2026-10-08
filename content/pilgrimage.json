@@ -89,8 +89,8 @@
       ],
       "map": {
         "enabled": true,
-        "routeFile": "/src/assets/pilgrimage-map/holy-family-router.json",
-        "waypointsFile": "/src/assets/pilgrimage-map/holy-family-waypoints.json",
+        "routeFile": "site/data/peregrinacao/holy-family-router.json",
+        "waypointsFile": "site/data/peregrinacao/holy-family-waypoints.json",
         "defaultCenter": {
           "lat": 31.5,
           "lng": 35.0

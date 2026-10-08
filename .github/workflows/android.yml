@@ -16,7 +16,8 @@ on:
     paths:
       - 'android/**'
       - 'capacitor.config.json'
-      - 'scripts/build.mjs'
+      - 'site/**'
+      - 'content/**'
       - 'package.json'
       - '.github/workflows/android.yml'
 

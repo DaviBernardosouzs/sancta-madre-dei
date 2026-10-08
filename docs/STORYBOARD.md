@@ -29,13 +29,13 @@ Pigmentos existentes: marfim #f8f1e1, azul profundo #111a3d, ultramar #1d3a8c, u
 
 ## Curadoria
 
-41 imagens existentes, variantes WebP, manifest com dimensões e crédito estruturado. Originais e variantes preservados. Bellini tem definição suficiente para a abertura; Memling alongado pede `contain`; paisagens são usadas apenas como ambientação, não como registro de localidades. Fotografias de Lourdes/Fátima são documentais e ficam nas respectivas fichas. Gravuras de Dürer permanecem no acervo e na leitura. Sassoferrato/Commons conserva a ressalva de procedência já documentada. Referências pessoais em `public/` continuam fora da publicação.
+41 imagens existentes, variantes WebP, manifest com dimensões e crédito estruturado. Originais e variantes preservados. Bellini tem definição suficiente para a abertura; Memling alongado pede `contain`; paisagens são usadas apenas como ambientação, não como registro de localidades. Fotografias de Lourdes/Fátima são documentais e ficam nas respectivas fichas. Gravuras de Dürer permanecem no acervo e na leitura. Sassoferrato/Commons conserva a ressalva de procedência já documentada. Referências pessoais em `docs/referencias-pessoais/` continuam fora da publicação.
 
 Consultados novamente em 05/10/2026: [Bellini](https://www.metmuseum.org/art/collection/search/435641), [Memling](https://www.metmuseum.org/art/collection/search/437490) e [Open Access do Met](https://www.metmuseum.org/hubs/open-access). As páginas das obras indicam Public Domain; a política declara CC0 para imagens Open Access. Registro integral de autoria, origem e licença em `content/images.json`. Não foram inventados novos créditos nem alterados os fatos religiosos.
 
 ## Versão cinematográfica (5 de outubro de 2026, noite)
 
-A página inicial passou a ser montada como um filme em atos (`scripts/build.mjs` › `pageHome`, `src/assets/filme.css`, `src/assets/filme.js`). O movimento continua opcional e reversível: tudo nasce dentro do `gsap.matchMedia()` de `app.js`, e "Ler sem animações", `prefers-reduced-motion`, falta de GSAP ou de JavaScript deixam a composição estática completa.
+A página inicial passou a ser montada como um filme em atos (`site/scripts/build.mjs` › `pageHome`, `site/src/assets/css/filme.css`, `site/src/assets/js/filme.js`). O movimento continua opcional e reversível: tudo nasce dentro do `gsap.matchMedia()` de `app.js`, e "Ler sem animações", `prefers-reduced-motion`, falta de GSAP ou de JavaScript deixam a composição estática completa.
 
 | Ato | Obra | Movimento (desktop) | Celular / estático |
 |---|---|---|---|
