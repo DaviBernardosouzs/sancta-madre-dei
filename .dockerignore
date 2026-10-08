@@ -1,0 +1,7 @@
+# o build da imagem só usa site/ e content/
+*
+!site/
+!content/
+!deploy/nginx.conf
+site/**/node_modules
+site/art-originals

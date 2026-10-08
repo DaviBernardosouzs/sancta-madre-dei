@@ -1,20 +1,13 @@
+# Sobe o site gerado com nginx em http://localhost:8080
+#   docker compose -f deploy/docker-compose.yml up --build
 services:
-  sancta-madre-dei-app:
+  site:
     build:
-      context: .
-      dockerfile: Dockerfile
-
-    container_name: sancta-madre-dei-dev
-    
+      context: ..
+      dockerfile: deploy/Dockerfile
+      args:
+        SITE_URL: http://localhost:8080
+    container_name: sancta-mater-dei
     ports:
-      - "5173:5173"
-
-    volumes:
-      - .:/app
-      - .:/node_modules
-      
-    environment:
-      - NODE_ENV=development
-
-
+      - "8080:80"
     restart: unless-stopped
