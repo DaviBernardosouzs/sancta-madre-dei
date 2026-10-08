@@ -4,6 +4,7 @@ import { readFileSync, readdirSync, statSync, existsSync } from 'node:fs';
 import { join, dirname } from 'node:path';
 import { loadContent } from '../lib/content.mjs';
 import { CAMINHOS } from '../lib/caminhos.mjs';
+import { LOCALES } from '../lib/i18n.mjs';
 
 const DIST = CAMINHOS.saida();
 const BASE = (process.env.BASE_PATH ?? '/').replace(/\/?$/, '/');
@@ -26,7 +27,10 @@ for (const [file, html] of cache) {
     if (!/<title>[^<]{5,}<\/title>/.test(html)) problems.push(`${rel}: sem <title>`);
     if (!/<meta name="description" content="[^"]{20,}"/.test(html)) problems.push(`${rel}: sem meta description`);
     if ((html.match(/<h1[\s>]/g) ?? []).length !== 1) problems.push(`${rel}: deve ter exatamente um h1`);
-    if (!/<html lang="pt-BR">/.test(html)) problems.push(`${rel}: sem lang`);
+    // cada pasta de idioma (/en/, /es/...) declara o seu idioma; a raiz é português
+    const pasta = rel.split('/')[1];
+    const esperado = LOCALES.find((l) => l.prefix === `${pasta}/`)?.lang ?? 'pt-BR';
+    if (!new RegExp(`<html lang="${esperado}"[\\s>]`).test(html)) problems.push(`${rel}: sem lang="${esperado}"`);
   }
   const DECORATIVA = ['abertura__bruma', 'passagem__arte', 'heroi__ceu', 'ambiente__arte', 'faixa-oracao__arte', 'aria-hidden="true"'];
   for (const m of html.matchAll(/<img\b[^>]*>/g)) {
