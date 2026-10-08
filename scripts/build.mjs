@@ -1545,9 +1545,13 @@ const NOT_FOUND = {
   zh: ['找不到页面', '该地址不存在或已更改。', '首页', '搜索']
 };
 function page404() {
-  const body = `<div class="miolo pagina"><h1>${esc(NOT_FOUND.pt[0])}</h1>
-${LOCALES.map((l) => { const [t, m, h, s] = NOT_FOUND[l.code]; return `<p lang="${l.lang}"${l.code === 'pt' ? ' class="lede"' : ''}><strong>${esc(t)}.</strong> ${esc(m)} <a href="${hrefIn(l.code, '')}">${esc(h)}</a> · <a href="${hrefIn(l.code, 'busca/')}">${esc(s)}</a></p>`; }).join('\n')}</div>`;
-  return layout({ title: NOT_FOUND.pt[0], path: '404.html', body, description: NOT_FOUND.pt[0], alternates: false });
+  // Na raiz: uma linha em cada idioma. Em /en/, /es/...: só no idioma da pasta (a hospedagem serve o 404.html mais próximo).
+  const so = L.code !== DEFAULT_LOCALE;
+  const lista = so ? LOCALES.filter((l) => l.code === L.code) : LOCALES;
+  const [titulo] = NOT_FOUND[L.code];
+  const body = `<div class="miolo pagina"><h1>${esc(titulo)}</h1>
+${lista.map((l) => { const [t, m, h, s] = NOT_FOUND[l.code]; return `<p lang="${l.lang}"${l.code === 'pt' ? ' class="lede"' : ''}><strong>${esc(t)}.</strong> ${esc(m)} <a href="${hrefIn(l.code, '')}">${esc(h)}</a> · <a href="${hrefIn(l.code, 'busca/')}">${esc(s)}</a></p>`; }).join('\n')}</div>`;
+  return layout({ title: titulo, path: '404.html', body, description: titulo, alternates: false });
 }
 
 // ---------- geração ----------
@@ -1603,6 +1607,8 @@ writeFileSync(join(OUT, 'assets', `obras.${L.code}.json`), obrasJson);
 if (isDefault) {
   writeFileSync(join(OUT, 'assets', 'obras.json'), obrasJson);
   writeFileSync(join(OUT, '404.html'), page404());
+} else {
+  writeFileSync(join(OUT, PREFIX, '404.html'), page404());
 }
 
 finalizeSite({ OUT, BASE, SITE_URL, LOCALES, current: L.code, emitted });

@@ -158,7 +158,7 @@ export function finishI18n({ collectTo = null } = {}) {
   if (missing.size) {
     const list = [...missing].sort();
     if (process.env.I18N_MISSING_OUT) writeFileSync(process.env.I18N_MISSING_OUT, JSON.stringify(list, null, 1) + '\n');
-    const msg = `i18n [${L.code}]: ${list.length} frase(s) sem tradução:\n` + list.slice(0, 40).map((k) => `  - ${k.length > 110 ? k.slice(0, 107) + '...' : k}`).join('\n') + (list.length > 40 ? `\n  ... e mais ${list.length - 40}` : '');
+    const msg = `i18n [${L.code}]: ${list.length} frase(s) sem tradução:\n` + list.slice(0, Number(process.env.I18N_LIST ?? 40)).map((k) => `  - ${k.length > 110 ? k.slice(0, 107) + '...' : k}`).join('\n') + (list.length > Number(process.env.I18N_LIST ?? 40) ? `\n  ... e mais ${list.length - Number(process.env.I18N_LIST ?? 40)}` : '');
     if (STRICT) { console.error(msg); process.exit(1); }
     console.warn(msg);
   }
