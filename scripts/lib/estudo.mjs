@@ -12,6 +12,7 @@ import { sacramentais } from './estudo/sacramentais.mjs';
 import { reliquias } from './estudo/reliquias.mjs';
 import { latim } from './estudo/latim.mjs';
 import { biblioteca } from './estudo/biblioteca.mjs';
+import { pesquisa } from './estudo/pesquisa.mjs';
 
 const TIPOS = {
   escritura: 'Escritura', ensino: 'Ensino da Igreja', tradicao: 'Tradição devocional', arte: 'Convenção da arte',
@@ -42,25 +43,28 @@ export function paginasEstudo(ctx) {
     fig: (id, legenda, cls = '') => `<figure class="fig-estudo ${cls}"><div class="quadro" style="--ar:${MANIFEST[id].ratio};${focusStyle(id)}">${img(id, { sizes: '(min-width: 62rem) 22rem, (min-width: 40rem) 40vw, 90vw' })}</div><figcaption class="legenda">${legenda ? T(legenda) : esc(imageById[id].caption)}<span class="legenda__credito">${esc(imageById[id].caption)} ${esc(creditText(imageById[id]))} ${originLink(imageById[id])}</span></figcaption></figure>`,
     /** Texto em dois idiomas, lado a lado. `trecho` = [[latim, português], ...] (um par por verso ou frase). */
     paralelo: (trecho, { cls = '', lang = 'la', rotulo = 'Latim' } = {}) => `<div class="paralelo ${cls}" data-paralelo><div class="paralelo__barra" role="group" aria-label="${T('Modo de leitura')}" hidden><button type="button" data-modo="paralelo" aria-pressed="true">${T('Lado a lado')}</button><button type="button" data-modo="la" aria-pressed="false">${T(rotulo)}</button><button type="button" data-modo="pt" aria-pressed="false">${T('Português')}</button></div>${trecho.map(([la, pt]) => `<div class="paralelo__par"><p class="paralelo__la" lang="${lang}">${esc(la)}</p><p class="paralelo__pt">${T(pt)}</p></div>`).join('')}</div>`,
-    pagina({ path, titulo, lede, nota, corpo, art = null, descricao, trilha = [], section = 'aprofundar/', js = [], css = [] }) {
-      const migalhas = path === 'aprofundar/' ? [[HOME(), ''], [_('Aprofundar'), path]] : [[HOME(), ''], [_('Aprofundar'), 'aprofundar/'], ...trilha.map(([l, p]) => [_(l), p]), [_(titulo), path]];
+    /** `cru`: titulo, lede e nota vêm de conteúdo em português que não passa pelo dicionário de interface (ex.: pesquisa documentada). */
+    pagina({ path, titulo, lede, nota, corpo, art = null, descricao, trilha = [], section = 'aprofundar/', js = [], css = [], cru = false }) {
+      const tt = (x) => (cru ? x : _(x));
+      const TT = (x) => esc(tt(x));
+      const migalhas = path === 'aprofundar/' ? [[HOME(), ''], [_('Aprofundar'), path]] : [[HOME(), ''], [_('Aprofundar'), 'aprofundar/'], ...trilha.map(([l, p]) => [_(l), p]), [tt(titulo), path]];
       const body = `<div class="miolo pagina estudo">
 ${crumbs(migalhas)}
 <header>
-<h1>${T(titulo)}</h1>
-${lede ? `<p class="lede">${T(lede)}</p>` : ''}
+<h1>${TT(titulo)}</h1>
+${lede ? `<p class="lede">${TT(lede)}</p>` : ''}
 </header>
-${nota ? `<p class="nota-peq">${T(nota)}</p>` : ''}
+${nota ? `<p class="nota-peq">${TT(nota)}</p>` : ''}
 ${corpo}
 <p class="nota-peq nota-rev">${T('Texto de pesquisa, ainda sem revisão teológica humana. Confira as datas e as citações nos documentos de origem, listados em cada página.')}</p>
 </div>`;
-      return { path, html: layout({ title: _(titulo), path, section, body, art, css: ['estudo.css', ...css], js: ['estudo.js', ...js], description: _(descricao) }) };
+      return { path, html: layout({ title: tt(titulo), path, section, body, art, css: ['estudo.css', ...css], js: ['estudo.js', ...js], description: tt(descricao) }) };
     }
   };
 
   const areas = [
     ...mariologia(c), ...dogmas(c), ...concilios(c), ...padres(c), ...escrituras(c), ...santos(c),
-    ...ordens(c), ...sacramentais(c), ...reliquias(c), ...latim(c), ...biblioteca(c)
+    ...ordens(c), ...sacramentais(c), ...reliquias(c), ...latim(c), ...biblioteca(c), ...pesquisa(c)
   ];
 
   // índice: três movimentos, cada caminho com a obra que o acompanha
@@ -77,7 +81,8 @@ ${corpo}
     ['sacramentais/', 'Escapulários, medalhas e sacramentais', 'Origem histórica, aprovação e significado, sem tratar promessas populares como doutrina.', 'X', 'img-virgem-em-oracao'],
     ['reliquias/', 'Relíquias e tradições marianas', 'Loreto, Chartres, Prato, Éfeso e outras: o que é tradição, o que está documentado e o que a Igreja reconhece.', 'XI', 'foto-loreto'],
     ['latim/', 'Orações e documentos em latim', 'Textos marianos em latim com tradução em paralelo, e as definições dogmáticas.', 'XII', 'durer-anunciacao'],
-    ['biblioteca-mariana/', 'Biblioteca Mariana', 'Documentos dos papas, dos concílios, dos Padres e dos santos, com ligação para os textos.', 'XIII', 'obra-ram-visitacao']
+    ['biblioteca-mariana/', 'Biblioteca Mariana', 'Documentos dos papas, dos concílios, dos Padres e dos santos, com ligação para os textos.', 'XIII', 'obra-ram-visitacao'],
+    ['pesquisa/', 'Pesquisa documentada', 'Sessenta e quatro capítulos sobre a vida de Maria, os santuários, as aparições e as decisões da Igreja, cada um com a fonte oficial indicada.', 'XIV', 'obra-saraceni-dormicao']
   ];
   const movimentos = [
     ['A doutrina', 'O que a Igreja ensina sobre Maria, e de onde vem.', cartoes.slice(0, 5)],
@@ -88,8 +93,8 @@ ${corpo}
   const creditos = cartoes.map((c) => imageById[c[4]]).filter(Boolean).map((im) => `${esc(im.caption)} ${esc(creditText(im))}`).join(' ');
   const indice = c.pagina({
     path: 'aprofundar/', titulo: 'Aprofundar', section: 'aprofundar/',
-    lede: 'Treze caminhos de estudo sobre Maria. Em todos, o que é Escritura, doutrina, história, tradição e devoção aparece separado e com a fonte indicada.',
-    descricao: 'Mariologia, dogmas, concílios, Padres da Igreja, Escrituras, iconografia, santos, ordens, sacramentais, relíquias, orações em latim e a Biblioteca Mariana.',
+    lede: 'Catorze caminhos de estudo sobre Maria. Em todos, o que é Escritura, doutrina, história, tradição e devoção aparece separado e com a fonte indicada.',
+    descricao: 'Mariologia, dogmas, concílios, Padres da Igreja, Escrituras, iconografia, santos, ordens, sacramentais, relíquias, orações em latim, a Biblioteca Mariana e a pesquisa documentada.',
     trilha: [],
     corpo: `${movimentos.map(([t, r, itens], k) => `<section class="mov" aria-labelledby="mov-${k}" data-mov><header class="mov__cab"><span class="mov__fio" aria-hidden="true"></span><h2 id="mov-${k}">${T(t)}</h2><p>${T(r)}</p></header><ol class="sumario">${itens.map(linhaSum).join('')}</ol></section>`).join('')}
 <details class="mov__creditos"><summary>${T('Obras nesta página')}</summary><p>${creditos}</p></details>`
