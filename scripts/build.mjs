@@ -247,7 +247,7 @@ const CLIENT_KEYS = {
   retomar: 'Retomar o céu estrelado',
   pausar: 'Pausar o céu estrelado'
 };
-const CLIENT_PLURAL = { resultados: '{n} resultado(s)' };
+const CLIENT_PLURAL = { resultados: '{n} resultado(s)', visitantes: '{n} visitante(s)', acessos: '{n} acesso(s)' };
 const clientStrings = () => JSON.stringify({
   lang: L.lang,
   t: Object.fromEntries(Object.entries(CLIENT_KEYS).map(([k, v]) => [k, _(v)])),
@@ -330,6 +330,7 @@ ${art ? (() => { const sp = splitHead(body); return abertura(art.id, sp.head, { 
 <footer class="rodape">
   <div class="miolo rodape__in">
     <p class="rodape__marca">Sancta Mater Dei</p>
+    ${APP ? '' : `<div class="visitas" data-visitas hidden><p class="visitas__n" data-visitas-n></p><p class="visitas__r"><span data-visitas-a></span> · <a href="${href('privacidade/')}#visitas">${esc(_('Contador anônimo, sem cookies'))}</a></p></div>`}
     <p>${_h('Projeto pessoal, independente, gratuito e sem fins lucrativos. <strong>Não é um órgão oficial da Igreja Católica</strong> e não substitui o ensino do Magistério nem a orientação de um pároco ou de um diretor espiritual.')}</p>
     <p>${_h('O conteúdo passou por pesquisa documental, mas ainda não por revisão teológica humana. Encontrou um erro? <a href="{link}">Veja como pedir uma correção</a>.', { link: href('sobre/#correcoes') })}</p>
     ${L.code === DEFAULT_LOCALE ? '' : `<p lang="${L.lang}">${esc(_('Esta é uma tradução do texto de referência em português. Ela ainda não passou por revisão de falantes nativos nem por revisão teológica.'))}</p>`}
@@ -344,6 +345,7 @@ ${LB}
 <script src="${asset('assets/filtro.js')}" defer></script>
 <script src="${asset('assets/filme.js')}" defer></script>
 ${js.map((f) => `<script src="${asset(`assets/${f}`)}" defer></script>`).join('\n')}
+${APP ? '' : `<script src="${asset('assets/visitas.js')}" defer></script>`}
 <script src="${asset('assets/app.js')}" defer data-obras="${asset(`assets/obras.${L.code}.json`)}" data-galeria="${href('galeria/')}"></script>
 </body>
 </html>
@@ -1514,7 +1516,10 @@ function pagePrivacy() {
   const body = `<div class="miolo pagina"><h1>${esc(_('Política de privacidade'))}</h1>
 <p class="lede">${esc(_('O Sancta Mater Dei, no site e no aplicativo para Android, não coleta, não armazena e não compartilha dados pessoais.'))}</p>
 <h2>${esc(_('O que não fazemos'))}</h2>
-<p>${esc(_('Não há cadastro, login, anúncios, ferramentas de análise, rastreamento, cookies de terceiros nem formulários. O aplicativo não pede permissões do aparelho, como localização, câmera, contatos ou arquivos.'))}</p>
+<p>${esc(_('Não há cadastro, login, anúncios, ferramentas de análise de terceiros, rastreamento, cookies nem formulários. O aplicativo não pede permissões do aparelho, como localização, câmera, contatos ou arquivos.'))}</p>
+<h2 id="visitas">${esc(_('Contador de visitas'))}</h2>
+<p>${esc(_('O site mostra quantas pessoas já o visitaram. Guardamos só dois números totais: visitantes e acessos. Para não contar a mesma pessoa duas vezes no mesmo dia, o servidor calcula um código a partir do endereço IP e do navegador, misturado a um valor aleatório que muda todo dia. O endereço IP não é guardado, os códigos e o valor aleatório do dia anterior são apagados, e não há como ligar visitas de dias diferentes. Não usamos cookies e nada fica guardado no seu aparelho.'))}</p>
+<p>${esc(_('Se o seu navegador enviar o sinal Global Privacy Control ou Do Not Track, o acesso não é contado. O aplicativo para Android não conta acessos.'))}</p>
 <h2>${esc(_('Preferências de leitura e idioma'))}</h2>
 <p>${esc(_('O tamanho da fonte, a opção de ler sem animações e o idioma escolhido ficam guardados apenas no próprio aparelho, no armazenamento local do navegador ou do aplicativo. Esses dados nunca são enviados para nós. Para apagá-los, limpe os dados do site no navegador ou os dados do aplicativo nas configurações do Android.'))}</p>
 <p>${esc(_('Para abrir o site no seu idioma, o navegador ou o aplicativo lê a lista de idiomas do próprio aparelho. Essa leitura acontece no aparelho: não usamos o seu endereço IP nem a sua localização para escolher o idioma.'))}</p>
@@ -1524,7 +1529,7 @@ function pagePrivacy() {
 <p>${esc(_('O conteúdo é adequado a todas as idades e nenhuma informação é coletada de ninguém, incluindo crianças.'))}</p>
 <h2>${esc(_('Mudanças e contato'))}</h2>
 <p>${_h('Se esta política mudar, a nova versão será publicada nesta página. Dúvidas e pedidos de correção seguem o caminho descrito em <a href="{link}">Sobre e metodologia</a>.', { link: href('sobre/#correcoes') })}</p>
-<p class="refs">${esc(_('Última atualização: {data}.', { data: fmtDate('2026-10-06', 'dia') }))}</p></div>`;
+<p class="refs">${esc(_('Última atualização: {data}.', { data: fmtDate('2026-10-07', 'dia') }))}</p></div>`;
   return layout({ title: _('Política de privacidade'), path: 'privacidade/', body, description: _('O Sancta Mater Dei não coleta dados pessoais. Política de privacidade do site e do aplicativo.') });
 }
 

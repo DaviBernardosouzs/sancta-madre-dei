@@ -489,6 +489,10 @@ body.modo-leitura h1 { font-size: 1.7rem; }
 .rodape__marca { font-family: var(--serifa); font-size: 1.9rem; font-weight: 600; color: #fffaf0; margin: 0; }
 .rodape p { max-width: 62ch; }
 .rodape__peq { font-size: var(--t-pequeno); }
+.visitas { margin: var(--e1) 0 var(--e2); padding-left: 1rem; border-left: 2px solid #e3c27a; }
+.visitas[hidden] { display: none; }
+.visitas__n { margin: 0; font-family: var(--serifa); font-size: clamp(1.7rem, 1.4rem + 1vw, 2.2rem); font-weight: 600; line-height: 1.1; color: #f0d995; font-variant-numeric: lining-nums tabular-nums; }
+.visitas__r { margin: .2rem 0 0; font-size: var(--t-pequeno); color: #d9d2bd; }
 .rodape__tex { margin-top: var(--e2); font-size: 0.8125rem; color: #bdb7a6; }
 
 /* ---------- movimento ---------- */

@@ -5,3 +5,4 @@ node_modules/
 art-originals/
 dist-app/
 dist-orig/
+.wrangler/

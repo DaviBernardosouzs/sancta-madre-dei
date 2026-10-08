@@ -76,7 +76,7 @@ export function _n(key, n, vars) {
 }
 
 /** Formas de plural para o navegador: { one, other, ... } (o JavaScript escolhe pela regra do idioma). */
-const PT_PLURAL = { '{n} resultado(s)': { one: '{n} resultado', other: '{n} resultados' } };
+const PT_PLURAL = { '{n} resultado(s)': { one: '{n} resultado', other: '{n} resultados' }, '{n} visitante(s)': { one: '{n} visitante', other: '{n} visitantes' }, '{n} acesso(s)': { one: '{n} acesso', other: '{n} acessos' } };
 export function nforms(key) {
   const v = lookup(key);
   if (L.code === DEFAULT_LOCALE && PT_PLURAL[key]) return PT_PLURAL[key];
