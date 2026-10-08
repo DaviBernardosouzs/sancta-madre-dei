@@ -10,6 +10,14 @@ Não existem mais estilos iniciais que escondam texto. A entrada parte de conte�
 
 Créditos de imagens têm mínimo de 14 px. Passagens entre capítulos mostram as imagens inteiras em miniaturas verticais. A lista inicial usa a contagem real de capítulos. O recorte decorativo de David foi corrigido porque a versão anterior continha parte do rosto, apesar da descrição de “paisagem”. Os originais permanecem intactos.
 
+## Área de estudo (Aprofundar), 07/10/2026
+
+Leitura de design: redesenho que preserva a marca, para público amplo; dials variância 6, movimento 6, densidade 4. Skills aplicadas: `design-taste-frontend`, `high-end-visual-design` (filtrada pelo briefing: sem vidro, sem pílulas sobre imagens) e GSAP.
+
+- **Índice:** os 13 caminhos deixaram a grade de cartões iguais e viraram um sumário em três movimentos (A doutrina, Imagem e caminho, Devoção e documentos). Cabeçalho do movimento fixo à esquerda no desktop; cada caminho é uma linha com numeral, título, resumo e a obra que o acompanha. Créditos das obras num `details` ao fim.
+- **Componentes:** linha do tempo com fio de ouro separado (`.lt__fio`) e marcos que acendem; níveis (tradição, história, reconhecimento) em tríptico no desktop; dogmas em grade 2 × 2 com varredura de luz no foco; santos e ordens em linhas editoriais com filete que se desenha.
+- **Movimento (`estudo.js`, `window.SMDEstudoFilme`):** chamado por `filme.js` dentro do `gsap.matchMedia()`, então é revertido junto com o resto. Cascatas por ordem de leitura, obras do índice reveladas por máscara, fio da linha do tempo em scrub, tríptico que abre da esquerda para a direita, latim antes da tradução, rotas de Éfeso que se traçam. Troca de modo do texto em paralelo e dos filtros assenta o conteúdo com um fade curto. Sem movimento reduzido ou com "Ler sem animações", nada disso roda e todo o conteúdo fica visível.
+
 **Conceito:** uma pintura mariana que se desdobra em história, contemplação e descoberta. A referência é a pintura sacra renascentista: cores de pigmentos, luz pictórica, tecidos, paisagens e composição harmoniosa. O site é lido como um livro de arte sacra bem editado.
 
 ## Leitura do briefing e das skills

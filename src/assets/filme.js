@@ -321,6 +321,9 @@
       }
     }
 
+    // área de estudo: coreografia própria (estudo.js), revertida junto com o resto
+    if (window.SMDEstudoFilme) { var fe = window.SMDEstudoFilme(g, ST, { desktop: desktop }); if (fe) limpar.push(fe); }
+
     // rodapé: os créditos do livro
     var rod = qa('.rodape__in > *');
     if (rod.length) g.fromTo(rod, { autoAlpha: 0, y: 24 }, { autoAlpha: 1, y: 0, duration: 1.2, stagger: .1, ease: 'power3.out', clearProps: 'transform', scrollTrigger: { trigger: q('.rodape'), start: 'top 92%', once: true } });

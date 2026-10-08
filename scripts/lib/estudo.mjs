@@ -35,7 +35,7 @@ export function paginasEstudo(ctx) {
       if (!s) return '';
       return `<li><a href="${esc(s.url)}" rel="noopener">${esc(s.title ?? s.titulo)}</a></li>`;
     }).join('')}</ul>`,
-    linha: (itens) => `<ol class="linha-tempo">${itens.map(({ ano, titulo, texto, tipo }) => `<li${tipo ? ` class="lt--${tipo}"` : ''}><span class="lt__ano">${esc(ano)}</span><div class="lt__corpo"><h3 class="lt__t">${T(titulo)}</h3>${texto ? `<p>${T(texto)}</p>` : ''}</div></li>`).join('')}</ol>`,
+    linha: (itens) => `<div class="lt" data-lt><span class="lt__fio" aria-hidden="true"></span><ol class="linha-tempo">${itens.map(({ ano, titulo, texto, tipo }) => `<li${tipo ? ` class="lt--${tipo}"` : ''}><span class="lt__ano">${esc(ano)}</span><div class="lt__corpo"><h3 class="lt__t">${T(titulo)}</h3>${texto ? `<p>${T(texto)}</p>` : ''}</div></li>`).join('')}</ol></div>`,
     /** Link para página já existente do acervo, se publicada. */
     ver: (id, rotulo) => (urlOf[id] ? `<a href="${urlOf[id]}">${T(rotulo)}</a>` : T(rotulo)),
     /** Figura com crédito e descrição, a partir do acervo de imagens. */
@@ -63,28 +63,36 @@ ${corpo}
     ...ordens(c), ...sacramentais(c), ...reliquias(c), ...latim(c), ...biblioteca(c)
   ];
 
-  // índice
+  // índice: três movimentos, cada caminho com a obra que o acompanha
   const cartoes = [
-    ['mariologia/', 'Mariologia', 'O estudo ordenado do que a fé diz sobre Maria: níveis de ensino, os grandes temas e o vocabulário.', 'I'],
-    ['dogmas/', 'Os quatro dogmas', 'Mãe de Deus, Virgindade perpétua, Imaculada Conceição e Assunção: contexto, texto definido e controvérsias.', 'II'],
-    ['concilios/', 'Concílios e Éfeso', 'O que cada concílio disse de Maria, e uma viagem visual por Éfeso e pelo título Theotokos.', 'III'],
-    ['padres/', 'Padres da Igreja', 'De Inácio a João Damasceno: como o pensamento sobre Maria se formou.', 'IV'],
-    ['escrituras/', 'Maria nas Escrituras', 'As passagens do Antigo e do Novo Testamento, com leitura patrística e referências cruzadas.', 'V'],
-    ['iconografia/', 'Iconografia mariana', 'Estrelas, lua, serpente, coroa, rosas, manto azul: o que cada símbolo diz e de onde vem.', 'VI'],
-    ['sagrada-familia/', 'Peregrinação da Sagrada Família', 'Mapa e relato das viagens de Maria, José e Jesus nos Evangelhos.', 'VII'],
-    ['santos/', 'Maria e os santos', 'Montfort, Kolbe, João Paulo II, Afonso de Ligório, Bernardo, Teresinha e João Bosco.', 'VIII'],
-    ['ordens/', 'Ordens religiosas e Maria', 'Carmelitas, franciscanos, dominicanos, servitas, salesianos, marianistas e outros.', 'IX'],
-    ['sacramentais/', 'Escapulários, medalhas e sacramentais', 'Origem histórica, aprovação e significado, sem tratar promessas populares como doutrina.', 'X'],
-    ['reliquias/', 'Relíquias e tradições marianas', 'Loreto, Chartres, Prato, Éfeso e outras: o que é tradição, o que está documentado e o que a Igreja reconhece.', 'XI'],
-    ['latim/', 'Orações e documentos em latim', 'Textos marianos em latim com tradução em paralelo, e as definições dogmáticas.', 'XII'],
-    ['biblioteca-mariana/', 'Biblioteca Mariana', 'Documentos dos papas, dos concílios, dos Padres e dos santos, com ligação para os textos.', 'XIII']
+    ['mariologia/', 'Mariologia', 'O estudo ordenado do que a fé diz sobre Maria: níveis de ensino, os grandes temas e o vocabulário.', 'I', 'obra-bellini-madona'],
+    ['dogmas/', 'Os quatro dogmas', 'Mãe de Deus, Virgindade perpétua, Imaculada Conceição e Assunção: contexto, texto definido e controvérsias.', 'II', 'obra-reni-imaculada'],
+    ['concilios/', 'Concílios e Éfeso', 'O que cada concílio disse de Maria, e uma viagem visual por Éfeso e pelo título Theotokos.', 'III', 'obra-raphael-entronizada'],
+    ['padres/', 'Padres da Igreja', 'De Inácio a João Damasceno: como o pensamento sobre Maria se formou.', 'IV', 'durer-glorificacao'],
+    ['escrituras/', 'Maria nas Escrituras', 'As passagens do Antigo e do Novo Testamento, com leitura patrística e referências cruzadas.', 'V', 'obra-memling-anunciacao'],
+    ['iconografia/', 'Iconografia mariana', 'Estrelas, lua, serpente, coroa, rosas, manto azul: o que cada símbolo diz e de onde vem.', 'VI', 'durer-madona-crescente'],
+    ['sagrada-familia/', 'Peregrinação da Sagrada Família', 'Mapa e relato das viagens de Maria, José e Jesus nos Evangelhos.', 'VII', 'durer-fuga-egito'],
+    ['santos/', 'Maria e os santos', 'Montfort, Kolbe, João Paulo II, Afonso de Ligório, Bernardo, Teresinha e João Bosco.', 'VIII', 'obra-signorelli-assuncao'],
+    ['ordens/', 'Ordens religiosas e Maria', 'Carmelitas, franciscanos, dominicanos, servitas, salesianos, marianistas e outros.', 'IX', 'obra-rosario-misterios'],
+    ['sacramentais/', 'Escapulários, medalhas e sacramentais', 'Origem histórica, aprovação e significado, sem tratar promessas populares como doutrina.', 'X', 'img-virgem-em-oracao'],
+    ['reliquias/', 'Relíquias e tradições marianas', 'Loreto, Chartres, Prato, Éfeso e outras: o que é tradição, o que está documentado e o que a Igreja reconhece.', 'XI', 'foto-loreto'],
+    ['latim/', 'Orações e documentos em latim', 'Textos marianos em latim com tradução em paralelo, e as definições dogmáticas.', 'XII', 'durer-anunciacao'],
+    ['biblioteca-mariana/', 'Biblioteca Mariana', 'Documentos dos papas, dos concílios, dos Padres e dos santos, com ligação para os textos.', 'XIII', 'obra-ram-visitacao']
   ];
+  const movimentos = [
+    ['A doutrina', 'O que a Igreja ensina sobre Maria, e de onde vem.', cartoes.slice(0, 5)],
+    ['Imagem e caminho', 'Como a fé em Maria virou arte, viagem e vida.', cartoes.slice(5, 9)],
+    ['Devoção e documentos', 'Os objetos, os lugares e os textos, com o que se sabe de cada um.', cartoes.slice(9)]
+  ];
+  const linhaSum = ([p, t, r, n, obra]) => `<li class="sm"><a href="${href(p)}"><span class="sm__n" aria-hidden="true">${n}</span><span class="sm__txt"><span class="sm__t">${T(t)}</span><span class="sm__r">${T(r)}</span></span><span class="sm__obra" style="${focusStyle(obra)}" aria-hidden="true">${img(obra, { sizes: '(min-width: 48rem) 9rem, 5.5rem', alt: '' })}</span><span class="sm__seta" aria-hidden="true"></span></a></li>`;
+  const creditos = cartoes.map((c) => imageById[c[4]]).filter(Boolean).map((im) => `${esc(im.caption)} ${esc(creditText(im))}`).join(' ');
   const indice = c.pagina({
     path: 'aprofundar/', titulo: 'Aprofundar', section: 'aprofundar/',
     lede: 'Treze caminhos de estudo sobre Maria. Em todos, o que é Escritura, doutrina, história, tradição e devoção aparece separado e com a fonte indicada.',
     descricao: 'Mariologia, dogmas, concílios, Padres da Igreja, Escrituras, iconografia, santos, ordens, sacramentais, relíquias, orações em latim e a Biblioteca Mariana.',
     trilha: [],
-    corpo: `<ol class="hub">${cartoes.map(([p, t, r, n]) => `<li><a href="${href(p)}"><span class="hub__n" aria-hidden="true">${n}</span><span class="hub__t">${T(t)}</span><span class="hub__r">${T(r)}</span></a></li>`).join('')}</ol>`
+    corpo: `${movimentos.map(([t, r, itens], k) => `<section class="mov" aria-labelledby="mov-${k}" data-mov><header class="mov__cab"><span class="mov__fio" aria-hidden="true"></span><h2 id="mov-${k}">${T(t)}</h2><p>${T(r)}</p></header><ol class="sumario">${itens.map(linhaSum).join('')}</ol></section>`).join('')}
+<details class="mov__creditos"><summary>${T('Obras nesta página')}</summary><p>${creditos}</p></details>`
   });
   return [indice, ...areas];
 }
