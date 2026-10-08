@@ -1,0 +1,37 @@
+/* Pedidos de oração: o formulário ao lado do mural da semana. */
+.pedidos__grade { display: grid; gap: var(--e4); margin-top: var(--e3); }
+@media (min-width: 62rem) { .pedidos__grade { grid-template-columns: minmax(0, 27rem) minmax(0, 1fr); align-items: start; } .pedidos__form { position: sticky; top: 1.5rem; } }
+.pedidos h2 { display: flex; align-items: center; gap: .6rem; margin-top: 0; }
+.pedidos h2 .pedir__icone { width: 26px; height: 26px; color: var(--ouro); }
+.pedidos__form { padding: var(--e3); background: var(--papel-3); box-shadow: inset 0 0 0 1px var(--filete), 0 24px 40px -32px #231a1770; }
+
+.campo { display: grid; gap: .3rem; margin: 0 0 1.1rem; }
+.campo label { font-weight: 700; }
+.campo__ajuda, .campo__conta { font-size: .875rem; color: var(--tinta-2); }
+.campo__conta { justify-self: end; }
+.campo input[type="text"], .campo textarea { width: 100%; padding: .7rem .8rem; font: inherit; font-size: 1.0625rem; color: var(--tinta); background: var(--papel); border: 1px solid #b9a77f; border-radius: 2px; transition: border-color .2s var(--suave), box-shadow .2s var(--suave); }
+.campo textarea { resize: vertical; min-height: 8rem; line-height: 1.55; }
+.campo input:focus-visible, .campo textarea:focus-visible { outline: none; border-color: var(--ultramar); box-shadow: 0 0 0 3px color-mix(in srgb, var(--foco) 35%, transparent); }
+.campo [aria-invalid="true"] { border-color: var(--madder); box-shadow: 0 0 0 2px color-mix(in srgb, var(--madder) 30%, transparent); }
+.campo--aceite { grid-template-columns: auto 1fr; align-items: start; column-gap: .7rem; }
+.campo--aceite input { width: 1.35rem; height: 1.35rem; margin: .2rem 0 0; accent-color: var(--ultramar); }
+.campo--aceite label { font-weight: 400; font-size: .9375rem; }
+.campo--escondido { position: absolute; left: -10000px; width: 1px; height: 1px; overflow: hidden; }
+.pedidos__status { min-height: 1.6em; margin: .5rem 0 0; font-weight: 700; }
+.pedidos__status[data-tipo="erro"] { color: var(--madder); }
+.pedidos__status[data-tipo="ok"] { color: var(--verde); }
+form[aria-busy="true"] .botao { opacity: .6; pointer-events: none; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .campo input[type="text"], :root:not([data-theme="light"]) .campo textarea { border-color: #4b5788; } :root:not([data-theme="light"]) .pedidos__status[data-tipo="ok"] { color: #a9c98a; } }
+
+.pedidos__renova { margin: 0; color: var(--tinta-2); }
+.pedidos__total { margin: .2rem 0 1.2rem; font-size: .875rem; letter-spacing: .14em; text-transform: uppercase; color: var(--ouro); }
+.pedidos__lista { list-style: none; margin: 0; padding: 0; display: grid; gap: 1rem; }
+@media (min-width: 48rem) { .pedidos__lista { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+.pedido { position: relative; max-width: none; padding: 1.1rem 1.2rem .6rem; background: var(--papel-3); box-shadow: inset 3px 0 0 var(--ouro-filete), inset 0 0 0 1px var(--filete); }
+.pedido__nome { margin: 0 0 .35rem; font-family: var(--serifa); font-weight: 600; font-size: 1.3rem; line-height: 1.15; color: var(--ultramar); overflow-wrap: anywhere; }
+.pedido__texto { margin: 0 0 .6rem; white-space: pre-line; overflow-wrap: anywhere; }
+.pedido__meta { margin: 0; font-size: .8125rem; color: var(--tinta-2); }
+.pedido__denunciar { min-height: 44px; padding: 0 .2rem; font: inherit; color: var(--tinta-2); background: none; border: 0; text-decoration: underline; text-underline-offset: .2em; cursor: pointer; }
+.pedido__denunciar:hover { color: var(--madder); }
+.pedido__denunciar:disabled { text-decoration: none; cursor: default; }
+.pedidos__vazio { padding: 1.5rem; text-align: center; font-family: var(--serifa); font-size: 1.25rem; color: var(--tinta-2); background: var(--papel-2); }

@@ -575,3 +575,11 @@ body.modo-leitura h1 { font-size: 1.7rem; }
 :is(:lang(de), :lang(fr), :lang(es), :lang(it)) :is(p, li, dd, dt, h1, h2, h3, h4, figcaption, .item-t) { hyphens: auto; overflow-wrap: break-word; }
 :lang(de) :is(h1, h2, h3, .marca__nome) { hyphens: manual; overflow-wrap: anywhere; }
 :lang(de) .menu a, :lang(de) .utilidades a { hyphens: none; }
+
+/* ---------- rodapé: atalho para o pedido de oração ---------- */
+.rodape__pedir a { display: inline-flex; align-items: center; gap: .5rem; min-height: 44px; font-weight: 700; }
+
+/* ---------- página de orações: chamada para o mural de pedidos ---------- */
+.chamada-pedido { margin: var(--e4) 0; padding: var(--e3) var(--e3) var(--e2); background: var(--papel-2); border-left: 3px solid var(--ouro-filete); }
+.chamada-pedido h2 { display: flex; align-items: center; gap: .6rem; margin-top: 0; }
+.chamada-pedido h2 .pedir__icone { width: 26px; height: 26px; color: var(--ouro); }

@@ -13,9 +13,15 @@
     // só a API passa pelo Worker; o resto é servido direto como arquivo estático
     "run_worker_first": ["/api/*"]
   },
-  // contador de visitas anônimo (ver worker/index.js)
+  // contador de visitas anônimo (worker/contador.js) e mural de pedidos de oração (worker/pedidos.js)
   "durable_objects": {
-    "bindings": [{ "name": "CONTADOR", "class_name": "Contador" }]
+    "bindings": [
+      { "name": "CONTADOR", "class_name": "Contador" },
+      { "name": "PEDIDOS", "class_name": "Pedidos" }
+    ]
   },
-  "migrations": [{ "tag": "v1", "new_sqlite_classes": ["Contador"] }]
+  "migrations": [
+    { "tag": "v1", "new_sqlite_classes": ["Contador"] },
+    { "tag": "v2", "new_sqlite_classes": ["Pedidos"] }
+  ]
 }

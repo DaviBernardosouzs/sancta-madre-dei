@@ -27,7 +27,7 @@ site/                       o site (front-end): tudo o que o gerador usa para mo
   tests/                      node:test
   art-originals/              originais das obras, baixados por npm run fetch-art (ignorado pelo git)
 content/                    acervo editorial em JSON e a pesquisa documentada (na raiz: o vault lê daqui)
-worker/                     back-end no Cloudflare: contador de visitas (/api/visitas); wrangler.jsonc na raiz
+worker/                     back-end no Cloudflare: contador de visitas (/api/visitas) e mural de pedidos de oração (/api/pedidos); wrangler.jsonc na raiz
 deploy/                     Dockerfile, docker-compose.yml e nginx.conf (site estático servido pelo nginx)
 android/, capacitor.config.json, store/   aplicativo Android e Play Store
 docs/                       decisões, auditorias, capturas e referencias-pessoais/ (não publicadas)
@@ -36,6 +36,15 @@ dist/, dist-app/            saída do site e do aplicativo (ignoradas pelo git)
 ```
 
 Docker: `docker compose -f deploy/docker-compose.yml up --build` gera o site dentro da imagem (o gerador não tem dependências npm) e o serve em http://localhost:8080, com a página 404 de cada idioma. O contador de visitas só existe no Cloudflare; no Docker o rodapé simplesmente não o mostra.
+
+## Pedidos de oração (08/10/2026)
+A página `/pedidos-de-oracao/` tem o formulário (nome e necessidade) e o mural da semana. O botão "Pedir oração" fica no cabeçalho de todas as páginas, no menu, no rodapé, no ato III e no índice do fim da página inicial, e na página de orações.
+
+- **Onde fica:** `worker/pedidos.js` (Durable Object com SQLite), `worker/regras-pedidos.js` (limites e validação, testados em `site/tests/pedidos.test.mjs`) e `worker/semana.js` (domingo às 19:30, America/Sao_Paulo). No navegador, `site/src/assets/js/pedidos.js`.
+- **Reset:** um alarme do Durable Object apaga pedidos, denúncias e o sal da semana no domingo às 19:30 de Brasília, mesmo sem visitas; cada leitura confere a semana de novo.
+- **Proteções:** só aceita envio das próprias páginas (cabeçalho Origin) e de navegadores; campo escondido contra robôs; sem links; 1 a 60 caracteres no nome e 3 a 600 no pedido; 5 pedidos por pessoa e 400 no total por semana; com 3 denúncias de pessoas diferentes o pedido sai do mural. A pessoa é reconhecida por um resumo de (sal da semana + IP + navegador), nunca pelo IP.
+- **Moderação:** defina a senha com `npx wrangler secret put PEDIDOS_TOKEN` e remova um pedido com `curl -X DELETE -H "Authorization: Bearer SENHA" https://SEU-SITE/api/pedidos/ID` (o ID aparece em `GET /api/pedidos`). Sem a senha definida, ninguém consegue remover.
+- **Fora do Cloudflare** (aplicativo, Docker, servidor local) não há API: o formulário fica escondido e a página explica que o mural só funciona no site publicado.
 
 ## Decisões
 | Decisão | Motivo |

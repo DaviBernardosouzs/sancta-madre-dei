@@ -189,3 +189,21 @@ html:not(.js) .marca { order: 0; }
 html:not(.js) .utilidades, html:not(.js) [data-leitura-toggle] { display: none; }
 html:not(.js) .menu { width: 100%; order: 1; }
 html:not(.js) .menu summary { border: 0; padding-left: 0; }
+
+/* ---------- pedido de oração: sempre à vista no cabeçalho ---------- */
+.topo > .miolo { grid-template-columns: 1fr auto auto auto; }
+.pedir { display: inline-flex; align-items: center; gap: .5rem; min-height: 44px; padding: .45rem 1rem; font-size: .9375rem; font-weight: 700; letter-spacing: .01em; text-decoration: none; white-space: nowrap; color: #f0d695; background: #111a3d; border: 1px solid #111a3d; transition: background .3s var(--suave), color .3s var(--suave), transform .2s var(--suave); }
+.pedir:hover { background: #1b2a66; color: #fff3cf; }
+.pedir:active { transform: scale(.97); }
+.pedir[aria-current="page"] { background: #e3c27a; color: #1b1408; border-color: #e3c27a; }
+.pedir__icone { flex: none; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .pedir { background: #e3c27a; color: #1b1408; border-color: #e3c27a; } :root:not([data-theme="light"]) .pedir:hover { background: #f0d695; } }
+:root[data-theme="dark"] .pedir { background: #e3c27a; color: #1b1408; border-color: #e3c27a; }
+@media (max-width: 47.99rem) {
+  .topo > .miolo { grid-template-columns: 1fr auto auto; }
+  .menu { grid-column: 3; }
+  .pedir { padding: .4rem .75rem; font-size: .875rem; }
+}
+/* telas muito estreitas: fica a vela, e o nome continua para leitores de tela */
+@media (max-width: 23.99rem) { .pedir span { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; } .pedir { padding-inline: .7rem; } }
+html:not(.js) .pedir { order: 0; }

@@ -108,6 +108,7 @@ const NAV = [
   ['maria-pelo-mundo/', 'Maria pelo mundo'],
   ['aprofundar/', 'Aprofundar'],
   ['oracoes/', 'Orações'],
+  ['pedidos-de-oracao/', 'Pedir oração'],
   ['dossie/', 'Dossiê'],
   ['biblioteca/', 'Biblioteca'],
   ['sobre/', 'Sobre']
@@ -255,6 +256,9 @@ const clientStrings = () => JSON.stringify({
   n: Object.fromEntries(Object.entries(CLIENT_PLURAL).map(([k, v]) => [k, nforms(v)]))
 });
 
+/** Chama de vela: o sinal do pedido de oração no cabeçalho, no índice e na página dos pedidos. */
+const VELA = `<svg class="pedir__icone" viewBox="0 0 24 24" width="18" height="18" aria-hidden="true" focusable="false"><path d="M12 2.5c1.9 2.3 3 4 3 5.6a3 3 0 0 1-6 0c0-1.6 1.1-3.3 3-5.6z" fill="currentColor"/><rect x="9" y="12" width="6" height="9.5" rx="1" fill="none" stroke="currentColor" stroke-width="1.6"/></svg>`;
+
 const GLOBE = `<svg class="idioma__icone" viewBox="0 0 24 24" width="18" height="18" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9.2" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="M3 12h18M12 2.8c2.6 2.4 4 5.7 4 9.2s-1.4 6.8-4 9.2c-2.6-2.4-4-5.7-4-9.2s1.4-6.8 4-9.2z" fill="none" stroke="currentColor" stroke-width="1.6"/></svg>`;
 
 function langSwitcher(path) {
@@ -306,6 +310,7 @@ ${jsonLd ? `<script type="application/ld+json">${JSON.stringify(jsonLd)}</script
   <div class="miolo">
     <div class="topo__linha">
       <a class="marca" href="${href()}"><span class="marca__nome" translate="no">Sancta Mater Dei</span><span class="marca__sub">${esc(_('Santa Mãe de Deus'))}</span></a>
+      <a class="pedir" href="${href('pedidos-de-oracao/')}"${section === 'pedidos-de-oracao/' ? ' aria-current="page"' : ''}>${VELA}<span>${esc(_('Pedir oração'))}</span></a>
       <div class="utilidades"><button class="movimento-ctl" type="button" data-motion-toggle aria-pressed="false" hidden>${esc(_('Ler sem animações'))}</button>
         <span class="utilidades__links">${util}</span>
         ${alternates ? langSwitcher(path) : ''}
@@ -331,6 +336,7 @@ ${art ? (() => { const sp = splitHead(body); return abertura(art.id, sp.head, { 
 <footer class="rodape">
   <div class="miolo rodape__in">
     <p class="rodape__marca">Sancta Mater Dei</p>
+    <p class="rodape__pedir"><a href="${href('pedidos-de-oracao/')}">${VELA}${esc(_('Pedir oração'))}</a></p>
     ${APP ? '' : `<div class="visitas" data-visitas hidden><p class="visitas__n" data-visitas-n></p><p class="visitas__r"><span data-visitas-a></span> · <a href="${href('privacidade/')}#visitas">${esc(_('Contador anônimo, sem cookies'))}</a></p></div>`}
     <p>${_h('Projeto pessoal, independente, gratuito e sem fins lucrativos. <strong>Não é um órgão oficial da Igreja Católica</strong> e não substitui o ensino do Magistério nem a orientação de um pároco ou de um diretor espiritual.')}</p>
     <p>${_h('O conteúdo passou por pesquisa documental, mas ainda não por revisão teológica humana. Encontrou um erro? <a href="{link}">Veja como pedir uma correção</a>.', { link: href('sobre/#correcoes') })}</p>
@@ -581,7 +587,7 @@ function pageHome() {
       ${ORNAMENTO}
       <blockquote aria-label="${esc(ave.title)}" data-ave lang="${L.lang}">${ave.text.slice(0, 2).map((l) => `<p>${palavras(l)}</p>`).join('')}</blockquote>
       <figcaption>${esc(_('{oracao}, na redação do Compêndio do Catecismo no sítio do Vaticano.', { oracao: ave.title }))}</figcaption>
-      <p class="f-manto__acoes"><a class="botao botao--luz" href="${href('oracoes/rosario/')}">${esc(_('Rezar o Rosário'))}</a> <button class="botao botao--fio-claro" type="button" data-manto-pause aria-pressed="false" hidden>${esc(_('Pausar o céu estrelado'))}</button></p>
+      <p class="f-manto__acoes"><a class="botao botao--luz" href="${href('oracoes/rosario/')}">${esc(_('Rezar o Rosário'))}</a> <a class="botao botao--fio-claro" href="${href('pedidos-de-oracao/')}">${esc(_('Deixar um pedido de oração'))}</a> <button class="botao botao--fio-claro" type="button" data-manto-pause aria-pressed="false" hidden>${esc(_('Pausar o céu estrelado'))}</button></p>
     </figure>
     ${fundoCredito('obra-bellini-madona')}
   </div>
@@ -1302,6 +1308,7 @@ ${`<p class="contagem" data-contagem role="status" aria-live="polite">${esc(_n('
 <ul class="catalogo" data-filter-list>${items}</ul>
 ${emptyState(_('Nenhuma oração encontrada. Limpe os filtros.'))}
 <p class="nota-acervo">${esc(_('Ainda não incluído: o Pai-Nosso (texto a conferir em fonte antes de publicar) e outras orações marianas tradicionais, como a Ladainha de Nossa Senhora.'))}</p>
+<aside class="chamada-pedido" aria-labelledby="chamada-pedido-t"><h2 id="chamada-pedido-t">${VELA}${esc(_('Precisa de oração?'))}</h2><p>${esc(_('Deixe o seu nome e a sua necessidade no mural de pedidos. Ele é renovado todo domingo às 19:30 (horário de Brasília).'))}</p><p><a class="botao" href="${href('pedidos-de-oracao/')}">${esc(_('Pedir oração'))}</a></p></aside>
 </div>`;
   return layout({ title: _('Orações'), path: 'oracoes/', section: 'oracoes/', body, art: { id: 'img-virgem-em-oracao' }, description: _('Orações marianas com procedência e situação de direitos verificadas, e guia do Rosário.') });
 }
@@ -1521,12 +1528,73 @@ ${crumbs([[HOME(), ''], [_('Galeria'), 'galeria/']])}
   return layout({ title: _('Galeria de obras'), path: 'galeria/', section: 'galeria/', body, art: { id: 'obra-reni-imaculada' }, description: _('Galeria de pinturas marianas dos séculos XV a XVII, de acervos de museus com licença aberta, com autoria, instituição e crédito de cada obra.') });
 }
 
+// ---------- pedidos de oração ----------
+/** Textos do formulário e do mural para o navegador (pedidos.js), no idioma da página. */
+const TEXTOS_PEDIDOS = {
+  enviando: 'Enviando o seu pedido...',
+  enviado: 'Seu pedido está no mural. Rezamos por você.',
+  nome: 'Escreva o seu nome (até 60 caracteres).',
+  texto: 'Escreva a sua necessidade (de 3 a 600 caracteres).',
+  link: 'Por segurança, o mural não aceita links nem endereços de sites.',
+  limite: 'Você já deixou 5 pedidos nesta semana. O mural é renovado no domingo às 19:30.',
+  cheio: 'O mural desta semana está cheio. Ele é renovado no domingo às 19:30.',
+  falha: 'Não foi possível enviar agora. Tente de novo em instantes.',
+  indisponivel: 'O mural de pedidos só funciona no site publicado. Aqui não é possível enviar nem ler pedidos.',
+  vazio: 'Ainda não há pedidos nesta semana. O seu pode ser o primeiro.',
+  total: 'Pedidos nesta semana: {n}',
+  renova: 'O mural será renovado {data}, às 19:30 (horário de Brasília).',
+  restam: 'Restam {n} caracteres.',
+  denunciar: 'Denunciar',
+  confirmar: 'Denunciar este pedido como impróprio? Com três denúncias, ele sai do mural.',
+  denunciado: 'Denúncia registrada. Obrigado.'
+};
+function pagePedidos() {
+  const ave = cat.prayers.find((p) => p.slug === 'ave-maria');
+  const sob = cat.prayers.find((p) => p.slug === 'sob-a-tua-protecao');
+  const textos = JSON.stringify(Object.fromEntries(Object.entries(TEXTOS_PEDIDOS).map(([k, v]) => [k, _(v)]))).replace(/</g, '\\u003c');
+  const body = `<div class="miolo pagina pedidos">
+${crumbs([[HOME(), ''], [_('Orações'), 'oracoes/'], [_('Pedir oração'), 'pedidos-de-oracao/']])}
+<header>
+<h1>${esc(_('Pedir oração'))}</h1>
+<p class="lede">${esc(_('Escreva o seu nome e a sua necessidade. O pedido fica no mural desta semana para que outras pessoas rezem por você, e o mural é apagado todo domingo às 19:30 (horário de Brasília).'))}</p>
+</header>
+<div class="pedidos__grade" data-pedidos${APP ? ' data-app' : ''}>
+  <section class="pedidos__form" aria-labelledby="pedir-t">
+    <h2 id="pedir-t">${VELA}${esc(_('Deixe o seu pedido'))}</h2>
+    ${APP ? `<p class="aviso">${esc(_('No aplicativo, o mural não está disponível. Para deixar o seu pedido, abra o site.'))}</p>` : `<noscript><p class="aviso">${esc(_('O mural precisa de JavaScript para enviar e mostrar os pedidos.'))}</p></noscript>
+    <form data-pedido-form novalidate hidden>
+      <p class="campo"><label for="pedido-nome">${esc(_('Seu nome'))}</label><span class="campo__ajuda" id="pedido-nome-ajuda">${esc(_('Pode ser só o primeiro nome.'))}</span><input id="pedido-nome" name="nome" type="text" maxlength="60" autocomplete="given-name" required aria-describedby="pedido-nome-ajuda"></p>
+      <p class="campo"><label for="pedido-texto">${esc(_('Sua necessidade'))}</label><span class="campo__ajuda" id="pedido-texto-ajuda">${esc(_('Não escreva telefone, endereço nem dados de outras pessoas.'))}</span><textarea id="pedido-texto" name="texto" rows="5" maxlength="600" required aria-describedby="pedido-texto-ajuda pedido-restam"></textarea><span class="campo__conta" id="pedido-restam" data-restam aria-live="polite"></span></p>
+      <p class="campo campo--escondido" aria-hidden="true"><label for="pedido-site">${esc(_('Deixe este campo vazio'))}</label><input id="pedido-site" name="site" type="text" tabindex="-1" autocomplete="off"></p>
+      <p class="campo campo--aceite"><input id="pedido-aceite" name="aceite" type="checkbox" required><label for="pedido-aceite">${esc(_('Entendo que o meu nome e o meu pedido ficarão visíveis para todos os visitantes até domingo às 19:30 (horário de Brasília), quando o mural é apagado.'))}</label></p>
+      <p><button class="botao" type="submit">${esc(_('Enviar pedido'))}</button></p>
+      <p class="pedidos__status" data-pedido-status role="status" aria-live="polite"></p>
+    </form>`}
+    <p class="nota-peq">${_h('Os pedidos são públicos e anônimos para o site: não guardamos o seu endereço IP. <a href="{link}">Como tratamos os pedidos</a>.', { link: href('privacidade/#pedidos') })}</p>
+  </section>
+  <section class="pedidos__mural" aria-labelledby="mural-t">
+    <h2 id="mural-t">${esc(_('Pedidos desta semana'))}</h2>
+    <p class="pedidos__renova" data-renova>${esc(_('O mural é renovado todo domingo às 19:30 (horário de Brasília).'))}</p>
+    <p class="pedidos__total" data-total></p>
+    <ul class="pedidos__lista" data-lista aria-live="polite"></ul>
+    <p class="pedidos__vazio" data-vazio hidden>${esc(_(TEXTOS_PEDIDOS.vazio))}</p>
+    <p class="nota-peq">${esc(_('Para rezar pelas intenções do mural:'))} <a href="${urlOf[ave.id]}">${esc(ave.title)}</a> · <a href="${urlOf[sob.id]}">${esc(sob.title)}</a> · <a href="${href('oracoes/rosario/')}">${esc(_('Rosário'))}</a></p>
+  </section>
+</div>
+<script type="application/json" id="pedidos-textos">${textos}</script>
+</div>`;
+  return layout({ title: _('Pedir oração'), path: 'pedidos-de-oracao/', section: 'pedidos-de-oracao/', body, art: { id: 'img-virgem-em-oracao' }, css: ['pedidos.css'], js: APP ? [] : ['pedidos.js'], description: _('Deixe o seu nome e a sua necessidade no mural de pedidos de oração. O mural é renovado todo domingo às 19:30 (horário de Brasília).') });
+}
+
 // ---------- privacidade e 404 ----------
 function pagePrivacy() {
   const body = `<div class="miolo pagina"><h1>${esc(_('Política de privacidade'))}</h1>
-<p class="lede">${esc(_('O Sancta Mater Dei, no site e no aplicativo para Android, não coleta, não armazena e não compartilha dados pessoais.'))}</p>
+<p class="lede">${esc(_('O Sancta Mater Dei não coleta dados pessoais de forma automática, no site nem no aplicativo para Android. A única exceção é o que você mesmo escreve no mural de pedidos de oração do site.'))}</p>
 <h2>${esc(_('O que não fazemos'))}</h2>
 <p>${esc(_('Não há cadastro, login, anúncios, ferramentas de análise de terceiros, rastreamento, cookies nem formulários. O aplicativo não pede permissões do aparelho, como localização, câmera, contatos ou arquivos.'))}</p>
+<h2 id="pedidos">${esc(_('Pedidos de oração'))}</h2>
+<p>${esc(_('No site, você pode deixar o seu nome e um pedido no mural de pedidos de oração. Esses dados ficam públicos, visíveis para qualquer visitante, e são apagados todos os domingos às 19:30 (horário de Brasília). Não guardamos o seu endereço IP e não usamos os pedidos para nenhuma outra finalidade.'))}</p>
+<p>${esc(_('Para evitar abusos, o servidor calcula um código a partir do endereço IP e do navegador, misturado a um valor aleatório que muda toda semana. Esse código limita cada pessoa a cinco pedidos por semana e é apagado junto com o mural. Um pedido com três denúncias sai do mural. Para pedir a retirada de um pedido antes de domingo, siga o caminho descrito em Sobre e metodologia. O aplicativo para Android não envia pedidos.'))}</p>
 <h2 id="visitas">${esc(_('Contador de visitas'))}</h2>
 <p>${esc(_('O site mostra quantas pessoas já o visitaram. Guardamos só dois números totais: visitantes e acessos. Para não contar a mesma pessoa duas vezes no mesmo dia, o servidor calcula um código a partir do endereço IP e do navegador, misturado a um valor aleatório que muda todo dia. O endereço IP não é guardado, os códigos e o valor aleatório do dia anterior são apagados, e não há como ligar visitas de dias diferentes. Não usamos cookies e nada fica guardado no seu aparelho.'))}</p>
 <p>${esc(_('Se o seu navegador enviar o sinal Global Privacy Control ou Do Not Track, o acesso não é contado. O aplicativo para Android não conta acessos.'))}</p>
@@ -1539,8 +1607,8 @@ function pagePrivacy() {
 <p>${esc(_('O conteúdo é adequado a todas as idades e nenhuma informação é coletada de ninguém, incluindo crianças.'))}</p>
 <h2>${esc(_('Mudanças e contato'))}</h2>
 <p>${_h('Se esta política mudar, a nova versão será publicada nesta página. Dúvidas e pedidos de correção seguem o caminho descrito em <a href="{link}">Sobre e metodologia</a>.', { link: href('sobre/#correcoes') })}</p>
-<p class="refs">${esc(_('Última atualização: {data}.', { data: fmtDate('2026-10-07', 'dia') }))}</p></div>`;
-  return layout({ title: _('Política de privacidade'), path: 'privacidade/', body, description: _('O Sancta Mater Dei não coleta dados pessoais. Política de privacidade do site e do aplicativo.') });
+<p class="refs">${esc(_('Última atualização: {data}.', { data: fmtDate('2026-10-08', 'dia') }))}</p></div>`;
+  return layout({ title: _('Política de privacidade'), path: 'privacidade/', body, description: _('Política de privacidade do site e do aplicativo: o que o Sancta Mater Dei guarda, como os pedidos de oração são apagados e o que nunca coletamos.') });
 }
 
 /** Página 404 única do site (a hospedagem serve esta para qualquer idioma): uma linha em cada idioma. */
@@ -1608,6 +1676,7 @@ emit('biblioteca/', pageLibrary());
 emit('sobre/', pageAbout());
 emit('busca/', pageSearch());
 emit('galeria/', pageGallery());
+emit('pedidos-de-oracao/', pagePedidos());
 emit('privacidade/', pagePrivacy());
 
 // dados da visualização ampliada (um arquivo por idioma)
