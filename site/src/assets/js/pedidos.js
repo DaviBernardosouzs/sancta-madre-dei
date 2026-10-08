@@ -61,7 +61,9 @@
     form.hidden = true;
     var aviso = document.createElement('p');
     aviso.className = 'aviso';
-    aviso.textContent = t('indisponivel');
+    // no próprio computador (servidor local, Docker) a API não existe; no site publicado é falha temporária ou de configuração
+    var local = location.protocol !== 'https:' || /^(localhost|127\.|\[::1\]|0\.0\.0\.0)/.test(location.hostname);
+    aviso.textContent = t(local ? 'indisponivel' : 'foraDoAr');
     form.parentNode.insertBefore(aviso, form);
     total.textContent = '';
   }

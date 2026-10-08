@@ -1575,6 +1575,7 @@ const TEXTOS_PEDIDOS = {
   cheio: 'O mural desta semana está cheio. Ele é renovado no domingo às 19:30.',
   falha: 'Não foi possível enviar agora. Tente de novo em instantes.',
   indisponivel: 'O mural de pedidos só funciona no site publicado. Aqui não é possível enviar nem ler pedidos.',
+  foraDoAr: 'O mural de pedidos está fora do ar no momento. Tente de novo mais tarde.',
   vazio: 'Ainda não há pedidos nesta semana. O seu pode ser o primeiro.',
   total: 'Pedidos nesta semana: {n}',
   renova: 'O mural será renovado {data}, às 19:30 (horário de Brasília).',
