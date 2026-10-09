@@ -1,0 +1,2130 @@
+[
+  {
+    "id": "apar-lourdes-1858",
+    "slug": "lourdes",
+    "type": "aparicao",
+    "status": "published",
+    "title": "Lourdes (França), 1858",
+    "summary": "Entre 11 de fevereiro e 16 de julho de 1858, uma jovem chamada Bernadette Soubirous relatou dezoito aparições da Mãe de Deus na gruta de Massabielle. Em 1862, o bispo local reconheceu as aparições e autorizou o culto.",
+    "place": {
+      "name": "Gruta de Massabielle",
+      "locality": "Lourdes",
+      "region": "Altos Pireneus",
+      "country": "França",
+      "coordinates": {
+        "lat": 43.09754,
+        "lon": -0.05851,
+        "verified": true,
+        "sourceId": "wikidata",
+        "refersTo": "acontecimento",
+        "precision": "Gruta de Massabielle, conforme o Wikidata (Q1918916); precisão da ordem de dez metros.",
+        "qid": "Q1918916"
+      },
+      "iso": "FR",
+      "macro": "Europa"
+    },
+    "period": {
+      "start": "1858-02-11",
+      "end": "1858-07-16",
+      "precision": "dia"
+    },
+    "people": [
+      {
+        "name": "Bernadette Soubirous",
+        "role": "Jovem que relatou as aparições"
+      }
+    ],
+    "blocks": [
+      {
+        "kind": "relato",
+        "heading": "O que foi relatado",
+        "text": "Segundo o santuário de Lourdes, as aparições ocorreram entre 11 de fevereiro e 16 de julho de 1858, na gruta de Massabielle, e Bernadette Soubirous contemplou a Mãe de Deus dezoito vezes. Na última, em 16 de julho, ela contou que a Virgem não falou e estava mais bela do que nunca.",
+        "sources": [
+          "lourdes-aparicoes"
+        ]
+      },
+      {
+        "kind": "revelacao-privada",
+        "heading": "Palavras atribuídas à Virgem, segundo o relato de Bernadette",
+        "text": "O santuário apresenta estas palavras como relatadas por Bernadette: na 3ª aparição (18 de fevereiro de 1858), «o que tenho a dizer-te não precisa de ser escrito» (em inglês no original consultado: «what I have to say to you does not have to be written down»); depois, «Penitência, penitência, penitência. Rezai pelos pecadores»; na 9ª aparição, o pedido de ir à fonte, beber e lavar-se; na 13ª, o pedido de vir em procissão e de construir uma capela. As traduções para o português são nossas, a partir da página em inglês do santuário.",
+        "sources": [
+          "lourdes-mensagem"
+        ]
+      },
+      {
+        "kind": "historia",
+        "heading": "O inquérito da Igreja",
+        "text": "O reconhecimento apoiou-se no trabalho de uma Comissão de Inquérito constituída em 1858, encarregada de verificar a autenticidade e a natureza dos fatos. Quase quatro anos depois das aparições, em 18 de janeiro de 1862, o Bispo de Tarbes publicou o seu mandamento.",
+        "sources": [
+          "lourdes-reconhecimento"
+        ]
+      },
+      {
+        "kind": "doutrina",
+        "heading": "Como a Igreja entende um acontecimento assim",
+        "text": "Mesmo quando a Igreja reconhece uma aparição, isso não a transforma em parte da Revelação. O Catecismo (§ 67) ensina que as revelações privadas «não pertencem ao depósito da fé» e que o seu papel é ajudar a viver a Revelação de Cristo mais plenamente numa época. Em outras palavras, segundo esse ensino, a fé católica não se apoia em aparições particulares: esta é a leitura do projeto, e não uma citação do Catecismo.",
+        "sources": [
+          "ccc-pt-50-141"
+        ]
+      }
+    ],
+    "decisions": [
+      {
+        "id": "dec-lourdes-1862",
+        "date": "1862-01-18",
+        "datePrecision": "dia",
+        "authority": "Mons. Laurence, Bispo de Tarbes",
+        "authorityLevel": "diocesano",
+        "kinds": [
+          "reconhecimento-da-aparicao",
+          "autorizacao-de-culto"
+        ],
+        "scope": "Decisão de um bispo diocesano (mandamento). Não se trata de um pronunciamento do Dicastério para a Doutrina da Fé; decisões e atos posteriores da Santa Sé sobre Lourdes não foram pesquisados nesta versão.",
+        "document": "Mandamento do Bispo de Tarbes, 18 de janeiro de 1862",
+        "quote": "Nous jugeons que l'Immaculée Marie Mère de Dieu, a réellement apparu à Bernadette Soubirous, le 11 février 1858 et jours suivants, au nombre de dix-huit fois",
+        "quoteLang": "fr",
+        "documentSourceId": "lourdes-reconhecimento",
+        "sourceNote": "A fonte é a página do santuário que cita o mandamento. O texto integral do mandamento ainda precisa ser localizado e lido.",
+        "sources": [
+          "lourdes-reconhecimento"
+        ],
+        "plain": "Em 1862, o bispo da diocese de Tarbes julgou que a Imaculada Maria, Mãe de Deus, realmente apareceu a Bernadette Soubirous, e a decisão autorizou o culto no local. Quem decidiu foi o bispo local, não o Papa. É um reconhecimento de uma revelação privada, que não obriga os fiéis a crer."
+      }
+    ],
+    "gaps": [
+      "Texto integral do mandamento de 1862 não consultado.",
+      "Contexto histórico e social da França de 1858 e estudos acadêmicos sobre Lourdes: pesquisa pendente."
+    ],
+    "relations": {
+      "titles": [
+        "tit-lourdes",
+        "tit-imaculada-conceicao"
+      ],
+      "devotions": [
+        "dev-mensagem-lourdes",
+        "dev-rosario"
+      ],
+      "miracles": [
+        "mil-lourdes-traynor",
+        "mil-lourdes-moriau"
+      ],
+      "articles": [
+        "fe-imaculada-conceicao",
+        "fe-revelacoes-privadas"
+      ]
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-08",
+      "humanTheologicalReview": false
+    },
+    "imageIds": [
+      "img-gruta-lourdes"
+    ],
+    "banner": "retrato-lourdes",
+    "ecclesialCategory": "aparicao-reconhecida",
+    "timeline": [
+      {
+        "date": "1858-02-11",
+        "precision": "dia",
+        "kind": "relato",
+        "text": "Primeira aparição relatada por Bernadette Soubirous na gruta de Massabielle.",
+        "sources": [
+          "lourdes-aparicoes"
+        ]
+      },
+      {
+        "date": "1858-02-18",
+        "precision": "dia",
+        "kind": "relato",
+        "text": "Terceira aparição: segundo Bernadette, «o que tenho a dizer-te não precisa de ser escrito».",
+        "sources": [
+          "lourdes-mensagem"
+        ]
+      },
+      {
+        "date": "1858-07-16",
+        "precision": "dia",
+        "kind": "relato",
+        "text": "Décima oitava e última aparição relatada.",
+        "sources": [
+          "lourdes-aparicoes"
+        ]
+      },
+      {
+        "date": "1858",
+        "precision": "ano",
+        "kind": "historia",
+        "text": "Constituição da Comissão de Inquérito encarregada de verificar os fatos.",
+        "sources": [
+          "lourdes-reconhecimento"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "apar-fatima-1917",
+    "slug": "fatima",
+    "type": "aparicao",
+    "status": "published",
+    "title": "Fátima (Portugal), 1917",
+    "summary": "A partir de 13 de maio de 1917, três crianças relataram aparições na Cova da Iria, na paróquia de Fátima. Em 13 de outubro de 1930, o Bispo de Leiria declarou dignas de crédito as visões e permitiu oficialmente o culto de Nossa Senhora de Fátima.",
+    "place": {
+      "name": "Cova da Iria",
+      "locality": "Fátima",
+      "region": "Santarém (Diocese de Leiria-Fátima)",
+      "country": "Portugal",
+      "coordinates": {
+        "lat": 39.63167,
+        "lon": -8.67333,
+        "verified": true,
+        "sourceId": "wikidata",
+        "refersTo": "santuario",
+        "precision": "Capelinha das Aparições, no Santuário de Fátima, conforme o Wikidata (Q16592859); precisão de dezenas de metros.",
+        "qid": "Q16592859"
+      },
+      "iso": "PT",
+      "macro": "Europa"
+    },
+    "period": {
+      "start": "1917-05-13",
+      "end": "1917-10-13",
+      "precision": "dia"
+    },
+    "people": [
+      {
+        "name": "Lúcia (de Jesus)",
+        "role": "Criança vidente; 10 anos em 1917, segundo a carta pastoral de 1930"
+      },
+      {
+        "name": "Francisco",
+        "role": "Criança vidente; 9 anos em 1917, segundo a carta pastoral de 1930"
+      },
+      {
+        "name": "Jacinta",
+        "role": "Criança vidente; 7 anos em 1917, segundo a carta pastoral de 1930"
+      }
+    ],
+    "blocks": [
+      {
+        "kind": "relato",
+        "heading": "O que foi relatado",
+        "text": "Segundo a carta pastoral do Bispo de Leiria, em 13 de maio de 1917 três crianças da paróquia de Fátima, que cuidavam de um rebanho de ovelhas na Cova da Iria, relataram uma aparição. Francisco e Jacinta eram irmãos, e Lúcia era prima deles. A carta fala de seis aparições, uma no dia 13 de cada mês, exceto em agosto.",
+        "sources": [
+          "fatima-carta-1930"
+        ]
+      },
+      {
+        "kind": "historia",
+        "heading": "O fenômeno de 13 de outubro",
+        "text": "A carta pastoral de 1930 refere o fenômeno solar de 13 de outubro de 1917, descrito nos jornais da época, como algo maravilhoso que causou grande impressão. Este site relata o que o documento afirma; não faz, aqui, avaliação científica nem teológica do fenômeno.",
+        "sources": [
+          "fatima-carta-1930"
+        ]
+      },
+      {
+        "kind": "historia",
+        "heading": "O processo canônico",
+        "text": "Por ordem de 6 de maio de 1922, o bispo nomeou uma comissão de sacerdotes para recolher depoimentos livremente. A decisão foi publicada em 13 de outubro de 1930.",
+        "sources": [
+          "fatima-carta-1930"
+        ]
+      },
+      {
+        "kind": "doutrina",
+        "heading": "O lugar das aparições na fé católica",
+        "text": "As aparições aprovadas pela Igreja pertencem ao campo das revelações privadas. O Catecismo (§ 67) afirma que elas não pertencem ao depósito da fé e não completam a Revelação de Cristo.",
+        "sources": [
+          "ccc-pt-50-141"
+        ]
+      }
+    ],
+    "decisions": [
+      {
+        "id": "dec-fatima-1930",
+        "date": "1930-10-13",
+        "datePrecision": "dia",
+        "authority": "Dom José Alves Correia da Silva, Bispo de Leiria",
+        "authorityLevel": "diocesano",
+        "kinds": [
+          "reconhecimento-da-aparicao",
+          "autorizacao-de-culto"
+        ],
+        "scope": "Decisão de um bispo diocesano. A fórmula usada foi declarar 'dignas de crédito' as visões e permitir oficialmente o culto; não é uma declaração de que a Igreja obriga os fiéis a crer, nem um pronunciamento do Dicastério. Atos posteriores da Santa Sé relativos a Fátima não foram pesquisados nesta versão.",
+        "document": "Carta pastoral «A Providência Divina», 13 de outubro de 1930",
+        "quote": "declare as worthy of credence the visions of the children in Cova da Iria, Parish of Fátima",
+        "quoteLang": "en",
+        "documentSourceId": "fatima-carta-1930",
+        "sourceNote": "Tradução inglesa hospedada em site de terceiros; conferir com o original em português.",
+        "sources": [
+          "fatima-carta-1930"
+        ],
+        "plain": "Em 1930, o bispo de Leiria declarou dignas de crédito as visões das três crianças na Cova da Iria e permitiu oficialmente o culto de Nossa Senhora de Fátima. Quem decidiu foi o bispo da diocese, depois de uma comissão ouvir testemunhos. É uma decisão sobre uma revelação privada, que não obriga os fiéis a crer."
+      }
+    ],
+    "gaps": [
+      "Texto original em português da carta de 1930 ainda não conferido.",
+      "Conteúdo das mensagens atribuídas às aparições, outras datas (incluindo agosto) e documentos da Santa Sé: pesquisa pendente."
+    ],
+    "relations": {
+      "titles": [
+        "tit-fatima"
+      ],
+      "devotions": [
+        "dev-rosario"
+      ],
+      "miracles": [],
+      "articles": [
+        "fe-revelacoes-privadas"
+      ]
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-08",
+      "humanTheologicalReview": false
+    },
+    "imageIds": [
+      "img-criancas-fatima"
+    ],
+    "banner": "retrato-fatima",
+    "ecclesialCategory": "aparicao-reconhecida",
+    "timeline": [
+      {
+        "date": "1917-05-13",
+        "precision": "dia",
+        "kind": "relato",
+        "text": "Três crianças relatam uma aparição na Cova da Iria.",
+        "sources": [
+          "fatima-carta-1930"
+        ]
+      },
+      {
+        "date": "1917-10-13",
+        "precision": "dia",
+        "kind": "historia",
+        "text": "Fenômeno solar descrito nos jornais da época, segundo a carta pastoral de 1930.",
+        "sources": [
+          "fatima-carta-1930"
+        ]
+      },
+      {
+        "date": "1922-05-06",
+        "precision": "dia",
+        "kind": "historia",
+        "text": "O bispo nomeia uma comissão de sacerdotes para recolher depoimentos.",
+        "sources": [
+          "fatima-carta-1930"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "apar-kibeho-1981",
+    "slug": "kibeho",
+    "type": "aparicao",
+    "status": "published",
+    "title": "Kibeho (Ruanda), 1981",
+    "summary": "Em 28 de novembro de 1981 começaram, no colégio de Kibeho, no sul de Ruanda, relatos de aparições da Virgem Maria, que se multiplicaram nos anos seguintes. Em 2001, o bispo de Gikongoro declarou autênticas as aparições às três primeiras videntes e deixou de fora os demais relatos.",
+    "ecclesialCategory": "aparicao-reconhecida",
+    "place": {
+      "name": "Colégio de Kibeho",
+      "locality": "Kibeho",
+      "region": "Província do Sul (Diocese de Gikongoro)",
+      "country": "Ruanda",
+      "iso": "RW",
+      "macro": "África",
+      "coordinates": {
+        "lat": -2.64889,
+        "lon": 29.55333,
+        "verified": true,
+        "sourceId": "wikidata",
+        "refersTo": "santuario",
+        "precision": "Santuário de Kibeho, conforme o Wikidata (Q182578, com as mesmas coordenadas do item do santuário, Q106583284). O documento lido situa o início dos fatos no colégio, sem coordenadas.",
+        "qid": "Q182578"
+      }
+    },
+    "period": {
+      "start": "1981-11-28",
+      "precision": "dia"
+    },
+    "people": [
+      {
+        "name": "Alphonsine Mumureke",
+        "role": "Uma das três primeiras videntes; reconhecida na declaração de 2001"
+      },
+      {
+        "name": "Nathalie Mukamazimpaka",
+        "role": "Uma das três primeiras videntes; reconhecida na declaração de 2001"
+      },
+      {
+        "name": "Marie Claire Mukangango",
+        "role": "Uma das três primeiras videntes; reconhecida na declaração de 2001"
+      },
+      {
+        "name": "Dom Jean-Baptiste Gahamanyi",
+        "role": "Bispo de Butare, diocese a que Kibeho pertencia; autorizou o culto público em 1988"
+      },
+      {
+        "name": "Dom Augustin Misago",
+        "role": "Primeiro bispo de Gikongoro; autor da declaração de 2001"
+      }
+    ],
+    "blocks": [
+      {
+        "kind": "historia",
+        "heading": "O lugar e o início",
+        "text": "Kibeho é uma localidade do sul de Ruanda, na região dos Grandes Lagos da África. Segundo a declaração episcopal de 2001, os fatos começaram no dia 28 de novembro de 1981, no colégio de Kibeho, e se estenderam por um tempo invulgarmente longo. Nesse período, multiplicaram-se as pessoas que diziam ter visões e mensagens, na própria região e em outras partes do país, o que, nas palavras do documento, desorientou a opinião pública.\n\nA declaração foi escrita depois de anos turbulentos para Ruanda e para os países vizinhos, e o bispo afirma que, apesar disso, as aparições deram bons frutos. O documento lido não descreve esse contexto em detalhe, e esta página não o reconstrói por conta própria.",
+        "sources": [
+          "kibeho-boletim-2001"
+        ]
+      },
+      {
+        "kind": "relato",
+        "heading": "O que foi relatado e o que a Igreja considerou",
+        "text": "Muitas palavras foram atribuídas aos videntes ao longo dos anos. Para formar um juízo, o bispo considerou apenas as aparições públicas, isto é, as que ocorreram diante de várias testemunhas, e apontou os anos de 1982 e 1983 como o período decisivo: foi então que se deram os acontecimentos que atraíram multidões, que os elementos essenciais da mensagem foram comunicados e que as aparições terminaram para a maior parte dos primeiros videntes.\n\nTrês jovens ocuparam sozinhas a cena durante vários meses, pelo menos até junho de 1982: Alphonsine Mumureke, Nathalie Mukamazimpaka e Marie Claire Mukangango. Segundo a declaração, a Virgem se apresentou a elas como «Nyina wa Jambo», expressão em quiniaruanda que significa «Mãe do Verbo», equivalente a «Mãe de Deus».",
+        "sources": [
+          "kibeho-boletim-2001"
+        ]
+      },
+      {
+        "kind": "revelacao-privada",
+        "heading": "A mensagem, segundo a declaração",
+        "text": "A declaração não transcreve as mensagens. Ela afirma que nada do que as três videntes disseram ou fizeram durante as aparições é contrário à fé ou à moral cristã, e que a mensagem concorda com as Escrituras e com a Tradição viva da Igreja. Acrescenta que a mensagem ligada a uma aparição reconhecida não é revelação nova: é um lembrete do ensinamento ordinário da Igreja, que tinha caído no esquecimento.\n\nRevelação privada é o nome que a Igreja dá a mensagens atribuídas a manifestações sobrenaturais depois do tempo dos apóstolos. Segundo o Catecismo (§ 67), elas não pertencem ao depósito da fé.",
+        "sources": [
+          "kibeho-boletim-2001",
+          "ccc-pt-50-141"
+        ]
+      },
+      {
+        "kind": "historia",
+        "heading": "Duas comissões e duas decisões",
+        "text": "O bispo do lugar criou cedo duas comissões de estudo, uma de médicos e outra de teólogos, que trabalhavam desde abril de 1982. Em 15 de agosto de 1988, Dom Jean-Baptiste Gahamanyi, bispo de Butare, diocese de que Kibeho fazia parte, aprovou um culto público ligado às aparições. Fez isso deixando em aberto, de propósito, duas perguntas: se a Virgem Maria ou Jesus tinham de fato aparecido, e quais dos muitos videntes poderiam ser reconhecidos.\n\nA resposta veio em 29 de junho de 2001, solenidade de São Pedro e São Paulo. Numa missa na catedral de Gikongoro, com a presença de todos os bispos católicos do país e do núncio apostólico, Dom Augustin Misago leu os trechos principais da sua «Declaração com juízo definitivo sobre as aparições de Kibeho», documento de 23 páginas. A Sala de Imprensa da Santa Sé publicou no mesmo dia a apresentação do texto e citações dos pontos centrais. Essa publicação divulga a decisão; quem a tomou foi o bispo diocesano.",
+        "sources": [
+          "kibeho-boletim-2001"
+        ]
+      },
+      {
+        "kind": "decisao",
+        "heading": "O que a declaração de 2001 permite afirmar",
+        "text": "O alcance é preciso. A declaração afirma que a Virgem Maria apareceu em Kibeho em 28 de novembro de 1981 e nos meses seguintes, e que só as três primeiras videntes merecem ser tidas como autênticas. As supostas aparições de Jesus, relatadas a partir de julho de 1982, ficam fora do juízo, assim como os videntes que surgiram depois. O bispo lembra ainda que o reconhecimento de uma aparição não é coberto pela infalibilidade e repousa em provas de probabilidade.\n\nPor isso, a declaração diz expressamente que o reconhecimento não se confunde com um artigo de fé e que cada cristão permanece livre de aderir a ele. Trata-se de uma decisão diocesana anterior às normas de 2024, apresentada aqui na linguagem em que foi escrita.",
+        "sources": [
+          "kibeho-boletim-2001"
+        ]
+      },
+      {
+        "kind": "historia",
+        "heading": "O santuário",
+        "text": "A terceira parte da declaração reúne orientações pastorais para o culto público. O santuário recebeu o nome de Santuário de Nossa Senhora das Dores, como o bispo já tinha indicado ao lançar a primeira pedra, em 28 de novembro de 1992. A declaração pede que Kibeho se torne lugar de peregrinação, de conversão e de reconciliação. A situação atual do santuário não foi pesquisada nesta edição.",
+        "sources": [
+          "kibeho-boletim-2001"
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "date": "1981-11-28",
+        "precision": "dia",
+        "kind": "relato",
+        "text": "Início dos fenômenos no colégio de Kibeho.",
+        "sources": [
+          "kibeho-boletim-2001"
+        ]
+      },
+      {
+        "date": "1982-04",
+        "precision": "mes",
+        "kind": "historia",
+        "text": "Comissões médica e teológica, criadas pelo bispo do lugar, já estão em funcionamento.",
+        "sources": [
+          "kibeho-boletim-2001"
+        ]
+      },
+      {
+        "date": "1982-06",
+        "precision": "mes",
+        "kind": "relato",
+        "text": "Até pelo menos este mês, as três primeiras videntes ocupam sozinhas a cena; a partir de julho surgem relatos de aparições de Jesus, que a declaração de 2001 não considera.",
+        "sources": [
+          "kibeho-boletim-2001"
+        ]
+      },
+      {
+        "date": "1983",
+        "precision": "ano",
+        "kind": "relato",
+        "text": "Fim do período mais intenso das aparições, segundo a declaração.",
+        "sources": [
+          "kibeho-boletim-2001"
+        ]
+      },
+      {
+        "date": "1992-11-28",
+        "precision": "dia",
+        "kind": "devocao",
+        "text": "Lançamento da primeira pedra do Santuário de Nossa Senhora das Dores.",
+        "sources": [
+          "kibeho-boletim-2001"
+        ]
+      }
+    ],
+    "decisions": [
+      {
+        "id": "d-ki-1988",
+        "date": "1988-08-15",
+        "datePrecision": "dia",
+        "authority": "Dom Jean-Baptiste Gahamanyi, bispo de Butare",
+        "authorityLevel": "diocesano",
+        "kinds": [
+          "autorizacao-de-culto"
+        ],
+        "scope": "Aprova um culto público ligado às aparições de Kibeho, sem se pronunciar sobre a realidade das aparições nem sobre quais videntes seriam autênticos.",
+        "document": "Ato de 15 de agosto de 1988, citado pela declaração de 2001 (o documento de 1988 não foi lido).",
+        "documentSourceId": "kibeho-boletim-2001",
+        "sourceNote": "Data e alcance conforme o boletim da Sala de Imprensa que apresenta a declaração de 2001.",
+        "plain": "Em 1988, o bispo de Butare autorizou o culto público em Kibeho, mas não disse se as aparições eram verdadeiras.",
+        "sources": [
+          "kibeho-boletim-2001"
+        ]
+      },
+      {
+        "id": "d-ki-2001",
+        "date": "2001-06-29",
+        "datePrecision": "dia",
+        "authority": "Dom Augustin Misago, bispo de Gikongoro",
+        "authorityLevel": "diocesano",
+        "kinds": [
+          "reconhecimento-da-aparicao"
+        ],
+        "scope": "Reconhece como autênticas as aparições da Virgem às três primeiras videntes, a partir de 28 de novembro de 1981; exclui as supostas aparições de Jesus e os videntes posteriores; afirma que a adesão é livre e que a mensagem não é revelação nova. Decisão diocesana; a publicação pela Sala de Imprensa da Santa Sé não a transforma em decisão da Santa Sé.",
+        "document": "Declaração com juízo definitivo sobre as aparições de Kibeho, 29 de junho de 2001 (apresentação e trechos publicados pela Sala de Imprensa da Santa Sé; texto integral de 23 páginas não lido).",
+        "documentSourceId": "kibeho-boletim-2001",
+        "quote": "Oui, la Vierge Marie est apparue à Kibeho dans la journée du 28 Novembre 1981 et au cours des mois qui ont suivi.",
+        "quoteLang": "fr",
+        "plain": "Em 2001, o bispo de Gikongoro declarou que a Virgem apareceu em Kibeho às três primeiras videntes. Ele deixou de fora os demais relatos e lembrou que ninguém é obrigado a crer.",
+        "sources": [
+          "kibeho-boletim-2001",
+          "kibeho-declaracao-2001"
+        ]
+      }
+    ],
+    "gaps": [
+      "O texto integral da declaração de 2001 (23 páginas, em quiniaruanda e francês) e o relatório das comissões não foram lidos.",
+      "O documento de 15 de agosto de 1988 não foi lido; data e alcance vêm da declaração de 2001.",
+      "As mensagens atribuídas às videntes não foram lidas em fonte primária e por isso não são transcritas aqui.",
+      "A situação atual do santuário e a história das videntes depois de 1983 não foram pesquisadas."
+    ],
+    "relations": {
+      "titles": [
+        "tit-kibeho"
+      ],
+      "devotions": [],
+      "miracles": [],
+      "articles": [
+        "fe-revelacoes-privadas"
+      ],
+      "shrines": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-08",
+      "humanTheologicalReview": false
+    },
+    "imageIds": [],
+    "banner": "retrato-kibeho"
+  },
+  {
+    "id": "apar-la-salette-1846",
+    "slug": "la-salette",
+    "type": "aparicao",
+    "status": "published",
+    "title": "La Salette (França), 1846",
+    "summary": "Em 19 de setembro de 1846, dois pastores dos Alpes franceses, Maximin Giraud e Mélanie Calvat, contaram ter encontrado uma «Bela Senhora» em lágrimas. Cinco anos depois, o bispo de Grenoble declarou que a aparição tinha todas as características da verdade e autorizou o culto.",
+    "ecclesialCategory": "aparicao-reconhecida",
+    "place": {
+      "name": "Pastagens acima da aldeia de La Salette",
+      "locality": "La Salette-Fallavaux",
+      "region": "Isère (Diocese de Grenoble)",
+      "country": "França",
+      "iso": "FR",
+      "macro": "Europa",
+      "coordinates": {
+        "lat": 44.85851,
+        "lon": 5.97845,
+        "verified": true,
+        "sourceId": "wikidata",
+        "refersTo": "santuario",
+        "precision": "Santuário de Notre-Dame de La Salette, conforme o Wikidata (Q68164698); precisão de dezenas de metros. O santuário foi erguido na montanha; a fonte lida não dá o ponto exato do encontro.",
+        "qid": "Q68164698"
+      }
+    },
+    "period": {
+      "start": "1846-09-19",
+      "precision": "dia"
+    },
+    "people": [
+      {
+        "name": "Maximin Giraud",
+        "role": "Pastor, 11 anos em 1846"
+      },
+      {
+        "name": "Mélanie Calvat",
+        "role": "Pastora, 14 anos em 1846"
+      },
+      {
+        "name": "Dom Philibert de Bruillard",
+        "role": "Bispo de Grenoble; autor do mandamento de 1851"
+      }
+    ],
+    "blocks": [
+      {
+        "kind": "relato",
+        "heading": "O encontro na montanha",
+        "text": "Em 19 de setembro de 1846, nas pastagens acima da aldeia de La Salette, no departamento francês de Isère, duas crianças que guardavam vacas contaram ter encontrado uma «Bela Senhora». Maximin Giraud tinha 11 anos; Mélanie Calvat, 14. Segundo o relato delas, conservado pelo santuário, a Senhora estava primeiro sentada e chorando. Depois se levantou e lhes falou longamente, em francês e no dialeto local, sobre o seu Filho, tirando exemplos da vida delas.\n\nAs crianças descreveram uma luz que envolvia os três e que vinha de um grande crucifixo trazido ao peito, com um martelo e uma tenaz. A Senhora tinha uma corrente pesada sobre os ombros e estava rodeada de rosas. No fim, subiu uma pequena encosta e desapareceu na luz.",
+        "sources": [
+          "lasalette-santuario-historia"
+        ]
+      },
+      {
+        "kind": "revelacao-privada",
+        "heading": "Uma mensagem para «todo o seu povo»",
+        "text": "Segundo os pastores, a Senhora lhes confiou uma mensagem de conversão e pediu que fosse transmitida a todo o seu povo. O santuário resume assim o pedido final: «Deveis transmitir a mensagem a todo o meu povo» (tradução nossa, do inglês). O texto completo da mensagem, tal como foi registrado no século XIX, não foi lido nesta edição e por isso não é reproduzido aqui.\n\nEm 2021, ao saudar os peregrinos reunidos pelos 175 anos do acontecimento, o papa Francisco relacionou as lágrimas de Maria às de Jesus sobre Jerusalém e à sua angústia no Getsêmani, e as chamou de apelo à confiança na misericórdia de Deus. É uma leitura espiritual feita numa saudação, não um juízo sobre a aparição.",
+        "sources": [
+          "lasalette-santuario-historia",
+          "francisco-angelus-2021-09-19"
+        ]
+      },
+      {
+        "kind": "historia",
+        "heading": "Cinco anos de inquérito",
+        "text": "O bispo de Grenoble, Dom Philibert de Bruillard, só se pronunciou depois de um longo inquérito. Em 19 de setembro de 1851, quinto aniversário do acontecimento, publicou um mandamento, isto é, uma carta oficial dirigida à diocese. Nele julga que a aparição da Virgem aos dois pastores traz em si todas as características da verdade e que os fiéis têm fundamento para crer nela como certa. O mesmo documento autoriza o culto a Nossa Senhora de La Salette e proíbe aos fiéis e ao clero da diocese falar ou escrever contra o acontecimento.\n\nEm 1855, depois de novo inquérito, o bispo seguinte, Dom Ginoulhiac, confirmou a decisão do predecessor. O santuário cita dele a frase: «A missão dos pastores terminou; a da Igreja começa» (tradução nossa).",
+        "sources": [
+          "lasalette-bruillard-1851",
+          "lasalette-santuario-historia"
+        ]
+      },
+      {
+        "kind": "decisao",
+        "heading": "O que a decisão permite afirmar",
+        "text": "A decisão de 1851 é de um bispo diocesano, tomada no âmbito da sua diocese e na linguagem da época. Ela afirma a credibilidade da aparição e autoriza o culto. Não é uma decisão da Santa Sé e não é reclassificada aqui com a terminologia das normas de 2024. Como toda revelação privada reconhecida, não acrescenta nada ao depósito da fé.",
+        "sources": [
+          "lasalette-bruillard-1851",
+          "ccc-pt-50-141"
+        ]
+      },
+      {
+        "kind": "historia",
+        "heading": "O santuário e os missionários",
+        "text": "Em maio de 1852, Dom de Bruillard anunciou à diocese a fundação de um santuário na montanha, com igreja e hospedagem para os peregrinos, e criou um grupo de sacerdotes dedicados a acolhê-los: os Missionários de Nossa Senhora de La Salette. Segundo o santuário, a congregação está hoje presente em vários países, ao lado das Irmãs de Nossa Senhora de La Salette, outra congregação nascida do acontecimento.",
+        "sources": [
+          "lasalette-santuario-historia"
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "date": "1846-09-19",
+        "precision": "dia",
+        "kind": "relato",
+        "text": "Maximin Giraud e Mélanie Calvat relatam o encontro com a «Bela Senhora».",
+        "sources": [
+          "lasalette-santuario-historia"
+        ]
+      },
+      {
+        "date": "1852-05",
+        "precision": "mes",
+        "kind": "devocao",
+        "text": "O bispo de Grenoble anuncia a fundação do santuário e cria os Missionários de Nossa Senhora de La Salette.",
+        "sources": [
+          "lasalette-santuario-historia"
+        ]
+      },
+      {
+        "date": "2021-09-19",
+        "precision": "dia",
+        "kind": "devocao",
+        "text": "Francisco saúda os peregrinos pelos 175 anos da aparição.",
+        "sources": [
+          "francisco-angelus-2021-09-19"
+        ]
+      }
+    ],
+    "decisions": [
+      {
+        "id": "d-ls-1851",
+        "date": "1851-09-19",
+        "datePrecision": "dia",
+        "authority": "Dom Philibert de Bruillard, bispo de Grenoble",
+        "authorityLevel": "diocesano",
+        "kinds": [
+          "reconhecimento-da-aparicao",
+          "autorizacao-de-culto"
+        ],
+        "scope": "Julga que a aparição tem todas as características da verdade e autoriza a devoção, no âmbito da diocese de Grenoble; proíbe falar ou escrever contra o acontecimento na diocese. Decisão diocesana, na terminologia da época.",
+        "document": "Mandamento de 19 de setembro de 1851 (tradução em inglês reproduzida por Miracle Hunter; trecho também citado pelo santuário).",
+        "documentSourceId": "lasalette-bruillard-1851",
+        "quote": "bears within Itself all the characteristics of truth",
+        "quoteLang": "en",
+        "sourceNote": "Tradução em inglês; o original francês não foi lido.",
+        "plain": "Em 1851, o bispo de Grenoble declarou a aparição digna de crédito e autorizou o culto a Nossa Senhora de La Salette.",
+        "sources": [
+          "lasalette-bruillard-1851",
+          "lasalette-santuario-historia"
+        ]
+      },
+      {
+        "id": "d-ls-1855",
+        "date": "1855",
+        "datePrecision": "ano",
+        "authority": "Dom Ginoulhiac, bispo de Grenoble",
+        "authorityLevel": "diocesano",
+        "kinds": [
+          "outra"
+        ],
+        "scope": "Depois de novo inquérito, confirma a decisão do predecessor. O documento não foi lido; a data e o sentido vêm do santuário.",
+        "document": "Ato de 1855 citado pelo santuário (não lido).",
+        "documentSourceId": "lasalette-santuario-historia",
+        "sourceNote": "A fonte lida chama o bispo apenas de «Mgr Ginoulhiac».",
+        "plain": "Em 1855, o bispo seguinte de Grenoble confirmou a decisão de 1851.",
+        "sources": [
+          "lasalette-santuario-historia"
+        ]
+      }
+    ],
+    "gaps": [
+      "O original francês do mandamento de 1851 e o ato de 1855 não foram lidos.",
+      "O texto da mensagem atribuída à aparição, nas versões registradas no século XIX, não foi lido em fonte primária.",
+      "As controvérsias do século XIX, incluindo as que envolveram os chamados «segredos» dos pastores, não foram pesquisadas.",
+      "Uma fonte terciária indica coroação canônica por Leão XIII em 1879; o documento não foi lido."
+    ],
+    "relations": {
+      "titles": [
+        "tit-la-salette"
+      ],
+      "devotions": [],
+      "miracles": [],
+      "articles": [
+        "fe-revelacoes-privadas"
+      ],
+      "shrines": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-08",
+      "humanTheologicalReview": false
+    },
+    "imageIds": [],
+    "banner": "retrato-la-salette"
+  },
+  {
+    "id": "apar-banneux-1933",
+    "slug": "banneux",
+    "type": "aparicao",
+    "status": "published",
+    "title": "Banneux (Bélgica), 1933",
+    "summary": "Entre 15 de janeiro e 2 de março de 1933, Mariette Beco, de 11 anos, relatou oito aparições de uma Senhora que se apresentou como «Virgem dos Pobres» e indicou uma fonte «para aliviar os doentes». Em 1949, o bispo de Liège reconheceu sem reservas a realidade das oito aparições.",
+    "ecclesialCategory": "aparicao-reconhecida",
+    "place": {
+      "name": "Jardim e caminho junto à casa da família Beco",
+      "locality": "Banneux (Sprimont)",
+      "region": "Província de Liège (Diocese de Liège)",
+      "country": "Bélgica",
+      "iso": "BE",
+      "macro": "Europa",
+      "coordinates": {
+        "lat": 50.53872,
+        "lon": 5.75072,
+        "verified": true,
+        "sourceId": "wikidata",
+        "refersTo": "santuario",
+        "precision": "Santuário de Banneux, conforme o Wikidata (Q1044403); precisão de dezenas de metros.",
+        "qid": "Q1044403"
+      }
+    },
+    "period": {
+      "start": "1933-01-15",
+      "end": "1933-03-02",
+      "precision": "dia"
+    },
+    "people": [
+      {
+        "name": "Mariette Beco",
+        "role": "Vidente; nascida em 25 de março de 1921, a mais velha de sete filhos, segundo o santuário"
+      },
+      {
+        "name": "Pe. Louis Jamin",
+        "role": "Capelão de Banneux, que pediu um sinal à Senhora por meio de Mariette"
+      },
+      {
+        "name": "Dom Louis-Joseph Kerkhofs",
+        "role": "Bispo de Liège; autor da carta pastoral de 1949"
+      }
+    ],
+    "blocks": [
+      {
+        "kind": "historia",
+        "heading": "Uma casa isolada no inverno de 1933",
+        "text": "Banneux é uma pequena localidade da Bélgica, na diocese de Liège. Segundo o santuário, a família Beco vivia em condições difíceis numa casa operária isolada, afastada da aldeia e da estrada, diante de um grande bosque de abetos. Mariette, nascida em 25 de março de 1921, era a mais velha de sete filhos. O capelão do lugar, o jovem padre Louis Jamin, tinha sido mandado para Banneux para recuperar a saúde, e o santuário conta que ele vivia então um tempo de dúvida.",
+        "sources": [
+          "banneux-santuario-aparicoes",
+          "banneux-santuario-reconhecimento"
+        ]
+      },
+      {
+        "kind": "relato",
+        "heading": "Oito aparições, de janeiro a março",
+        "text": "Na noite de domingo, 15 de janeiro de 1933, Mariette viu uma Senhora no jardim da casa, que a chamava com um gesto de mão; a mãe a proibiu de sair. Em 18 de janeiro, enquanto rezava no jardim, a menina saiu para a estrada, ajoelhou-se duas vezes e uma terceira junto a uma poça d’água de uma fonte, onde a Senhora lhe pediu que mergulhasse as mãos na água e disse que aquela fonte lhe estava reservada.\n\nNo dia seguinte, Mariette perguntou quem ela era. A resposta, segundo o relato: «Eu sou a Virgem dos Pobres». E, sobre a fonte: «Esta fonte está reservada a todas as nações... para aliviar os doentes». Em 20 de janeiro, a Senhora pediu «uma pequena capela». Seguiram-se três semanas sem aparições, durante as quais Mariette continuou a rezar no jardim todas as noites, às sete horas.\n\nEm 11 de fevereiro veio a frase «Venho aliviar o sofrimento». Em 15 de fevereiro, Mariette transmitiu o pedido de um sinal feito pelo capelão; a resposta foi «Crede em mim, eu crerei em vós», seguida de um segredo confiado à menina. A última aparição foi em 2 de março, sob chuva forte, com as palavras «Eu sou a Mãe do Salvador, Mãe de Deus. Rezai muito».",
+        "sources": [
+          "banneux-santuario-aparicoes"
+        ]
+      },
+      {
+        "kind": "revelacao-privada",
+        "heading": "Poucas palavras, muitos gestos",
+        "text": "As frases acima são as do relato de Mariette Beco, como o santuário as apresenta em tradução inglesa; a passagem para o português é nossa. Segundo o santuário, nas oito aparições Maria disse menos de oitenta palavras, e o restante da mensagem se manifestou em atitudes: o gesto de chamar, o sorriso, a oração silenciosa, o caminho até a fonte, a bênção. O título «Virgem dos Pobres» e a fonte destinada aos doentes e a todas as nações tornaram-se os traços centrais da devoção.",
+        "sources": [
+          "banneux-santuario-aparicoes",
+          "banneux-santuario-reconhecimento"
+        ]
+      },
+      {
+        "kind": "historia",
+        "heading": "Do primeiro reconhecimento ao juízo de 1949",
+        "text": "Segundo a carta pastoral de 22 de agosto de 1949, citada pelo santuário, o bispo de Liège, Dom Louis-Joseph Kerkhofs, já tinha reconhecido oficialmente a realidade das aparições duas vezes, em 1942 e em 1947, «com algumas reservas». Depois de mais dois anos de oração e observação, declarou poder e dever reconhecê-la sem reservas: a realidade das oito aparições a Mariette Beco, nas datas de 15, 18, 19 e 20 de janeiro, 11, 15 e 20 de fevereiro e 2 de março de 1933.\n\nOs bispos seguintes reafirmaram essa posição: Dom van Zuylen em 1973, Dom Houssiau em 1993 e 1999 e, por ocasião dos 75 anos das aparições, em 2008, o bispo de Liège, que confirmou que as aparições e a mensagem são dignas de fé.",
+        "sources": [
+          "banneux-santuario-reconhecimento",
+          "banneux-kerkhofs-1949"
+        ]
+      },
+      {
+        "kind": "decisao",
+        "heading": "O que a decisão permite afirmar",
+        "text": "A decisão é do bispo diocesano de Liège e foi tomada antes das normas de 2024; por isso é apresentada na sua linguagem própria, a de um reconhecimento da realidade das aparições. Os atos de 1942 e 1947 são conhecidos apenas pela menção que a carta de 1949 faz a eles. Uma compilação secundária fala de um reconhecimento pela Santa Sé em 1952, sem indicar documento; isso não é afirmado aqui.",
+        "sources": [
+          "banneux-santuario-reconhecimento",
+          "banneux-kerkhofs-1949"
+        ]
+      },
+      {
+        "kind": "historia",
+        "heading": "A capela e o santuário",
+        "text": "Atendendo ao pedido de «uma pequena capela», a atual Capela das Aparições foi construída e inaugurada no verão de 1933. A fonte indicada no relato tornou-se lugar de oração pelos doentes, tema que o santuário associa à Virgem dos Pobres.",
+        "sources": [
+          "banneux-santuario-aparicoes"
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "date": "1933-01-15",
+        "precision": "dia",
+        "kind": "relato",
+        "text": "Primeira aparição relatada, no jardim da casa da família Beco.",
+        "sources": [
+          "banneux-santuario-aparicoes"
+        ]
+      },
+      {
+        "date": "1933-01-19",
+        "precision": "dia",
+        "kind": "relato",
+        "text": "Segundo o relato, a Senhora diz «Eu sou a Virgem dos Pobres» e fala da fonte reservada a todas as nações.",
+        "sources": [
+          "banneux-santuario-aparicoes"
+        ]
+      },
+      {
+        "date": "1933-03-02",
+        "precision": "dia",
+        "kind": "relato",
+        "text": "Oitava e última aparição relatada.",
+        "sources": [
+          "banneux-santuario-aparicoes"
+        ]
+      },
+      {
+        "date": "1933",
+        "precision": "ano",
+        "kind": "devocao",
+        "text": "Construção e inauguração da Capela das Aparições, no verão.",
+        "sources": [
+          "banneux-santuario-aparicoes"
+        ]
+      },
+      {
+        "date": "1942",
+        "precision": "ano",
+        "kind": "historia",
+        "text": "Primeiro reconhecimento oficial, «com algumas reservas», segundo a carta pastoral de 1949.",
+        "sources": [
+          "banneux-santuario-reconhecimento"
+        ]
+      },
+      {
+        "date": "1947",
+        "precision": "ano",
+        "kind": "historia",
+        "text": "Segundo reconhecimento oficial com reservas, segundo a carta pastoral de 1949.",
+        "sources": [
+          "banneux-santuario-reconhecimento"
+        ]
+      },
+      {
+        "date": "2008",
+        "precision": "ano",
+        "kind": "devocao",
+        "text": "Nos 75 anos das aparições, o bispo de Liège confirma o reconhecimento.",
+        "sources": [
+          "banneux-santuario-reconhecimento"
+        ]
+      }
+    ],
+    "decisions": [
+      {
+        "id": "d-bn-1949",
+        "date": "1949-08-22",
+        "datePrecision": "dia",
+        "authority": "Dom Louis-Joseph Kerkhofs, bispo de Liège",
+        "authorityLevel": "diocesano",
+        "kinds": [
+          "reconhecimento-da-aparicao"
+        ],
+        "scope": "Reconhece sem reservas a realidade das oito aparições a Mariette Beco, depois de reconhecimentos com reservas em 1942 e 1947 (citados na própria carta). Decisão diocesana, anterior às normas de 2024.",
+        "document": "Carta pastoral de 22 de agosto de 1949 (trecho citado em tradução inglesa pelo santuário; original francês não lido).",
+        "documentSourceId": "banneux-santuario-reconhecimento",
+        "quote": "we believe in conscience that we can and must recognize this reality without reserve",
+        "quoteLang": "en",
+        "sourceNote": "Tradução inglesa publicada pelo santuário.",
+        "plain": "Em 1949, o bispo de Liège reconheceu, sem reservas, a realidade das oito aparições a Mariette Beco.",
+        "sources": [
+          "banneux-santuario-reconhecimento",
+          "banneux-kerkhofs-1949"
+        ]
+      }
+    ],
+    "gaps": [
+      "O original francês da carta pastoral de 1949 e os atos de 1942 e 1947 não foram lidos.",
+      "Uma compilação secundária fala de reconhecimento da Santa Sé em 1952, sem documento; não é afirmado aqui.",
+      "A pesquisa documentada do projeto (capítulo 42) diz que Mariette era a primogênita de onze filhos; o santuário diz sete. Adotamos o santuário e registramos a divergência.",
+      "A história da devoção depois de 1949 e a vida de Mariette Beco não foram pesquisadas."
+    ],
+    "relations": {
+      "titles": [
+        "tit-banneux"
+      ],
+      "devotions": [],
+      "miracles": [],
+      "articles": [
+        "fe-revelacoes-privadas"
+      ],
+      "shrines": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-08",
+      "humanTheologicalReview": false
+    },
+    "imageIds": [],
+    "banner": "retrato-banneux"
+  },
+  {
+    "id": "apar-knock-1879",
+    "slug": "knock",
+    "type": "aparicao",
+    "status": "published",
+    "title": "Knock (Irlanda), 1879",
+    "summary": "Na noite de 21 de agosto de 1879, quinze moradores de Knock disseram ter visto na parede da igreja paroquial Nossa Senhora, São José, São João Evangelista e o Cordeiro sobre um altar. Duas comissões diocesanas julgaram os testemunhos dignos de confiança; nas fontes lidas não há declaração formal sobre a natureza do acontecimento.",
+    "ecclesialCategory": "inquerito-sem-declaracao",
+    "place": {
+      "name": "Parede lateral da igreja paroquial de Knock",
+      "locality": "Knock",
+      "region": "Condado de Mayo (Arquidiocese de Tuam)",
+      "country": "Irlanda",
+      "iso": "IE",
+      "macro": "Europa",
+      "coordinates": {
+        "lat": 53.7921,
+        "lon": -8.91766,
+        "verified": true,
+        "sourceId": "wikidata",
+        "refersTo": "santuario",
+        "precision": "Santuário de Knock, conforme o Wikidata (Q2364438); o complexo inclui a antiga igreja paroquial, mas a fonte não dá o ponto exato da parede.",
+        "qid": "Q2364438"
+      }
+    },
+    "period": {
+      "start": "1879-08-21",
+      "precision": "dia"
+    },
+    "people": [
+      {
+        "name": "Quinze testemunhas locais",
+        "role": "Moradores da paróquia que depuseram à comissão de 1879"
+      },
+      {
+        "name": "Mary Byrne (depois O’Connell)",
+        "role": "Testemunha principal, segundo o santuário; depôs também em 1936"
+      },
+      {
+        "name": "John Curry",
+        "role": "A testemunha mais jovem; ouvido por comissão da arquidiocese de Nova York"
+      },
+      {
+        "name": "Dom John MacHale",
+        "role": "Arcebispo de Tuam; nomeou a primeira comissão"
+      }
+    ],
+    "blocks": [
+      {
+        "kind": "relato",
+        "heading": "A cena na parede da igreja",
+        "text": "Knock é uma aldeia do condado de Mayo, no oeste da Irlanda. Segundo o santuário, na noite chuvosa de 21 de agosto de 1879 apareceu na parede lateral da igreja paroquial Nossa Senhora, acompanhada de São José e de São João Evangelista. Ao lado deles havia um altar com uma cruz e um Cordeiro, rodeado de anjos. A cena durou cerca de duas horas, e quinze moradores do lugar disseram tê-la visto. Um testemunho citado pelo santuário descreve as figuras como «plenas e redondas, como se tivessem corpo e estivessem vivas» e acrescenta que nada disseram (tradução nossa).\n\nAs palavras «apareceu» e «aparição» são as do santuário. Esta página registra o testemunho e, separadamente, o que as autoridades da Igreja fizeram com ele.",
+        "sources": [
+          "knock-historia"
+        ]
+      },
+      {
+        "kind": "revelacao-privada",
+        "heading": "Uma aparição sem palavras",
+        "text": "Diferentemente de outros relatos, em Knock nenhuma mensagem é atribuída a Maria. Em 2021, numa videomensagem ao santuário, o papa Francisco destacou justamente isso: a Virgem não diz uma palavra, mas o seu silêncio também é linguagem, e a mensagem de Knock seria o grande valor do silêncio para a fé. Francisco também ligou o Cordeiro da cena a Jesus, que se ofereceu pela salvação da humanidade. São leituras espirituais de uma mensagem pastoral, não um juízo sobre a natureza do acontecimento.",
+        "sources": [
+          "francisco-knock-2021"
+        ]
+      },
+      {
+        "kind": "historia",
+        "heading": "Duas comissões de inquérito",
+        "text": "Em 8 de outubro de 1879, o arcebispo de Tuam, John MacHale, constituiu uma comissão eclesiástica de três sacerdotes. As declarações das testemunhas foram registradas na sacristia da igreja, e a comissão concluiu que o testemunho de todas, tomado em conjunto, era digno de confiança e satisfatório. O arcebispo não fez declaração pública na época. Em 1880, ao receber a primeira peregrinação organizada, disse que era uma grande bênção para o povo pobre do Oeste que a Virgem Maria tivesse aparecido entre eles.\n\nEm 1935-1936, o arcebispo Thomas Gilmartin convocou uma segunda comissão, que ouviu sob juramento as duas testemunhas ainda vivas na Irlanda e examinou curas atribuídas a Nossa Senhora de Knock; de novo, julgou os testemunhos satisfatórios. Em Nova York, uma comissão da arquidiocese local ouviu John Curry, a testemunha mais jovem.",
+        "sources": [
+          "knock-comissoes",
+          "knock-historia"
+        ]
+      },
+      {
+        "kind": "decisao",
+        "heading": "O que se pode afirmar",
+        "text": "As comissões avaliaram a confiabilidade das testemunhas. Nas fontes lidas, não há uma declaração formal da Igreja sobre a natureza sobrenatural do acontecimento, e por isso esta ficha não fala em «aparição reconhecida». Isso não significa que a Igreja tenha rejeitado o relato: significa que o documento correspondente não foi encontrado nesta edição.\n\nOs papas honraram o santuário de vários modos. João Paulo II o visitou no centenário, em 30 de setembro de 1979, ofereceu-lhe uma Rosa de Ouro e anunciou que a nova igreja se chamaria Basílica de Nossa Senhora, Rainha da Irlanda. Em 19 de março de 2021, Francisco enviou uma videomensagem pela elevação de Knock a santuário internacional de especial devoção eucarística e mariana. Esses atos reconhecem a importância do lugar de oração; não equivalem a declarar sobrenatural o acontecimento.",
+        "sources": [
+          "knock-comissoes",
+          "jp2-knock-1979",
+          "francisco-knock-2021",
+          "knock-historia"
+        ]
+      },
+      {
+        "kind": "historia",
+        "heading": "O santuário",
+        "text": "As primeiras peregrinações organizadas começaram já em 1880. Em 1935 foi fundada a Knock Shrine Society, com a aprovação do arcebispo de Tuam. Segundo o santuário, no Ano Mariano de 1954 Pio XII abençoou o estandarte do santuário, e a imagem processional de Nossa Senhora de Knock foi coroada em 8 de dezembro daquele ano. Francisco visitou Knock em agosto de 2018, durante o Encontro Mundial das Famílias, e rezou em silêncio na capela da Aparição.",
+        "sources": [
+          "knock-historia"
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "date": "1879-08-21",
+        "precision": "dia",
+        "kind": "relato",
+        "text": "Quinze moradores relatam a cena na parede da igreja paroquial.",
+        "sources": [
+          "knock-historia"
+        ]
+      },
+      {
+        "date": "1880",
+        "precision": "ano",
+        "kind": "devocao",
+        "text": "Primeiras peregrinações organizadas; o arcebispo MacHale fala da «grande bênção» para o povo pobre do Oeste.",
+        "sources": [
+          "knock-historia"
+        ]
+      },
+      {
+        "date": "1935-08-21",
+        "precision": "dia",
+        "kind": "devocao",
+        "text": "Fundação da Knock Shrine Society, com a aprovação do arcebispo de Tuam.",
+        "sources": [
+          "knock-historia"
+        ]
+      },
+      {
+        "date": "1954-12-08",
+        "precision": "dia",
+        "kind": "devocao",
+        "text": "Coroação da imagem processional, no fim do Ano Mariano.",
+        "sources": [
+          "knock-historia"
+        ]
+      },
+      {
+        "date": "2018-08",
+        "precision": "mes",
+        "kind": "devocao",
+        "text": "Visita do papa Francisco ao santuário.",
+        "sources": [
+          "knock-historia"
+        ]
+      }
+    ],
+    "decisions": [
+      {
+        "id": "d-kn-1879",
+        "date": "1879-10-08",
+        "datePrecision": "dia",
+        "authority": "Arcebispo John MacHale, de Tuam (comissão por ele nomeada)",
+        "authorityLevel": "diocesano",
+        "kinds": [
+          "outra"
+        ],
+        "scope": "Inquérito sobre as testemunhas; relatório positivo sobre a sua confiabilidade; o arcebispo não fez declaração pública sobre o acontecimento. Não é reconhecimento de aparição.",
+        "document": "Relatório da primeira comissão, conforme o site do santuário; o relatório original não foi lido.",
+        "documentSourceId": "knock-comissoes",
+        "quote": "the testimonies of all, taken as a whole, is trustworthy and satisfactory.",
+        "quoteLang": "en",
+        "sourceNote": "Citação como reproduzida pelo santuário.",
+        "plain": "Uma comissão da arquidiocese ouviu as testemunhas e concluiu que os seus testemunhos eram dignos de confiança.",
+        "sources": [
+          "knock-comissoes",
+          "knock-historia"
+        ]
+      },
+      {
+        "id": "d-kn-1936",
+        "date": "1936",
+        "datePrecision": "ano",
+        "authority": "Arcebispo Thomas Patrick Gilmartin, de Tuam (comissão por ele nomeada)",
+        "authorityLevel": "diocesano",
+        "kinds": [
+          "outra"
+        ],
+        "scope": "Segunda comissão (1935-1936): testemunhas sobreviventes e curas atribuídas; julgou os testemunhos satisfatórios. Não é reconhecimento de aparição nem de milagre.",
+        "document": "Relatório final da segunda comissão, conforme o site do santuário; não lido.",
+        "documentSourceId": "knock-comissoes",
+        "plain": "Uma segunda comissão da arquidiocese voltou a julgar satisfatórios os testemunhos.",
+        "sources": [
+          "knock-comissoes"
+        ]
+      },
+      {
+        "id": "d-kn-1979",
+        "date": "1979-09-30",
+        "datePrecision": "dia",
+        "authority": "Papa João Paulo II",
+        "authorityLevel": "papal",
+        "kinds": [
+          "titulo-de-basilica",
+          "outra"
+        ],
+        "scope": "Anúncio de que a igreja do santuário seria Basílica de Nossa Senhora, Rainha da Irlanda; oferta de uma Rosa de Ouro. Não é reconhecimento de aparição.",
+        "document": "Homilia no Santuário de Knock (Santa Sé).",
+        "documentSourceId": "jp2-knock-1979",
+        "plain": "O papa elevou a igreja do santuário a basílica e ofereceu uma Rosa de Ouro.",
+        "sources": [
+          "jp2-knock-1979",
+          "knock-historia"
+        ]
+      },
+      {
+        "id": "d-kn-2021",
+        "date": "2021-03-19",
+        "datePrecision": "dia",
+        "authority": "Papa Francisco (elevação por meio do Pontifício Conselho para a Promoção da Nova Evangelização, segundo o santuário)",
+        "authorityLevel": "santa-se",
+        "kinds": [
+          "titulo-de-basilica"
+        ],
+        "scope": "Elevação do santuário nacional de Knock a santuário internacional de especial devoção eucarística e mariana. Não é reconhecimento de aparição.",
+        "document": "Videomensagem do papa Francisco por ocasião da elevação, 19 de março de 2021 (Santa Sé); o decreto do Pontifício Conselho não foi localizado.",
+        "documentSourceId": "francisco-knock-2021",
+        "plain": "A Santa Sé elevou Knock a santuário internacional; o papa enviou uma videomensagem na ocasião.",
+        "sources": [
+          "francisco-knock-2021",
+          "knock-historia"
+        ]
+      }
+    ],
+    "gaps": [
+      "Os relatórios das comissões de 1879 e de 1935-1936 não foram lidos no original.",
+      "Não foi encontrada declaração formal sobre a natureza sobrenatural do acontecimento; não se afirma que haja ou que não haja.",
+      "O decreto do Pontifício Conselho para a Promoção da Nova Evangelização (2021) não foi localizado.",
+      "Faltam estudos históricos independentes do santuário."
+    ],
+    "relations": {
+      "titles": [
+        "tit-knock"
+      ],
+      "devotions": [],
+      "miracles": [],
+      "articles": [
+        "fe-revelacoes-privadas"
+      ],
+      "shrines": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-08",
+      "humanTheologicalReview": false
+    },
+    "imageIds": []
+  },
+  {
+    "id": "apar-champion-1859",
+    "slug": "champion",
+    "type": "aparicao",
+    "status": "published",
+    "title": "Champion (Estados Unidos), 1859",
+    "summary": "Em outubro de 1859, Adele Brise, imigrante belga no Wisconsin, disse ter visto uma Senhora vestida de branco que lhe pediu oração pela conversão dos pecadores e o ensino do catecismo às crianças. Em 2010, o bispo de Green Bay aprovou as aparições como dignas de crença, sem obrigar ninguém a crer.",
+    "ecclesialCategory": "aparicao-reconhecida",
+    "place": {
+      "name": "Lugar do atual Santuário de Nossa Senhora do Bom Socorro",
+      "locality": "Champion (condado de Brown)",
+      "region": "Wisconsin (Diocese de Green Bay)",
+      "country": "Estados Unidos",
+      "iso": "US",
+      "macro": "América do Norte",
+      "coordinates": {
+        "lat": 44.59056,
+        "lon": -87.77356,
+        "verified": true,
+        "sourceId": "wikidata",
+        "refersTo": "santuario",
+        "precision": "Santuário de Nossa Senhora do Bom Socorro, conforme o Wikidata (Q1102719). O decreto diz que as aparições ocorreram «neste lugar», onde está o santuário.",
+        "qid": "Q1102719"
+      }
+    },
+    "period": {
+      "start": "1859-10",
+      "precision": "mes"
+    },
+    "people": [
+      {
+        "name": "Adele Brise",
+        "role": "Jovem imigrante belga que relatou as aparições e as locuções"
+      },
+      {
+        "name": "Dom David L. Ricken",
+        "role": "Bispo de Green Bay; autor do decreto de 2010"
+      }
+    ],
+    "blocks": [
+      {
+        "kind": "relato",
+        "heading": "Uma imigrante na fronteira do Wisconsin",
+        "text": "Em meados do século XIX, a região de Green Bay era terra de fronteira, coberta de florestas e pouco povoada. Foi ali que Adele Brise, jovem imigrante belga, disse ter visto em outubro de 1859 uma Senhora vestida de branco deslumbrante, ligeiramente elevada numa luz intensa. O que se sabe do relato vem principalmente do decreto episcopal de 2010, que o resume e cita as palavras atribuídas à aparição.",
+        "sources": [
+          "champion-decreto-2010"
+        ]
+      },
+      {
+        "kind": "revelacao-privada",
+        "heading": "Oração e catequese",
+        "text": "Segundo o decreto, a Senhora deu a Adele uma dupla missão: rezar pela conversão dos pecadores e ensinar as crianças. Entre as palavras atribuídas a ela estão: «Eu sou a Rainha do Céu, que rezo pela conversão dos pecadores, e desejo que tu faças o mesmo» e «Reúne as crianças desta região selvagem e ensina-lhes o que devem saber para a salvação». A tradução é nossa, a partir do texto inglês do decreto.\n\nAdele dedicou-se a essa missão indo às casas para ensinar as crianças, muitas vezes com sacrifício pessoal. Fundou uma escola e uma comunidade de mulheres da Ordem Terceira franciscana para ajudá-la.",
+        "sources": [
+          "champion-decreto-2010"
+        ]
+      },
+      {
+        "kind": "historia",
+        "heading": "O estudo e o decreto de 2010",
+        "text": "A pedido do bispo, três especialistas em Mariologia estudaram a história e todos os documentos, cartas e testemunhos existentes. O decreto registra que os relatos foram julgados livres de erro doutrinal, que o caráter de Adele pesa a favor do reconhecimento e que os documentos dos primeiros anos não são abundantes, porque Green Bay era então terra de fronteira. Um dos especialistas considerou que essa escassez não invalida a coerência geral entre o acontecimento e as suas consequências.\n\nEm 8 de dezembro de 2010, solenidade da Imaculada Conceição, numa missa no santuário, Dom David L. Ricken declarou «com certeza moral» que os acontecimentos, aparições e locuções dados a Adele Brise em outubro de 1859 exibem a substância de caráter sobrenatural, e aprovou as aparições como dignas de crença pelos fiéis, embora não obrigatórias.",
+        "sources": [
+          "champion-decreto-2010"
+        ]
+      },
+      {
+        "kind": "decisao",
+        "heading": "O que a decisão permite afirmar",
+        "text": "A decisão é do bispo diocesano de Green Bay e diz expressamente que a crença não é obrigatória. O decreto também menciona curas e graças atribuídas à intercessão de Nossa Senhora do Bom Socorro, mas registra que nenhuma delas foi declarada milagre pela Igreja. A tradição de que o lugar foi preservado do grande incêndio de Peshtigo, em 1871, quando fiéis rezavam ali com Adele, aparece no decreto como parte da história de devoção; não é um milagre reconhecido.",
+        "sources": [
+          "champion-decreto-2010"
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "date": "1859-10",
+        "precision": "mes",
+        "kind": "relato",
+        "text": "Adele Brise relata as aparições e as palavras atribuídas à Senhora.",
+        "sources": [
+          "champion-decreto-2010"
+        ]
+      },
+      {
+        "date": "1871",
+        "precision": "ano",
+        "kind": "devocao",
+        "text": "Incêndio de Peshtigo; segundo a tradição citada no decreto, o lugar foi poupado enquanto fiéis rezavam ali.",
+        "sources": [
+          "champion-decreto-2010"
+        ]
+      }
+    ],
+    "decisions": [
+      {
+        "id": "d-ch-2010",
+        "date": "2010-12-08",
+        "datePrecision": "dia",
+        "authority": "Dom David L. Ricken, bispo de Green Bay",
+        "authorityLevel": "diocesano",
+        "kinds": [
+          "reconhecimento-da-aparicao",
+          "autorizacao-de-culto"
+        ],
+        "scope": "Declara com certeza moral que as aparições e locuções de outubro de 1859 exibem a substância de caráter sobrenatural e as aprova como dignas de crença, não obrigatória; encoraja a peregrinação. Decisão diocesana, anterior às normas de 2024.",
+        "document": "Decreto de 8 de dezembro de 2010, dado no Santuário de Nossa Senhora do Bom Socorro (texto integral em inglês, reproduzido por CatholicCulture.org).",
+        "documentSourceId": "champion-decreto-2010",
+        "quote": "do hereby approve these apparitions as worthy of belief (although not obligatory) by the Christian faithful.",
+        "quoteLang": "en",
+        "sourceNote": "O arquivo do decreto no sítio da Diocese de Green Bay não foi aberto; foi lida a reprodução integral.",
+        "plain": "Em 2010, o bispo de Green Bay aprovou as aparições como dignas de crença, sem obrigar ninguém a crer, e incentivou a peregrinação.",
+        "sources": [
+          "champion-decreto-2010"
+        ]
+      }
+    ],
+    "gaps": [
+      "O decreto não foi lido no sítio da própria diocese, só na reprodução integral de CatholicCulture.org.",
+      "A designação como santuário nacional pela Conferência dos Bispos dos Estados Unidos (2016) aparece só em fontes secundárias; o documento não foi lido.",
+      "As cartas e testemunhos do século XIX estudados pelos especialistas não foram consultados."
+    ],
+    "relations": {
+      "titles": [
+        "tit-bom-socorro-champion"
+      ],
+      "devotions": [],
+      "miracles": [],
+      "articles": [
+        "fe-revelacoes-privadas"
+      ],
+      "shrines": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-08",
+      "humanTheologicalReview": false
+    },
+    "imageIds": []
+  },
+  {
+    "id": "apar-pellevoisin-1876",
+    "slug": "pellevoisin",
+    "type": "aparicao",
+    "status": "published",
+    "title": "Pellevoisin (França), 1876",
+    "summary": "Em 1876, Estelle Faguette, empregada doméstica gravemente doente, relatou ter visto a Virgem Maria várias vezes em Pellevoisin e ficou curada. Em 2024, o Dicastério para a Doutrina da Fé deu ao arcebispo de Bourges o consentimento para declarar o nihil obstat, que autoriza a devoção sem declarar sobrenatural o fenômeno.",
+    "ecclesialCategory": "nihil-obstat-2024",
+    "place": {
+      "name": "Pellevoisin",
+      "locality": "Pellevoisin",
+      "region": "Indre (Arquidiocese de Bourges)",
+      "country": "França",
+      "iso": "FR",
+      "macro": "Europa",
+      "coordinates": {
+        "lat": 46.98281,
+        "lon": 1.41724,
+        "verified": true,
+        "sourceId": "wikidata",
+        "refersTo": "santuario",
+        "precision": "Santuário de Pellevoisin, conforme o Wikidata (Q96099192); precisão de dezenas de metros.",
+        "qid": "Q96099192"
+      }
+    },
+    "period": {
+      "start": "1876-02",
+      "precision": "mes"
+    },
+    "people": [
+      {
+        "name": "Estelle Faguette",
+        "role": "Vidente; nascida em 12 de setembro de 1843, morta em Pellevoisin em 23 de agosto de 1929"
+      },
+      {
+        "name": "Dom Jérôme Daniel Beau",
+        "role": "Arcebispo de Bourges, a quem o Dicastério escreveu em 2024"
+      }
+    ],
+    "blocks": [
+      {
+        "kind": "historia",
+        "heading": "Estelle Faguette",
+        "text": "Estelle Faguette nasceu em 12 de setembro de 1843, numa família muito pobre, e trabalhou como lavadeira e depois como empregada doméstica para sustentar os pais. Em Pellevoisin, pequena localidade do centro da França, ficou gravemente doente e corria risco de morrer. Escreveu então uma carta à Virgem pedindo a cura, para poder continuar a cuidar dos pais. Entrou na Ordem Terceira dominicana em 1925 e morreu em Pellevoisin em 23 de agosto de 1929.",
+        "sources": [
+          "vaticannews-pellevoisin-2024",
+          "ddf-pellevoisin-2024"
+        ]
+      },
+      {
+        "kind": "relato",
+        "heading": "As aparições e a cura",
+        "text": "Segundo o relato de Estelle, as aparições começaram em fevereiro de 1876, quando ela tinha 32 anos, e na quinta ficou completamente curada. Nas suas narrativas, citadas pelo Dicastério, Estelle não se apresenta como alguém resignado: conta a revolta interior diante de uma doença que desfazia os seus planos e o temor de deixar os pais e a sobrinha que tinha criado. Escreve também que não foi por mérito seu que a Virgem obteve do Filho a sua cura, mas para mostrar que temos «uma Mãe boa» que intercede por nós.\n\nA cura foi confirmada como milagrosa pelo arcebispo de Bourges em 8 de setembro de 1983, com o consentimento da Santa Sé, segundo a carta do Dicastério. A data aparece igual nas versões italiana, inglesa, francesa e espanhola da carta; uma reportagem do Vatican News traz 1893, o que registramos como divergência.",
+        "sources": [
+          "ddf-pellevoisin-2024",
+          "vaticannews-pellevoisin-2024"
+        ]
+      },
+      {
+        "kind": "revelacao-privada",
+        "heading": "Palavras de misericórdia",
+        "text": "As palavras que Estelle atribui a Maria são breves: «Não temas nada, és minha filha»; «Se queres estar a meu serviço, sê simples»; «Calma, minha filha, tem paciência, terás sofrimentos, mas eu estou aqui». O Dicastério observa que mais do que as palavras impressiona a presença silenciosa e o olhar descritos por Estelle. O grande pedido atribuído à Virgem foi difundir o escapulário com a imagem do Coração de Cristo; numa das cenas, Maria estende as mãos e diz que as graças que caem «vêm de meu Filho». As traduções são nossas, do italiano.",
+        "sources": [
+          "ddf-pellevoisin-2024"
+        ]
+      },
+      {
+        "kind": "historia",
+        "heading": "Sinais de aprovação anteriores",
+        "text": "Segundo a carta do Dicastério, Leão XIII concedeu indulgências aos peregrinos de Pellevoisin em 1892 e reconheceu o escapulário do Sagrado Coração em 1900. Em 1922 foi autorizada uma missa votiva da Virgem, no dia 9 de setembro, para a paróquia de Pellevoisin. Indulgências e missas votivas são atos de culto e devoção; não são julgamentos sobre a origem das aparições.",
+        "sources": [
+          "ddf-pellevoisin-2024"
+        ]
+      },
+      {
+        "kind": "decisao",
+        "heading": "O nihil obstat de 2024 e o que ele significa",
+        "text": "Em 22 de agosto de 2024, o cardeal Víctor Manuel Fernández, prefeito do Dicastério para a Doutrina da Fé, escreveu ao arcebispo de Bourges, com a aprovação do papa Francisco. A carta diz que não há objeções doutrinais, morais ou de outro tipo, que os fiéis podem dar o seu assentimento de modo prudente e que a devoção é particularmente recomendada a quem livremente quiser aderir a ela. Por isso, considera possível emitir o decreto de nihil obstat proposto pelo arcebispo.\n\nNihil obstat, em latim «nada impede», é uma das conclusões previstas pelas normas de discernimento de 2024. Segundo essas normas, ele permite valorizar pastoralmente uma experiência espiritual, mas não declara o caráter sobrenatural do fenômeno nem obriga os fiéis a crer. A carta lembra que não é prática corrente do Dicastério pronunciar-se sobre a origem divina de fenômenos e mensagens.",
+        "sources": [
+          "ddf-pellevoisin-2024",
+          "ddf-normas-2024"
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "date": "1876-02",
+        "precision": "mes",
+        "kind": "relato",
+        "text": "Começam as aparições relatadas por Estelle Faguette; segundo ela, é curada na quinta.",
+        "sources": [
+          "vaticannews-pellevoisin-2024"
+        ]
+      },
+      {
+        "date": "1892",
+        "precision": "ano",
+        "kind": "devocao",
+        "text": "Leão XIII concede indulgências aos peregrinos de Pellevoisin.",
+        "sources": [
+          "ddf-pellevoisin-2024"
+        ]
+      },
+      {
+        "date": "1900",
+        "precision": "ano",
+        "kind": "devocao",
+        "text": "Reconhecimento do escapulário do Sagrado Coração.",
+        "sources": [
+          "ddf-pellevoisin-2024"
+        ]
+      },
+      {
+        "date": "1922",
+        "precision": "ano",
+        "kind": "devocao",
+        "text": "Autorização de missa votiva da Virgem, em 9 de setembro, para a paróquia.",
+        "sources": [
+          "ddf-pellevoisin-2024"
+        ]
+      },
+      {
+        "date": "1929-08-23",
+        "precision": "dia",
+        "kind": "historia",
+        "text": "Morte de Estelle Faguette em Pellevoisin.",
+        "sources": [
+          "vaticannews-pellevoisin-2024"
+        ]
+      }
+    ],
+    "decisions": [
+      {
+        "id": "d-pv-1983",
+        "date": "1983-09-08",
+        "datePrecision": "dia",
+        "authority": "Arcebispo de Bourges (com o consentimento da Santa Sé)",
+        "authorityLevel": "diocesano",
+        "kinds": [
+          "reconhecimento-de-milagre"
+        ],
+        "scope": "Confirma como milagrosa a cura de Estelle Faguette. Diz respeito à cura, não ao reconhecimento das aparições.",
+        "document": "Decisão do arcebispo de Bourges de 8 de setembro de 1983, citada pela carta do Dicastério de 2024 (o documento de 1983 não foi lido).",
+        "documentSourceId": "ddf-pellevoisin-2024",
+        "sourceNote": "O nome do arcebispo não consta da carta lida. O Vatican News escreve 1893; a carta, em quatro línguas, diz 1983.",
+        "plain": "Em 1983, o arcebispo de Bourges confirmou como milagrosa a cura de Estelle. Isso é diferente de reconhecer as aparições.",
+        "sources": [
+          "ddf-pellevoisin-2024"
+        ]
+      },
+      {
+        "id": "d-pv-2024",
+        "date": "2024-08-22",
+        "datePrecision": "dia",
+        "authority": "Dicastério para a Doutrina da Fé (cardeal Víctor Manuel Fernández, prefeito), com aprovação do papa Francisco",
+        "authorityLevel": "santa-se",
+        "kinds": [
+          "nihil-obstat"
+        ],
+        "scope": "Consente que o arcebispo de Bourges emita o decreto de nihil obstat que propôs: não há objeções doutrinais ou morais, os fiéis podem aderir de modo prudente e a devoção é recomendada a quem quiser. Não declara sobrenatural o fenômeno. O decreto do arcebispo não foi lido.",
+        "document": "Carta «Nossa Senhora da Misericórdia nos leva ao Coração de Cristo», ao arcebispo de Bourges, 22 de agosto de 2024.",
+        "documentSourceId": "ddf-pellevoisin-2024",
+        "quote": "È quindi possibile emettere il relativo decreto di “nihil obstat” che ci ha proposto.",
+        "quoteLang": "it",
+        "plain": "Em 2024, o Dicastério autorizou o arcebispo de Bourges a declarar o nihil obstat: a devoção pode ser vivida e recomendada, sem que se afirme que as aparições foram sobrenaturais.",
+        "sources": [
+          "ddf-pellevoisin-2024",
+          "vaticannews-pellevoisin-2024"
+        ]
+      }
+    ],
+    "gaps": [
+      "O decreto de nihil obstat do arcebispo de Bourges, previsto pela carta de 2024, não foi lido.",
+      "O documento de 1983 sobre a cura não foi lido; a data é a da carta do Dicastério, e uma reportagem do Vatican News diverge (1893).",
+      "As narrativas completas de Estelle (quinze aparições citadas pela carta) não foram lidas em edição própria.",
+      "A história do santuário não foi pesquisada."
+    ],
+    "relations": {
+      "titles": [],
+      "devotions": [],
+      "miracles": [],
+      "articles": [
+        "fe-revelacoes-privadas"
+      ],
+      "shrines": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-08",
+      "humanTheologicalReview": false
+    },
+    "imageIds": []
+  },
+  {
+    "id": "apar-chandavila-1945",
+    "slug": "chandavila",
+    "type": "aparicao",
+    "status": "published",
+    "title": "Chandavila (Espanha), 1945",
+    "summary": "No verão de 1945, em Chandavila, na Estremadura espanhola, duas jovens relataram separadamente visões da Virgem das Dores. Em 2024, o Dicastério para a Doutrina da Fé consentiu que o arcebispo de Mérida-Badajoz declarasse o nihil obstat.",
+    "ecclesialCategory": "nihil-obstat-2024",
+    "place": {
+      "name": "Chandavila",
+      "locality": "La Codosera",
+      "region": "Badajoz, Estremadura (Arquidiocese de Mérida-Badajoz)",
+      "country": "Espanha",
+      "iso": "ES",
+      "macro": "Europa",
+      "coordinates": {
+        "lat": 39.19033,
+        "lon": -7.17519,
+        "verified": true,
+        "sourceId": "wikidata",
+        "refersTo": "santuario",
+        "precision": "Santuário de Nossa Senhora das Dores de Chandavila, conforme o Wikidata (Q6121538).",
+        "qid": "Q6121538"
+      }
+    },
+    "period": {
+      "start": "1945",
+      "precision": "ano"
+    },
+    "people": [
+      {
+        "name": "Marcelina Barroso Expósito",
+        "role": "Jovem que relatou as visões; descrita pelo Dicastério como criança pobre e sofrida"
+      },
+      {
+        "name": "Afra Brígido Blanco",
+        "role": "Jovem que relatou, separadamente, experiências semelhantes"
+      }
+    ],
+    "blocks": [
+      {
+        "kind": "relato",
+        "heading": "Duas jovens, uma mesma devoção",
+        "text": "Segundo a carta do Dicastério, a devoção à Virgem das Dores em Chandavila nasceu no fim da Segunda Guerra Mundial, no verão de 1945, das experiências espirituais que Marcelina Barroso Expósito e Afra Brígido Blanco viveram separadamente. Marcelina contou ter visto primeiro uma forma escura no céu, que se tornou cada vez mais nítida como a Virgem das Dores, com um manto negro cheio de estrelas, sobre um castanheiro.\n\nMais do que a visão, ela destacou ter sentido o abraço e o beijo que a Virgem lhe deu na testa. Segundo o relato, a Virgem lhe pediu que caminhasse de joelhos sobre ouriços de castanheiro secos, espinhos e pedras, dizendo: «Não tenhas medo, nada te acontecerá».",
+        "sources": [
+          "ddf-chandavila-2024"
+        ]
+      },
+      {
+        "kind": "revelacao-privada",
+        "heading": "Consolo e confiança",
+        "text": "O Dicastério lê nesse relato uma presença que infunde consolação, encorajamento e confiança, e não um pedido de sofrimento. Depois das alegadas visões, as duas jovens levaram vida discreta e dedicaram-se a obras de caridade, sobretudo junto de doentes, idosos e órfãos. A carta menciona conversões, curas e outros sinais entre os peregrinos que chegam da Espanha e de Portugal, sem examiná-los um a um.",
+        "sources": [
+          "ddf-chandavila-2024"
+        ]
+      },
+      {
+        "kind": "decisao",
+        "heading": "O nihil obstat de 2024",
+        "text": "Em carta de 22 de agosto de 2024, aprovada pelo papa Francisco, o cardeal Víctor Manuel Fernández diz ao arcebispo de Mérida-Badajoz que nada há a objetar a essa devoção e apresenta o consentimento do Dicastério para que ele proceda com a declaração do nihil obstat proposto. Segundo as normas de 2024, o nihil obstat permite acolher pastoralmente a experiência, mas não declara sobrenatural o fenômeno nem obriga os fiéis a crer.",
+        "sources": [
+          "ddf-chandavila-2024",
+          "ddf-normas-2024"
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "date": "1945",
+        "precision": "ano",
+        "kind": "relato",
+        "text": "No verão, Marcelina e Afra relatam, separadamente, as visões da Virgem das Dores.",
+        "sources": [
+          "ddf-chandavila-2024"
+        ]
+      }
+    ],
+    "decisions": [
+      {
+        "id": "d-cv-2024",
+        "date": "2024-08-22",
+        "datePrecision": "dia",
+        "authority": "Dicastério para a Doutrina da Fé (cardeal Víctor Manuel Fernández, prefeito), com aprovação do papa Francisco",
+        "authorityLevel": "santa-se",
+        "kinds": [
+          "nihil-obstat"
+        ],
+        "scope": "Consentimento para que o arcebispo de Mérida-Badajoz declare o nihil obstat proposto. Não declara sobrenatural o fenômeno. A declaração do arcebispo não foi lida.",
+        "document": "Carta «Uma luz em Espanha», ao arcebispo de Mérida-Badajoz, 22 de agosto de 2024.",
+        "documentSourceId": "ddf-chandavila-2024",
+        "quote": "este Dicastério apresenta com muito agrado o seu consentimento, a fim de que vossa Excelência Reverendíssima proceda com a declaração do “nihil obstat” proposto",
+        "quoteLang": "pt",
+        "plain": "Em 2024, o Dicastério autorizou o arcebispo a declarar o nihil obstat: a devoção pode continuar e ser acolhida, sem afirmação sobre a origem sobrenatural das visões.",
+        "sources": [
+          "ddf-chandavila-2024"
+        ]
+      }
+    ],
+    "gaps": [
+      "A declaração de nihil obstat do arcebispo de Mérida-Badajoz não foi lida.",
+      "As datas exatas das visões, as palavras atribuídas à Virgem além das citadas pela carta e a história do santuário não foram pesquisadas."
+    ],
+    "relations": {
+      "titles": [],
+      "devotions": [],
+      "miracles": [],
+      "articles": [
+        "fe-revelacoes-privadas"
+      ],
+      "shrines": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-08",
+      "humanTheologicalReview": false
+    },
+    "imageIds": []
+  },
+  {
+    "id": "apar-medjugorje-1981",
+    "slug": "medjugorje",
+    "type": "aparicao",
+    "status": "published",
+    "title": "Medjugorje (Bósnia e Herzegovina), desde 1981",
+    "summary": "Desde 1981, presumidos videntes de Medjugorje dizem receber aparições e mensagens da Virgem, invocada como Rainha da Paz. Em 2024, uma nota do Dicastério para a Doutrina da Fé concluiu que há condições para o nihil obstat: o culto público fica autorizado, mas as aparições não são declaradas sobrenaturais.",
+    "ecclesialCategory": "nihil-obstat-2024",
+    "place": {
+      "name": "Paróquia de Medjugorje",
+      "locality": "Medjugorje",
+      "region": "Herzegovina (Diocese de Mostar-Duvno)",
+      "country": "Bósnia e Herzegovina",
+      "iso": "BA",
+      "macro": "Europa",
+      "coordinates": {
+        "lat": 43.19016,
+        "lon": 17.67786,
+        "verified": true,
+        "sourceId": "wikidata",
+        "refersTo": "localidade",
+        "precision": "Aldeia de Medjugorje, conforme o Wikidata (Q94950); não indica o local específico de nenhum acontecimento.",
+        "qid": "Q94950"
+      }
+    },
+    "period": {
+      "start": "1981",
+      "precision": "ano"
+    },
+    "people": [
+      {
+        "name": "Presumidos videntes",
+        "role": "A nota de 2024 não os nomeia e esclarece que não julga a sua vida moral"
+      },
+      {
+        "name": "Visitador Apostólico para a paróquia de Medjugorje",
+        "role": "Encarregado de discernir e autorizar a publicação de mensagens"
+      }
+    ],
+    "blocks": [
+      {
+        "kind": "historia",
+        "heading": "Uma longa história de pareceres divergentes",
+        "text": "Medjugorje é uma aldeia da Bósnia e Herzegovina, na diocese de Mostar-Duvno. Desde 1981, presumidos videntes dizem receber aparições e mensagens da Virgem Maria; a nota do Dicastério cita presumidas mensagens desde 26 de junho de 1981. A própria nota descreve o caso como «uma longa e complexa história», em que se sucederam opiniões divergentes de bispos, teólogos, comissões e analistas.\n\nEm 19 de setembro de 2024, com a aprovação do papa Francisco dada em 28 de agosto, o Dicastério publicou a nota «A Rainha da Paz», para concluir essa história segundo as normas de discernimento de maio de 2024. A perspectiva, diz o texto, é muito diferente da usada em estudos anteriores.",
+        "sources": [
+          "ddf-medjugorje-2024"
+        ]
+      },
+      {
+        "kind": "revelacao-privada",
+        "heading": "As presumidas mensagens",
+        "text": "A nota avalia positivamente a maior parte das mensagens como textos edificantes e reconhece nelas um núcleo centrado na paz, na reconciliação e em Cristo; uma das citadas diz: «Paz. Paz. Paz. Reconciliai-vos». Mas insiste que essa avaliação não implica atribuir às mensagens origem sobrenatural direta: quando se fala de «mensagens» de Nossa Senhora, deve-se entender sempre «presumidas mensagens». A nota também aponta expressões que precisam de esclarecimento e confia ao Visitador Apostólico o discernimento de mensagens futuras ou ainda não publicadas.",
+        "sources": [
+          "ddf-medjugorje-2024"
+        ]
+      },
+      {
+        "kind": "decisao",
+        "heading": "O que o nihil obstat permite afirmar",
+        "text": "A conclusão da nota é que estão presentes as condições para a determinação de um nihil obstat. Por ele, os fiéis são autorizados a dar ao fenômeno, de forma prudente, a sua adesão, e o culto público fica autorizado. Ao mesmo tempo, a nota diz com todas as letras que isso não implica uma declaração do caráter sobrenatural do fenômeno, que os fiéis não são obrigados a crer e que as conclusões não envolvem um juízo sobre a vida moral dos presumidos videntes.\n\nO decreto correspondente cabe ao bispo de Mostar-Duvno. A nota pede ainda que as peregrinações não sejam feitas para encontrar os videntes, mas para um encontro com Maria, Rainha da Paz, e com Cristo, na escuta da Palavra, na Eucaristia e na adoração. Cada bispo diocesano conserva a autoridade para tomar, no seu território, as decisões prudenciais que julgar necessárias.",
+        "sources": [
+          "ddf-medjugorje-2024",
+          "ddf-normas-2024"
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "date": "1981-06-26",
+        "precision": "dia",
+        "kind": "relato",
+        "text": "Data da presumida mensagem mais antiga citada pela nota («Paz. Paz. Paz. Reconciliai-vos»).",
+        "sources": [
+          "ddf-medjugorje-2024"
+        ]
+      },
+      {
+        "date": "2024-08-28",
+        "precision": "dia",
+        "kind": "historia",
+        "text": "Em audiência, o papa Francisco aprova a nota do Dicastério e ordena a sua publicação.",
+        "sources": [
+          "ddf-medjugorje-2024"
+        ]
+      }
+    ],
+    "decisions": [
+      {
+        "id": "d-mj-2024",
+        "date": "2024-09-19",
+        "datePrecision": "dia",
+        "authority": "Dicastério para a Doutrina da Fé (cardeal Víctor Manuel Fernández, prefeito), com aprovação do papa Francisco",
+        "authorityLevel": "santa-se",
+        "kinds": [
+          "nihil-obstat"
+        ],
+        "scope": "Conclui que há condições para a determinação de um nihil obstat: autoriza o culto público e a adesão prudente dos fiéis; não declara sobrenaturais as aparições nem as mensagens; não julga a vida moral dos presumidos videntes; confia ao Visitador Apostólico a publicação de mensagens. O decreto do bispo de Mostar-Duvno não foi lido.",
+        "document": "Nota «A Rainha da Paz» sobre a experiência espiritual ligada a Medjugorje, 19 de setembro de 2024.",
+        "documentSourceId": "ddf-medjugorje-2024",
+        "quote": "Ainda que isto não implique uma declaração do caráter sobrenatural do fenômeno em questão",
+        "quoteLang": "pt",
+        "plain": "Em 2024, o Dicastério concluiu que a experiência de Medjugorje pode ter culto público e ser acolhida com prudência, mas não declarou que as aparições sejam sobrenaturais.",
+        "sources": [
+          "ddf-medjugorje-2024"
+        ]
+      }
+    ],
+    "gaps": [
+      "O decreto do bispo de Mostar-Duvno previsto pela nota não foi lido.",
+      "A história anterior a 2024 (declarações de bispos e comissões) não foi lida em fontes primárias e por isso não é narrada aqui.",
+      "Os nomes dos presumidos videntes e a cronologia dos primeiros dias não constam da nota e não foram pesquisados em fonte oficial."
+    ],
+    "relations": {
+      "titles": [],
+      "devotions": [],
+      "miracles": [],
+      "articles": [
+        "fe-revelacoes-privadas"
+      ],
+      "shrines": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-08",
+      "humanTheologicalReview": false
+    },
+    "imageIds": []
+  },
+  {
+    "id": "apar-litmanova-1990",
+    "slug": "litmanova",
+    "type": "aparicao",
+    "status": "published",
+    "title": "Litmanová (Eslováquia), 1990-1995",
+    "summary": "Entre 1990 e 1995 foram relatadas aparições da Virgem no monte Zvir, em Litmanová, na Eslováquia, numa comunidade católica de rito bizantino. Em 2025, o Dicastério acolheu a proposta de nihil obstat, mas excluiu algumas mensagens consideradas inaceitáveis.",
+    "ecclesialCategory": "nihil-obstat-2024",
+    "place": {
+      "name": "Monte Zvir",
+      "locality": "Litmanová",
+      "region": "Prešov (Arquieparquia de Prešov, rito bizantino)",
+      "country": "Eslováquia",
+      "iso": "SK",
+      "macro": "Europa",
+      "coordinates": {
+        "lat": 49.39182,
+        "lon": 20.63302,
+        "verified": true,
+        "sourceId": "wikidata",
+        "refersTo": "acontecimento",
+        "precision": "Elevação Zvir, no município de Litmanová, conforme o Wikidata (Q9392188); a fonte lida não dá ponto mais preciso.",
+        "qid": "Q9392188"
+      }
+    },
+    "period": {
+      "start": "1990",
+      "end": "1995",
+      "precision": "ano"
+    },
+    "people": [
+      {
+        "name": "Presumidos videntes",
+        "role": "Não nomeados na carta do Dicastério"
+      },
+      {
+        "name": "Dom Jonáš Maxim",
+        "role": "Arcebispo de Prešov para os católicos de rito bizantino; propôs o nihil obstat"
+      }
+    ],
+    "blocks": [
+      {
+        "kind": "relato",
+        "heading": "O monte Zvir",
+        "text": "Litmanová é uma aldeia do norte da Eslováquia, na região de Prešov, ligada à Igreja católica de rito bizantino. Entre 1990 e 1995 foram relatadas aparições da Virgem Maria no monte Zvir. Segundo o arcebispo de Prešov, citado pelo Dicastério, as aparições terminaram há trinta anos, mas o lugar continua a receber cada vez mais peregrinos, com confissões «sinceras e profundas» e conversões.",
+        "sources": [
+          "ddf-litmanova-2025"
+        ]
+      },
+      {
+        "kind": "revelacao-privada",
+        "heading": "Acolher o essencial, corrigir algumas mensagens",
+        "text": "A carta do Dicastério, cujo título é «Deixa que Jesus te liberte», aceita o valor geral das presumidas mensagens. Ao mesmo tempo, considera inaceitáveis algumas delas, que não devem ser publicadas: a de que uma pessoa concreta não seria perdoada, a de que quase todos numa região do mundo seriam condenados (24 de fevereiro de 1991) e a de que «a causa de toda doença é o pecado» (2 de dezembro de 1990). Para o Dicastério, tais frases podem ser expressão limitada e confusa de uma experiência interior. Cabe ao arcebispo publicar uma coletânea que as exclua.",
+        "sources": [
+          "ddf-litmanova-2025"
+        ]
+      },
+      {
+        "kind": "decisao",
+        "heading": "O nihil obstat de 2025",
+        "text": "Na carta de 4 de julho de 2025, o Dicastério acolhe a proposta do arcebispo de proceder com a declaração de nihil obstat sobre a devoção mariana nascida no monte Zvir. A própria carta explica o alcance: a declaração não implica reconhecer a autenticidade sobrenatural das presumidas aparições, mas permite aprovar o culto público e dizer aos fiéis que podem aproximar-se dessa proposta espiritual sem riscos, se quiserem.",
+        "sources": [
+          "ddf-litmanova-2025",
+          "ddf-normas-2024"
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "date": "1990",
+        "precision": "ano",
+        "kind": "relato",
+        "text": "Início das presumidas aparições no monte Zvir.",
+        "sources": [
+          "ddf-litmanova-2025"
+        ]
+      },
+      {
+        "date": "1990-12-02",
+        "precision": "dia",
+        "kind": "relato",
+        "text": "Data de uma presumida mensagem que o Dicastério considera inaceitável («a causa de toda doença é o pecado»).",
+        "sources": [
+          "ddf-litmanova-2025"
+        ]
+      },
+      {
+        "date": "1995",
+        "precision": "ano",
+        "kind": "relato",
+        "text": "Fim das presumidas aparições.",
+        "sources": [
+          "ddf-litmanova-2025"
+        ]
+      }
+    ],
+    "decisions": [
+      {
+        "id": "d-lm-2025",
+        "date": "2025-07-04",
+        "datePrecision": "dia",
+        "authority": "Dicastério para a Doutrina da Fé (cardeal Víctor Manuel Fernández, prefeito)",
+        "authorityLevel": "santa-se",
+        "kinds": [
+          "nihil-obstat"
+        ],
+        "scope": "Acolhe a proposta do arcebispo de Prešov de declarar o nihil obstat: permite o culto público, sem reconhecer a autenticidade sobrenatural; exclui da publicação algumas mensagens. A declaração do arcebispo não foi lida.",
+        "document": "Carta «Deixa que Jesus te liberte», ao arcebispo de Prešov, 4 de julho de 2025.",
+        "documentSourceId": "ddf-litmanova-2025",
+        "quote": "sebbene non implichi il riconoscimento dell’autenticità soprannaturale delle presunte apparizioni, consente comunque di approvare il culto pubblico",
+        "quoteLang": "it",
+        "plain": "Em 2025, o Dicastério aceitou o nihil obstat para Litmanová: o culto público é permitido, algumas mensagens ficam excluídas, e não se afirma que as aparições sejam sobrenaturais.",
+        "sources": [
+          "ddf-litmanova-2025"
+        ]
+      }
+    ],
+    "gaps": [
+      "A declaração de nihil obstat do arcebispo de Prešov e a coletânea de mensagens prevista não foram lidas.",
+      "A carta lida não informa se houve aprovação pontifícia em audiência; não se afirma que houve.",
+      "Os nomes dos presumidos videntes e a história do lugar não foram pesquisados."
+    ],
+    "relations": {
+      "titles": [],
+      "devotions": [],
+      "miracles": [],
+      "articles": [
+        "fe-revelacoes-privadas"
+      ],
+      "shrines": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-08",
+      "humanTheologicalReview": false
+    },
+    "imageIds": []
+  },
+  {
+    "id": "apar-montichiari-1947",
+    "slug": "montichiari",
+    "type": "aparicao",
+    "status": "published",
+    "title": "Montichiari (Itália), Maria Rosa Mística",
+    "summary": "A devoção a Maria Rosa Mística nasceu das experiências relatadas por Pierina Gilli em Montichiari, perto de Brescia, registradas em diários de 1946 a 1983. Em 2024, o Dicastério enviou ao bispo de Brescia um juízo doutrinal favorável às mensagens, com esclarecimentos; a carta não concede o nihil obstat.",
+    "ecclesialCategory": "juizo-doutrinal-2024",
+    "place": {
+      "name": "Fontanelle",
+      "locality": "Montichiari",
+      "region": "Província de Brescia (Diocese de Brescia)",
+      "country": "Itália",
+      "iso": "IT",
+      "macro": "Europa",
+      "coordinates": {
+        "lat": 45.4161,
+        "lon": 10.3917,
+        "verified": true,
+        "sourceId": "wikidata",
+        "refersTo": "localidade",
+        "precision": "Município de Montichiari, conforme o Wikidata (Q105256); não indica a localidade de Fontanelle, que não foi encontrada com coordenadas próprias.",
+        "qid": "Q105256"
+      }
+    },
+    "period": {
+      "start": "1946",
+      "end": "1983",
+      "precision": "ano"
+    },
+    "people": [
+      {
+        "name": "Pierina Gilli",
+        "role": "Autora dos diários que relatam as experiências (1946-1983)"
+      },
+      {
+        "name": "Bispo de Brescia",
+        "role": "Responsável pelo discernimento diocesano; o nome não consta da carta lida"
+      }
+    ],
+    "blocks": [
+      {
+        "kind": "relato",
+        "heading": "Os diários de Pierina Gilli",
+        "text": "As presumidas aparições marianas ligadas à localidade de Fontanelle, em Montichiari, na província de Brescia, chegaram à Igreja sobretudo pelos diários de Pierina Gilli, que cobrem de 1946 a 1983 e foram publicados em 2016. A carta do Dicastério cita um relato de 13 de julho de 1947 em que Pierina descreve a Senhora vestida de luz, que lhe teria dito: «Eu sou a Mãe de Jesus e a Mãe de todos vós». Pierina insiste na insuficiência das suas palavras para descrever o que viu.",
+        "sources": [
+          "ddf-montichiari-2024"
+        ]
+      },
+      {
+        "kind": "revelacao-privada",
+        "heading": "O que o Dicastério valoriza e o que esclarece",
+        "text": "O Dicastério destaca nos diários a humildade e a confiança de Pierina e o modo como tudo é orientado para Jesus Cristo. Ao mesmo tempo, esclarece expressões que aparecem sem explicação, como «Maria Redenção» ou «Maria Mediadora»: Jesus Cristo é o único Redentor e o único mediador, e a cooperação de Maria deve ser entendida como intercessão materna, subordinada a Ele. Só Deus pode dar a graça santificante no íntimo da pessoa.",
+        "sources": [
+          "ddf-montichiari-2024"
+        ]
+      },
+      {
+        "kind": "decisao",
+        "heading": "Um juízo doutrinal, não um nihil obstat",
+        "text": "A carta de 5 de julho de 2024, aprovada pelo papa Francisco, não encerra o caso. Ela comunica ao bispo de Brescia o juízo doutrinal do Dicastério sobre as mensagens: não foram encontrados elementos que contradigam diretamente o ensino da Igreja sobre fé e moral, nem aspectos morais negativos ligados à experiência. Com isso, diz a carta, o bispo pode concluir o seu discernimento segundo as normas de 2024.\n\nA decisão final cabe, portanto, ao bispo diocesano, e o seu ato não foi lido nesta edição. Por isso esta ficha não diz que Montichiari recebeu nihil obstat, embora a carta seja favorável. A pesquisa documentada do projeto (capítulo 50) também observa que a carta deve ser lida segundo o seu objeto doutrinal específico.",
+        "sources": [
+          "ddf-montichiari-2024"
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "date": "1947-07-13",
+        "precision": "dia",
+        "kind": "relato",
+        "text": "Data de um relato de Pierina Gilli citado pela carta do Dicastério.",
+        "sources": [
+          "ddf-montichiari-2024"
+        ]
+      }
+    ],
+    "decisions": [
+      {
+        "id": "d-mt-2024",
+        "date": "2024-07-05",
+        "datePrecision": "dia",
+        "authority": "Dicastério para a Doutrina da Fé (cardeal Víctor Manuel Fernández, prefeito), com aprovação do papa Francisco",
+        "authorityLevel": "santa-se",
+        "kinds": [
+          "outra"
+        ],
+        "scope": "Juízo doutrinal sobre as mensagens de Pierina Gilli, enviado como apoio ao discernimento do bispo de Brescia: sem contradição direta com a fé e a moral, com esclarecimentos sobre algumas expressões. Não concede nihil obstat; a conclusão cabe ao bispo, cujo ato não foi lido.",
+        "document": "Carta ao bispo de Brescia sobre a devoção a Maria Rosa Mística (Montichiari), 5 de julho de 2024.",
+        "documentSourceId": "ddf-montichiari-2024",
+        "quote": "crediamo che Lei possa agevolmente giungere alla conclusione del Suo discernimento",
+        "quoteLang": "it",
+        "plain": "Em 2024, o Dicastério disse ao bispo de Brescia que as mensagens não contradizem a fé e a moral e que ele pode concluir o discernimento. A decisão final é do bispo.",
+        "sources": [
+          "ddf-montichiari-2024"
+        ]
+      }
+    ],
+    "gaps": [
+      "Não foi lido nenhum ato do bispo de Brescia posterior à carta de 2024.",
+      "As datas e o número das experiências relatadas, a história da devoção e a localidade exata de Fontanelle não foram pesquisados."
+    ],
+    "relations": {
+      "titles": [],
+      "devotions": [],
+      "miracles": [],
+      "articles": [
+        "fe-revelacoes-privadas"
+      ],
+      "shrines": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-08",
+      "humanTheologicalReview": false
+    },
+    "imageIds": []
+  },
+  {
+    "id": "apar-beauraing-1932",
+    "slug": "beauraing",
+    "type": "aparicao",
+    "status": "draft",
+    "title": "Beauraing (Bélgica), 1932-1933",
+    "summary": "RASCUNHO. Trinta e três aparições relatadas por cinco crianças, de 29 de novembro de 1932 a 3 de janeiro de 1933, segundo o santuário.",
+    "ecclesialCategory": "aparicao-reconhecida",
+    "place": {
+      "name": "Jardim do internato das Irmãs da Doutrina Cristã",
+      "locality": "Beauraing",
+      "region": "Namur",
+      "country": "Bélgica",
+      "iso": "BE",
+      "macro": "Europa",
+      "coordinates": null
+    },
+    "period": {
+      "start": "1932-11-29",
+      "end": "1933-01-03",
+      "precision": "dia"
+    },
+    "people": [],
+    "blocks": [],
+    "decisions": [],
+    "gaps": [
+      "O santuário (sanctuairedebeauraing.be, lido em 8/10/2026) diz que em 16 de maio de 1943 Dom Charue «obtém de Roma um decreto autorizando o culto» e que reconheceu a autenticidade dos fatos em 2 de julho de 1949; outras fontes dão 2 de fevereiro de 1943 para a autorização do culto. Nenhum dos documentos foi lido.",
+      "Não publicar até ler o texto da decisão de 1949 (diocese de Namur) e esclarecer a data e a natureza do ato de 1943."
+    ],
+    "relations": {
+      "titles": [],
+      "devotions": [],
+      "miracles": [],
+      "articles": [],
+      "shrines": []
+    },
+    "review": {
+      "state": "rascunho",
+      "lastVerified": "2026-10-08",
+      "humanTheologicalReview": false
+    }
+  },
+  {
+    "id": "apar-pontmain-1871",
+    "slug": "pontmain",
+    "type": "aparicao",
+    "status": "draft",
+    "title": "Pontmain (França), 1871",
+    "summary": "RASCUNHO. Aparição relatada por crianças em 17 de janeiro de 1871.",
+    "ecclesialCategory": "aparicao-reconhecida",
+    "place": {
+      "name": "Pontmain",
+      "locality": "Pontmain",
+      "region": "Mayenne",
+      "country": "França",
+      "iso": "FR",
+      "macro": "Europa",
+      "coordinates": null
+    },
+    "period": {
+      "start": "1871-01-17",
+      "precision": "dia"
+    },
+    "people": [],
+    "blocks": [],
+    "decisions": [],
+    "gaps": [
+      "O site do santuário não respondeu em 8/10/2026; o mandamento de Dom Wicart (2 de fevereiro de 1872) só foi visto em fontes secundárias.",
+      "A pesquisa documentada (capítulo 39) apoia-se em reportagem do Vatican News de 2021, que não foi relida nesta etapa.",
+      "Não publicar até ler o mandamento de 1872 ou fonte oficial da diocese de Laval ou do santuário."
+    ],
+    "relations": {
+      "titles": [],
+      "devotions": [],
+      "miracles": [],
+      "articles": [],
+      "shrines": []
+    },
+    "review": {
+      "state": "rascunho",
+      "lastVerified": "2026-10-08",
+      "humanTheologicalReview": false
+    }
+  },
+  {
+    "id": "apar-scoglio-placanica",
+    "slug": "madonna-dello-scoglio",
+    "type": "aparicao",
+    "status": "draft",
+    "title": "Nossa Senhora «dello Scoglio» (Santa Domenica di Placanica, Itália)",
+    "summary": "RASCUNHO. Experiência espiritual de um jovem fiel, com santuário diocesano erigido em 2016; nihil obstat confirmado pelo Dicastério em 5 de julho de 2024.",
+    "ecclesialCategory": "nihil-obstat-2024",
+    "place": {
+      "name": "Santuário de Nossa Senhora dello Scoglio",
+      "locality": "Santa Domenica di Placanica",
+      "region": "Calábria (Diocese de Locri-Gerace)",
+      "country": "Itália",
+      "iso": "IT",
+      "macro": "Europa",
+      "coordinates": null
+    },
+    "period": {
+      "start": "não informado no documento",
+      "precision": "aproximada"
+    },
+    "people": [],
+    "blocks": [],
+    "decisions": [],
+    "gaps": [
+      "A carta do Dicastério (ddf-scoglio-2024) não nomeia a pessoa envolvida nem data a experiência original; sem essas informações em fonte oficial, a ficha não tem narrativa a apresentar.",
+      "O decreto do bispo de Locri-Gerace previsto pela carta não foi lido."
+    ],
+    "relations": {
+      "titles": [],
+      "devotions": [],
+      "miracles": [],
+      "articles": [],
+      "shrines": []
+    },
+    "review": {
+      "state": "rascunho",
+      "lastVerified": "2026-10-08",
+      "humanTheologicalReview": false
+    }
+  }
+]

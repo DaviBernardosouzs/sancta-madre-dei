@@ -11,14 +11,10 @@
             "id": "aeb0c0172b0c37e1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/sancta-mater-dei-vault/14 - Pesquisas Pendentes/Pendências documentais e divergências.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pendências documentais e divergências"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
             }
           }
         ]
@@ -187,18 +183,41 @@
   },
   "active": "aeb0c0172b0c37e1",
   "lastOpenFiles": [
-    "sancta-mater-dei-vault/14 - Pesquisas Pendentes/Pendências documentais e divergências.md",
-    "worker/pedidos.js",
-    "worker/pedidos.js.tmp.6150.d5ddcd00bcf7",
-    "worker/semana.js",
-    "worker/semana.js.tmp.6150.978bd33a9522",
-    "worker/util.js",
-    "worker/util.js.tmp.6150.9e41732ade93",
-    "worker/contador.js",
-    "sancta-mater-dei-vault/12 - Fontes e Bibliografia/Referência F33 — João Paulo II, homilia em Belém, 8 de julho de 1980.md",
-    "tests/vault_visual_test.py",
-    "sancta-mater-dei-vault/00 - Portal/Cores e leitura dos grafos.md",
-    "scripts/__pycache__/vault_visual.cpython-314.pyc",
-    "scripts/__pycache__"
+    "docs/sancta-mater-dei-vault/07 - Orações e Devoções/Dai-lhes, Senhor, o eterno descanso (Requiem aeternam).md",
+    "docs/sancta-mater-dei-vault/07 - Orações e Devoções/Ladainha de Nossa Senhora.md",
+    "docs/sancta-mater-dei-vault/07 - Orações e Devoções/Pai-Nosso.md",
+    "docs/sancta-mater-dei-vault/05 - Santos e Videntes/Pierina Gilli.md",
+    "docs/sancta-mater-dei-vault/05 - Santos e Videntes/Afra Brígido Blanco.md",
+    "docs/sancta-mater-dei-vault/05 - Santos e Videntes/Marcelina Barroso Expósito.md",
+    "docs/sancta-mater-dei-vault/05 - Santos e Videntes/Estelle Faguette.md",
+    "docs/sancta-mater-dei-vault/12 - Fontes e Bibliografia/Fonte — Paulo VI, Constituição Apostólica Indulgentiarum doctrina (1º de janeiro de 1967).md",
+    "docs/sancta-mater-dei-vault/12 - Fontes e Bibliografia/Fonte — Terço e Ladainha pelas Almas do Purgatório (blog São Pio V, Curitiba, 2010).md",
+    "docs/sancta-mater-dei-vault/12 - Fontes e Bibliografia/Fonte — Coroa pelas almas do Purgatório (Paroquias.org).md",
+    "docs/sancta-mater-dei-vault/12 - Fontes e Bibliografia/Fonte — Congregação para o Culto Divino, carta aos presidentes das conferências episcopais sobre as invocações «Mater misericordiae», «Mater spei» e «Solacium migrantium» (20 de ju.md",
+    "docs/sancta-mater-dei-vault/12 - Fontes e Bibliografia/Fonte — Ladainha de Nossa Senhora (sítio do Vaticano, O Santo Rosário, versão em português).md",
+    "docs/sancta-mater-dei-vault/12 - Fontes e Bibliografia/Fonte — Pai Nosso (Vatican News, seção Orações, em português).md",
+    "docs/sancta-mater-dei-vault/12 - Fontes e Bibliografia/Fonte — Agência SIR, «Diocesi -  Tursi-Lagonegro, mons. Orofino dichiara “prodigiosa-miracolosa” la guarigione di Antonia Raco» (16 de abril de 2025).md",
+    "docs/sancta-mater-dei-vault/12 - Fontes e Bibliografia/Fonte — Conferência dos Bispos da França, «Le 70e miracle de Lourdes officiellement reconnu par l’évêque de Beauvais» (2018).md",
+    "docs/sancta-mater-dei-vault/12 - Fontes e Bibliografia/Fonte — Arcebispo de Liverpool, «Statement on the Case of John Traynor» (8 de dezembro de 2024).md",
+    "docs/sancta-mater-dei-vault/12 - Fontes e Bibliografia/Fonte — Dicastério para a Doutrina da Fé, carta ao bispo de Locri-Gerace sobre a experiência espiritual ligada ao santuário de Nossa Senhora «dello Scoglio» (5 de julho de 2024).md",
+    "docs/sancta-mater-dei-vault/12 - Fontes e Bibliografia/Fonte — Dicastério para a Doutrina da Fé, carta ao bispo de Brescia sobre a devoção a Maria Rosa Mística (Montichiari) (5 de julho de 2024).md",
+    "docs/sancta-mater-dei-vault/12 - Fontes e Bibliografia/Fonte — Dicastério para a Doutrina da Fé, «Deixa que Jesus te liberte» -  carta ao arcebispo de Prešov sobre a experiência espiritual no monte Zvir (Litmanová) (4 de julho de 2025).md",
+    "docs/sancta-mater-dei-vault/12 - Fontes e Bibliografia/Fonte — Dicastério para a Doutrina da Fé, «Uma luz em Espanha» -  carta ao arcebispo de Mérida-Badajoz sobre a experiência espiritual de Chandavila (22 de agosto de 2024).md",
+    "docs/sancta-mater-dei-vault/12 - Fontes e Bibliografia/Fonte — Vatican News, «Nossa Senhora da Misericórdia de Pellevoisin -  uma devoção que faz bem» (agosto de 2024).md",
+    "docs/sancta-mater-dei-vault/12 - Fontes e Bibliografia/Fonte — Dicastério para a Doutrina da Fé, «Nossa Senhora da Misericórdia nos leva ao Coração de Cristo» -  carta ao arcebispo de Bourges sobre a experiência espiritual de Estelle F.md",
+    "docs/sancta-mater-dei-vault/12 - Fontes e Bibliografia/Fonte — Francisco, videomensagem pela elevação do santuário de Knock a santuário internacional (19 de março de 2021).md",
+    "docs/sancta-mater-dei-vault/12 - Fontes e Bibliografia/Fonte — Reconhecimento das aparições de Banneux (site do santuário).md",
+    "docs/sancta-mater-dei-vault/12 - Fontes e Bibliografia/Fonte — Francisco, Angelus de 19 de setembro de 2021 (saudação a La Salette).md",
+    "docs/sancta-mater-dei-vault/12 - Fontes e Bibliografia/Originais/Edições/bd9313eae075/content/pesquisa-relacoes.json",
+    "docs/sancta-mater-dei-vault/12 - Fontes e Bibliografia/Originais/Edições/bd9313eae075/content",
+    "docs/sancta-mater-dei-vault/12 - Fontes e Bibliografia/Originais/Edições/bd9313eae075",
+    "docs/sancta-mater-dei-vault/12 - Fontes e Bibliografia/Originais/Edições/fb702c63f1f9/content/articles.json",
+    "docs/sancta-mater-dei-vault/12 - Fontes e Bibliografia/Originais/Edições/fb702c63f1f9/content",
+    "docs/sancta-mater-dei-vault/12 - Fontes e Bibliografia/Originais/Edições/fb702c63f1f9",
+    "docs/sancta-mater-dei-vault/12 - Fontes e Bibliografia/Originais/Edições/93deb1484982/content/curas-lourdes.json",
+    "docs/sancta-mater-dei-vault/12 - Fontes e Bibliografia/Originais/Edições/93deb1484982/content",
+    "docs/sancta-mater-dei-vault/12 - Fontes e Bibliografia/Originais/Edições/93deb1484982",
+    "docs/sancta-mater-dei-vault/12 - Fontes e Bibliografia/Originais/Edições/9d0f53ed0f85/content/titles.json",
+    "docs/sancta-mater-dei-vault/14 - Pesquisas Pendentes/Pendências documentais e divergências.md"
   ]
 }

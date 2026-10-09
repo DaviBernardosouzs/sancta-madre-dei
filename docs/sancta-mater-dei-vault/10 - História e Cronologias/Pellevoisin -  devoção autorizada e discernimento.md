@@ -13,6 +13,8 @@ tags:
 - mariana/estudo
 titulo_estudado:
 - '[[Nossa Senhora de Pellevoisin]]'
+pagina_principal:
+- '[[Relatos e discernimento — Nossa Senhora de Pellevoisin]]'
 ---
 
 # Pellevoisin: devoção autorizada e discernimento
@@ -53,7 +55,12 @@ titulo_estudado:
 
 704. Pellevoisin pode ser apresentada como devoção autorizada com esse alcance preciso.
 
+## Página principal no site e conferência
+
+Este capítulo resume uma fonte; a página principal do assunto é [[Relatos e discernimento — Nossa Senhora de Pellevoisin]].
+
 ## Relações e bibliografia
 
 - **fontes:** [[Referência F44 — Vatican News, decisão do Dicastério sobre Pellevoisin, agosto de 2024]]
 - **titulo estudado:** [[Nossa Senhora de Pellevoisin]]
+- **pagina principal:** [[Relatos e discernimento — Nossa Senhora de Pellevoisin]]

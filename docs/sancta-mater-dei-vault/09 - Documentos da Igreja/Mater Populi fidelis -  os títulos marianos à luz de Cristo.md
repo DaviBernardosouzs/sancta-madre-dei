@@ -13,6 +13,8 @@ tags:
 - mariana/estudo
 documento_contextual:
 - '[[Mater Populi fidelis]]'
+pagina_principal:
+- '[[Devoção a Maria e adoração a Deus]]'
 ---
 
 # Mater Populi fidelis: os títulos marianos à luz de Cristo
@@ -53,7 +55,12 @@ documento_contextual:
 
 992. Honrar Maria significa também preservar a clareza sobre a identidade de seu Filho.
 
+## Página principal no site e conferência
+
+Este capítulo resume uma fonte; a página principal do assunto é [[Devoção a Maria e adoração a Deus]].
+
 ## Relações e bibliografia
 
 - **fontes:** [[Referência F62 — Dicastério para a Doutrina da Fé, Mater Populi fidelis, 4 de novembro de 2025]]
 - **documento contextual:** [[Mater Populi fidelis]]
+- **pagina principal:** [[Devoção a Maria e adoração a Deus]]

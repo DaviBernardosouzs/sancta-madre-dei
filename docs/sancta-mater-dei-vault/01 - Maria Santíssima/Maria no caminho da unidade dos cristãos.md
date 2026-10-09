@@ -13,6 +13,8 @@ tags:
 - mariana/estudo
 menciona:
 - '[[Maternidade divina]]'
+pagina_principal:
+- '[[Maria na vida da Igreja]]'
 ---
 
 # Maria no caminho da unidade dos cristãos
@@ -53,7 +55,12 @@ menciona:
 
 240. Maria acompanha a Igreja que caminha em direção à unidade.
 
+## Página principal no site e conferência
+
+Este capítulo resume uma fonte; a página principal do assunto é [[Maria na vida da Igreja]].
+
 ## Relações e bibliografia
 
 - **fontes:** [[Referência F15 — Catequese ecumênica · 12 - 11 - 1997]]
 - **menciona:** [[Maternidade divina]]
+- **pagina principal:** [[Maria na vida da Igreja]]

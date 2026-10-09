@@ -15,6 +15,8 @@ titulo_estudado:
 - '[[Devoção mariana de Litmanová]]'
 documento_contextual:
 - '[[Carta sobre a experiência espiritual em Litmanová (2025)]]'
+pagina_principal:
+- '[[Relatos e discernimento — Devoção mariana de Litmanová]]'
 ---
 
 # Litmanová: acolher os frutos e corrigir as mensagens
@@ -55,8 +57,13 @@ documento_contextual:
 
 848. Litmanová exemplifica um discernimento que acolhe frutos sem aprovar todas as formulações.
 
+## Página principal no site e conferência
+
+Este capítulo resume uma fonte; a página principal do assunto é [[Relatos e discernimento — Devoção mariana de Litmanová]].
+
 ## Relações e bibliografia
 
 - **fontes:** [[Referência F53 — Dicastério para a Doutrina da Fé, carta sobre Litmanová, 4 de julho de 2025]]
 - **titulo estudado:** [[Devoção mariana de Litmanová]]
 - **documento contextual:** [[Carta sobre a experiência espiritual em Litmanová (2025)]]
+- **pagina principal:** [[Relatos e discernimento — Devoção mariana de Litmanová]]

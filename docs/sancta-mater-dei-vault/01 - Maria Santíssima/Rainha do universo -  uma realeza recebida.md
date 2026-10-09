@@ -13,6 +13,8 @@ tags:
 - mariana/estudo
 menciona:
 - '[[Maternidade divina]]'
+pagina_principal:
+- '[[Celebração — Realeza da Virgem Maria]]'
 ---
 
 # Rainha do universo: uma realeza recebida
@@ -53,7 +55,12 @@ menciona:
 
 208. Honrá-la como Rainha convida a compreender a grandeza como serviço.
 
+## Página principal no site e conferência
+
+Este capítulo resume uma fonte; a página principal do assunto é [[Celebração — Realeza da Virgem Maria]].
+
 ## Relações e bibliografia
 
 - **fontes:** [[Referência F13 — Catequese pontifícia · 23 - 07 - 1997]]
 - **menciona:** [[Maternidade divina]]
+- **pagina principal:** [[Celebração — Realeza da Virgem Maria]]

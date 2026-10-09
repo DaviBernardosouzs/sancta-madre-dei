@@ -1,0 +1,655 @@
+[
+  {
+    "id": "cura-catherine-latapie",
+    "name": "Catherine LATAPIE",
+    "place": "Loubajac",
+    "country": "França",
+    "recognitionDate": "1862-01-18",
+    "datePrecision": "dia",
+    "sourceId": "lourdes-curas-lista"
+  },
+  {
+    "id": "cura-louis-bouriette",
+    "name": "Louis BOURIETTE",
+    "place": "Lourdes",
+    "country": "França",
+    "recognitionDate": "1862-01-18",
+    "datePrecision": "dia",
+    "sourceId": "lourdes-curas-lista"
+  },
+  {
+    "id": "cura-blaisette-cazenave",
+    "name": "Blaisette CAZENAVE",
+    "place": "Lourdes",
+    "country": "França",
+    "recognitionDate": "1862-01-18",
+    "datePrecision": "dia",
+    "sourceId": "lourdes-curas-lista"
+  },
+  {
+    "id": "cura-henri-busquet",
+    "name": "Henri BUSQUET",
+    "place": "Nay",
+    "country": "França",
+    "recognitionDate": "1862-01-18",
+    "datePrecision": "dia",
+    "sourceId": "lourdes-curas-lista"
+  },
+  {
+    "id": "cura-justin-bouhort",
+    "name": "Justin BOUHORT",
+    "place": "Lourdes",
+    "country": "França",
+    "recognitionDate": "1862-01-18",
+    "datePrecision": "dia",
+    "sourceId": "lourdes-curas-lista"
+  },
+  {
+    "id": "cura-madeleine-rizan",
+    "name": "Madeleine RIZAN",
+    "place": "Nay",
+    "country": "França",
+    "recognitionDate": "1862-01-18",
+    "datePrecision": "dia",
+    "sourceId": "lourdes-curas-lista"
+  },
+  {
+    "id": "cura-marie-moreau",
+    "name": "Marie MOREAU",
+    "place": "Tartas",
+    "country": "França",
+    "recognitionDate": "1862-01-18",
+    "datePrecision": "dia",
+    "sourceId": "lourdes-curas-lista"
+  },
+  {
+    "id": "cura-pierre-de-rudder",
+    "name": "Pierre DE RUDDER",
+    "place": "Jabbeke",
+    "country": "Bélgica",
+    "recognitionDate": "1908-07-25",
+    "datePrecision": "dia",
+    "sourceId": "lourdes-curas-lista"
+  },
+  {
+    "id": "cura-joachime-dehant",
+    "name": "Joachime DEHANT",
+    "place": "Gesves",
+    "country": "Bélgica",
+    "recognitionDate": "1908-04-25",
+    "datePrecision": "dia",
+    "sourceId": "lourdes-curas-lista"
+  },
+  {
+    "id": "cura-elisa-seisson",
+    "name": "Elisa SEISSON",
+    "place": "Rognonas",
+    "country": "França",
+    "recognitionDate": "1912-07-02",
+    "datePrecision": "dia",
+    "sourceId": "lourdes-curas-lista"
+  },
+  {
+    "id": "cura-sister-eugenia-marie-mabille",
+    "name": "Sister Eugenia (Marie MABILLE)",
+    "place": "Bernay",
+    "country": "França",
+    "recognitionDate": "1908-08-30",
+    "datePrecision": "dia",
+    "sourceId": "lourdes-curas-lista"
+  },
+  {
+    "id": "cura-sister-julienne-aline-bruyere",
+    "name": "Sister Julienne (Aline BRUYÈRE)",
+    "place": "La Roque",
+    "country": "França",
+    "recognitionDate": "1912-03-07",
+    "datePrecision": "dia",
+    "sourceId": "lourdes-curas-lista"
+  },
+  {
+    "id": "cura-sister-josephine-marie-anne-jourdain",
+    "name": "Sister Joséphine-Marie (Anne JOURDAIN)",
+    "place": "Goincourt",
+    "country": "França",
+    "recognitionDate": "1908-10-10",
+    "datePrecision": "dia",
+    "sourceId": "lourdes-curas-lista"
+  },
+  {
+    "id": "cura-amelie-chagnon",
+    "name": "Amélie CHAGNON",
+    "place": "Poitiers",
+    "country": "França",
+    "recognitionDate": "1910-09-08",
+    "datePrecision": "dia",
+    "sourceId": "lourdes-curas-lista"
+  },
+  {
+    "id": "cura-clementine-trouve-sister-agnes-marie",
+    "name": "Clémentine TROUVÉ (Sister Agnès-Marie)",
+    "place": "Rouille",
+    "country": "França",
+    "recognitionDate": "1908-06-06",
+    "datePrecision": "dia",
+    "sourceId": "lourdes-curas-lista"
+  },
+  {
+    "id": "cura-marie-lebranchu-mrs-wuiplier",
+    "name": "Marie LEBRANCHU (Mrs Wuiplier)",
+    "place": "Paris",
+    "country": "França",
+    "recognitionDate": "1908-06-06",
+    "datePrecision": "dia",
+    "sourceId": "lourdes-curas-lista"
+  },
+  {
+    "id": "cura-marie-lemarchand-mrs-authier",
+    "name": "Marie LEMARCHAND (Mrs Authier)",
+    "place": "Caen",
+    "country": "França",
+    "recognitionDate": "1908-06-06",
+    "datePrecision": "dia",
+    "sourceId": "lourdes-curas-lista"
+  },
+  {
+    "id": "cura-elise-lesage",
+    "name": "Elise LESAGE",
+    "place": "Bucquoy",
+    "country": "França",
+    "recognitionDate": "1908-02-04",
+    "datePrecision": "dia",
+    "sourceId": "lourdes-curas-lista"
+  },
+  {
+    "id": "cura-sister-marie-de-la-presentation-sylvie-delporte",
+    "name": "Sister Marie de la Présentation (Sylvie DELPORTE)",
+    "place": "Lille",
+    "country": "França",
+    "recognitionDate": "1908-08-15",
+    "datePrecision": "dia",
+    "sourceId": "lourdes-curas-lista"
+  },
+  {
+    "id": "cura-father-cirette",
+    "name": "Father CIRETTE",
+    "place": "Beaumontel",
+    "country": "França",
+    "recognitionDate": "1907-02-11",
+    "datePrecision": "dia",
+    "sourceId": "lourdes-curas-lista"
+  },
+  {
+    "id": "cura-aurelie-huprelle",
+    "name": "Aurélie HUPRELLE",
+    "place": "Saint-Martin-le-Nœud",
+    "country": "França",
+    "recognitionDate": "1908-05-01",
+    "datePrecision": "dia",
+    "sourceId": "lourdes-curas-lista"
+  },
+  {
+    "id": "cura-esther-brachmann",
+    "name": "Esther BRACHMANN",
+    "place": "Paris",
+    "country": "França",
+    "recognitionDate": "1908-06-06",
+    "datePrecision": "dia",
+    "sourceId": "lourdes-curas-lista"
+  },
+  {
+    "id": "cura-jeanne-tulasne",
+    "name": "Jeanne TULASNE",
+    "place": "Tours",
+    "country": "França",
+    "recognitionDate": "1907-10-27",
+    "datePrecision": "dia",
+    "sourceId": "lourdes-curas-lista"
+  },
+  {
+    "id": "cura-clementine-malot",
+    "name": "Clémentine MALOT",
+    "place": "Gaudechart",
+    "country": "França",
+    "recognitionDate": "1908-11-01",
+    "datePrecision": "dia",
+    "sourceId": "lourdes-curas-lista"
+  },
+  {
+    "id": "cura-rose-francois",
+    "name": "Rose FRANÇOIS",
+    "place": "Paris",
+    "country": "França",
+    "recognitionDate": "1908-06-06",
+    "datePrecision": "dia",
+    "sourceId": "lourdes-curas-lista"
+  },
+  {
+    "id": "cura-reverend-father-salvator",
+    "name": "Reverend father SALVATOR",
+    "place": "Rouelle",
+    "country": "França",
+    "recognitionDate": "1908-07-01",
+    "datePrecision": "dia",
+    "sourceId": "lourdes-curas-lista"
+  },
+  {
+    "id": "cura-sister-maximilien",
+    "name": "Sister Maximilien",
+    "place": "Marseille",
+    "country": "França",
+    "recognitionDate": "1908-02-05",
+    "datePrecision": "dia",
+    "sourceId": "lourdes-curas-lista"
+  },
+  {
+    "id": "cura-marie-savoye",
+    "name": "Marie SAVOYE",
+    "place": "Cateau-Cambresis",
+    "country": "França",
+    "recognitionDate": "1908-08-15",
+    "datePrecision": "dia",
+    "sourceId": "lourdes-curas-lista"
+  },
+  {
+    "id": "cura-johanna-bezenac",
+    "name": "Johanna BÉZENAC",
+    "place": "Saint-Laurent-des-Bâtons",
+    "country": "França",
+    "recognitionDate": "1908-07-02",
+    "datePrecision": "dia",
+    "sourceId": "lourdes-curas-lista"
+  },
+  {
+    "id": "cura-sister-saint-hilaire-lucie-jupin",
+    "name": "Sister Saint-Hilaire (Lucie JUPIN)",
+    "place": "Peyreleau",
+    "country": "França",
+    "recognitionDate": "1908-05-10",
+    "datePrecision": "dia",
+    "sourceId": "lourdes-curas-lista"
+  },
+  {
+    "id": "cura-sister-sainte-beatrix-rosalie-vildier",
+    "name": "Sister Sainte-Béatrix (Rosalie VILDIER)",
+    "place": "Evreux",
+    "country": "França",
+    "recognitionDate": "1908-03-25",
+    "datePrecision": "dia",
+    "sourceId": "lourdes-curas-lista"
+  },
+  {
+    "id": "cura-marie-therese-noblet",
+    "name": "Marie-Thérèse NOBLET",
+    "place": "Avenay",
+    "country": "França",
+    "recognitionDate": "1908-02-11",
+    "datePrecision": "dia",
+    "sourceId": "lourdes-curas-lista"
+  },
+  {
+    "id": "cura-cecile-douville-de-franssu",
+    "name": "Cécile DOUVILLE DE FRANSSU",
+    "place": "Tournai",
+    "country": "Bélgica",
+    "recognitionDate": "1909-12-08",
+    "datePrecision": "dia",
+    "sourceId": "lourdes-curas-lista"
+  },
+  {
+    "id": "cura-antonia-moulin",
+    "name": "Antonia MOULIN",
+    "place": "Vienne",
+    "country": "França",
+    "recognitionDate": "1910-11-06",
+    "datePrecision": "dia",
+    "sourceId": "lourdes-curas-lista"
+  },
+  {
+    "id": "cura-marie-borel",
+    "name": "Marie BOREL",
+    "place": "Mende",
+    "country": "França",
+    "recognitionDate": "1911-06-04",
+    "datePrecision": "dia",
+    "sourceId": "lourdes-curas-lista"
+  },
+  {
+    "id": "cura-virginie-haudebourg",
+    "name": "Virginie HAUDEBOURG",
+    "place": "Lons-le-Saulnier",
+    "country": "França",
+    "recognitionDate": "1912-11-25",
+    "datePrecision": "dia",
+    "sourceId": "lourdes-curas-lista"
+  },
+  {
+    "id": "cura-marie-bire",
+    "name": "Marie BIRÉ",
+    "place": "Sainte-Gemme-la-Plaine",
+    "country": "França",
+    "recognitionDate": "1910-07-30",
+    "datePrecision": "dia",
+    "sourceId": "lourdes-curas-lista"
+  },
+  {
+    "id": "cura-aimee-allope",
+    "name": "Aimée ALLOPE",
+    "place": "Vern",
+    "country": "França",
+    "recognitionDate": "1910-08-05",
+    "datePrecision": "dia",
+    "sourceId": "lourdes-curas-lista"
+  },
+  {
+    "id": "cura-juliette-orion",
+    "name": "Juliette ORION",
+    "place": "Saint-Hilaire-de-Voust",
+    "country": "França",
+    "recognitionDate": "1913-10-18",
+    "datePrecision": "dia",
+    "sourceId": "lourdes-curas-lista"
+  },
+  {
+    "id": "cura-marie-fabre",
+    "name": "Marie FABRE",
+    "place": "Montredon",
+    "country": "França",
+    "recognitionDate": "1912-09-08",
+    "datePrecision": "dia",
+    "sourceId": "lourdes-curas-lista"
+  },
+  {
+    "id": "cura-henriette-bressolles",
+    "name": "Henriette BRESSOLLES",
+    "place": "Nice",
+    "country": "França",
+    "recognitionDate": "1957-06-04",
+    "datePrecision": "dia",
+    "sourceId": "lourdes-curas-lista"
+  },
+  {
+    "id": "cura-lydia-brosse",
+    "name": "Lydia BROSSE",
+    "place": "Saint-Raphaël",
+    "country": "França",
+    "recognitionDate": "1958-08-05",
+    "datePrecision": "dia",
+    "sourceId": "lourdes-curas-lista"
+  },
+  {
+    "id": "cura-sister-marie-marguerite-francoise-capitaine",
+    "name": "Sister Marie-Marguerite (Françoise CAPITAINE)",
+    "place": "Rennes",
+    "country": "França",
+    "recognitionDate": "1946-05-20",
+    "datePrecision": "dia",
+    "sourceId": "lourdes-curas-lista"
+  },
+  {
+    "id": "cura-louise-jamain",
+    "name": "Louise JAMAIN",
+    "place": "Paris",
+    "country": "França",
+    "recognitionDate": "1951-12-14",
+    "datePrecision": "dia",
+    "sourceId": "lourdes-curas-lista"
+  },
+  {
+    "id": "cura-francis-pascal",
+    "name": "Francis PASCAL",
+    "place": "Beaucaire",
+    "country": "França",
+    "recognitionDate": "1949-05-31",
+    "datePrecision": "dia",
+    "sourceId": "lourdes-curas-lista"
+  },
+  {
+    "id": "cura-gabrielle-clauzel",
+    "name": "Gabrielle CLAUZEL",
+    "place": "Oran",
+    "country": "Argélia",
+    "recognitionDate": "1948-03-18",
+    "datePrecision": "dia",
+    "sourceId": "lourdes-curas-lista"
+  },
+  {
+    "id": "cura-yvonne-fournier",
+    "name": "Yvonne FOURNIER",
+    "place": "Limoges",
+    "country": "França",
+    "recognitionDate": "1959-11-14",
+    "datePrecision": "dia",
+    "sourceId": "lourdes-curas-lista"
+  },
+  {
+    "id": "cura-rose-martin",
+    "name": "Rose MARTIN",
+    "place": "Nice",
+    "country": "França",
+    "recognitionDate": "1958-03-17",
+    "datePrecision": "dia",
+    "sourceId": "lourdes-curas-lista"
+  },
+  {
+    "id": "cura-jeanne-gestas",
+    "name": "Jeanne GESTAS",
+    "place": "Bègles",
+    "country": "França",
+    "recognitionDate": "1952-07-13",
+    "datePrecision": "dia",
+    "sourceId": "lourdes-curas-lista"
+  },
+  {
+    "id": "cura-marie-therese-canin",
+    "name": "Marie-Thérèse CANIN",
+    "place": "Marseille",
+    "country": "França",
+    "recognitionDate": "1952-06-06",
+    "datePrecision": "dia",
+    "sourceId": "lourdes-curas-lista"
+  },
+  {
+    "id": "cura-maddalena-carini",
+    "name": "Maddalena CARINI",
+    "place": "San Remo",
+    "country": "Itália",
+    "recognitionDate": "1960-06-02",
+    "datePrecision": "dia",
+    "sourceId": "lourdes-curas-lista"
+  },
+  {
+    "id": "cura-jeanne-fretel",
+    "name": "Jeanne FRÉTEL",
+    "place": "Rennes",
+    "country": "França",
+    "recognitionDate": "1950-11-20",
+    "datePrecision": "dia",
+    "sourceId": "lourdes-curas-lista"
+  },
+  {
+    "id": "cura-thea-angele-sister-marie-mercedes",
+    "name": "Théa ANGELE (Sister Marie-Mercédès)",
+    "place": "Tettnang",
+    "country": "Alemanha",
+    "recognitionDate": "1961-06-28",
+    "datePrecision": "dia",
+    "sourceId": "lourdes-curas-lista"
+  },
+  {
+    "id": "cura-evasio-ganora",
+    "name": "Evasio GANORA",
+    "place": "Casale",
+    "country": "Itália",
+    "recognitionDate": "1955-05-31",
+    "datePrecision": "dia",
+    "sourceId": "lourdes-curas-lista"
+  },
+  {
+    "id": "cura-edeltraud-fulda",
+    "name": "Edeltraud FULDA",
+    "place": "Vienne",
+    "country": "Áustria",
+    "recognitionDate": "1955-05-18",
+    "datePrecision": "dia",
+    "sourceId": "lourdes-curas-lista"
+  },
+  {
+    "id": "cura-paul-pellegrin",
+    "name": "Paul PELLEGRIN",
+    "place": "Toulon",
+    "country": "França",
+    "recognitionDate": "1953-12-08",
+    "datePrecision": "dia",
+    "sourceId": "lourdes-curas-lista"
+  },
+  {
+    "id": "cura-father-leo-schwager",
+    "name": "Father Léo SCHWAGER",
+    "place": "Fribourg",
+    "country": "Suíça",
+    "recognitionDate": "1960-12-18",
+    "datePrecision": "dia",
+    "sourceId": "lourdes-curas-lista"
+  },
+  {
+    "id": "cura-alice-couteault",
+    "name": "Alice COUTEAULT",
+    "place": "Bouillé-Loretz",
+    "country": "França",
+    "recognitionDate": "1956-07-16",
+    "datePrecision": "dia",
+    "sourceId": "lourdes-curas-lista"
+  },
+  {
+    "id": "cura-marie-bigot",
+    "name": "Marie BIGOT",
+    "place": "La Richardais",
+    "country": "França",
+    "recognitionDate": "1956-08-15",
+    "datePrecision": "dia",
+    "sourceId": "lourdes-curas-lista"
+  },
+  {
+    "id": "cura-ginette-nouvel",
+    "name": "Ginette NOUVEL",
+    "place": "Carmaux",
+    "country": "França",
+    "recognitionDate": "1963-05-31",
+    "datePrecision": "dia",
+    "sourceId": "lourdes-curas-lista"
+  },
+  {
+    "id": "cura-elisa-aloi",
+    "name": "Elisa ALOI",
+    "place": "Patti",
+    "country": "Itália",
+    "recognitionDate": "1965-05-26",
+    "datePrecision": "dia",
+    "sourceId": "lourdes-curas-lista"
+  },
+  {
+    "id": "cura-juliette-tamburini",
+    "name": "Juliette TAMBURINI",
+    "place": "Marseille",
+    "country": "França",
+    "recognitionDate": "1965-05-11",
+    "datePrecision": "dia",
+    "sourceId": "lourdes-curas-lista"
+  },
+  {
+    "id": "cura-vittorio-micheli",
+    "name": "Vittorio MICHELI",
+    "place": "Scurelle",
+    "country": "Itália",
+    "recognitionDate": "1976-05-26",
+    "datePrecision": "dia",
+    "sourceId": "lourdes-curas-lista"
+  },
+  {
+    "id": "cura-serge-perrin",
+    "name": "Serge PERRIN",
+    "place": "Lion d’Angers",
+    "country": "França",
+    "recognitionDate": "1978-06-17",
+    "datePrecision": "dia",
+    "sourceId": "lourdes-curas-lista"
+  },
+  {
+    "id": "cura-delizia-cirolli",
+    "name": "Delizia CIROLLI",
+    "place": "Paternò",
+    "country": "Itália",
+    "recognitionDate": "1989-06-28",
+    "datePrecision": "dia",
+    "sourceId": "lourdes-curas-lista"
+  },
+  {
+    "id": "cura-jean-pierre-bely",
+    "name": "Jean-Pierre BÉLY",
+    "place": "La Couronne",
+    "country": "França",
+    "recognitionDate": "1999-02-09",
+    "datePrecision": "dia",
+    "sourceId": "lourdes-curas-lista"
+  },
+  {
+    "id": "cura-anna-santaniello",
+    "name": "Anna SANTANIELLO",
+    "place": "Salerne",
+    "country": "Itália",
+    "recognitionDate": "2005-09-21",
+    "datePrecision": "dia",
+    "sourceId": "lourdes-curas-lista"
+  },
+  {
+    "id": "cura-sister-luigina-traverso",
+    "name": "Sister Luigina TRAVERSO",
+    "place": "Casale Monferrato",
+    "country": "Itália",
+    "recognitionDate": "2012-10-11",
+    "datePrecision": "dia",
+    "sourceId": "lourdes-curas-lista"
+  },
+  {
+    "id": "cura-danila-castelli",
+    "name": "Danila CASTELLI",
+    "place": "Bereguardo",
+    "country": "Itália",
+    "recognitionDate": "2013-06-20",
+    "datePrecision": "dia",
+    "sourceId": "lourdes-curas-lista"
+  },
+  {
+    "id": "cura-sister-bernadette-moriau",
+    "name": "Sister Bernadette MORIAU",
+    "place": "Beauvais",
+    "country": "França",
+    "recognitionDate": "2018-02-11",
+    "datePrecision": "dia",
+    "sourceId": "lourdes-curas-lista",
+    "authority": "Bispo de Beauvais, Noyon e Senlis (declaração de 11 de fevereiro de 2018)",
+    "healingDate": "2008-07-11"
+  },
+  {
+    "id": "cura-john-traynor",
+    "name": "John TRAYNOR",
+    "place": "Liverpool",
+    "country": "Reino Unido",
+    "recognitionDate": "2024-12-08",
+    "datePrecision": "dia",
+    "healingDate": "1923-07-25",
+    "sourceId": "traynor-declaracao-2024",
+    "authority": "Arcebispo de Liverpool (declaração de 8 de dezembro de 2024)"
+  },
+  {
+    "id": "cura-antonia-raco",
+    "name": "Antonia RACO (Sra. Lofiego)",
+    "place": "Tursi-Lagonegro (diocese)",
+    "country": "Itália",
+    "recognitionDate": "2025-04-16",
+    "datePrecision": "dia",
+    "sourceId": "lourdes-raco-2025",
+    "authority": "Bispo de Tursi-Lagonegro (proclamação de 16 de abril de 2025, segundo o santuário)"
+  }
+]

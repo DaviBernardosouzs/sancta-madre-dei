@@ -13,6 +13,8 @@ tags:
 - mariana/estudo
 titulo_estudado:
 - '[[Nossa Senhora de Covadonga]]'
+pagina_principal:
+- '[[Santa Gruta de Covadonga]]'
 ---
 
 # Nossa Senhora de Covadonga: oração na gruta asturiana
@@ -53,7 +55,12 @@ titulo_estudado:
 
 560. Covadonga permanece, nessa leitura, um lugar de reunião e renovação interior.
 
+## Página principal no site e conferência
+
+Este capítulo resume uma fonte; a página principal do assunto é [[Santa Gruta de Covadonga]].
+
 ## Relações e bibliografia
 
 - **fontes:** [[Referência F35 — João Paulo II, homilia em Covadonga, 21 de agosto de 1989]]
 - **titulo estudado:** [[Nossa Senhora de Covadonga]]
+- **pagina principal:** [[Santa Gruta de Covadonga]]

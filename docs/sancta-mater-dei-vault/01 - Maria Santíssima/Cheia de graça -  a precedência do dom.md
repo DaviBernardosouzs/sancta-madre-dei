@@ -11,6 +11,9 @@ origens:
 - content/pesquisa-documentada.txt#capitulo-06
 tags:
 - mariana/estudo
+pagina_principal:
+- '[[A Anunciação]]'
+- '[[Imaculada Conceição]]'
 ---
 
 # Cheia de graça: a precedência do dom
@@ -51,6 +54,11 @@ tags:
 
 96. Também ensina a reconhecer dignidade onde faltam poder e visibilidade.
 
+## Página principal no site e conferência
+
+Este capítulo resume uma fonte; a página principal do assunto é [[A Anunciação]], [[Imaculada Conceição]].
+
 ## Relações e bibliografia
 
 - **fontes:** [[Referência F06 — Catequese pontifícia · 08 - 05 - 1996]]
+- **pagina principal:** [[A Anunciação]], [[Imaculada Conceição]]

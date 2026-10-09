@@ -11,6 +11,9 @@ origens:
 - content/pesquisa-documentada.txt#capitulo-41
 tags:
 - mariana/estudo
+pagina_principal:
+- '[[Relatos de aparições — Knock]]'
+- '[[Nossa Senhora de Knock]]'
 ---
 
 # Nossa Senhora de Knock: a linguagem do silêncio
@@ -51,6 +54,11 @@ tags:
 
 656. A mensagem pontifícia convida os peregrinos à oração e à esperança.
 
+## Página principal no site e conferência
+
+Este capítulo resume uma fonte; a página principal do assunto é [[Relatos de aparições — Knock]], [[Nossa Senhora de Knock]].
+
 ## Relações e bibliografia
 
 - **fontes:** [[Referência F41 — Francisco, mensagem ao Santuário de Knock, 19 de março de 2021]]
+- **pagina principal:** [[Relatos de aparições — Knock]], [[Nossa Senhora de Knock]]

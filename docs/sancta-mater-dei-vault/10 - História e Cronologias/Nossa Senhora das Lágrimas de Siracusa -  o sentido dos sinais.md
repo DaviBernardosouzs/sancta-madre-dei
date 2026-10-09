@@ -13,6 +13,8 @@ tags:
 - mariana/estudo
 titulo_estudado:
 - '[[Nossa Senhora das Lágrimas de Siracusa]]'
+pagina_principal:
+- '[[Santuário de Nossa Senhora das Lágrimas (Siracusa)]]'
 ---
 
 # Nossa Senhora das Lágrimas de Siracusa: o sentido dos sinais
@@ -53,7 +55,12 @@ titulo_estudado:
 
 768. A mensagem do santuário une compaixão, perdão e responsabilidade pela vida humana.
 
+## Página principal no site e conferência
+
+Este capítulo resume uma fonte; a página principal do assunto é [[Santuário de Nossa Senhora das Lágrimas (Siracusa)]].
+
 ## Relações e bibliografia
 
 - **fontes:** [[Referência F48 — João Paulo II, dedicação do santuário de Siracusa, 6 de novembro de 1994]]
 - **titulo estudado:** [[Nossa Senhora das Lágrimas de Siracusa]]
+- **pagina principal:** [[Santuário de Nossa Senhora das Lágrimas (Siracusa)]]

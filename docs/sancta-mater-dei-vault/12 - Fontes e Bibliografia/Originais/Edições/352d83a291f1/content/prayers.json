@@ -1,0 +1,458 @@
+[
+  {
+    "id": "ora-sinal-da-cruz",
+    "slug": "sinal-da-cruz",
+    "type": "oracao",
+    "status": "published",
+    "title": "Sinal da Cruz",
+    "summary": "A oração com que começa e termina a oração cristã.",
+    "text": [
+      "Em nome do Pai e do Filho e do Espírito Santo.",
+      "Ámen."
+    ],
+    "provenance": "Compêndio do Catecismo da Igreja Católica, Apêndice (versão em português, sítio do Vaticano).",
+    "rights": "Oração tradicional da Igreja. A redação em português segue a edição do Compêndio no sítio do Vaticano, de uso comum; direitos autorais da tradução/edição não foram objeto de parecer jurídico. Reproduzida em extensão curta com indicação da fonte.",
+    "sources": [
+      "compendio-ccc-oracoes"
+    ],
+    "marian": false,
+    "relations": {
+      "devotions": [
+        "dev-rosario"
+      ]
+    },
+    "review": {
+      "state": "texto-conferido-na-fonte",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    },
+    "banner": "img-virgem-em-oracao"
+  },
+  {
+    "id": "ora-pai-nosso",
+    "slug": "pai-nosso",
+    "type": "oracao",
+    "status": "published",
+    "title": "Pai-Nosso",
+    "summary": "A oração que Jesus ensinou aos discípulos. Abre cada dezena do Rosário.",
+    "text": [
+      "Pai Nosso que estais nos Céus,",
+      "santificado seja o vosso Nome,",
+      "venha a nós o vosso Reino,",
+      "seja feita a vossa vontade",
+      "assim na terra como no Céu.",
+      "O pão nosso de cada dia nos dai hoje,",
+      "perdoai-nos as nossas ofensas",
+      "assim como nós perdoamos",
+      "a quem nos tem ofendido,",
+      "e não nos deixeis cair em tentação,",
+      "mas livrai-nos do Mal."
+    ],
+    "blocks": [
+      {
+        "kind": "escritura",
+        "heading": "A oração que Jesus ensinou",
+        "text": "Segundo o Evangelho de Mateus (6,9-13), Jesus ensinou esta oração no Sermão da Montanha; Lucas (11,2-4) traz uma forma mais breve, como resposta ao pedido de um discípulo: «Senhor, ensina-nos a rezar». No Rosário, o Pai-Nosso é rezado no início de cada dezena, antes das dez Ave-Marias.",
+        "sources": [
+          "nv-mateus",
+          "nv-lucas"
+        ]
+      },
+      {
+        "kind": "nota",
+        "heading": "Sobre este texto",
+        "text": "A redação reproduzida aqui é a da seção de orações do Vatican News em português, na forma usada no Brasil («que estais nos Céus»). O texto foi copiado sem alterações, inclusive nas maiúsculas e na ausência de «Amém» no fim, que muitas comunidades acrescentam. A redação adotada na liturgia de cada país pode ter pequenas diferenças.",
+        "sources": []
+      }
+    ],
+    "provenance": "Vatican News (Dicastério para a Comunicação), seção «Orações», página «Pai Nosso», em português; consultada em 8 de outubro de 2026.",
+    "rights": "Oração tradicional da Igreja. A página de origem traz a nota «Copyright © 2017-2026 Dicasterium pro Communicatione - Todos os direitos reservados». O texto é reproduzido literalmente, com indicação da fonte, sem parecer jurídico sobre a reprodução.",
+    "sources": [
+      "vaticannews-pai-nosso"
+    ],
+    "marian": false,
+    "relations": {
+      "devotions": [
+        "dev-rosario"
+      ]
+    },
+    "review": {
+      "state": "texto-conferido-na-fonte",
+      "lastVerified": "2026-10-08",
+      "humanTheologicalReview": false
+    },
+    "banner": "img-virgem-em-oracao"
+  },
+  {
+    "id": "ora-gloria",
+    "slug": "gloria-ao-pai",
+    "type": "oracao",
+    "status": "published",
+    "title": "Glória ao Pai",
+    "summary": "Doxologia trinitária rezada ao fim de cada dezena do Rosário.",
+    "text": [
+      "Glória ao Pai e ao Filho e ao Espírito Santo.",
+      "Como era, no princípio, agora e sempre.",
+      "Ámen."
+    ],
+    "provenance": "Compêndio do Catecismo da Igreja Católica, Apêndice (versão em português, sítio do Vaticano).",
+    "rights": "Oração tradicional da Igreja. Redação conforme a edição do Compêndio no Vaticano; direitos da tradução/edição não verificados juridicamente.",
+    "sources": [
+      "compendio-ccc-oracoes"
+    ],
+    "marian": false,
+    "relations": {
+      "devotions": [
+        "dev-rosario"
+      ]
+    },
+    "review": {
+      "state": "texto-conferido-na-fonte",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    },
+    "banner": "img-virgem-em-oracao"
+  },
+  {
+    "id": "ora-ave-maria",
+    "slug": "ave-maria",
+    "type": "oracao",
+    "status": "published",
+    "title": "Avé Maria",
+    "summary": "A saudação a Maria que combina palavras do Evangelho e um pedido de intercessão; núcleo do Rosário.",
+    "text": [
+      "Avé Maria, cheia de graça, o Senhor é convosco, bendita sois vós entre as mulheres e bendito é o fruto do vosso ventre, Jesus.",
+      "Santa Maria, Mãe de Deus, rogai por nós pecadores, agora e na hora da nossa morte.",
+      "Ámen."
+    ],
+    "provenance": "Compêndio do Catecismo da Igreja Católica, Apêndice (versão em português de Portugal). A primeira parte reúne palavras de Lc 1,28 e Lc 1,42 (ver Vaticano, mistérios gozosos, que cita Lc 1,42).",
+    "rights": "Oração tradicional. Redação conforme o Compêndio no sítio do Vaticano; direitos da edição/tradução não verificados juridicamente. Em português do Brasil é comum «Ave-Maria» e «Santa Maria, Mãe de Deus, rogai por nós, pecadores...»; a redação adotada nas paróquias pode variar.",
+    "sources": [
+      "compendio-ccc-oracoes",
+      "vaticano-misterios-rosario"
+    ],
+    "marian": true,
+    "relations": {
+      "devotions": [
+        "dev-rosario"
+      ]
+    },
+    "review": {
+      "state": "texto-conferido-na-fonte",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    },
+    "banner": "img-virgem-em-oracao"
+  },
+  {
+    "id": "ora-salve-rainha",
+    "slug": "salve-rainha",
+    "type": "oracao",
+    "status": "published",
+    "title": "Salve Rainha",
+    "summary": "Antífona mariana tradicional, frequentemente rezada ao final do Rosário.",
+    "text": [
+      "Salve, Rainha, mãe de misericórdia, vida, doçura, esperança nossa, salve!",
+      "A Vós bradamos, os degredados filhos de Eva.",
+      "A Vós suspiramos, gemendo e chorando neste vale de lágrimas.",
+      "Eia, pois, advogada nossa, esses Vossos olhos misericordiosos a nós volvei.",
+      "E, depois deste desterro, nos mostrai Jesus, bendito fruto do Vosso ventre.",
+      "Ó clemente, ó piedosa, ó doce Virgem Maria.",
+      "Rogai por nós, Santa Mãe de Deus, para que sejamos dignos das promessas de Cristo."
+    ],
+    "provenance": "Compêndio do Catecismo da Igreja Católica, Apêndice (versão em português, sítio do Vaticano).",
+    "rights": "Oração tradicional. Redação conforme o Compêndio no Vaticano; direitos da edição/tradução não verificados juridicamente.",
+    "sources": [
+      "compendio-ccc-oracoes"
+    ],
+    "marian": true,
+    "relations": {
+      "devotions": [
+        "dev-rosario"
+      ]
+    },
+    "review": {
+      "state": "texto-conferido-na-fonte",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    },
+    "banner": "img-virgem-em-oracao"
+  },
+  {
+    "id": "ora-sob-a-vossa-protecao",
+    "slug": "sob-a-tua-protecao",
+    "type": "oracao",
+    "status": "published",
+    "title": "Sob a Tua Protecção",
+    "summary": "Antiga prece de confiança em Maria nas necessidades.",
+    "text": [
+      "À Vossa protecção, recorremos, Santa Mãe de Deus; não desprezeis as nossas súplicas em nossas necessidades; mas livrai-nos de todos os perigos, ó Virgem gloriosa e bendita."
+    ],
+    "provenance": "Compêndio do Catecismo da Igreja Católica, Apêndice (versão em português, sítio do Vaticano).",
+    "rights": "Oração tradicional. Redação conforme o Compêndio no Vaticano; direitos da edição/tradução não verificados juridicamente.",
+    "sources": [
+      "compendio-ccc-oracoes"
+    ],
+    "marian": true,
+    "relations": {
+      "devotions": []
+    },
+    "review": {
+      "state": "texto-conferido-na-fonte",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    },
+    "banner": "img-virgem-em-oracao"
+  },
+  {
+    "id": "ora-magnificat",
+    "slug": "magnificat",
+    "type": "oracao",
+    "status": "published",
+    "title": "Magnificat",
+    "summary": "O cântico de Maria em Lc 1,46-55, rezado na liturgia das horas.",
+    "text": [
+      "A minha alma glorifica ao Senhor e o meu espírito se alegra em Deus, meu Salvador.",
+      "Porque pôs os olhos na humildade da sua serva: de hoje em diante me chamarão bem-aventurada todas as gerações.",
+      "O Todo-Poderoso fez em mim maravilhas: Santo é o seu nome.",
+      "A sua misericórdia se estende de geração em geração sobre aqueles que O temem.",
+      "Manifestou o poder do seu braço e dispersou os soberbos.",
+      "Derrubou os poderosos de seus tronos e exaltou os humildes.",
+      "Aos famintos encheu de bens e aos ricos despediu de mãos vazias.",
+      "Acolheu Israel seu servo, lembrado da sua misericórdia, como tinha prometido a nossos pais, a Abraão e à sua descendência para sempre.",
+      "Glória ao Pai e ao Filho e ao Espírito Santo.",
+      "Como era no princípio, agora e sempre. Ámen."
+    ],
+    "provenance": "Compêndio do Catecismo da Igreja Católica, Apêndice (versão em português, sítio do Vaticano). Texto bíblico em Lc 1,46-55.",
+    "rights": "Texto bíblico e oração tradicional. Redação conforme o Compêndio no Vaticano; direitos da edição/tradução não verificados juridicamente.",
+    "sources": [
+      "compendio-ccc-oracoes"
+    ],
+    "marian": true,
+    "relations": {
+      "devotions": []
+    },
+    "review": {
+      "state": "texto-conferido-na-fonte",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    },
+    "banner": "img-virgem-em-oracao"
+  },
+  {
+    "id": "ora-angelus",
+    "slug": "angelus",
+    "type": "oracao",
+    "status": "published",
+    "title": "Angelus",
+    "summary": "Oração que recorda a Anunciação e a Encarnação.",
+    "text": [
+      "V. O Anjo do Senhor anunciou a Maria",
+      "R. E Ela concebeu pelo Espírito Santo.",
+      "Avé Maria...",
+      "V. Eis a escrava do Senhor.",
+      "R. Faça-se em mim, segundo a Vossa palavra.",
+      "Avé Maria...",
+      "V. E o Verbo Divino encarnou.",
+      "R. E habitou entre nós.",
+      "Avé Maria...",
+      "V. Rogai por nós, santa Mãe de Deus.",
+      "R. Para que sejamos dignos das promessas de Cristo.",
+      "Oremos: Infundi, Senhor, a vossa graça, em nossas almas, para que nós, que, pela anunciação do Anjo, conhecemos a encarnação de Cristo, vosso Filho, pela sua paixão e morte na cruz, sejamos conduzidos à glória da Ressurreição. Pelo mesmo Cristo Senhor nosso. Ámen."
+    ],
+    "provenance": "Compêndio do Catecismo da Igreja Católica, Apêndice (versão em português, sítio do Vaticano).",
+    "rights": "Oração tradicional. Redação conforme o Compêndio no Vaticano; direitos da edição/tradução não verificados juridicamente.",
+    "sources": [
+      "compendio-ccc-oracoes"
+    ],
+    "marian": true,
+    "relations": {
+      "devotions": []
+    },
+    "review": {
+      "state": "texto-conferido-na-fonte",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    },
+    "banner": "img-virgem-em-oracao"
+  },
+  {
+    "id": "ora-ladainha",
+    "slug": "ladainha-de-nossa-senhora",
+    "type": "oracao",
+    "status": "published",
+    "title": "Ladainha de Nossa Senhora",
+    "summary": "Também chamada Ladainha Lauretana: uma sequência de invocações a Maria, cada uma seguida do pedido «rogai por nós».",
+    "text": [
+      "Senhor, tende piedade de nós",
+      "Cristo, tende piedade de nós",
+      "Senhor, tende piedade de nós",
+      "Cristo, ouvi-nos",
+      "Cristo, atendei-nos",
+      "Deus Pai do céu, tende piedade de nós",
+      "Deus Filho Redentor do mundo, tende piedade de nós",
+      "Deus Espírito Santo, tende piedade de nós",
+      "Santíssima Trindade, que sois um só Deus, tende piedade de nós",
+      "Santa Maria, rogai por nós.",
+      "Santa Mãe de Deus,",
+      "Santa Virgem das virgens,",
+      "Mãe de Cristo,",
+      "Mãe da Igreja,",
+      "Mãe de misericórdia,",
+      "Mãe da divina graça,",
+      "Mãe da esperança,",
+      "Mãe puríssima,",
+      "Mãe castíssima,",
+      "Mãe sempre virgem,",
+      "Mãe imaculada,",
+      "Mãe digna de amor,",
+      "Mãe admirável,",
+      "Mãe do bom conselho,",
+      "Mãe do Criador,",
+      "Mãe do Salvador,",
+      "Virgem prudentíssima,",
+      "Virgem venerável,",
+      "Virgem louvável,",
+      "Virgem poderosa,",
+      "Virgem clemente,",
+      "Virgem fiel,",
+      "Espelho de perfeição,",
+      "Sede da Sabedoria,",
+      "Fonte de nossa alegria,",
+      "Vaso espiritual,",
+      "Tabernáculo da eterna glória,",
+      "Moradia consagrada a Deus,",
+      "Rosa mística,",
+      "Torre de Davi,",
+      "Torre de marfim,",
+      "Casa de ouro,",
+      "Arca da aliança,",
+      "Porta do céu,",
+      "Estrela da manhã,",
+      "Saúde dos enfermos,",
+      "Refúgio dos pecadores,",
+      "Socorro dos migrantes,",
+      "Consoladora dos aflitos,",
+      "Auxílio dos cristãos,",
+      "Rainha dos Anjos,",
+      "Rainha dos Patriarcas,",
+      "Rainha dos Profetas,",
+      "Rainha dos Apóstolos,",
+      "Rainha dos Mártires,",
+      "Rainha dos confessores da fé,",
+      "Rainha das Virgens,",
+      "Rainha de todos os Santos,",
+      "Rainha concebida sem pecado original,",
+      "Rainha assunta ao céu,",
+      "Rainha do santo Rosário,",
+      "Rainha da paz.",
+      "Cordeiro de Deus, que tirais os pecados do mundo, perdoai-nos, Senhor.",
+      "Cordeiro de Deus, que tirais os pecados do mundo, ouvi-nos, Senhor.",
+      "Cordeiro de Deus, que tirais os pecados do mundo, tende piedade de nós.",
+      "Rogai por nós, santa Mãe de Deus.",
+      "Para que sejamos dignos das promessas de Cristo."
+    ],
+    "blocks": [
+      {
+        "kind": "nota",
+        "heading": "Como se reza",
+        "text": "Ladainha é uma oração feita de invocações curtas, a que todos respondem com o mesmo pedido. Começa e termina dirigindo-se a Deus: primeiro, as súplicas «Senhor, tende piedade de nós» e as invocações à Santíssima Trindade; no fim, o «Cordeiro de Deus». No meio estão os títulos de Maria. Depois de «Santa Maria», a resposta «rogai por nós» se repete a cada invocação, embora o texto de referência só a escreva na primeira linha.\n\nOs títulos vêm de fontes variadas: alguns da Escritura e da doutrina («Mãe de Deus», «Rainha concebida sem pecado original»), outros de imagens da tradição e da poesia cristã («Torre de marfim», «Estrela da manhã»). São expressões de louvor, não definições.",
+        "sources": []
+      },
+      {
+        "kind": "liturgia",
+        "heading": "Invocações acrescentadas em 2020",
+        "text": "Em 20 de junho de 2020, a Congregação para o Culto Divino comunicou às conferências episcopais que o papa Francisco dispôs inserir três invocações: «Mãe de misericórdia», depois de «Mãe da Igreja»; «Mãe da esperança», depois de «Mãe da divina graça»; e «Socorro dos migrantes», depois de «Refúgio dos pecadores». A versão reproduzida aqui já as inclui.",
+        "sources": [
+          "ladainha-carta-2020",
+          "ladainha-vaticano-pt"
+        ]
+      },
+      {
+        "kind": "nota",
+        "heading": "Diferenças entre as versões",
+        "text": "O texto vem da versão em português da página da ladainha no sítio do Vaticano e foi copiado sem alterações. Na mesma página, a versão inglesa inclui a invocação «Rainha da família» («Queen of families») e uma oração final, que a versão portuguesa não traz. Livros de oração e paróquias podem usar redações um pouco diferentes; esta é a que foi conferida na fonte.",
+        "sources": [
+          "ladainha-vaticano-pt"
+        ]
+      }
+    ],
+    "provenance": "Sítio do Vaticano, seção «O Santo Rosário», página «Ladainha de Nossa Senhora», versão em português; consultada em 8 de outubro de 2026.",
+    "rights": "Oração tradicional da Igreja. Texto reproduzido literalmente do sítio do Vaticano, com indicação da fonte; direitos da tradução não verificados juridicamente.",
+    "sources": [
+      "ladainha-vaticano-pt",
+      "ladainha-carta-2020"
+    ],
+    "marian": true,
+    "relations": {
+      "devotions": [
+        "dev-rosario"
+      ]
+    },
+    "review": {
+      "state": "texto-conferido-na-fonte",
+      "lastVerified": "2026-10-08",
+      "humanTheologicalReview": false
+    },
+    "banner": "img-virgem-em-oracao"
+  },
+  {
+    "id": "ora-requiem",
+    "slug": "dai-lhes-senhor-o-eterno-descanso",
+    "type": "oracao",
+    "status": "published",
+    "title": "Dai-lhes, Senhor, o eterno descanso (Requiem aeternam)",
+    "summary": "A oração da Igreja pelos defuntos, em português e em latim. Pode ser rezada nas contas da chamada Coroa das Almas, ou terço pelas almas do Purgatório, que tem várias formas populares.",
+    "text": [
+      "Dai-lhes, Senhor, o eterno descanso",
+      "Entre os esplendores da luz perpétua.",
+      "Descansem em paz. Amém."
+    ],
+    "latin": [
+      "Réquiem ætérnam dona eis, Dómine,",
+      "et lux perpétua lúceat eis.",
+      "Requiéscant in pace. Amen."
+    ],
+    "blocks": [
+      {
+        "kind": "doutrina",
+        "heading": "Rezar pelos que morreram",
+        "text": "Segundo o Catecismo da Igreja Católica, a Igreja honra a memória dos defuntos desde os primeiros tempos e oferece sufrágios por eles, sobretudo o sacrifício eucarístico, para que, purificados, possam chegar à visão de Deus; recomenda também as esmolas, as indulgências e as obras de penitência em favor deles (§ 1032). A oração breve «Dai-lhes, Senhor, o eterno descanso», que o Compêndio do Catecismo traz entre as orações comuns, exprime esse pedido.",
+        "sources": [
+          "ccc-pt-683-1065"
+        ]
+      },
+      {
+        "kind": "tradicao",
+        "heading": "A Coroa das Almas",
+        "text": "Na devoção popular, chama-se Coroa das Almas, ou terço pelas almas do Purgatório, a oração feita com as contas de um terço em intenção dos defuntos. Não existe um texto oficial dessa coroa: a estrutura muda de uma fonte para outra. Numa forma, em cada conta pequena se reza «Meu Jesus, misericórdia!» ou «Jesus, dai-lhes o descanso eterno!»; noutra, cinco invocações a Jesus pelos sofrimentos da Paixão, cada uma seguida de um pedido de descanso para as almas.\n\nPor isso publicamos aqui só a oração que tem texto oficial, em português e em latim, e que pode ser rezada em cada conta. Algumas folhas de devoção antigas falam em indulgências «de tantos dias»; essa contagem foi abolida por Paulo VI em 1967, na constituição Indulgentiarum doctrina, e não corresponde às normas atuais.",
+        "sources": [
+          "saopiov-terco-almas",
+          "paroquias-coroa-almas",
+          "indulgentiarum-doctrina"
+        ]
+      },
+      {
+        "kind": "nota",
+        "heading": "Sobre este texto",
+        "text": "O texto em português e o latino vêm do Apêndice do Compêndio do Catecismo da Igreja Católica, no sítio do Vaticano. A redação portuguesa foi mantida; só a grafia de «Ámen», própria de Portugal, foi adaptada para «Amém», como se escreve no Brasil. O latim está reproduzido sem alteração, com os acentos que indicam a sílaba tônica.",
+        "sources": []
+      }
+    ],
+    "provenance": "Compêndio do Catecismo da Igreja Católica, Apêndice (versões em português e em latim, sítio do Vaticano); consultado em 8 de outubro de 2026. Grafia brasileira de «Amém».",
+    "rights": "Oração tradicional da Igreja. Redação conforme o Compêndio no Vaticano; direitos da edição e da tradução não verificados juridicamente.",
+    "sources": [
+      "compendio-ccc-oracoes"
+    ],
+    "marian": false,
+    "relations": {
+      "devotions": []
+    },
+    "review": {
+      "state": "texto-conferido-na-fonte",
+      "lastVerified": "2026-10-08",
+      "humanTheologicalReview": false
+    },
+    "banner": "img-virgem-em-oracao"
+  }
+]

@@ -13,6 +13,8 @@ tags:
 - mariana/estudo
 titulo_estudado:
 - '[[Nossa Senhora de Altötting]]'
+pagina_principal:
+- '[[Santuário de Nossa Senhora de Altötting (Capela da Graça)]]'
 ---
 
 # Altötting: aprender a rezar com Maria
@@ -53,7 +55,12 @@ titulo_estudado:
 
 336. O peregrino é convidado a sair mais disponível à palavra divina.
 
+## Página principal no site e conferência
+
+Este capítulo resume uma fonte; a página principal do assunto é [[Santuário de Nossa Senhora de Altötting (Capela da Graça)]].
+
 ## Relações e bibliografia
 
 - **fontes:** [[Referência F21 — Homilia pontifícia · 11 - 09 - 2006]]
 - **titulo estudado:** [[Nossa Senhora de Altötting]]
+- **pagina principal:** [[Santuário de Nossa Senhora de Altötting (Capela da Graça)]]

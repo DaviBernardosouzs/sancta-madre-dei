@@ -11,6 +11,9 @@ origens:
 - content/pesquisa-documentada.txt#capitulo-16
 tags:
 - mariana/estudo
+pagina_principal:
+- '[[Depois da Ressurreição -  Cenáculo e Pentecostes]]'
+- '[[Maria, Mãe da Igreja]]'
 ---
 
 # Pentecostes e a maternidade espiritual na Igreja nascente
@@ -51,6 +54,11 @@ tags:
 
 256. O silêncio das fontes permanece distinto da riqueza da contemplação cristã.
 
+## Página principal no site e conferência
+
+Este capítulo resume uma fonte; a página principal do assunto é [[Depois da Ressurreição -  Cenáculo e Pentecostes]], [[Maria, Mãe da Igreja]].
+
 ## Relações e bibliografia
 
 - **fontes:** [[Referência F16 — Catequese pontifícia · 28 - 05 - 1997]]
+- **pagina principal:** [[Depois da Ressurreição -  Cenáculo e Pentecostes]], [[Maria, Mãe da Igreja]]

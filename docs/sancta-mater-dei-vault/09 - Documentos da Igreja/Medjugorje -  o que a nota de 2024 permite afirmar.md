@@ -15,6 +15,8 @@ titulo_estudado:
 - '[[Nossa Senhora Rainha da Paz de Medjugorje]]'
 documento_de_referencia:
 - '[[A Rainha da Paz — nota sobre Medjugorje (2024)]]'
+pagina_principal:
+- '[[Relatos e discernimento — Nossa Senhora Rainha da Paz de Medjugorje]]'
 ---
 
 # Medjugorje: o que a nota de 2024 permite afirmar
@@ -55,8 +57,13 @@ documento_de_referencia:
 
 784. A designação Rainha da Paz conduz à esperança fundada em Cristo.
 
+## Página principal no site e conferência
+
+Este capítulo resume uma fonte; a página principal do assunto é [[Relatos e discernimento — Nossa Senhora Rainha da Paz de Medjugorje]].
+
 ## Relações e bibliografia
 
 - **fontes:** [[Referência F49 — Dicastério para a Doutrina da Fé, A Rainha da Paz, 19 de setembro de 2024]]
 - **titulo estudado:** [[Nossa Senhora Rainha da Paz de Medjugorje]]
 - **documento de referencia:** [[A Rainha da Paz — nota sobre Medjugorje (2024)]]
+- **pagina principal:** [[Relatos e discernimento — Nossa Senhora Rainha da Paz de Medjugorje]]

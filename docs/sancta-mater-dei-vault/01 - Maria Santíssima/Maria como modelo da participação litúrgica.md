@@ -11,6 +11,8 @@ origens:
 - content/pesquisa-documentada.txt#capitulo-14
 tags:
 - mariana/estudo
+pagina_principal:
+- '[[Maria na vida da Igreja]]'
 ---
 
 # Maria como modelo da participação litúrgica
@@ -51,6 +53,11 @@ tags:
 
 224. Essa participação deve continuar nas escolhas da vida cotidiana.
 
+## Página principal no site e conferência
+
+Este capítulo resume uma fonte; a página principal do assunto é [[Maria na vida da Igreja]].
+
 ## Relações e bibliografia
 
 - **fontes:** [[Referência F14 — Catequese pontifícia · 10 - 09 - 1997]]
+- **pagina principal:** [[Maria na vida da Igreja]]

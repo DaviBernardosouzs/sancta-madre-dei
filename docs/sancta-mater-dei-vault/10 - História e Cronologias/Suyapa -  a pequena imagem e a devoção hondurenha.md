@@ -15,6 +15,8 @@ titulo_estudado:
 - '[[Nossa Senhora de Suyapa]]'
 menciona:
 - '[[Nossa Senhora de Suyapa]]'
+pagina_principal:
+- '[[Basílica de Nossa Senhora de Suyapa (Tegucigalpa)]]'
 ---
 
 # Suyapa: a pequena imagem e a devoção hondurenha
@@ -55,8 +57,13 @@ menciona:
 
 432. A pequena imagem tornou-se referência afetiva de um povo inteiro.
 
+## Página principal no site e conferência
+
+Este capítulo resume uma fonte; a página principal do assunto é [[Basílica de Nossa Senhora de Suyapa (Tegucigalpa)]].
+
 ## Relações e bibliografia
 
 - **fontes:** [[Referência F27 — Angelus pontifício · 05 - 07 - 1992]]
 - **titulo estudado:** [[Nossa Senhora de Suyapa]]
 - **menciona:** [[Nossa Senhora de Suyapa]]
+- **pagina principal:** [[Basílica de Nossa Senhora de Suyapa (Tegucigalpa)]]

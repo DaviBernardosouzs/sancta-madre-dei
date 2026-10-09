@@ -13,6 +13,8 @@ tags:
 - mariana/estudo
 titulo_estudado:
 - '[[Nossa Senhora de Mariazell]]'
+pagina_principal:
+- '[[Basílica de Mariazell (Natividade de Maria)]]'
 ---
 
 # Mariazell: peregrinação, paz e encontro entre povos
@@ -53,7 +55,12 @@ titulo_estudado:
 
 352. O encontro entre povos torna visível essa dimensão de comunhão.
 
+## Página principal no site e conferência
+
+Este capítulo resume uma fonte; a página principal do assunto é [[Basílica de Mariazell (Natividade de Maria)]].
+
 ## Relações e bibliografia
 
 - **fontes:** [[Referência F22 — Homilia pontifícia · 08 - 09 - 2007]]
 - **titulo estudado:** [[Nossa Senhora de Mariazell]]
+- **pagina principal:** [[Basílica de Mariazell (Natividade de Maria)]]

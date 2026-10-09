@@ -15,6 +15,8 @@ titulo_estudado:
 - '[[Nossa Senhora do Líbano]]'
 menciona:
 - '[[Nossa Senhora do Líbano]]'
+pagina_principal:
+- '[[Santuário de Nossa Senhora do Líbano (Harissa)]]'
 ---
 
 # Harissa: Nossa Senhora do Líbano e os jovens
@@ -55,8 +57,13 @@ menciona:
 
 400. Harissa revela uma expressão do amor mariano no Oriente Médio.
 
+## Página principal no site e conferência
+
+Este capítulo resume uma fonte; a página principal do assunto é [[Santuário de Nossa Senhora do Líbano (Harissa)]].
+
 ## Relações e bibliografia
 
 - **fontes:** [[Referência F25 — Discurso pontifício · 10 - 05 - 1997]]
 - **titulo estudado:** [[Nossa Senhora do Líbano]]
 - **menciona:** [[Nossa Senhora do Líbano]]
+- **pagina principal:** [[Santuário de Nossa Senhora do Líbano (Harissa)]]

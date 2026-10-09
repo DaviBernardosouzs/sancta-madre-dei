@@ -11,6 +11,8 @@ origens:
 - content/pesquisa-documentada.txt#capitulo-09
 tags:
 - mariana/estudo
+pagina_principal:
+- '[[Com o Menino -  Templo, Egito e Nazaré]]'
 ---
 
 # Maria como educadora do Menino Jesus
@@ -51,6 +53,11 @@ tags:
 
 144. O cuidado cristão busca o desenvolvimento integral da criança.
 
+## Página principal no site e conferência
+
+Este capítulo resume uma fonte; a página principal do assunto é [[Com o Menino -  Templo, Egito e Nazaré]].
+
 ## Relações e bibliografia
 
 - **fontes:** [[Referência F09 — Catequese pontifícia · 04 - 12 - 1996]]
+- **pagina principal:** [[Com o Menino -  Templo, Egito e Nazaré]]

@@ -14,6 +14,9 @@ tags:
 menciona:
 - '[[Alphonsine Mumureke]]'
 - '[[Nathalie Mukamazimpaka]]'
+pagina_principal:
+- '[[Relatos de aparições — Kibeho]]'
+- '[[Nossa Senhora de Kibeho (Ruanda)]]'
 ---
 
 # Kibeho: o alcance preciso da declaração de 2001
@@ -54,7 +57,12 @@ menciona:
 
 608. A devoção de Kibeho deve ser apresentada com essas delimitações documentais.
 
+## Página principal no site e conferência
+
+Este capítulo resume uma fonte; a página principal do assunto é [[Relatos de aparições — Kibeho]], [[Nossa Senhora de Kibeho (Ruanda)]].
+
 ## Relações e bibliografia
 
 - **fontes:** [[Referência F38 — Sala de Imprensa da Santa Sé, declaração sobre Kibeho, 29 de junho de 2001]]
 - **menciona:** [[Alphonsine Mumureke]], [[Nathalie Mukamazimpaka]]
+- **pagina principal:** [[Relatos de aparições — Kibeho]], [[Nossa Senhora de Kibeho (Ruanda)]]

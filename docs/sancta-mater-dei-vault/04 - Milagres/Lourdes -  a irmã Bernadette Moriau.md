@@ -14,6 +14,8 @@ tags:
 menciona:
 - '[[Nossa Senhora de Lourdes]]'
 - '[[Bernadette Moriau]]'
+pagina_principal:
+- '[[Cura atribuída — Sister Bernadette Moriau]]'
 ---
 
 # Lourdes: a irmã Bernadette Moriau
@@ -54,7 +56,12 @@ menciona:
 
 752. O caso tornou-se a septuagésima cura reconhecida ligada ao santuário.
 
+## Página principal no site e conferência
+
+Este capítulo resume uma fonte; a página principal do assunto é [[Cura atribuída — Sister Bernadette Moriau]].
+
 ## Relações e bibliografia
 
 - **fontes:** [[Referência F47 — Vatican News, reconhecimento da cura de Bernadette Moriau, 11 de fevereiro de 2018]]
 - **menciona:** [[Nossa Senhora de Lourdes]], [[Bernadette Moriau]]
+- **pagina principal:** [[Cura atribuída — Sister Bernadette Moriau]]

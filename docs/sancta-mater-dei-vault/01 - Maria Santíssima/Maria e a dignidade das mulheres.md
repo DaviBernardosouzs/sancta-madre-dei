@@ -11,6 +11,8 @@ origens:
 - content/pesquisa-documentada.txt#capitulo-08
 tags:
 - mariana/estudo
+pagina_principal:
+- '[[Maria na vida da Igreja]]'
 ---
 
 # Maria e a dignidade das mulheres
@@ -51,6 +53,11 @@ tags:
 
 128. Honrar Maria inclui aprender a acolher e valorizar suas irmãs.
 
+## Página principal no site e conferência
+
+Este capítulo resume uma fonte; a página principal do assunto é [[Maria na vida da Igreja]].
+
 ## Relações e bibliografia
 
 - **fontes:** [[Referência F08 — Carta pontifícia · 29 - 06 - 1995]]
+- **pagina principal:** [[Maria na vida da Igreja]]

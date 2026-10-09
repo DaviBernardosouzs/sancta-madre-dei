@@ -11,6 +11,8 @@ origens:
 - content/pesquisa-documentada.txt#capitulo-03
 tags:
 - mariana/estudo
+pagina_principal:
+- '[[O mundo em que Maria viveu]]'
 ---
 
 # As mulheres de Israel que ajudam a compreender Maria
@@ -51,6 +53,11 @@ tags:
 
 48. Mostram que a participação feminina atravessa a história da aliança.
 
+## Página principal no site e conferência
+
+Este capítulo resume uma fonte; a página principal do assunto é [[O mundo em que Maria viveu]].
+
 ## Relações e bibliografia
 
 - **fontes:** [[Referência F03 — Catequese bíblica · 27 - 03 - 1996]]
+- **pagina principal:** [[O mundo em que Maria viveu]]

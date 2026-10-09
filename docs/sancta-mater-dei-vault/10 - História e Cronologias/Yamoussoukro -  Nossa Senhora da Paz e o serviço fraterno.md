@@ -13,6 +13,8 @@ tags:
 - mariana/estudo
 titulo_estudado:
 - '[[Nossa Senhora da Paz de Yamoussoukro]]'
+pagina_principal:
+- '[[Basílica de Nossa Senhora da Paz (Yamoussoukro)]]'
 ---
 
 # Yamoussoukro: Nossa Senhora da Paz e o serviço fraterno
@@ -53,7 +55,12 @@ titulo_estudado:
 
 384. Aqui, a devoção mariana associa oração pela paz e responsabilidade fraterna.
 
+## Página principal no site e conferência
+
+Este capítulo resume uma fonte; a página principal do assunto é [[Basílica de Nossa Senhora da Paz (Yamoussoukro)]].
+
 ## Relações e bibliografia
 
 - **fontes:** [[Referência F24 — Homilia de dedicação · 10 - 09 - 1990]]
 - **titulo estudado:** [[Nossa Senhora da Paz de Yamoussoukro]]
+- **pagina principal:** [[Basílica de Nossa Senhora da Paz (Yamoussoukro)]]

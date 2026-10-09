@@ -15,6 +15,9 @@ documento_contextual:
 - '[[Vatican News — reconhecimento da cura de Antonietta Raco (2025)]]'
 menciona:
 - '[[Antonietta Raco]]'
+pagina_principal:
+- '[[Aparições de Lourdes (1858)]]'
+- '[[Curas e milagres em Lourdes -  o que está documentado]]'
 ---
 
 # Lourdes: Antonietta Raco e o reconhecimento de 2025
@@ -55,8 +58,16 @@ menciona:
 
 720. A data da atualização deve acompanhar qualquer contador apresentado ao público.
 
+## Página principal no site e conferência
+
+Este capítulo resume uma fonte; a página principal do assunto é [[Aparições de Lourdes (1858)]], [[Curas e milagres em Lourdes -  o que está documentado]].
+
+> [!warning] Nota de conferência (8 de outubro de 2026)
+> Este caso continua em pesquisa, fora do catálogo de milagres: o texto da decisão do bispo de Tursi-Lagonegro não foi lido em fonte da diocese ou da Igreja. A data e a autoridade foram conferidas no site do santuário de Lourdes, e o caso já consta da lista de curas reconhecidas. Fontes: lourdes-raco-2025, sir-raco-2025.
+
 ## Relações e bibliografia
 
 - **fontes:** [[Referência F45 — Vatican News, notícia da 72ª cura reconhecida de Lourdes, abril de 2025]]
 - **documento contextual:** [[Vatican News — reconhecimento da cura de Antonietta Raco (2025)]]
 - **menciona:** [[Antonietta Raco]]
+- **pagina principal:** [[Aparições de Lourdes (1858)]], [[Curas e milagres em Lourdes -  o que está documentado]]

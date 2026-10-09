@@ -1,0 +1,2993 @@
+[
+  {
+    "id": "fe-maternidade-divina",
+    "slug": "maternidade-divina",
+    "type": "artigo",
+    "category": "fe",
+    "order": 1,
+    "status": "published",
+    "title": "Maternidade divina",
+    "summary": "Maria é mãe de Jesus, que é Deus feito homem. Por isso, a Igreja a chama Mãe de Deus (Theotokos).",
+    "scriptureRefs": [
+      "Lc 1,43"
+    ],
+    "dogmaRank": "Doutrina definida pelo Concílio de Éfeso (431), segundo o Catecismo",
+    "blocks": [
+      {
+        "kind": "doutrina",
+        "heading": "O ensino",
+        "text": "«A Igreja confessa que Maria é, verdadeiramente, Mãe de Deus (Theotokos)» (CIC § 495). O título afirma, antes de tudo, quem é Jesus: Deus e homem em uma só pessoa. O Catecismo registra que o Concílio de Éfeso proclamou Maria Mãe de Deus em 431.",
+        "sources": [
+          "ccc-pt-422-682"
+        ]
+      }
+    ],
+    "relations": {
+      "articles": [
+        "fe-virgindade-perpetua"
+      ],
+      "prayers": [
+        "ora-ave-maria"
+      ],
+      "titles": [
+        "tit-mae-de-deus"
+      ],
+      "apparitions": [],
+      "devotions": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    },
+    "banner": "obra-durer-virgem",
+    "figures": []
+  },
+  {
+    "id": "fe-virgindade-perpetua",
+    "slug": "virgindade-perpetua",
+    "type": "artigo",
+    "category": "fe",
+    "order": 2,
+    "status": "published",
+    "title": "Virgindade perpétua",
+    "summary": "A Igreja confessa que Maria foi virgem ao conceber Jesus, ao dá-lo à luz e para sempre.",
+    "scriptureRefs": [
+      "Mt 1,18-25",
+      "Lc 1,34-35"
+    ],
+    "dogmaRank": "Ensino do Catecismo da Igreja Católica (§§ 496-501)",
+    "blocks": [
+      {
+        "kind": "doutrina",
+        "heading": "O ensino",
+        "text": "O Catecismo (§ 496) ensina que Jesus foi concebido «absque semine, ex Spiritu Sancto». No § 499, a Igreja «confessa a virgindade real e perpétua de Maria, mesmo no parto». Nos §§ 500-501, trata das passagens sobre os «irmãos de Jesus» e afirma que a Igreja entendeu sempre que elas não designam outros filhos da Virgem Maria.",
+        "sources": [
+          "ccc-pt-422-682"
+        ]
+      },
+      {
+        "kind": "nota",
+        "heading": "Escritura e interpretação",
+        "text": "As passagens sobre os «irmãos» de Jesus são lidas de maneiras diferentes por cristãos de diversas tradições. Este projeto expõe o ensino católico conforme o Catecismo e ainda não reúne estudos exegéticos sobre o tema.",
+        "sources": []
+      }
+    ],
+    "relations": {
+      "articles": [
+        "fe-maternidade-divina"
+      ],
+      "prayers": [],
+      "titles": [],
+      "apparitions": [],
+      "devotions": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    },
+    "banner": "obra-david-virgem-paisagem",
+    "figures": []
+  },
+  {
+    "id": "fe-imaculada-conceicao",
+    "slug": "imaculada-conceicao",
+    "type": "artigo",
+    "category": "fe",
+    "order": 3,
+    "status": "published",
+    "title": "Imaculada Conceição",
+    "summary": "Dogma definido em 1854: Maria foi preservada do pecado original desde o primeiro instante de sua conceição, em previsão dos méritos de Cristo.",
+    "scriptureRefs": [
+      "Lc 1,28"
+    ],
+    "dogmaRank": "Dogma definido por Pio IX, 8 de dezembro de 1854",
+    "blocks": [
+      {
+        "kind": "doutrina",
+        "heading": "A definição",
+        "text": "Na constituição apostólica Ineffabilis Deus (8 de dezembro de 1854), Pio IX declarou, pronunciou e definiu que a doutrina segundo a qual a Beatíssima Virgem Maria, no primeiro instante da sua conceição, por singular graça e privilégio de Deus onipotente, em vista dos méritos de Jesus Cristo, Salvador do gênero humano, foi preservada imune de toda mancha de pecado original, foi revelada por Deus e deve, por isso, ser firme e inviolavelmente crida por todos os fiéis. (Paráfrase em português do texto italiano do Vaticano.)",
+        "sources": [
+          "ineffabilis-deus"
+        ]
+      },
+      {
+        "kind": "doutrina",
+        "heading": "Como o Catecismo resume",
+        "text": "Os §§ 490-492 explicam que Maria foi redimida por Cristo desde a concepção: não é uma exceção à necessidade de salvação, mas o fruto antecipado dela.",
+        "sources": [
+          "ccc-pt-422-682"
+        ]
+      },
+      {
+        "kind": "relato",
+        "heading": "Relação com Lourdes",
+        "text": "Em Lourdes, o santuário relaciona o reconhecimento das aparições à Imaculada Conceição. O mandamento de 1862 cita Maria como «Imaculada». Outros detalhes (por exemplo, a data e as palavras relatadas por Bernadette sobre o nome da Senhora) ainda não foram verificados em fonte lida nesta edição.",
+        "sources": [
+          "lourdes-reconhecimento"
+        ]
+      },
+      {
+        "kind": "doutrina",
+        "heading": "Não confundir com a concepção virginal de Jesus",
+        "text": "A Imaculada Conceição diz respeito a Maria: foi preservada do pecado original desde o primeiro instante de sua conceição (Catecismo §§ 490-492). A concepção virginal diz respeito a Jesus: foi concebido do Espírito Santo, sem semente de homem (Catecismo § 496; Lc 1,35). São doutrinas diferentes, tratadas em páginas diferentes.",
+        "sources": [
+          "ccc-pt-422-682",
+          "nv-lucas"
+        ]
+      }
+    ],
+    "relations": {
+      "articles": [
+        "fe-assuncao"
+      ],
+      "prayers": [],
+      "titles": [
+        "tit-imaculada-conceicao"
+      ],
+      "apparitions": [
+        "apar-lourdes-1858"
+      ],
+      "devotions": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    },
+    "banner": "obra-reni-imaculada",
+    "figures": []
+  },
+  {
+    "id": "fe-assuncao",
+    "slug": "assuncao",
+    "type": "artigo",
+    "category": "fe",
+    "order": 4,
+    "status": "published",
+    "title": "Assunção",
+    "summary": "Dogma definido em 1950: Maria, terminado o curso da vida terrena, foi assunta em corpo e alma à glória celeste.",
+    "scriptureRefs": [],
+    "dogmaRank": "Dogma definido por Pio XII, 1º de novembro de 1950",
+    "blocks": [
+      {
+        "kind": "doutrina",
+        "heading": "A definição",
+        "text": "Em Munificentissimus Deus (1º de novembro de 1950, § 44), Pio XII definiu como dogma divinamente revelado que «a Imaculada Mãe de Deus, sempre Virgem Maria, terminado o curso da vida terrena, foi assunta em corpo e alma à glória celeste». (Tradução nossa do latim: «Immaculatam Deiparam semper Virginem Mariam, expleto terrestris vitae cursu, fuisse corpore et anima ad caelestem gloriam assumptam».)",
+        "sources": [
+          "munificentissimus-deus"
+        ]
+      },
+      {
+        "kind": "doutrina",
+        "heading": "Sentido para os cristãos",
+        "text": "O Catecismo (§ 966) diz que a Assunção é uma singular participação na ressurreição do Filho e uma antecipação da ressurreição dos outros cristãos.",
+        "sources": [
+          "ccc-pt-683-1065"
+        ]
+      }
+    ],
+    "relations": {
+      "articles": [
+        "fe-imaculada-conceicao"
+      ],
+      "prayers": [],
+      "titles": [],
+      "apparitions": [],
+      "devotions": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    },
+    "banner": "obra-signorelli-assuncao",
+    "figures": []
+  },
+  {
+    "id": "fe-devocao-e-adoracao",
+    "slug": "devocao-e-adoracao",
+    "type": "artigo",
+    "category": "fe",
+    "order": 5,
+    "status": "published",
+    "title": "Devoção a Maria e adoração a Deus",
+    "summary": "Católicos veneram Maria, mas só adoram a Deus. O Catecismo diferencia os dois cultos.",
+    "scriptureRefs": [
+      "Lc 1,48"
+    ],
+    "dogmaRank": "Ensino do Catecismo da Igreja Católica (§§ 969-971)",
+    "blocks": [
+      {
+        "kind": "doutrina",
+        "heading": "A diferença",
+        "text": "O Catecismo (§ 971) afirma que o culto à Virgem, «embora inteiramente singular, difere essencialmente do culto de adoração que se presta por igual ao Verbo Encarnado, ao Pai e ao Espírito Santo, e favorece-o poderosamente». O § 970 acrescenta que a função maternal de Maria não ofusca nem diminui a mediação única de Cristo.",
+        "sources": [
+          "ccc-pt-683-1065"
+        ]
+      },
+      {
+        "kind": "nota",
+        "heading": "Na prática",
+        "text": "Quando se reza «rogai por nós», pede-se a intercessão de Maria; a adoração, a salvação e a graça são entendidas como dons de Deus. Os muitos títulos (Lourdes, Fátima, Imaculada Conceição e outros) referem-se à mesma Maria, mãe de Jesus, e não a pessoas diferentes.",
+        "sources": [
+          "ccc-pt-683-1065"
+        ]
+      }
+    ],
+    "relations": {
+      "articles": [
+        "fe-revelacoes-privadas"
+      ],
+      "prayers": [
+        "ora-ave-maria"
+      ],
+      "titles": [
+        "tit-lourdes",
+        "tit-fatima"
+      ],
+      "apparitions": [],
+      "devotions": [
+        "dev-rosario"
+      ]
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    },
+    "banner": "obra-raphael-entronizada",
+    "figures": []
+  },
+  {
+    "id": "fe-revelacoes-privadas",
+    "slug": "revelacoes-privadas",
+    "type": "artigo",
+    "category": "fe",
+    "order": 6,
+    "status": "published",
+    "title": "Revelações privadas e aparições",
+    "summary": "Aparições como as de Lourdes e Fátima são tratadas pela Igreja como revelações privadas. Elas ajudam a viver a fé, mas não a completam.",
+    "scriptureRefs": [],
+    "dogmaRank": "Ensino do Catecismo (§ 67) e normas de 2024 do Dicastério para a Doutrina da Fé",
+    "blocks": [
+      {
+        "kind": "doutrina",
+        "heading": "O lugar das revelações privadas",
+        "text": "O Catecismo (§ 67) afirma que as revelações privadas, mesmo reconhecidas pela Igreja, «não pertencem ao depósito da fé». O seu papel «não é aperfeiçoar ou completar a Revelação definitiva de Cristo, mas ajudar a vivê-la mais plenamente numa determinada época da história».",
+        "sources": [
+          "ccc-pt-50-141"
+        ]
+      },
+      {
+        "kind": "historia",
+        "heading": "As normas vigentes",
+        "text": "Em 17 de maio de 2024, o Dicastério para a Doutrina da Fé publicou novas normas para o discernimento de presumíveis fenômenos sobrenaturais, aprovadas pelo Papa Francisco em 4 de maio e em vigor desde 19 de maio de 2024, substituindo as de 1978. O art. 18 prevê seis pronunciamentos possíveis: Nihil obstat, Prae oculis habeatur, Curatur, Sub mandato, Prohibetur et obstruatur e Declaratio de non supernaturalitate. Como regra, nem o bispo, nem a conferência episcopal, nem o Dicastério declaram a origem sobrenatural do fenômeno (n. 23).",
+        "sources": [
+          "ddf-normas-2024"
+        ]
+      },
+      {
+        "kind": "nota",
+        "heading": "Cuidado com as palavras",
+        "text": "Este projeto distingue: reconhecimento de uma aparição; autorização de culto ou peregrinação; nihil obstat; reconhecimento de um milagre específico; avaliação médica de uma cura inexplicada. As decisões anteriores a 2024 (como as de 1862 e 1930) foram tomadas sob normas anteriores e não são reclassificadas aqui com a terminologia de 2024. Quando só há decisão de um bispo, escrevemos «bispo diocesano», e não «Vaticano».",
+        "sources": [
+          "ddf-normas-2024"
+        ]
+      }
+    ],
+    "relations": {
+      "articles": [
+        "fe-devocao-e-adoracao"
+      ],
+      "prayers": [],
+      "titles": [],
+      "apparitions": [
+        "apar-lourdes-1858",
+        "apar-fatima-1917"
+      ],
+      "devotions": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    },
+    "banner": "obra-david-descanso",
+    "figures": []
+  },
+  {
+    "id": "guia-curas-e-milagres",
+    "slug": "curas-e-milagres-em-lourdes",
+    "type": "artigo",
+    "category": "milagres",
+    "order": 1,
+    "status": "published",
+    "title": "Curas e milagres em Lourdes: o que está documentado",
+    "summary": "Visão geral do que o santuário informa sobre curas inexplicadas e milagres reconhecidos, com os limites da pesquisa atual.",
+    "scriptureRefs": [],
+    "blocks": [
+      {
+        "kind": "historia",
+        "heading": "O que o santuário informa",
+        "text": "Segundo o santuário de Lourdes, 72 casos de curas inexplicadas foram reconhecidos como milagrosos pela Igreja (número lido em 4 de outubro de 2026 e reconferido em 8 de outubro de 2026). O Bureau das Constatações Médicas, criado em 1883, registrou mais de 7.000 dossiês de curas. Ou seja: a imensa maioria dos dossiês não resultou em reconhecimento de milagre.",
+        "sources": [
+          "lourdes-curas",
+          "lourdes-milagres"
+        ]
+      },
+      {
+        "kind": "nota",
+        "heading": "Três coisas diferentes",
+        "text": "(1) O acontecimento relatado: uma pessoa afirma ter sido curada. (2) A investigação médica: especialistas examinam o caso. (3) A decisão eclesiástica: a autoridade da Igreja se pronuncia sobre o caráter milagroso. Cada registro individual deste site mantém essas três camadas separadas. Segundo a compreensão católica, um milagre é obra de Deus, atribuída à intercessão de Maria; não é atribuído a técnicas nem a objetos.",
+        "sources": []
+      },
+      {
+        "kind": "nota",
+        "heading": "Cuidado com a saúde",
+        "text": "Nenhum conteúdo deste site recomenda interromper tratamentos médicos. Procure sempre acompanhamento profissional; a oração pode caminhar junto com ele.",
+        "sources": []
+      },
+      {
+        "kind": "nota",
+        "heading": "Quais casos têm ficha individual",
+        "text": "Só ganha ficha individual o caso em que o documento da decisão do bispo foi lido. Por isso há fichas para John Traynor (arcebispo de Liverpool, 2024) e para a Irmã Bernadette Moriau (bispo de Beauvais, 2018). O caso de Antonia Raco (2025) consta da lista de curas reconhecidas, com a data informada pelo santuário, mas continua em pesquisa até que o texto da decisão do bispo de Tursi-Lagonegro seja lido em fonte da Igreja. O caso de Catherine Latapie (1862) também continua em pesquisa.",
+        "sources": [
+          "traynor-declaracao-2024",
+          "cef-moriau-2018",
+          "lourdes-raco-2025",
+          "lourdes-curas"
+        ]
+      }
+    ],
+    "relations": {
+      "articles": [],
+      "prayers": [],
+      "titles": [],
+      "apparitions": [
+        "apar-lourdes-1858"
+      ],
+      "devotions": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-08",
+      "humanTheologicalReview": false
+    },
+    "banner": "obra-bellini-dormindo",
+    "figures": []
+  },
+  {
+    "id": "guia-promessas",
+    "slug": "como-ler-as-promessas",
+    "type": "artigo",
+    "category": "promessas",
+    "order": 1,
+    "status": "published",
+    "title": "Como ler as promessas atribuídas a Maria",
+    "summary": "Promessas devocionais precisam de origem, atribuição e fonte. Sem isso, não são publicadas.",
+    "scriptureRefs": [],
+    "blocks": [
+      {
+        "kind": "nota",
+        "heading": "Nossos critérios",
+        "text": "Para cada promessa, o projeto registra: origem e contexto; texto ou síntese fiel; quem a atribui e a quem (um vidente, uma tradição, um autor); fonte identificável; e os limites documentais. Uma promessa atribuída não é doutrina, e nenhuma prática é apresentada como mecanismo que garanta cura, riqueza, proteção física ou salvação.",
+        "sources": []
+      },
+      {
+        "kind": "doutrina",
+        "heading": "Revelações privadas",
+        "text": "Quando uma promessa vem de uma revelação privada, vale o que o Catecismo (§ 67) diz: ela não pertence ao depósito da fé.",
+        "sources": [
+          "ccc-pt-50-141"
+        ]
+      }
+    ],
+    "relations": {
+      "articles": [
+        "fe-revelacoes-privadas"
+      ],
+      "prayers": [],
+      "titles": [],
+      "apparitions": [],
+      "devotions": [
+        "dev-rosario",
+        "dev-mensagem-lourdes"
+      ]
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    },
+    "banner": "obra-rosario-misterios",
+    "figures": []
+  },
+  {
+    "id": "vida-01-mundo-de-maria",
+    "slug": "o-mundo-de-maria",
+    "type": "artigo",
+    "category": "vida",
+    "order": 1,
+    "status": "published",
+    "title": "O mundo em que Maria viveu",
+    "summary": "Nazaré, uma aldeia da Galileia, no tempo de Herodes e de Augusto: o que os Evangelhos, a arqueologia e a história permitem afirmar sobre o mundo de Maria, e o que continua desconhecido.",
+    "scriptureRefs": [
+      "Lc 1,5",
+      "Lc 1,26-27",
+      "Lc 2,1-4",
+      "Lc 2,39",
+      "Lc 3,1-2",
+      "Lc 4,16",
+      "Mt 2,22-23"
+    ],
+    "banner": "durer-egito-sagrada-familia",
+    "figures": [],
+    "blocks": [
+      {
+        "kind": "escritura",
+        "heading": "Onde os Evangelhos situam Maria",
+        "text": "Lucas apresenta Maria como uma virgem de Nazaré, cidade da Galileia, desposada com José, da casa de Davi (Lc 1,26-27). Mateus conta que a família, depois do retorno do Egito, foi morar em Nazaré (Mt 2,22-23), e Lucas diz que, cumpridas as prescrições da Lei, voltaram à Galileia, à sua cidade de Nazaré (Lc 2,39).\n\nO narrador de Lucas ancora a história em nomes e datas que a história geral conhece: Herodes, rei da Judeia (Lc 1,5); um edito de César Augusto (Lc 2,1); o ano décimo quinto de Tibério, com Pôncio Pilatos governador da Judeia e Herodes tetrarca da Galileia (Lc 3,1).",
+        "sources": [
+          "nv-lucas",
+          "nv-mateus"
+        ]
+      },
+      {
+        "kind": "historia",
+        "heading": "Nazaré: o que a arqueologia permite afirmar",
+        "text": "A Custódia da Terra Santa, cujos frades conduziram escavações na área dos santuários, resume: Nazaré não consta da lista das cidades de Zabulon (Js 19,10-15) nem é citada por Flávio Josefo, e as escavações identificaram uma aldeia agrícola, com moradias simples construídas em torno de cavernas usadas para o trabalho doméstico e para abrigar animais. A Custódia lembra também que Nazaré ficava perto de Tzippori (Séforis), capital administrativa e comercial da Galileia, reconstruída entre 10 e 20 d.C., obra para a qual os moradores de Nazaré contribuíram com mão de obra.\n\nO arqueólogo Ken Dark, da Universidade de Reading, afirma em síntese publicada em 2020 que as evidências de três sítios indicam que Nazaré era habitada pelo menos desde o início do século I, provavelmente desde o período helenístico tardio, como comunidade judaica que incluía grupos familiares.",
+        "sources": [
+          "custodia-nazare",
+          "dark-nazare-2020"
+        ]
+      },
+      {
+        "kind": "escritura",
+        "heading": "Vida religiosa e trabalho, como os Evangelhos os mostram",
+        "text": "Lucas diz que os pais de Jesus subiam todos os anos a Jerusalém para a festa da Páscoa (Lc 2,41) e que Jesus, em Nazaré, entrava na sinagoga no dia de sábado, segundo o seu costume (Lc 4,16). Na apresentação no Templo, a oferta foi «um par de rolas ou dois pombinhos» (Lc 2,24), que o Concílio Vaticano II chama de «oferta dos pobres» (Lumen Gentium 57).\n\nSobre o trabalho, Mateus registra a pergunta dos conterrâneos: «Não é este o filho do carpinteiro?» (Mt 13,55); em Marcos, perguntam: «Não é este o carpinteiro, o filho de Maria?» (Mc 6,3). A palavra latina é faber, que designa quem trabalha como artesão.",
+        "sources": [
+          "nv-lucas",
+          "nv-mateus",
+          "nv-marcos",
+          "lumen-gentium-pt"
+        ]
+      },
+      {
+        "kind": "nota",
+        "heading": "Uma imagem europeia, não um retrato da Nazaré do século I",
+        "text": "A gravura de abertura (Albrecht Dürer, cerca de 1511) mostra a Sagrada Família entre casas e uma oficina ao modo europeu do século XVI. Os artistas representavam o passado com as roupas e a arquitetura do próprio tempo. Esta imagem ilustra o capítulo como obra de arte, e não descreve como era Nazaré.",
+        "sources": []
+      },
+      {
+        "kind": "aberta",
+        "heading": "O que ainda não sabemos",
+        "text": "Os Evangelhos canônicos não dão a data nem o lugar do nascimento de Maria, nem a sua idade, aparência ou rotina. As narrativas que tentam preencher essas lacunas são apócrifas e tradicionais, e estão nos capítulos seguintes com essa identificação. Estudos acadêmicos sobre a vida familiar, a educação, a língua falada e o papel das mulheres na Galileia do século I ainda precisam ser pesquisados e citados aqui; por isso este capítulo não afirma nada sobre esses temas.",
+        "sources": []
+      }
+    ],
+    "relations": {
+      "articles": [
+        "vida-02-joaquim-e-ana",
+        "vida-05-anunciacao"
+      ],
+      "prayers": [],
+      "titles": [],
+      "apparitions": [],
+      "devotions": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    }
+  },
+  {
+    "id": "vida-02-joaquim-e-ana",
+    "slug": "joaquim-e-ana",
+    "type": "artigo",
+    "category": "vida",
+    "order": 2,
+    "status": "published",
+    "title": "Joaquim e Ana, os pais de Maria",
+    "summary": "Os Evangelhos não mencionam os pais de Maria. Joaquim e Ana aparecem em narrativas apócrifas antigas, lidas com respeito pela tradição, mas que não são Escritura. Aqui estão o que contam, de onde vêm e o que dizem sobre o anjo.",
+    "scriptureRefs": [],
+    "banner": "durer-joaquim-anjo",
+    "figures": [
+      {
+        "id": "durer-rejeicao-joaquim",
+        "after": 1
+      },
+      {
+        "id": "durer-porta-dourada",
+        "after": 4
+      }
+    ],
+    "blocks": [
+      {
+        "kind": "historia",
+        "heading": "De onde vêm essas narrativas",
+        "text": "Segundo a Enciclopédia Católica (1907), toda a informação sobre os nomes e a vida de Joaquim e Ana vem de literatura apócrifa: o Evangelho da Natividade de Maria, o Evangelho do Pseudo-Mateus e o Protoevangelho de Tiago. A forma mais antiga do Protoevangelho remonta a cerca do ano 150. No Oriente ele teve grande autoridade, e trechos eram lidos nas festas de Maria; no Ocidente foi rejeitado pelos Padres até ser incorporado à Legenda Áurea, de Tiago de Voragine, no século XIII, e daí a história de Ana se difundiu.\n\nA mesma enciclopédia adverte que não se pode aceitar como indubitável o que esses textos dizem apoiando-se só na autoridade deles, e qualifica de lenda espúria genealogias posteriores que atribuem nomes e casamentos a Ana. Por isso, aqui tudo o que vem desses textos aparece rotulado como narrativa apócrifa.",
+        "sources": [
+          "ce-santa-ana"
+        ]
+      },
+      {
+        "kind": "apocrifo",
+        "heading": "A oferta recusada e o deserto",
+        "text": "No Protoevangelho de Tiago, Joaquim é um homem muito rico que apresenta suas ofertas em dobro. Na grande festa, um homem chamado Rubim lhe diz que não lhe convém oferecer primeiro, porque não deixou descendência em Israel. Joaquim consulta os registros das doze tribos, vê que todos os justos tiveram descendência, lembra que Deus deu um filho a Abraão na velhice, e se retira ao deserto, onde arma sua tenda e jejua quarenta dias e quarenta noites. O Pseudo-Mateus conta o mesmo episódio com o sacerdote chamado Ruben, e acrescenta que Joaquim foi para junto de seus rebanhos nas montanhas.",
+        "sources": [
+          "proto-tiago",
+          "pseudo-mateus"
+        ]
+      },
+      {
+        "kind": "apocrifo",
+        "heading": "O lamento de Ana",
+        "text": "Ana chora duas tristezas: a viuvez simbólica e a falta de filhos. Veste as roupas de casamento, desce ao jardim por volta da hora nona, senta-se sob um loureiro e ora, pedindo que Deus a abençoe como abençoou o ventre de Sara. Vendo um ninho de pardais na árvore, queixa-se de que nem as aves, nem os animais, nem as águas, nem a terra são estéreis diante do Senhor (Protoevangelho de Tiago 2-3).",
+        "sources": [
+          "proto-tiago"
+        ]
+      },
+      {
+        "kind": "apocrifo",
+        "heading": "O anjo que anuncia a Joaquim e a Ana: o que cada versão diz",
+        "text": "No Protoevangelho de Tiago (cap. 4), «um anjo do Senhor» aparece a Ana e diz que sua oração foi ouvida: ela conceberá e dará à luz, e sua descendência será lembrada no mundo todo. Depois, dois anjos anunciam que Joaquim volta com seus rebanhos, porque «um anjo do Senhor» também desceu até ele, dizendo: «Joaquim, Joaquim, o Senhor Deus ouviu a tua oração; desce daqui, porque tua mulher Ana vai conceber».\n\nNo Pseudo-Mateus (cap. 3), o episódio é desenvolvido. Um jovem aparece a Joaquim nas montanhas e pergunta por que ele não volta à esposa; Joaquim responde que está há vinte anos casado e que Deus não quis dar-lhe filhos. O jovem então declara: «eu sou um anjo do Senhor», diz que apareceu à esposa quando ela chorava, e anuncia que Ana concebeu uma filha, que estará no Templo e sobre quem o Espírito Santo repousará. Joaquim passa a tarde em oração, e depois, em sonho, o mesmo anjo reaparece e diz: «sou o anjo designado por Deus como teu guardião; desce com confiança e volta a Ana». Quando Joaquim já voltava, o anjo do Senhor aparece a Ana e diz: «Vai ao portão que se chama Dourado e encontra teu marido no caminho».\n\nNenhum dos dois textos identifica esse anjo como Gabriel. Gabriel só é nomeado no Evangelho de Lucas (Lc 1,26), onde é enviado a Nazaré, a Maria: esse é outro acontecimento, a Anunciação, tratada em outro capítulo. O Protoevangelho cita o «arcanjo Gabriel» apenas depois, ao recordar a Visitação.",
+        "sources": [
+          "proto-tiago",
+          "pseudo-mateus",
+          "nv-lucas"
+        ]
+      },
+      {
+        "kind": "apocrifo",
+        "heading": "O encontro no portão",
+        "text": "No Protoevangelho, Ana espera «junto ao portão», vê Joaquim chegar com os rebanhos, corre e se lança ao seu pescoço, dizendo que agora sabe que o Senhor a abençoou muito: «a viúva já não é viúva, e eu, a sem filhos, vou conceber». No Pseudo-Mateus o lugar tem nome: é o portão «chamado Dourado», e Ana espera ali muito tempo, rezando, até avistar o marido. O nome Porta Dourada aparece, portanto, nesse segundo texto; o Protoevangelho fala apenas em «portão».",
+        "sources": [
+          "proto-tiago",
+          "pseudo-mateus"
+        ]
+      },
+      {
+        "kind": "arte",
+        "heading": "Como a arte representou essas cenas",
+        "text": "As cenas da rejeição da oferta, do anjo a Joaquim e do encontro na Porta Dourada fazem parte da série de xilogravuras de Albrecht Dürer sobre a vida da Virgem (folhas datadas pelo museu entre cerca de 1502 e 1511) e foram tema de outros artistas. O acervo do Metropolitan Museum of Art reúne obras sobre o encontro por Dürer (1504), Albrecht Altdorfer (cerca de 1513), Lucas van Leyden (1520) e o escultor Benedikt Dreyer (cerca de 1515-20). Essas obras seguem os textos apócrifos, não o Evangelho.",
+        "sources": [
+          "met-colecao-temas-marianos"
+        ]
+      },
+      {
+        "kind": "tradicao",
+        "heading": "Uma igreja para os pais de Maria",
+        "text": "A Custódia da Terra Santa registra que, no período cruzado, foi construída perto de Tzippori a igreja dos Santos Joaquim e Ana, para recordar a tradição apócrifa que situava ali a casa dos pais de Maria.",
+        "sources": [
+          "custodia-nazare"
+        ]
+      },
+      {
+        "kind": "liturgia",
+        "heading": "Memória litúrgica",
+        "text": "O Calendário Romano Geral inclui em 26 de julho a memória dos Santos Joaquim e Ana, pais da Virgem Maria. A celebração honra a vida de fé e de transmissão da fé de duas pessoas que a tradição nomeia assim, mas não transforma cada detalhe das narrativas apócrifas em fato histórico comprovado.",
+        "sources": [
+          "calendario-romano-geral"
+        ]
+      },
+      {
+        "kind": "aberta",
+        "heading": "Questões sem resposta nas fontes",
+        "text": "Onde moravam: o Protoevangelho, no trecho lido, não indica o lugar; a tradição cruzada citada pela Custódia fala de Tzippori. Quando e onde Maria nasceu, se Ana e Joaquim tiveram outros filhos, e quais eram os seus nomes de família: os textos antigos não permitem afirmar. Pesquisas em estudos acadêmicos sobre a origem e a difusão do Protoevangelho continuam pendentes.",
+        "sources": []
+      }
+    ],
+    "relations": {
+      "articles": [
+        "vida-03-nascimento-de-maria",
+        "vida-05-anunciacao"
+      ],
+      "prayers": [],
+      "titles": [],
+      "apparitions": [],
+      "devotions": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    }
+  },
+  {
+    "id": "vida-03-nascimento-de-maria",
+    "slug": "nascimento-e-infancia-de-maria",
+    "type": "artigo",
+    "category": "vida",
+    "order": 3,
+    "status": "published",
+    "title": "O nascimento e a infância de Maria",
+    "summary": "Os Evangelhos canônicos não narram o nascimento nem a infância de Maria. O que se conta vem de narrativas apócrifas e de tradição, e a liturgia celebra a Natividade e a Apresentação de Maria sem tornar cada detalhe um fato histórico.",
+    "scriptureRefs": [],
+    "banner": "obra-carnevale-nascimento",
+    "figures": [
+      {
+        "id": "durer-nascimento-maria",
+        "after": 1
+      },
+      {
+        "id": "durer-apresentacao-maria",
+        "after": 2
+      }
+    ],
+    "blocks": [
+      {
+        "kind": "nota",
+        "heading": "O que os Evangelhos não dizem",
+        "text": "Mateus e Lucas começam o seu relato com Jesus (Mt 1,18; Lc 1,26), e nenhum dos quatro Evangelhos canônicos conta o nascimento de Maria ou os seus primeiros anos. Tudo o que segue neste capítulo, até a liturgia, vem de textos apócrifos.",
+        "sources": []
+      },
+      {
+        "kind": "apocrifo",
+        "heading": "O nascimento",
+        "text": "No Protoevangelho de Tiago, depois do encontro com Joaquim, passam os meses e Ana, no nono mês, dá à luz. A parteira pergunta o que ela teve e ouve: «uma menina». Ana diz: «Minha alma foi engrandecida neste dia», purifica-se, amamenta a criança e lhe dá o nome de Maria (cap. 5). O Pseudo-Mateus diz apenas que, cumpridos os nove meses, Ana deu à luz uma filha e lhe pôs o nome de Maria (cap. 4).",
+        "sources": [
+          "proto-tiago",
+          "pseudo-mateus"
+        ]
+      },
+      {
+        "kind": "apocrifo",
+        "heading": "Os primeiros anos e a apresentação no Templo",
+        "text": "O Protoevangelho conta que, aos seis meses, Maria deu sete passos e voltou ao colo da mãe; Ana, então, faz do quarto um santuário e não permite que nada comum ou impuro entre ali. Aos três anos, Joaquim chama «as filhas dos hebreus sem mancha», cada uma com uma lâmpada, para acompanhar a menina ao Templo. O sacerdote a beija, a abençoa e a faz sentar no terceiro degrau do altar; Maria dança e todo o povo a ama (caps. 6-7). Mais adiante, o texto diz que ela recebia o alimento da mão de um anjo (cap. 8).\n\nNo Pseudo-Mateus, aos três anos Maria é colocada na comunidade das virgens do Templo e sobe quinze degraus tão depressa que nem olha para trás, sem procurar os pais (cap. 4).",
+        "sources": [
+          "proto-tiago",
+          "pseudo-mateus"
+        ]
+      },
+      {
+        "kind": "liturgia",
+        "heading": "As festas",
+        "text": "O Calendário Romano Geral celebra a Natividade da Virgem Maria em 8 de setembro (festa) e a Apresentação da Virgem Maria em 21 de novembro (memória). Na Constituição Apostólica Munificentissimus Deus, Pio XII recorda que o Papa Sérgio I, ao prescrever litanias nas festas de Nossa Senhora, enumerava a Natividade, a Anunciação, a Purificação e a Dormição, o que mostra que a Natividade já era festa mariana em Roma no século VII.",
+        "sources": [
+          "calendario-romano-geral",
+          "munificentissimus-deus-pt"
+        ]
+      },
+      {
+        "kind": "nota",
+        "heading": "Liturgia, tradição e história",
+        "text": "A liturgia celebra a pessoa de Maria, e as festas da Natividade e da Apresentação têm origem em tradição. Isso não significa que a Igreja afirme como fato histórico os episódios do Protoevangelho. Este site mantém as duas coisas separadas.",
+        "sources": []
+      },
+      {
+        "kind": "arte",
+        "heading": "Duas imagens do nascimento",
+        "text": "A pintura de Fra Carnevale (1467) situa a cena do Nascimento da Virgem em uma arquitetura clássica de colunas e arcos, com mulheres de vestes azuis e rosadas entrando pelo piso e outras, ao fundo, junto ao leito. A xilogravura de Dürer (cerca de 1503) mostra a cena em um quarto com cama de dossel, mulheres e um anjo em voo. São obras do século XV e XVI inspiradas na tradição, não documentos.",
+        "sources": [
+          "met-colecao-temas-marianos"
+        ]
+      },
+      {
+        "kind": "aberta",
+        "heading": "Lugar e data do nascimento",
+        "text": "Nenhuma fonte consultada indica o lugar ou o ano em que Maria nasceu. Tradições locais (por exemplo, em Jerusalém e na Galileia) existem, mas não foram pesquisadas em fontes identificáveis nesta edição.",
+        "sources": []
+      }
+    ],
+    "relations": {
+      "articles": [
+        "vida-02-joaquim-e-ana",
+        "vida-04-maria-e-jose"
+      ],
+      "prayers": [],
+      "titles": [],
+      "apparitions": [],
+      "devotions": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    }
+  },
+  {
+    "id": "vida-04-maria-e-jose",
+    "slug": "maria-e-jose",
+    "type": "artigo",
+    "category": "vida",
+    "order": 4,
+    "status": "published",
+    "title": "Maria e José",
+    "summary": "O desposório, o anúncio a José em sonho, o ofício de José e o que a Igreja ensina sobre os «irmãos de Jesus». O anúncio a José é distinto da Anunciação a Maria.",
+    "scriptureRefs": [
+      "Lc 1,27",
+      "Mt 1,18-25",
+      "Mt 13,55",
+      "Mc 6,3"
+    ],
+    "banner": "durer-desposorios",
+    "figures": [],
+    "blocks": [
+      {
+        "kind": "escritura",
+        "heading": "O desposório",
+        "text": "Lucas diz que Gabriel foi enviado a uma virgem «desposada com um homem que se chamava José, da casa de Davi» (Lc 1,26-27). Mateus conta que Maria, desposada com José, «antes de coabitarem» foi encontrada grávida pelo Espírito Santo (Mt 1,18). No ambiente judaico do relato, o desposório já criava um vínculo legal; os Evangelhos não descrevem a cerimônia.",
+        "sources": [
+          "nv-lucas",
+          "nv-mateus"
+        ]
+      },
+      {
+        "kind": "escritura",
+        "heading": "O anúncio a José, em sonho",
+        "text": "Mateus narra que José, sendo justo e não querendo difamá-la, decidiu deixá-la em segredo. Enquanto pensava nisso, um anjo do Senhor lhe apareceu em sonho: «José, filho de Davi, não temas receber Maria como esposa, pois o que nela foi gerado vem do Espírito Santo. Ela dará à luz um filho, e lhe darás o nome de Jesus». José acordou e fez como o anjo mandou: recebeu sua esposa e deu ao filho o nome de Jesus (Mt 1,19-25). Este é um anúncio diferente do feito a Maria, em Lucas, e o texto de Mateus não nomeia o anjo.",
+        "sources": [
+          "nv-mateus"
+        ]
+      },
+      {
+        "kind": "escritura",
+        "heading": "O ofício de José",
+        "text": "Os conterrâneos de Jesus perguntam: «Não é este o filho do carpinteiro?» (Mt 13,55); em Marcos: «Não é este o carpinteiro, o filho de Maria?» (Mc 6,3). Os Evangelhos não dizem mais sobre o trabalho de José nem sobre a data da sua morte.",
+        "sources": [
+          "nv-mateus",
+          "nv-marcos"
+        ]
+      },
+      {
+        "kind": "doutrina",
+        "heading": "Concepção virginal e virgindade perpétua",
+        "text": "O Catecismo ensina que Jesus foi concebido «absque semine, ex Spiritu Sancto» (§ 496) e que a Igreja confessa a virgindade real e perpétua de Maria, inclusive no parto (§ 499). Nos §§ 500-501, ao tratar das passagens sobre os «irmãos de Jesus», afirma que a Igreja sempre as entendeu como não designando outros filhos da Virgem Maria.",
+        "sources": [
+          "ccc-pt-422-682"
+        ]
+      },
+      {
+        "kind": "apocrifo",
+        "heading": "José e as varas, segundo o Protoevangelho",
+        "text": "O Protoevangelho de Tiago conta que, quando Maria tinha doze anos, os sacerdotes se perguntaram o que fazer com ela para não contaminar o santuário. O sumo sacerdote convoca os viúvos do povo, cada um com sua vara; de nenhuma sai sinal, até que de uma vara de José sai uma pomba e voa para a sua cabeça. José resiste, dizendo: «Tenho filhos, sou velho e ela é uma menina», mas acaba por aceitar a guarda da virgem (caps. 8-9). Nessa narrativa, José é um viúvo com filhos de outro casamento.\n\nNo Pseudo-Mateus, José recebe Maria e outras cinco virgens: Rebeca, Séfora, Susana, Abigeia e Cael (cap. 8-9). Em ambos, Maria é escolhida para fiar a púrpura e o escarlate do véu do Templo.",
+        "sources": [
+          "proto-tiago",
+          "pseudo-mateus"
+        ]
+      },
+      {
+        "kind": "tradicao",
+        "heading": "Uma leitura antiga dos «irmãos de Jesus»",
+        "text": "A imagem de José viúvo, com filhos de um casamento anterior, vem do Protoevangelho e foi usada em tradições antigas para explicar a menção a «irmãos» de Jesus nos Evangelhos (Mt 13,55; Mc 6,3). Ela não é ensino do Catecismo, que afirma a virgindade perpétua de Maria sem adotar essa narrativa. Pesquisas sobre o uso do termo «irmãos» e sobre as diferentes interpretações cristãs continuam pendentes e não são resumidas aqui.",
+        "sources": [
+          "proto-tiago",
+          "ccc-pt-422-682"
+        ]
+      },
+      {
+        "kind": "liturgia",
+        "heading": "Calendário",
+        "text": "O Calendário Romano Geral celebra em 19 de março São José, esposo da Virgem Maria (solenidade), e no domingo dentro da oitava do Natal a festa da Sagrada Família de Jesus, Maria e José.",
+        "sources": [
+          "calendario-romano-geral"
+        ]
+      },
+      {
+        "kind": "aberta",
+        "heading": "Idades e datas",
+        "text": "Os Evangelhos não informam a idade de Maria nem a de José no desposório. O Protoevangelho diz que Maria tinha doze anos quando foi confiada a José e dezesseis no tempo da Visitação; são afirmações da narrativa apócrifa, não dos Evangelhos.",
+        "sources": [
+          "proto-tiago"
+        ]
+      }
+    ],
+    "relations": {
+      "articles": [
+        "fe-virgindade-perpetua",
+        "vida-05-anunciacao"
+      ],
+      "prayers": [],
+      "titles": [],
+      "apparitions": [],
+      "devotions": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    }
+  },
+  {
+    "id": "vida-05-anunciacao",
+    "slug": "anunciacao",
+    "type": "artigo",
+    "category": "vida",
+    "order": 5,
+    "status": "published",
+    "title": "A Anunciação",
+    "summary": "O anjo Gabriel é enviado por Deus a Nazaré, a Maria. Este é o relato de Lucas, o consentimento de Maria e o que a Igreja ensina sobre ele.",
+    "scriptureRefs": [
+      "Lc 1,26-38"
+    ],
+    "banner": "obra-memling-anunciacao",
+    "figures": [
+      {
+        "id": "durer-anunciacao",
+        "after": 5
+      }
+    ],
+    "blocks": [
+      {
+        "kind": "escritura",
+        "heading": "O relato de Lucas",
+        "text": "«No sexto mês, o anjo Gabriel foi enviado por Deus a uma cidade da Galiléia, chamada Nazaré, a uma virgem desposada com um homem que se chamava José, da casa de Davi e o nome da virgem era Maria» (Lc 1,26-27, na tradução do sítio do Vaticano).\n\nO anjo a saúda como «cheia de graça» e diz que o Senhor está com ela. Maria fica perturbada com a saudação. O anjo lhe diz que não tema, porque achou graça junto de Deus: conceberá e dará à luz um filho a quem dará o nome de Jesus; ele será grande, será chamado Filho do Altíssimo, o Senhor lhe dará o trono de Davi, seu pai, e seu reino não terá fim (Lc 1,30-33). Maria pergunta como isso acontecerá, já que não conhece homem. O anjo responde que o Espírito Santo virá sobre ela e a virtude do Altíssimo a cobrirá com sua sombra, e por isso o que nascer será santo, chamado Filho de Deus; e lhe dá o sinal de Isabel, sua parenta, grávida no sexto mês (Lc 1,34-37). Maria responde: «Eis a serva do Senhor; faça-se em mim segundo a tua palavra». E o anjo a deixa (Lc 1,38).",
+        "sources": [
+          "nv-lucas",
+          "biblia-passagens"
+        ]
+      },
+      {
+        "kind": "doutrina",
+        "heading": "O consentimento de Maria",
+        "text": "A Constituição Lumen Gentium, do Concílio Vaticano II, ensina que o Pai das misericórdias quis que a aceitação por parte daquela que predestinara para mãe precedesse a encarnação (LG 56). Maria, «filha de Adão», dando o seu consentimento à palavra divina, tornou-se Mãe de Jesus; os Padres consideram que ela não foi instrumento meramente passivo, mas cooperou livremente, pela fé e pela obediência, na salvação dos homens (LG 56). A Anunciação também fundamenta o título de Mãe de Deus: a Virgem «recebeu o Verbo no coração e no seio» (LG 53). O Catecismo cita a promessa do anjo, «O Espírito Santo virá sobre ti» (Lc 1,35), ao tratar da concepção de Jesus (§ 484), e ensina que Jesus foi concebido sem semente de homem, do Espírito Santo (§ 496).",
+        "sources": [
+          "lumen-gentium-pt",
+          "ccc-pt-422-682"
+        ]
+      },
+      {
+        "kind": "tradicao",
+        "heading": "Nazaré e o lugar da Anunciação",
+        "text": "A Custódia da Terra Santa resume a história de veneração do lugar. No século IV, Epifânio descreve o empenho do conde José em obter de Constantino licença para construir igrejas na Galileia, inclusive em Nazaré. No século VI, o diário de um peregrino anônimo de Piacenza (cerca de 570) fala de uma basílica da «casa de Maria» onde as vestes de Maria eram veneradas. Em 670, o peregrino Arculfo encontrou duas igrejas: a da Nutrição, hoje a igreja de São José, e a da casa de Maria, onde está hoje a Basílica da Anunciação. Essas informações dizem respeito à veneração do lugar ao longo do tempo, e não são prova arqueológica de que o local seja o da Anunciação.",
+        "sources": [
+          "custodia-nazare"
+        ]
+      },
+      {
+        "kind": "apocrifo",
+        "heading": "Outra versão: o Protoevangelho",
+        "text": "O Protoevangelho de Tiago conta que Maria saiu com o cântaro para buscar água e ouviu uma voz: «Ave, tu que recebeste a graça; o Senhor está contigo; bendita és tu entre as mulheres». Ao olhar em volta e não ver ninguém, voltou assustada para casa; então um anjo do Senhor se apresentou diante dela e repetiu a anunciação, em termos próximos aos de Lucas (cap. 11). Esse relato se apoia em Lucas e acrescenta detalhes (a voz junto ao cântaro, a púrpura que ela fiava), que não estão no Evangelho.",
+        "sources": [
+          "proto-tiago"
+        ]
+      },
+      {
+        "kind": "liturgia",
+        "heading": "Calendário e oração",
+        "text": "A Anunciação do Senhor é celebrada em 25 de março (solenidade), nove meses antes do Natal. A oração do Angelus, que recorda este momento, está na página de orações.",
+        "sources": [
+          "calendario-romano-geral",
+          "compendio-ccc-oracoes"
+        ]
+      },
+      {
+        "kind": "arte",
+        "heading": "Duas Anunciações",
+        "text": "A pintura de Hans Memling (cerca de 1465-70) mostra o anjo Gabriel, em vestes bordadas de ouro, e Maria ajoelhada junto a um livro, em um quarto de cortina vermelha e janela aberta para uma cidade. A xilogravura de Dürer (1511) a situa em uma grande sala abobadada, com a pomba do Espírito no alto. São imagens dos séculos XV e XVI, com detalhes (livro, lírio, interior doméstico) que a arte acrescentou ao texto de Lucas.",
+        "sources": [
+          "met-colecao-temas-marianos"
+        ]
+      },
+      {
+        "kind": "nota",
+        "heading": "Não confundir",
+        "text": "Esta é a Anunciação a Maria, narrada por Lucas. O anúncio a José em sonho (Mt 1,20-21) está no capítulo anterior, e o episódio do anjo anunciando o nascimento de Maria a Joaquim e a Ana pertence às narrativas apócrifas (capítulo 2).",
+        "sources": []
+      }
+    ],
+    "relations": {
+      "articles": [
+        "fe-maternidade-divina",
+        "fe-virgindade-perpetua",
+        "vida-06-visitacao"
+      ],
+      "prayers": [
+        "ora-angelus",
+        "ora-ave-maria"
+      ],
+      "titles": [
+        "tit-mae-de-deus"
+      ],
+      "apparitions": [],
+      "devotions": [
+        "dev-rosario"
+      ]
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    }
+  },
+  {
+    "id": "vida-06-visitacao",
+    "slug": "visitacao",
+    "type": "artigo",
+    "category": "vida",
+    "order": 6,
+    "status": "published",
+    "title": "A Visitação e o Magnificat",
+    "summary": "Maria vai às montanhas de Judá visitar Isabel. A saudação de Isabel e o cântico de Maria, o Magnificat, e a sua relação com a Escritura.",
+    "scriptureRefs": [
+      "Lc 1,5-25",
+      "Lc 1,36",
+      "Lc 1,39-56",
+      "1Sm 2,1-10"
+    ],
+    "banner": "obra-ram-visitacao",
+    "figures": [
+      {
+        "id": "durer-visitacao",
+        "after": 7
+      }
+    ],
+    "blocks": [
+      {
+        "kind": "escritura",
+        "heading": "O contexto: Zacarias e Isabel",
+        "text": "Lucas abre seu Evangelho nos dias de Herodes, rei da Judeia, com o sacerdote Zacarias e sua mulher Isabel, filha de Aarão, que não tinham filhos (Lc 1,5-7). Um anjo do Senhor aparece a Zacarias no Templo e anuncia que Isabel dará à luz João (Lc 1,11-13). Quando o anjo Gabriel fala a Maria, dá-lhe como sinal que Isabel, a sua parenta, concebeu e já está no sexto mês (Lc 1,36).",
+        "sources": [
+          "nv-lucas"
+        ]
+      },
+      {
+        "kind": "escritura",
+        "heading": "A visita",
+        "text": "«Naqueles dias, Maria se levantou e foi às pressas às montanhas, a uma cidade de Judá. Entrou em casa de Zacarias e saudou Isabel» (Lc 1,39-40, na tradução do sítio do Vaticano). Ao ouvir a saudação, a criança estremeceu no seio de Isabel, que ficou cheia do Espírito Santo e exclamou em voz alta: «Bendita és tu entre as mulheres, e bendito o fruto do teu ventre! Donde me vem que a mãe do meu Senhor me visite?» (Lc 1,41-43). E acrescentou: «Bem-aventurada a que acreditou» (Lc 1,45). Maria ficou com ela cerca de três meses e voltou para casa (Lc 1,56). O texto não dá o nome da cidade de Judá.",
+        "sources": [
+          "nv-lucas",
+          "biblia-passagens"
+        ]
+      },
+      {
+        "kind": "escritura",
+        "heading": "O Magnificat",
+        "text": "Maria responde com um cântico (Lc 1,46-55): sua alma engrandece o Senhor e seu espírito exulta em Deus, seu Salvador, porque olhou para a humildade de sua serva, e por isso todas as gerações a chamarão bem-aventurada; o Poderoso fez nela grandes coisas, e seu nome é santo; sua misericórdia vai de geração em geração; derrubou poderosos de seus tronos e exaltou os humildes; encheu de bens os famintos e despediu os ricos de mãos vazias; acolheu Israel, seu servo, lembrando-se da promessa feita a Abraão. O texto em português, na redação do Compêndio do Catecismo, está na página de orações.",
+        "sources": [
+          "nv-lucas",
+          "compendio-ccc-oracoes"
+        ]
+      },
+      {
+        "kind": "escritura",
+        "heading": "Relações com a Escritura",
+        "text": "O Magnificat lembra o cântico de Ana, mãe de Samuel (1Sm 2,1-10). Em ambos, o coração exulta no Senhor (1Sm 2,1; Lc 1,47); os famintos são saciados e a estéril dá à luz (1Sm 2,5); o Senhor humilha e exalta, levanta o pobre do pó (1Sm 2,7-8; Lc 1,52). É uma observação sobre os dois textos, feita por este projeto a partir da Nova Vulgata, e não uma tese exegética de um autor citado.",
+        "sources": [
+          "nv-1samuel",
+          "nv-lucas"
+        ]
+      },
+      {
+        "kind": "doutrina",
+        "heading": "Maria e Isabel na reflexão da Igreja",
+        "text": "O Concílio Vaticano II vê na Visitação a associação da Mãe com o Filho: Maria, que partiu solícita para visitar Isabel, é chamada bem-aventurada por causa da fé com que acreditou na salvação prometida, e o precursor exulta no seio de sua mãe (LG 57). O Catecismo cita Lc 1,48, «todas as gerações me hão de proclamar ditosa», ao falar da piedade da Igreja para com a Virgem (§ 971).",
+        "sources": [
+          "lumen-gentium-pt",
+          "ccc-pt-683-1065"
+        ]
+      },
+      {
+        "kind": "liturgia",
+        "heading": "Calendário",
+        "text": "A Visitação da Virgem Maria é celebrada em 31 de maio (festa) no Calendário Romano Geral.",
+        "sources": [
+          "calendario-romano-geral"
+        ]
+      },
+      {
+        "kind": "apocrifo",
+        "heading": "A Visitação no Protoevangelho",
+        "text": "O Protoevangelho de Tiago resume o episódio: Maria, com grande alegria, vai à casa de Isabel; Isabel larga o escarlate que fiava e corre à porta; Maria, que esquecera os mistérios de que o arcanjo Gabriel lhe falara, olha para o céu e diz: «Quem sou eu, Senhor, para que todas as gerações da terra me bendigam?». Ficou três meses e, ao crescer, assustada, voltou para casa e se escondeu (cap. 12). O texto afirma que ela tinha dezesseis anos.",
+        "sources": [
+          "proto-tiago"
+        ]
+      },
+      {
+        "kind": "arte",
+        "heading": "Duas Visitações",
+        "text": "O painel de Domingo Ram, do retábulo de São João (século XV), mostra Maria, de manto azul e auréola dourada, abraçando e beijando Isabel, de manto verde, diante de uma mulher e de um ancião de túnica dourada. A xilogravura de Dürer (1503-04) situa o abraço diante de uma casa, em paisagem de montanhas e árvores.",
+        "sources": [
+          "met-colecao-temas-marianos"
+        ]
+      },
+      {
+        "kind": "aberta",
+        "heading": "Onde fica a «cidade de Judá»?",
+        "text": "Lucas não nomeia a cidade. Tradições posteriores identificam locais; a identificação tradicional não foi pesquisada em fontes identificáveis nesta edição e, por isso, não é afirmada aqui.",
+        "sources": []
+      }
+    ],
+    "relations": {
+      "articles": [
+        "vida-05-anunciacao",
+        "vida-07-belem"
+      ],
+      "prayers": [
+        "ora-magnificat"
+      ],
+      "titles": [],
+      "apparitions": [],
+      "devotions": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    }
+  },
+  {
+    "id": "vida-07-belem",
+    "slug": "nascimento-de-jesus",
+    "type": "artigo",
+    "category": "vida",
+    "order": 7,
+    "status": "published",
+    "title": "Belém: o nascimento de Jesus",
+    "summary": "O nascimento de Jesus em Belém, narrado por Lucas e por Mateus em relatos distintos: pastores em Lucas, magos em Mateus. O capítulo mantém os dois separados.",
+    "scriptureRefs": [
+      "Lc 2,1-20",
+      "Mt 2,1-12"
+    ],
+    "banner": "obra-david-natividade",
+    "figures": [
+      {
+        "id": "durer-natividade",
+        "after": 0
+      },
+      {
+        "id": "durer-magos",
+        "after": 1
+      }
+    ],
+    "blocks": [
+      {
+        "kind": "escritura",
+        "heading": "O relato de Lucas: o recenseamento, o nascimento, os pastores",
+        "text": "Lucas conta que César Augusto decretou um recenseamento do mundo inteiro, feito sob Quirino, governador da Síria, e que cada um ia se registrar na sua cidade. José subiu de Nazaré, na Galileia, à Judeia, à cidade de Davi, chamada Belém, por ser da casa e da família de Davi, «para se registrar com Maria, sua esposa, que estava grávida». Ali se cumpriram os dias, e ela deu à luz seu filho primogênito, envolveu-o em faixas e o deitou numa manjedoura, «porque não havia lugar para eles na hospedaria» (Lc 2,1-7).\n\nPastores que velavam à noite recebem o anúncio de um anjo e, apressados, encontram «Maria, José e o menino deitado na manjedoura» (Lc 2,8-16). «Maria conservava todas essas palavras, meditando-as no seu coração» (Lc 2,19).",
+        "sources": [
+          "nv-lucas"
+        ]
+      },
+      {
+        "kind": "escritura",
+        "heading": "O relato de Mateus: a casa, a estrela e os magos",
+        "text": "Em Mateus não há recenseamento, hospedaria, manjedoura nem pastores. Depois do nascimento de Jesus em Belém da Judeia, nos dias do rei Herodes, magos vindos do Oriente chegam a Jerusalém perguntando onde está o rei dos judeus, porque viram a sua estrela. Guiados pela estrela, eles entram na casa (domum) e veem «o menino com Maria, sua mãe»; prostram-se e oferecem ouro, incenso e mirra (Mt 2,1-11). O texto não diz quantos magos eram.\n\nOs dois Evangelhos, portanto, narram episódios diferentes, e este site não os funde em uma única cena. Em muitas representações, aparecem juntos, no mesmo lugar, pastores e magos; é uma convenção da arte e da devoção.",
+        "sources": [
+          "nv-mateus"
+        ]
+      },
+      {
+        "kind": "historia",
+        "heading": "O lugar: Belém e a Basílica da Natividade",
+        "text": "Segundo a Custódia da Terra Santa, o lugar do nascimento de Jesus é identificado em Belém, onde hoje está a Basílica da Natividade, e já era lugar de culto para os primeiros cristãos, que veneravam a gruta em que Jesus teria nascido. Depois do Edito de Constantino (313) e do Concílio de Niceia (325), por vontade da imperatriz Helena, iniciaram-se as obras da basílica.\n\nO texto de Lucas não fala em gruta; essa identificação vem da tradição local. As imagens com boi e jumento ao lado do berço tampouco têm base nos textos de Lucas e de Mateus que aqui consultamos, nos quais esses animais não aparecem.",
+        "sources": [
+          "custodia-belem",
+          "nv-lucas",
+          "nv-mateus"
+        ]
+      },
+      {
+        "kind": "historia",
+        "heading": "O ano e a data",
+        "text": "A Custódia da Terra Santa registra que o monge Dionísio, ao calcular a era cristã, situou o nascimento de Jesus depois da morte de Herodes, o que é um erro: a morte de Herodes é situada em 4 a.C., de modo que Jesus não poderia ter nascido depois disso. Quanto ao mês e ao dia, a mesma página considera que as datas tradicionais parecem exatas, e registra a afirmação popular de que o 25 de dezembro teria sido escolhido para coincidir com a festa pagã do Sol invicto.",
+        "sources": [
+          "custodia-belem"
+        ]
+      },
+      {
+        "kind": "aberta",
+        "heading": "Datas e cronologia",
+        "text": "Os Evangelhos não indicam o dia nem o ano do nascimento de Jesus. A relação entre o recenseamento «sob Quirino» (Lc 2,2) e o reinado de Herodes é debatida entre especialistas; estudos acadêmicos sobre o tema ainda não foram reunidos aqui.",
+        "sources": []
+      },
+      {
+        "kind": "doutrina",
+        "heading": "Mãe de Deus",
+        "text": "O Catecismo afirma que a Igreja confessa que Maria é verdadeiramente Mãe de Deus (Theotokos) e recorda que o Concílio de Éfeso, em 431, proclamou esse título (§ 495). Sobre o parto, o Concílio Vaticano II diz que o Filho «não só não lesou a sua integridade, mas antes a consagrou» (LG 57), e o Catecismo confessa a virgindade real e perpétua de Maria, mesmo no parto (§ 499).",
+        "sources": [
+          "ccc-pt-422-682",
+          "lumen-gentium-pt"
+        ]
+      },
+      {
+        "kind": "apocrifo",
+        "heading": "O nascimento no Protoevangelho",
+        "text": "O Protoevangelho de Tiago conta que, por ordem de Augusto, José leva Maria a Belém; no caminho, Maria sente que está para dar à luz e José a leva a uma gruta. A parteira e Salomé aparecem; a incredulidade de Salomé faz com que sua mão seque e depois seja curada. Os magos seguem a estrela até a gruta; Herodes manda matar os meninos (caps. 17-22). Esses detalhes não estão em Lucas nem em Mateus.",
+        "sources": [
+          "proto-tiago"
+        ]
+      },
+      {
+        "kind": "liturgia",
+        "heading": "Calendário",
+        "text": "O Natal do Senhor é celebrado em 25 de dezembro (solenidade), e em 1º de janeiro a Igreja celebra a Solenidade de Santa Maria, Mãe de Deus.",
+        "sources": [
+          "calendario-romano-geral"
+        ]
+      },
+      {
+        "kind": "arte",
+        "heading": "O nascimento na arte",
+        "text": "Na pintura de Gerard David (início da década de 1480), Maria e José adoram o Menino deitado no chão, entre ruínas com arcos abertos para uma paisagem, enquanto pastores espiam ao fundo. As xilogravuras de Dürer mostram o nascimento em um estábulo de telhado em ruína e a adoração dos magos sob um telhado de madeira. Todas são interpretações dos séculos XV e XVI.",
+        "sources": [
+          "met-colecao-temas-marianos"
+        ]
+      }
+    ],
+    "relations": {
+      "articles": [
+        "fe-maternidade-divina",
+        "vida-08-infancia-de-jesus"
+      ],
+      "prayers": [],
+      "titles": [
+        "tit-mae-de-deus"
+      ],
+      "apparitions": [],
+      "devotions": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    }
+  },
+  {
+    "id": "vida-08-infancia-de-jesus",
+    "slug": "infancia-de-jesus",
+    "type": "artigo",
+    "category": "vida",
+    "order": 8,
+    "status": "published",
+    "title": "Com o Menino: Templo, Egito e Nazaré",
+    "summary": "A circuncisão e a apresentação no Templo, Simeão e Ana, a fuga para o Egito, o retorno, Nazaré e Jesus encontrado no Templo. Lucas e Mateus contam coisas diferentes, e aqui cada Evangelho é apresentado como é.",
+    "scriptureRefs": [
+      "Lc 2,21-52",
+      "Mt 2,13-23"
+    ],
+    "banner": "durer-apresentacao-jesus",
+    "figures": [
+      {
+        "id": "durer-circuncisao",
+        "after": 0
+      },
+      {
+        "id": "durer-fuga-egito",
+        "after": 2
+      },
+      {
+        "id": "durer-entre-doutores",
+        "after": 3
+      },
+      {
+        "id": "obra-david-descanso",
+        "after": 7
+      }
+    ],
+    "blocks": [
+      {
+        "kind": "escritura",
+        "heading": "Circuncisão e apresentação no Templo",
+        "text": "Lucas conta que, passados oito dias, o menino foi circuncidado e recebeu o nome de Jesus, o nome dado pelo anjo antes de ser concebido (Lc 2,21). Cumpridos os dias da purificação, segundo a Lei de Moisés, levaram-no a Jerusalém para apresentá-lo ao Senhor, e ofereceram «um par de rolas ou dois pombinhos» (Lc 2,22-24). O Concílio Vaticano II chama isso de «oferta dos pobres» (LG 57).",
+        "sources": [
+          "nv-lucas",
+          "lumen-gentium-pt"
+        ]
+      },
+      {
+        "kind": "escritura",
+        "heading": "Simeão e Ana",
+        "text": "Um homem justo e piedoso, de nome Simeão, esperava a consolação de Israel e o Espírito Santo estava sobre ele (Lc 2,25). Simeão bendiz os pais e diz a Maria que o menino está colocado para queda e elevação de muitos em Israel e como sinal de contradição, e que uma espada atravessará a sua própria alma, «para que sejam revelados os pensamentos de muitos corações» (Lc 2,34-35). Também a profetisa Ana, filha de Fanuel, da tribo de Aser, viúva de oitenta e quatro anos, que não saía do Templo, louvou a Deus e falava do menino a todos os que esperavam a redenção de Jerusalém (Lc 2,36-38).",
+        "sources": [
+          "nv-lucas"
+        ]
+      },
+      {
+        "kind": "escritura",
+        "heading": "Dois relatos do que vem depois",
+        "text": "Em Lucas, terminadas as prescrições da Lei, a família volta para a Galileia, para a sua cidade de Nazaré (Lc 2,39). Em Mateus, a sequência é outra: depois da visita dos magos, um anjo avisa José em sonho para fugir para o Egito com o menino e sua mãe, porque Herodes vai procurar o menino para matá-lo; José parte de noite e fica no Egito até a morte de Herodes (Mt 2,13-15). Herodes manda matar os meninos de Belém de dois anos para baixo (Mt 2,16). Morto Herodes, o anjo manda voltar à terra de Israel; ao saber que Arquelau reinava na Judeia, José temeu e, avisado em sonho, retirou-se para a Galileia e habitou em Nazaré (Mt 2,19-23).\n\nOs dois relatos não são harmonizados aqui. Lucas não menciona o Egito; Mateus não menciona a apresentação no Templo. Como um se encaixa no outro é questão que os estudiosos discutem.",
+        "sources": [
+          "nv-lucas",
+          "nv-mateus"
+        ]
+      },
+      {
+        "kind": "escritura",
+        "heading": "Jesus encontrado no Templo",
+        "text": "Lucas diz que os pais de Jesus iam todos os anos a Jerusalém na festa da Páscoa. Quando Jesus tinha doze anos, terminados os dias, ele ficou em Jerusalém sem que eles soubessem; procuraram-no entre parentes e conhecidos e, não o achando, voltaram a Jerusalém. Depois de três dias, o encontraram no Templo, sentado entre os doutores, ouvindo-os e interrogando-os, e todos se admiravam de sua inteligência. Maria lhe diz: «Filho, por que fizeste assim conosco? Teu pai e eu, aflitos, te procurávamos». Ele responde: «Por que me procuráveis? Não sabíeis que devo estar naquilo que é de meu Pai?». «Eles não compreenderam a palavra que lhes dissera.» Desceu com eles a Nazaré e lhes era submisso; e «sua mãe conservava todas essas coisas no seu coração» (Lc 2,41-51).",
+        "sources": [
+          "nv-lucas"
+        ]
+      },
+      {
+        "kind": "escritura",
+        "heading": "A vida cotidiana em Nazaré",
+        "text": "Sobre os anos de Nazaré, Lucas diz apenas que o menino crescia, se fortalecia e se enchia de sabedoria, e que a graça de Deus estava sobre ele (Lc 2,40), e que Jesus «progredia em sabedoria, em estatura e em graça diante de Deus e dos homens» (Lc 2,52). Os Evangelhos canônicos quase nada mais contam desses anos, e este site não os preenche com acontecimentos nem diálogos.",
+        "sources": [
+          "nv-lucas"
+        ]
+      },
+      {
+        "kind": "apocrifo",
+        "heading": "Relatos apócrifos da infância",
+        "text": "Existem textos apócrifos que contam episódios da infância de Jesus. O Pseudo-Mateus, por exemplo, narra que, na fuga para o Egito, Jesus ordenou a uma palmeira que se inclinasse para que Maria colhesse seus frutos e a abençoou, prometendo que um de seus ramos seria levado ao paraíso (caps. 20-21). O episódio não está em Mateus. Outros apócrifos não foram pesquisados nesta edição.",
+        "sources": [
+          "pseudo-mateus"
+        ]
+      },
+      {
+        "kind": "liturgia",
+        "heading": "Calendário",
+        "text": "O Calendário Romano Geral celebra a Apresentação do Senhor em 2 de fevereiro (festa), os Santos Inocentes em 28 de dezembro (festa) e a Sagrada Família no domingo dentro da oitava do Natal (festa).",
+        "sources": [
+          "calendario-romano-geral"
+        ]
+      },
+      {
+        "kind": "arte",
+        "heading": "Cenas da arte que não estão nos Evangelhos",
+        "text": "As gravuras de Dürer mostram a circuncisão, a apresentação, a fuga, a estadia no Egito, com José trabalhando a madeira e anjinhos recolhendo cavacos, e Jesus entre os doutores. A pintura de Gerard David, «O Descanso na Fuga para o Egito» (cerca de 1512-15), mostra Maria sentada com o Menino em uma paisagem. O tema do «descanso» na fuga é da arte e da devoção; o texto de Mateus (2,13-15) não narra um descanso.",
+        "sources": [
+          "met-colecao-temas-marianos",
+          "nv-mateus"
+        ]
+      },
+      {
+        "kind": "aberta",
+        "heading": "O itinerário no Egito",
+        "text": "As tradições sobre os lugares do Egito ligados à Sagrada Família não foram pesquisadas em fontes identificáveis nesta edição; por isso este capítulo não apresenta um itinerário.",
+        "sources": []
+      }
+    ],
+    "relations": {
+      "articles": [
+        "vida-07-belem",
+        "vida-09-vida-publica"
+      ],
+      "prayers": [],
+      "titles": [
+        "tit-lourdes"
+      ],
+      "apparitions": [],
+      "devotions": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    }
+  },
+  {
+    "id": "vida-09-vida-publica",
+    "slug": "vida-publica",
+    "type": "artigo",
+    "category": "vida",
+    "order": 9,
+    "status": "published",
+    "title": "Maria na vida pública de Jesus",
+    "summary": "Caná, as passagens em que a mãe de Jesus aparece durante o seu ministério, o discipulado e a escuta da Palavra, e a relação entre a maternidade de Maria e a missão de Cristo.",
+    "scriptureRefs": [
+      "Jo 2,1-12",
+      "Mc 3,20-35",
+      "Mt 12,46-50",
+      "Lc 8,19-21",
+      "Lc 11,27-28",
+      "Mc 6,1-6",
+      "Mt 13,53-58"
+    ],
+    "banner": "obra-flandes-cana",
+    "figures": [
+      {
+        "id": "durer-despedida",
+        "after": 6
+      }
+    ],
+    "blocks": [
+      {
+        "kind": "escritura",
+        "heading": "Bodas de Caná",
+        "text": "«Três dias depois, celebravam-se bodas em Caná da Galiléia, e achava-se ali a mãe de Jesus. Também foram convidados Jesus e os seus discípulos. Como viesse a faltar vinho, a mãe de Jesus disse-lhe: \"Eles já não têm vinho\". Respondeu-lhe Jesus: \"Mulher, isso compete a nós? Minha hora ainda não chegou\". Disse, então, sua mãe aos serventes: \"Fazei o que ele vos disser\"» (Jo 2,1-5, na tradução do sítio do Vaticano).\n\nJesus manda encher de água seis talhas de pedra e levá-las ao mestre-sala, que prova a água transformada em vinho. João conclui: «Este foi o início dos sinais de Jesus, em Caná da Galileia; manifestou a sua glória, e seus discípulos creram nele». Depois Jesus desce a Cafarnaum com sua mãe, seus irmãos e seus discípulos (Jo 2,6-12).",
+        "sources": [
+          "nv-joao",
+          "biblia-passagens"
+        ]
+      },
+      {
+        "kind": "escritura",
+        "heading": "Outras passagens em que a mãe de Jesus aparece",
+        "text": "Em Marcos, durante a pregação em casa, os seus saem para detê-lo, porque diziam que estava fora de si (Mc 3,20-21); chegam depois sua mãe e seus irmãos, que o chamam de fora, e Jesus responde: «Quem é minha mãe e quem são meus irmãos?», e, olhando os que estavam sentados ao redor: «Eis a minha mãe e os meus irmãos. Quem faz a vontade de Deus, esse é meu irmão, minha irmã e minha mãe» (Mc 3,31-35; paralelos em Mt 12,46-50 e Lc 8,19-21).\n\nEm Lucas, uma mulher da multidão exclama: «Bem-aventurado o ventre que te trouxe e os seios que te amamentaram!», e Jesus responde: «Antes, bem-aventurados os que ouvem a palavra de Deus e a guardam» (Lc 11,27-28). Em Nazaré, os conterrâneos perguntam: «Não é este o carpinteiro, o filho de Maria?» (Mc 6,3); em Mateus: «Sua mãe não se chama Maria?» (Mt 13,55).",
+        "sources": [
+          "nv-marcos",
+          "nv-mateus",
+          "nv-lucas"
+        ]
+      },
+      {
+        "kind": "doutrina",
+        "heading": "Discipulado e escuta da Palavra",
+        "text": "O Concílio Vaticano II lê essas passagens como indicação de que Maria acolheu as palavras com que Jesus colocou o reino acima de todos os laços de parentesco e proclamou bem-aventurados os que ouvem a Palavra de Deus e a põem em prática, o que ela fazia fielmente (cf. Lc 2,19.51); assim, avançou pelo caminho da fé, mantendo a união com seu Filho até a cruz (LG 58). Na leitura da Igreja, as palavras de Jesus não rebaixam a mãe: indicam em que consiste a sua grandeza.",
+        "sources": [
+          "lumen-gentium-pt"
+        ]
+      },
+      {
+        "kind": "doutrina",
+        "heading": "Maternidade e missão",
+        "text": "Para o Concílio, Maria foi a mais generosa cooperadora do Salvador e, por isso, «nossa mãe na ordem da graça» (LG 61). A função materna de Maria em relação aos homens «de modo algum ofusca ou diminui» a única mediação de Cristo, mas manifesta a sua eficácia (LG 60; Catecismo § 970).",
+        "sources": [
+          "lumen-gentium-pt",
+          "ccc-pt-683-1065"
+        ]
+      },
+      {
+        "kind": "aberta",
+        "heading": "Leituras diversas",
+        "text": "Há diferentes leituras sobre o sentido de «Mulher, isso compete a nós?» em Caná e sobre as passagens em que Jesus parece relativizar os laços de família. Este projeto ainda não reuniu estudos exegéticos e não adota uma leitura única; apresenta os textos e a leitura do Concílio.",
+        "sources": []
+      },
+      {
+        "kind": "arte",
+        "heading": "Caná e a despedida na arte",
+        "text": "A pintura de Juan de Flandes (cerca de 1497) mostra o banquete de Caná em uma sala de colunas, com Jesus e Maria à mesa e um servo derramando água das jarras. Na xilogravura «Cristo se despede de sua Mãe», de Dürer, uma mulher ajoelhada, amparada por outras, está diante de Cristo em pé.",
+        "sources": [
+          "met-colecao-temas-marianos"
+        ]
+      },
+      {
+        "kind": "nota",
+        "heading": "Uma cena que os Evangelhos não narram",
+        "text": "A despedida entre Jesus e sua mãe, antes da Paixão, é tema da arte e da devoção medievais. Nenhum dos quatro Evangelhos canônicos narra essa cena.",
+        "sources": []
+      }
+    ],
+    "relations": {
+      "articles": [
+        "vida-10-paixao",
+        "fe-devocao-e-adoracao"
+      ],
+      "prayers": [],
+      "titles": [],
+      "apparitions": [],
+      "devotions": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    }
+  },
+  {
+    "id": "vida-10-paixao",
+    "slug": "paixao-e-dores",
+    "type": "artigo",
+    "category": "vida",
+    "order": 10,
+    "status": "published",
+    "title": "Paixão: Maria junto à cruz e as dores de Maria",
+    "summary": "Maria junto à cruz segundo João, o discípulo amado, a profecia de Simeão, a devoção às dores de Maria e a Pietà, uma imagem devocional que os Evangelhos não descrevem.",
+    "scriptureRefs": [
+      "Jo 19,25-27",
+      "Lc 2,35",
+      "Mt 27,55-56",
+      "Mc 15,40",
+      "Jo 19,38-42"
+    ],
+    "banner": "obra-pieta-alema",
+    "figures": [
+      {
+        "id": "obra-david-crucificacao",
+        "after": 6
+      }
+    ],
+    "blocks": [
+      {
+        "kind": "escritura",
+        "heading": "Junto à cruz, segundo João",
+        "text": "«Estavam junto à cruz de Jesus sua mãe, a irmã de sua mãe, Maria de Cléofas, e Maria Madalena. Vendo Jesus sua mãe e junto dela o discípulo que amava, disse à mãe: \"Mulher, eis aí teu filho\". Depois disse ao discípulo: \"Eis aí tua mãe\". E desde aquela hora o discípulo a levou para sua casa» (Jo 19,25-27).\n\nEm Mateus e em Marcos, as mulheres que olhavam de longe incluem Maria Madalena, Maria, mãe de Tiago e José, e (Mc) Salomé; nenhuma delas é chamada «mãe de Jesus» (Mt 27,55-56; Mc 15,40). Só João situa a mãe de Jesus junto da cruz.",
+        "sources": [
+          "nv-joao",
+          "nv-mateus",
+          "nv-marcos"
+        ]
+      },
+      {
+        "kind": "escritura",
+        "heading": "A profecia de Simeão",
+        "text": "Na apresentação no Templo, Simeão dissera a Maria: «uma espada atravessará a tua própria alma» (Lc 2,35). O Concílio Vaticano II relaciona essa profecia com a cruz.",
+        "sources": [
+          "nv-lucas",
+          "lumen-gentium-pt"
+        ]
+      },
+      {
+        "kind": "tradicao",
+        "heading": "Quem é o discípulo amado",
+        "text": "O quarto Evangelho não dá o nome do discípulo «que ele amava». A tradição o identifica com João, apóstolo. Em sua homilia em Éfeso (2006), Bento XVI o chama de testemunha privilegiada do momento em que Maria, unida ao Filho na oferta de seu sacrifício, estendeu a sua maternidade a todos os homens e mulheres, e o descreve como o único apóstolo que permaneceu no Gólgota com a Mãe de Jesus.",
+        "sources": [
+          "nv-joao",
+          "bento-xvi-efeso-2006"
+        ]
+      },
+      {
+        "kind": "doutrina",
+        "heading": "Maria junto à cruz",
+        "text": "O Concílio Vaticano II ensina que Maria avançou pelo caminho da fé, mantendo fielmente a união com o Filho até a cruz, junto da qual esteve, «não sem desígnio de Deus», padecendo profundamente com seu Filho único e associando-se com coração de mãe ao seu sacrifício; e que Jesus, agonizante, a deu por mãe ao discípulo (LG 58). Em sua homilia, Bento XVI vê nesse momento a ampliação da maternidade de Maria à humanidade.",
+        "sources": [
+          "lumen-gentium-pt",
+          "bento-xvi-efeso-2006"
+        ]
+      },
+      {
+        "kind": "devocional",
+        "heading": "As dores de Maria",
+        "text": "A devoção às dores de Maria tem expressão litúrgica no Calendário Romano Geral: em 15 de setembro, memória de Nossa Senhora das Dores. A devoção das «Sete Dores», com sua lista, origem e orações, ainda não foi pesquisada em fontes identificáveis e por isso não é descrita nesta edição.",
+        "sources": [
+          "calendario-romano-geral"
+        ]
+      },
+      {
+        "kind": "arte",
+        "heading": "A Pietà: uma imagem devocional",
+        "text": "O Cristo morto no colo da mãe é uma imagem devocional. O museu Liebieghaus, de Frankfurt, explica que grupos com o Cristo descido da cruz no colo da mãe eram populares no século XIV, que em alemão se chamam Vesperbild (de vespera, «tarde», pela oração das vésperas que recorda a deposição da cruz) e em inglês pietà (do italiano «piedade»), e que as pietàs têm caráter mais simbólico do que narrativo.\n\nO Evangelho de João diz que José de Arimateia e Nicodemos retiraram o corpo e o envolveram em faixas com aromas (Jo 19,38-40), sem mencionar Maria nesse momento. A imagem da Pietà é, assim, posterior e devocional, e não descrição bíblica. A escultura alemã de cerca de 1435-40, do Cloisters, é um exemplo dessa tradição.",
+        "sources": [
+          "liebieghaus-pieta",
+          "nv-joao"
+        ]
+      },
+      {
+        "kind": "arte",
+        "heading": "Maria ajoelhada na Crucificação",
+        "text": "Na pintura de Gerard David (cerca de 1495), Maria, de véu claro e manto escuro, está ajoelhada junto à cruz, com João; à direita, São Jerônimo e uma santa. Jerônimo viveu séculos depois: a pintura reúne, como é comum na arte devocional, personagens de épocas diferentes.",
+        "sources": [
+          "met-colecao-temas-marianos"
+        ]
+      }
+    ],
+    "relations": {
+      "articles": [
+        "vida-11-apos-a-ressurreicao"
+      ],
+      "prayers": [],
+      "titles": [],
+      "apparitions": [],
+      "devotions": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    }
+  },
+  {
+    "id": "vida-11-apos-a-ressurreicao",
+    "slug": "apos-a-ressurreicao",
+    "type": "artigo",
+    "category": "vida",
+    "order": 11,
+    "status": "published",
+    "title": "Depois da Ressurreição: Cenáculo e Pentecostes",
+    "summary": "O que os textos bíblicos dizem de Maria depois da Páscoa: ela aparece em Atos 1,14, em oração com a comunidade. O que é tradição, e a questão de onde Maria viveu seus últimos anos.",
+    "scriptureRefs": [
+      "At 1,12-14",
+      "At 2,1-4",
+      "Jo 19,27"
+    ],
+    "banner": "durer-pentecostes",
+    "figures": [],
+    "blocks": [
+      {
+        "kind": "escritura",
+        "heading": "O que os textos dizem",
+        "text": "Depois da Ascensão, os apóstolos voltaram do monte das Oliveiras a Jerusalém e subiram ao cenáculo; «todos eles perseveravam unânimes na oração, com as mulheres, com Maria, a mãe de Jesus, e com os irmãos dele» (At 1,12-14). É a última vez que o Novo Testamento nomeia Maria.\n\nNo relato de Pentecostes, «todos» estavam reunidos no mesmo lugar e foram cheios do Espírito Santo (At 2,1-4); o texto desse trecho não nomeia Maria.",
+        "sources": [
+          "nv-atos"
+        ]
+      },
+      {
+        "kind": "escritura",
+        "heading": "O que os Evangelhos da Ressurreição não dizem",
+        "text": "Os relatos da Ressurreição em Mateus 28, Marcos 16, Lucas 24 e João 20-21 não mencionam a mãe de Jesus. Por isso, qualquer cena de encontro entre Jesus ressuscitado e sua mãe, na arte ou na devoção, é desenvolvimento posterior, e não relato explícito dos Evangelhos canônicos.",
+        "sources": [
+          "nv-mateus",
+          "nv-marcos",
+          "nv-lucas",
+          "nv-joao"
+        ]
+      },
+      {
+        "kind": "doutrina",
+        "heading": "Maria em oração com a comunidade",
+        "text": "O Concílio Vaticano II ensina que, antes de Pentecostes, os apóstolos perseveravam em oração com Maria (At 1,14), «implorando Maria, com as suas orações, o dom daquele Espírito que já sobre si descera na anunciação» (LG 59).",
+        "sources": [
+          "lumen-gentium-pt"
+        ]
+      },
+      {
+        "kind": "arte",
+        "heading": "Pentecostes e a presença de Maria",
+        "text": "Na xilogravura de Dürer (cerca de 1510), uma pomba irradia luz sobre os apóstolos, e no centro está sentada uma figura feminina de véu, que a tradição artística identifica com Maria. Uma gravura de Marcantonio Raimondi (século XVI) é catalogada pelo Metropolitan Museum como Pentecostes em que «a Virgem está sentada rodeada pelos apóstolos». Atos 2,1-4 não nomeia Maria nesse momento: sua presença na imagem é escolha iconográfica, apoiada em At 1,14.",
+        "sources": [
+          "met-colecao-temas-marianos",
+          "nv-atos"
+        ]
+      },
+      {
+        "kind": "tradicao",
+        "heading": "Maria e João",
+        "text": "No Evangelho de João, o discípulo amado leva a mãe de Jesus para sua casa (Jo 19,27). A tradição liga esse discípulo a João e, por isso, a cidades onde João viveu. Textos apócrifos antigos, segundo a Enciclopédia Católica (1912), favorecem Jerusalém: as cartas atribuídas a Inácio e o Livro da Dormição de Maria colocam os últimos tempos e o túmulo de Maria nessa região.",
+        "sources": [
+          "nv-joao",
+          "ce-tumba-maria"
+        ]
+      },
+      {
+        "kind": "aberta",
+        "heading": "Jerusalém ou Éfeso?",
+        "text": "Há duas tradições sobre onde Maria viveu e morreu. A Enciclopédia Católica de 1912 sustenta que a tradição é de Jerusalém, onde o túmulo de Maria é venerado no vale do Cedron desde a Antiguidade, e que nunca houve tradição antiga ligando a morte de Maria a Éfeso; o mesmo artigo registra que escritores modernos defendem Éfeso, e que a localização perto de Éfeso aparece nas meditações de Catarina Emmerich, publicadas em 1852. Em Éfeso, onde o Concílio de 431 proclamou Maria Mãe de Deus, há o santuário Meryem Ana Evi, visitado como peregrino pelos papas Paulo VI, João Paulo II (30 de novembro de 1979) e Bento XVI (29 de novembro de 2006).\n\nA definição dogmática da Assunção, de 1950, não indica o lugar da vida terrena nem do fim da vida de Maria, e a Igreja não define essa questão. Este site não apresenta nenhum itinerário como comprovado.",
+        "sources": [
+          "ce-tumba-maria",
+          "bento-xvi-efeso-2006",
+          "munificentissimus-deus-pt"
+        ]
+      },
+      {
+        "kind": "tradicao",
+        "heading": "Pentecostes e a Mãe da Igreja",
+        "text": "Em 2018, o Papa Francisco inscreveu no Calendário Romano a memória de Maria, Mãe da Igreja, na segunda-feira depois de Pentecostes, ligando a maternidade de Maria à vida da Igreja.",
+        "sources": [
+          "vaticannews-mae-da-igreja"
+        ]
+      }
+    ],
+    "relations": {
+      "articles": [
+        "vida-12-dormicao-e-assuncao",
+        "fe-mae-da-igreja"
+      ],
+      "prayers": [],
+      "titles": [],
+      "apparitions": [],
+      "devotions": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    }
+  },
+  {
+    "id": "vida-12-dormicao-e-assuncao",
+    "slug": "dormicao-e-assuncao",
+    "type": "artigo",
+    "category": "vida",
+    "order": 12,
+    "status": "published",
+    "title": "Dormição e Assunção",
+    "summary": "Duas palavras para uma mesma festa: no Oriente, Dormição; no Ocidente, Assunção. O que a liturgia, os Padres e os relatos antigos dizem, e o que a Igreja definiu em 1950. A Bíblia não narra o fim da vida de Maria.",
+    "scriptureRefs": [],
+    "banner": "obra-saraceni-dormicao",
+    "figures": [
+      {
+        "id": "durer-dormicao",
+        "after": 7
+      },
+      {
+        "id": "durer-assuncao-coroacao",
+        "after": 7
+      },
+      {
+        "id": "obra-signorelli-assuncao",
+        "after": 7
+      }
+    ],
+    "blocks": [
+      {
+        "kind": "nota",
+        "heading": "O silêncio da Escritura",
+        "text": "Os textos bíblicos consultados para esta jornada não contam como terminou a vida terrena de Maria. Tudo o que se diz sobre isso pertence à tradição, à liturgia e ao ensino da Igreja, e este site não inventa detalhes dos últimos anos de Maria.",
+        "sources": []
+      },
+      {
+        "kind": "liturgia",
+        "heading": "Dormição e Assunção na liturgia",
+        "text": "Pio XII, na Munificentissimus Deus, observa que os livros litúrgicos da festa da Dormição ou da Assunção de Santa Maria concordam em referir que, quando a Virgem Mãe de Deus passou deste exílio para o céu, sucedeu ao seu corpo algo condizente com a dignidade da Mãe do Verbo encarnado. Cita o Sacramentário enviado por Adriano I a Carlos Magno («não poderia ficar presa com as algemas da morte aquela que gerou no seu seio o Verbo de Deus encarnado»), o Sacramentário Galicano («inexplicável mistério, tanto mais digno de ser proclamado quanto é único entre os homens») e a liturgia bizantina. Recorda ainda que a festa, que no início tinha a mesma solenidade das demais festas marianas, foi elevada ao grau das mais solenes, e que já se celebrava com o nome de Assunção no tempo de Leão IV.",
+        "sources": [
+          "munificentissimus-deus-pt"
+        ]
+      },
+      {
+        "kind": "tradicao",
+        "heading": "Os Padres e a tradição",
+        "text": "Pio XII aponta São João Damasceno como pregoeiro dessa tradição. Em seu elogio da Dormição, Damasceno exclama: «Convinha que aquela que no parto manteve ilibada virgindade conservasse o corpo incorrupto mesmo depois da morte. [...] Convinha que a Mãe de Deus possuísse o que era do Filho, e que fosse venerada por todas as criaturas como Mãe e Serva do mesmo Deus».",
+        "sources": [
+          "munificentissimus-deus-pt"
+        ]
+      },
+      {
+        "kind": "apocrifo",
+        "heading": "Os relatos antigos do «Trânsito»",
+        "text": "Segundo a Enciclopédia Católica de 1912, as obras apócrifas dos séculos II a IV, entre elas o «Livro de João sobre a Dormição de Maria» (séculos III-IV) e o tratado «De transitu B. M. Virginis» (século IV), colocam o túmulo de Maria em Getsêmani. O mesmo artigo reconhece o valor histórico desses textos, ainda que apócrifos, como reflexo da tradição dos primeiros séculos. Eles não foram lidos diretamente nesta edição.",
+        "sources": [
+          "ce-tumba-maria"
+        ]
+      },
+      {
+        "kind": "tradicao",
+        "heading": "O túmulo vazio de Getsêmani",
+        "text": "A Enciclopédia Católica de 1912 informa que no início do século V um peregrino armênio visitou «o túmulo da Virgem no vale de Josafá»; por volta de 431, o Breviarius de Hierusalem cita ali a basílica de Santa Maria, com o seu sepulcro; e, segundo a tradição citada por São João Damasceno, o bispo Juvenal de Jerusalém enviou a Constantinopla, em 452, o sudário da Virgem guardado na igreja de Getsêmani. Peregrinos de diversos ritos veneravam ali o túmulo vazio.",
+        "sources": [
+          "ce-tumba-maria"
+        ]
+      },
+      {
+        "kind": "doutrina",
+        "heading": "A definição de 1950",
+        "text": "Em 1º de novembro de 1950, Pio XII definiu como dogma divinamente revelado que «a Imaculada Mãe de Deus, sempre Virgem Maria, terminado o curso da vida terrena, foi assunta em corpo e alma à glória celeste» (Munificentissimus Deus, § 44; em latim, expleto terrestris vitae cursu). A fórmula não diz o lugar nem emprega a palavra «morte». O Catecismo (§ 966) ensina que a Assunção é uma singular participação na ressurreição do Filho e uma antecipação da ressurreição dos outros cristãos, e o Concílio Vaticano II a menciona em LG 59 e 68.",
+        "sources": [
+          "munificentissimus-deus",
+          "ccc-pt-683-1065",
+          "lumen-gentium-pt"
+        ]
+      },
+      {
+        "kind": "liturgia",
+        "heading": "Calendário",
+        "text": "A Assunção da Virgem Maria é celebrada em 15 de agosto (solenidade), e a Realeza da Virgem Maria em 22 de agosto (memória).",
+        "sources": [
+          "calendario-romano-geral"
+        ]
+      },
+      {
+        "kind": "arte",
+        "heading": "A morte e a assunção na arte",
+        "text": "A xilogravura de Dürer «A Morte da Virgem» (1510) mostra Maria em leito com dossel cercada pelos apóstolos. Na pintura de Carlo Saraceni, «A Dormição da Virgem» (cerca de 1612), os apóstolos se agrupam em torno de Maria em uma grande sala. A «Assunção» de Luca Signorelli (cerca de 1493-96) a mostra entre anjos músicos, e a xilogravura de Dürer a representa coroada, com os apóstolos em torno do sepulcro aberto. São representações da tradição e da definição dogmática, não relatos bíblicos.",
+        "sources": [
+          "met-colecao-temas-marianos"
+        ]
+      },
+      {
+        "kind": "aberta",
+        "heading": "O que permanece em aberto",
+        "text": "Se Maria morreu antes de ser assunta ou foi assunta sem passar pela morte é questão que a fórmula de 1950 não resolve; a liturgia oriental fala em Dormição, a latina em Assunção. As leituras teológicas dessa diferença e o conteúdo dos relatos do Trânsito precisam de estudo acadêmico específico, ainda pendente.",
+        "sources": []
+      }
+    ],
+    "relations": {
+      "articles": [
+        "fe-assuncao",
+        "vida-13-maria-na-igreja"
+      ],
+      "prayers": [],
+      "titles": [],
+      "apparitions": [],
+      "devotions": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    }
+  },
+  {
+    "id": "vida-13-maria-na-igreja",
+    "slug": "maria-na-vida-da-igreja",
+    "type": "artigo",
+    "category": "vida",
+    "order": 13,
+    "status": "published",
+    "title": "Maria na vida da Igreja",
+    "summary": "Mãe de Deus, sempre Virgem, Imaculada, Assunta e Mãe da Igreja: um percurso pelo ensino católico sobre Maria, com ligações para as páginas de aprofundamento.",
+    "scriptureRefs": [],
+    "banner": "obra-raphael-entronizada",
+    "figures": [],
+    "blocks": [
+      {
+        "kind": "doutrina",
+        "heading": "Mãe de Deus",
+        "text": "A Igreja confessa que Maria é verdadeiramente Mãe de Deus (Theotokos), título proclamado pelo Concílio de Éfeso em 431 (Catecismo § 495). O Concílio Vaticano II a reconhece e honra como verdadeira Mãe de Deus Redentor, filha predileta do Pai e templo do Espírito Santo (LG 53).",
+        "sources": [
+          "ccc-pt-422-682",
+          "lumen-gentium-pt"
+        ]
+      },
+      {
+        "kind": "doutrina",
+        "heading": "Sempre Virgem",
+        "text": "A Igreja confessa a virgindade real e perpétua de Maria, inclusive no parto (Catecismo § 499), e entende que as passagens sobre os «irmãos de Jesus» não designam outros filhos de Maria (§§ 500-501).",
+        "sources": [
+          "ccc-pt-422-682"
+        ]
+      },
+      {
+        "kind": "doutrina",
+        "heading": "Imaculada Conceição e concepção virginal de Jesus: duas coisas diferentes",
+        "text": "A Imaculada Conceição diz respeito a Maria: por graça singular de Deus e em previsão dos méritos de Jesus Cristo, ela foi preservada imune de toda mancha de pecado original desde o primeiro instante de sua conceição (Catecismo §§ 490-492; Pio IX, 8 de dezembro de 1854, Ineffabilis Deus). A concepção virginal diz respeito a Jesus: foi concebido pelo Espírito Santo, sem semente de homem (Catecismo § 496; Lc 1,35). Não se deve confundir as duas.",
+        "sources": [
+          "ccc-pt-422-682",
+          "ineffabilis-deus",
+          "nv-lucas"
+        ]
+      },
+      {
+        "kind": "doutrina",
+        "heading": "Assunta ao céu",
+        "text": "Pio XII definiu em 1950 que Maria, terminado o curso da vida terrena, foi assunta em corpo e alma à glória celeste (Munificentissimus Deus, § 44; Catecismo § 966).",
+        "sources": [
+          "munificentissimus-deus",
+          "ccc-pt-683-1065"
+        ]
+      },
+      {
+        "kind": "doutrina",
+        "heading": "Mãe da Igreja",
+        "text": "Segundo Lumen Gentium, Maria é «membro eminente e inteiramente singular da Igreja» (LG 53) e nossa mãe na ordem da graça, maternidade que perdura sem interrupção (LG 61-62). Em 21 de novembro de 1964, ao final da terceira sessão do Concílio, o Papa Paulo VI declarou-a «Mãe da Igreja, isto é, de todo o povo cristão», segundo o noticiário oficial do Vaticano. Em 11 de fevereiro de 2018, a Congregação para o Culto Divino apresentou o decreto pelo qual o Papa Francisco estabelece a memória da Bem-aventurada Virgem Maria, Mãe da Igreja, na segunda-feira depois de Pentecostes.",
+        "sources": [
+          "lumen-gentium-pt",
+          "vaticannews-mae-da-igreja-1964",
+          "vaticannews-mae-da-igreja"
+        ]
+      },
+      {
+        "kind": "doutrina",
+        "heading": "Veneração e adoração",
+        "text": "O culto à Virgem, embora singular, difere essencialmente do culto de adoração que se presta ao Verbo encarnado, ao Pai e ao Espírito Santo, e favorece-o poderosamente (LG 66; Catecismo § 971). O Concílio recomenda evitar tanto o falso exagero quanto a demasiada estreiteza (LG 67), e Maria é sinal de esperança para o povo peregrinante (LG 68).",
+        "sources": [
+          "lumen-gentium-pt",
+          "ccc-pt-683-1065"
+        ]
+      },
+      {
+        "kind": "liturgia",
+        "heading": "Tempo litúrgico mariano",
+        "text": "As festas marianas do Calendário Romano Geral percorrem todo o ano: da Solenidade de Santa Maria, Mãe de Deus (1º de janeiro) à Imaculada Conceição (8 de dezembro). A página de calendário mariano apresenta as celebrações universais e as locais, quando houver fonte.",
+        "sources": [
+          "calendario-romano-geral"
+        ]
+      }
+    ],
+    "relations": {
+      "articles": [
+        "fe-maternidade-divina",
+        "fe-virgindade-perpetua",
+        "fe-imaculada-conceicao",
+        "fe-assuncao",
+        "fe-mae-da-igreja",
+        "fe-devocao-e-adoracao"
+      ],
+      "prayers": [],
+      "titles": [],
+      "apparitions": [],
+      "devotions": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    }
+  },
+  {
+    "id": "fe-mae-da-igreja",
+    "slug": "mae-da-igreja",
+    "type": "artigo",
+    "category": "fe",
+    "order": 7,
+    "status": "published",
+    "title": "Maria, Mãe da Igreja",
+    "summary": "O título «Mãe da Igreja»: o que o Concílio Vaticano II ensina sobre a maternidade de Maria na ordem da graça, a declaração de Paulo VI em 1964 e a memória litúrgica instituída em 2018.",
+    "scriptureRefs": [
+      "Jo 19,26-27",
+      "At 1,14"
+    ],
+    "dogmaRank": "Ensino do Concílio Vaticano II (Lumen Gentium, cap. VIII) e disposição litúrgica de 2018",
+    "banner": "durer-pentecostes",
+    "figures": [],
+    "blocks": [
+      {
+        "kind": "escritura",
+        "heading": "Os fundamentos bíblicos citados pela Igreja",
+        "text": "A Igreja costuma ligar este título a Jo 19,26-27, em que Jesus, da cruz, diz à mãe «Mulher, eis aí teu filho» e ao discípulo «Eis aí tua mãe», e a At 1,14, que mostra Maria em oração com a primeira comunidade.",
+        "sources": [
+          "nv-joao",
+          "nv-atos"
+        ]
+      },
+      {
+        "kind": "doutrina",
+        "heading": "Mãe na ordem da graça",
+        "text": "Lumen Gentium ensina que Maria cooperou de modo singular, pela fé, esperança e caridade, na obra do Salvador, e por isso é nossa mãe na ordem da graça (LG 61); essa maternidade perdura sem interrupção até a consumação dos eleitos (LG 62). Maria é também «membro eminente e inteiramente singular da Igreja», seu tipo e exemplar perfeitíssimo na fé e na caridade (LG 53), e a Igreja, imitando-a, também é mãe e virgem (LG 64).",
+        "sources": [
+          "lumen-gentium-pt"
+        ]
+      },
+      {
+        "kind": "decisao",
+        "heading": "A declaração de 1964",
+        "text": "Segundo o noticiário oficial do Vaticano, o Papa Paulo VI, ao final da terceira sessão do Concílio Vaticano II, em 21 de novembro de 1964, declarou a Bem-Aventurada Virgem «Mãe da Igreja, isto é, de todo o povo cristão, tanto dos fiéis como dos pastores que a chamam de Mãe amantíssima». O texto original do discurso ainda não foi localizado e conferido aqui.",
+        "sources": [
+          "vaticannews-mae-da-igreja-1964"
+        ]
+      },
+      {
+        "kind": "liturgia",
+        "heading": "A memória litúrgica de 2018",
+        "text": "Em 11 de fevereiro de 2018, a Congregação para o Culto Divino e a Disciplina dos Sacramentos apresentou o decreto pelo qual o Papa Francisco estabeleceu que a memória da bem-aventurada Virgem Maria, Mãe da Igreja, fosse inscrita no Calendário Romano na segunda-feira depois de Pentecostes e celebrada todos os anos. O texto do decreto não foi localizado em português no sítio do Vaticano; a informação vem da notícia oficial.",
+        "sources": [
+          "vaticannews-mae-da-igreja"
+        ]
+      },
+      {
+        "kind": "nota",
+        "heading": "Este título é doutrina, não aparição",
+        "text": "«Mãe da Igreja» é um título doutrinal e litúrgico. Não se refere a uma aparição, a uma imagem ou a um santuário específico; é a mesma Maria, mãe de Jesus, honrada nos outros títulos.",
+        "sources": []
+      }
+    ],
+    "relations": {
+      "articles": [
+        "vida-11-apos-a-ressurreicao",
+        "vida-13-maria-na-igreja",
+        "fe-devocao-e-adoracao"
+      ],
+      "prayers": [],
+      "titles": [],
+      "apparitions": [],
+      "devotions": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-04",
+      "humanTheologicalReview": false
+    }
+  },
+  {
+    "id": "dossie-01",
+    "slug": "01-maria-identidade-fe-e-significado-dos-seus-nomes",
+    "type": "artigo",
+    "category": "dossie",
+    "order": 1,
+    "status": "published",
+    "title": "1. Maria: identidade, fé e significado dos seus nomes",
+    "summary": "Maria é apresentada nos Evangelhos como a mãe de Jesus e esposa de José.",
+    "blocks": [
+      {
+        "kind": "escritura",
+        "heading": "Síntese documentada",
+        "text": "001. Maria é apresentada nos Evangelhos como a mãe de Jesus e esposa de José.\n\n002. Sua história está ligada ao povo de Israel e à esperança religiosa judaica.\n\n003. O cristianismo reconhece nela uma mulher concreta, situada na história da salvação.\n\n004. Na fé católica, Maria é uma criatura humana, não uma deusa.\n\n005. O título Nossa Senhora expressa veneração e confiança na mãe de Jesus.\n\n006. Santa Maria, Virgem Maria e Nossa Senhora designam a mesma pessoa.\n\n007. Sancta Mater Dei significa Santa Mãe de Deus em latim.\n\n008. Esse título se refere à identidade divina do Filho que Maria gerou humanamente.\n\n009. Não significa que Maria tenha criado Deus ou precedido sua existência eterna.\n\n010. O Concílio Vaticano II apresenta Maria dentro do mistério de Cristo e da Igreja.\n\n011. A reflexão católica sobre ela tem, portanto, um centro cristológico.\n\n012. A Igreja a contempla como exemplo de fé, esperança e caridade.\n\n013. Sua maternidade espiritual não substitui a mediação única de Jesus Cristo.\n\n014. O Catecismo distingue a veneração mariana da adoração devida a Deus.\n\n015. As invocações locais expressam diferentes experiências históricas dessa mesma devoção.\n\n016. A diversidade dos títulos não divide Maria em várias pessoas ou divindades.",
+        "sources": [
+          "dossie-s01",
+          "dossie-s02",
+          "dossie-s03"
+        ]
+      }
+    ],
+    "relations": {
+      "articles": [],
+      "prayers": [],
+      "titles": [],
+      "apparitions": [],
+      "devotions": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-05",
+      "humanTheologicalReview": false
+    },
+    "banner": "obra-bellini-madona",
+    "figures": []
+  },
+  {
+    "id": "dossie-02",
+    "slug": "02-joaquim-ana-e-as-tradicoes-sobre-a-infancia-de-maria",
+    "type": "artigo",
+    "category": "dossie",
+    "order": 2,
+    "status": "published",
+    "title": "2. Joaquim, Ana e as tradições sobre a infância de Maria",
+    "summary": "Os Evangelhos canônicos não informam os nomes dos pais de Maria.",
+    "blocks": [
+      {
+        "kind": "tradicao",
+        "heading": "Síntese documentada",
+        "text": "017. Os Evangelhos canônicos não informam os nomes dos pais de Maria.\n\n018. A tradição cristã os identifica como Joaquim e Ana.\n\n019. Esses nomes aparecem em narrativas antigas externas ao cânon bíblico.\n\n020. O Protoevangelho de Tiago é uma fonte importante dessa tradição.\n\n021. O texto é geralmente situado no século II, posterior aos acontecimentos narrados.\n\n022. Sua influência devocional não o transforma em Evangelho canônico.\n\n023. Na narrativa tradicional, Joaquim e Ana sofrem por não terem filhos.\n\n024. A oração do casal antecede o anúncio do nascimento de Maria.\n\n025. O relato inclui mensageiros angélicos e a promessa de descendência.\n\n026. Não é correto chamar automaticamente esses mensageiros de Gabriel.\n\n027. O encontro do casal junto à Porta Dourada tornou-se tema da arte cristã.\n\n028. A tradição também narra a dedicação de Maria ao serviço de Deus.\n\n029. A apresentação da menina no Templo pertence a esse universo tradicional.\n\n030. Esses episódios não oferecem uma biografia historicamente comprovada da infância de Maria.\n\n031. A Igreja celebra Joaquim e Ana em 26 de julho no calendário romano.\n\n032. A Natividade de Maria é celebrada em 8 de setembro.",
+        "sources": [
+          "dossie-s04",
+          "dossie-s05"
+        ]
+      }
+    ],
+    "relations": {
+      "articles": [],
+      "prayers": [],
+      "titles": [],
+      "apparitions": [],
+      "devotions": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-05",
+      "humanTheologicalReview": false
+    },
+    "banner": "durer-porta-dourada",
+    "figures": []
+  },
+  {
+    "id": "dossie-03",
+    "slug": "03-a-anunciacao-maria-diante-da-mensagem-de-gabriel",
+    "type": "artigo",
+    "category": "dossie",
+    "order": 3,
+    "status": "published",
+    "title": "3. A Anunciação: Maria diante da mensagem de Gabriel",
+    "summary": "Lucas 1,26-38 situa a Anunciação em Nazaré, na Galileia.",
+    "blocks": [
+      {
+        "kind": "escritura",
+        "heading": "Síntese documentada",
+        "text": "033. Lucas 1,26-38 situa a Anunciação em Nazaré, na Galileia.\n\n034. Nesse episódio, o mensageiro é explicitamente identificado como o anjo Gabriel.\n\n035. Maria é apresentada como virgem desposada com José.\n\n036. José é relacionado à casa de Davi.\n\n037. A saudação do anjo provoca em Maria uma reação de perturbação.\n\n038. Ela procura compreender o significado da mensagem recebida.\n\n039. Gabriel anuncia que Maria conceberá um filho chamado Jesus.\n\n040. O menino é apresentado como Filho do Altíssimo.\n\n041. A mensagem associa sua missão ao reinado de Davi.\n\n042. Maria pergunta como acontecerá a concepção anunciada.\n\n043. A resposta atribui o acontecimento à ação do Espírito Santo.\n\n044. O anjo menciona também a gravidez de Isabel, parente de Maria.\n\n045. Maria manifesta disponibilidade para cumprir a vontade de Deus.\n\n046. Seu consentimento é frequentemente chamado de fiat na tradição cristã.\n\n047. O relato não fornece a idade exata de Maria nessa ocasião.\n\n048. A interpretação católica destaca a liberdade de sua resposta de fé.",
+        "sources": [
+          "dossie-b01",
+          "dossie-s01"
+        ]
+      }
+    ],
+    "relations": {
+      "articles": [],
+      "prayers": [],
+      "titles": [],
+      "apparitions": [],
+      "devotions": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-05",
+      "humanTheologicalReview": false
+    },
+    "banner": "durer-anunciacao",
+    "figures": []
+  },
+  {
+    "id": "dossie-04",
+    "slug": "04-a-visitacao-e-o-magnificat",
+    "type": "artigo",
+    "category": "dossie",
+    "order": 4,
+    "status": "published",
+    "title": "4. A Visitação e o Magnificat",
+    "summary": "Lucas 1,39-56 narra a visita de Maria a Isabel.",
+    "blocks": [
+      {
+        "kind": "escritura",
+        "heading": "Síntese documentada",
+        "text": "049. Lucas 1,39-56 narra a visita de Maria a Isabel.\n\n050. Maria viaja para uma região montanhosa de Judá.\n\n051. O texto informa que ela entra na casa de Zacarias.\n\n052. Ao ouvir sua saudação, Isabel percebe o movimento da criança no ventre.\n\n053. Lucas apresenta Isabel como cheia do Espírito Santo.\n\n054. Ela reconhece Maria como mãe de seu Senhor.\n\n055. Isabel elogia a confiança de Maria no cumprimento da palavra divina.\n\n056. Maria responde com o cântico conhecido como Magnificat.\n\n057. O nome do cântico vem de sua abertura na tradução latina.\n\n058. Seu conteúdo glorifica a ação de Deus, não a autonomia de Maria.\n\n059. Maria reconhece Deus como seu Salvador.\n\n060. O cântico recorda a misericórdia divina ao longo das gerações.\n\n061. Também contrapõe a soberba dos poderosos à elevação dos humildes.\n\n062. A fome dos necessitados aparece entre suas preocupações concretas.\n\n063. O encerramento recorda Israel, Abraão e a fidelidade às promessas.\n\n064. Segundo Lucas, Maria permanece com Isabel aproximadamente três meses.",
+        "sources": [
+          "dossie-b01"
+        ]
+      }
+    ],
+    "relations": {
+      "articles": [],
+      "prayers": [],
+      "titles": [],
+      "apparitions": [],
+      "devotions": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-05",
+      "humanTheologicalReview": false
+    },
+    "banner": "durer-visitacao",
+    "figures": []
+  },
+  {
+    "id": "dossie-05",
+    "slug": "05-jose-o-anuncio-em-sonho-e-a-acolhida-de-maria",
+    "type": "artigo",
+    "category": "dossie",
+    "order": 5,
+    "status": "published",
+    "title": "5. José, o anúncio em sonho e a acolhida de Maria",
+    "summary": "Mateus 1 apresenta a origem de Jesus em relação à história de Israel.",
+    "blocks": [
+      {
+        "kind": "escritura",
+        "heading": "Síntese documentada",
+        "text": "065. Mateus 1 apresenta a origem de Jesus em relação à história de Israel.\n\n066. A genealogia termina em José, esposo de Maria, da qual nasceu Jesus.\n\n067. O relato distingue a maternidade de Maria da paternidade de José.\n\n068. Antes da vida em comum, Maria aparece grávida por ação do Espírito Santo.\n\n069. José é descrito como justo diante da situação que enfrenta.\n\n070. Ele considera afastar-se sem expor Maria publicamente.\n\n071. Um anjo do Senhor lhe aparece em sonho.\n\n072. Mateus não identifica esse anjo pelo nome de Gabriel.\n\n073. A mensagem orienta José a receber Maria como esposa.\n\n074. O anjo relaciona a concepção à ação do Espírito Santo.\n\n075. José recebe a missão de dar ao menino o nome Jesus.\n\n076. O texto explica esse nome em relação à salvação dos pecados.\n\n077. Mateus associa o acontecimento à profecia de Emanuel.\n\n078. Emanuel é interpretado no próprio Evangelho como Deus conosco.\n\n079. José age conforme a orientação recebida no sonho.\n\n080. O anúncio a José e a Anunciação a Maria são episódios distintos.",
+        "sources": [
+          "dossie-b02"
+        ]
+      }
+    ],
+    "relations": {
+      "articles": [],
+      "prayers": [],
+      "titles": [],
+      "apparitions": [],
+      "devotions": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-05",
+      "humanTheologicalReview": false
+    },
+    "banner": "durer-desposorios",
+    "figures": []
+  },
+  {
+    "id": "dossie-06",
+    "slug": "06-belem-e-o-nascimento-de-jesus",
+    "type": "artigo",
+    "category": "dossie",
+    "order": 6,
+    "status": "published",
+    "title": "6. Belém e o nascimento de Jesus",
+    "summary": "Lucas 2 relaciona a viagem a Belém a um recenseamento.",
+    "blocks": [
+      {
+        "kind": "escritura",
+        "heading": "Síntese documentada",
+        "text": "081. Lucas 2 relaciona a viagem a Belém a um recenseamento.\n\n082. José parte de Nazaré e segue para a cidade de Davi.\n\n083. Maria o acompanha enquanto espera o nascimento do filho.\n\n084. O relato situa o nascimento durante essa permanência em Belém.\n\n085. Maria envolve o recém-nascido em faixas.\n\n086. Depois o deita numa manjedoura.\n\n087. Lucas explica a manjedoura pela falta de lugar no alojamento.\n\n088. O texto não descreve detalhadamente a arquitetura do local.\n\n089. Pastores da região recebem o anúncio do nascimento.\n\n090. Uma manifestação angélica associa o acontecimento à alegria e à paz.\n\n091. Os pastores encontram Maria, José e o menino.\n\n092. Eles comunicam o anúncio que haviam recebido.\n\n093. Maria conserva os acontecimentos e os considera interiormente.\n\n094. Essa atitude de memória e meditação reaparece na narrativa de Lucas.\n\n095. O Evangelho não informa o dia e o mês históricos do nascimento.\n\n096. O presépio cristão reúne o episódio com elementos de tradições artísticas posteriores.",
+        "sources": [
+          "dossie-b03"
+        ]
+      }
+    ],
+    "relations": {
+      "articles": [],
+      "prayers": [],
+      "titles": [],
+      "apparitions": [],
+      "devotions": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-05",
+      "humanTheologicalReview": false
+    },
+    "banner": "durer-natividade",
+    "figures": []
+  },
+  {
+    "id": "dossie-07",
+    "slug": "07-a-apresentacao-de-jesus-e-a-profecia-de-simeao",
+    "type": "artigo",
+    "category": "dossie",
+    "order": 7,
+    "status": "published",
+    "title": "7. A apresentação de Jesus e a profecia de Simeão",
+    "summary": "Lucas situa a circuncisão e a nomeação de Jesus no oitavo dia.",
+    "blocks": [
+      {
+        "kind": "escritura",
+        "heading": "Síntese documentada",
+        "text": "097. Lucas situa a circuncisão e a nomeação de Jesus no oitavo dia.\n\n098. O nome corresponde à orientação transmitida antes da concepção.\n\n099. Depois, Maria e José levam Jesus a Jerusalém.\n\n100. O episódio se relaciona às prescrições da Lei de Moisés.\n\n101. O casal apresenta uma oferta de aves mencionada no texto.\n\n102. Simeão aparece como homem justo e piedoso.\n\n103. Lucas descreve sua espera pela consolação de Israel.\n\n104. Conduzido pelo Espírito, ele encontra a família no Templo.\n\n105. Simeão toma o menino nos braços e bendiz a Deus.\n\n106. Ele reconhece em Jesus uma salvação destinada também às nações.\n\n107. Maria e José ficam admirados com o que ouvem.\n\n108. Simeão dirige a Maria palavras sobre contradição e sofrimento.\n\n109. A imagem de uma espada expressa a dor que atingirá sua vida.\n\n110. A profetisa Ana também reconhece a importância do menino.\n\n111. Essa Ana não é apresentada como a mãe de Maria.\n\n112. A apresentação de Jesus não deve ser confundida com a apresentação tradicional de Maria.",
+        "sources": [
+          "dossie-b03"
+        ]
+      }
+    ],
+    "relations": {
+      "articles": [],
+      "prayers": [],
+      "titles": [],
+      "apparitions": [],
+      "devotions": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-05",
+      "humanTheologicalReview": false
+    },
+    "banner": "durer-apresentacao-jesus",
+    "figures": []
+  },
+  {
+    "id": "dossie-08",
+    "slug": "08-os-magos-a-fuga-para-o-egito-e-o-retorno",
+    "type": "artigo",
+    "category": "dossie",
+    "order": 8,
+    "status": "published",
+    "title": "8. Os magos, a fuga para o Egito e o retorno",
+    "summary": "Mateus 2 narra a chegada de magos vindos do Oriente.",
+    "blocks": [
+      {
+        "kind": "escritura",
+        "heading": "Síntese documentada",
+        "text": "113. Mateus 2 narra a chegada de magos vindos do Oriente.\n\n114. O Evangelho não informa seus nomes nem estabelece que eram três.\n\n115. A tradição posterior relacionou seu número aos três tipos de presentes.\n\n116. Os magos procuram aquele que reconhecem como rei dos judeus.\n\n117. Herodes recebe a notícia como ameaça ao próprio poder.\n\n118. O relato conduz os visitantes até o menino com Maria, sua mãe.\n\n119. Os presentes mencionados são ouro, incenso e mirra.\n\n120. Advertidos em sonho, os magos não retornam a Herodes.\n\n121. José recebe outra orientação angélica em sonho.\n\n122. Ele deve levar o menino e sua mãe para o Egito.\n\n123. A fuga protege Jesus da violência de Herodes.\n\n124. Mateus apresenta José partindo durante a noite com a família.\n\n125. Após a morte de Herodes, uma nova mensagem orienta o retorno.\n\n126. O medo de Arquelau influencia o destino escolhido.\n\n127. A família se estabelece em Nazaré, na Galileia.\n\n128. Mateus não oferece um itinerário detalhado das etapas percorridas no Egito.",
+        "sources": [
+          "dossie-b04"
+        ]
+      }
+    ],
+    "relations": {
+      "articles": [],
+      "prayers": [],
+      "titles": [],
+      "apparitions": [],
+      "devotions": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-05",
+      "humanTheologicalReview": false
+    },
+    "banner": "durer-fuga-egito",
+    "figures": []
+  },
+  {
+    "id": "dossie-09",
+    "slug": "09-nazare-e-jesus-encontrado-no-templo",
+    "type": "artigo",
+    "category": "dossie",
+    "order": 9,
+    "status": "published",
+    "title": "9. Nazaré e Jesus encontrado no Templo",
+    "summary": "Lucas descreve Jesus crescendo e fortalecendo-se após o retorno a Nazaré.",
+    "blocks": [
+      {
+        "kind": "escritura",
+        "heading": "Síntese documentada",
+        "text": "129. Lucas descreve Jesus crescendo e fortalecendo-se após o retorno a Nazaré.\n\n130. Sua infância é apresentada dentro de uma família que observa práticas judaicas.\n\n131. Seus pais vão anualmente a Jerusalém para a Páscoa.\n\n132. Quando Jesus tem doze anos, eles realizam novamente essa peregrinação.\n\n133. No retorno, Maria e José não percebem imediatamente que ele permaneceu em Jerusalém.\n\n134. Primeiro o procuram entre parentes e conhecidos da caravana.\n\n135. Sem encontrá-lo, voltam à cidade.\n\n136. Depois de três dias, o encontram no Templo.\n\n137. Jesus está entre os mestres, ouvindo e fazendo perguntas.\n\n138. Sua compreensão impressiona aqueles que o escutam.\n\n139. Maria manifesta a aflição sentida durante a procura.\n\n140. A resposta de Jesus remete a sua relação com o Pai.\n\n141. Lucas afirma que seus pais não compreendem plenamente aquela resposta.\n\n142. Jesus retorna a Nazaré e vive sujeito a eles.\n\n143. Maria guarda também esses acontecimentos no coração.\n\n144. Os Evangelhos não registram uma sequência anual completa de sua vida familiar.",
+        "sources": [
+          "dossie-b03",
+          "dossie-s01"
+        ]
+      }
+    ],
+    "relations": {
+      "articles": [],
+      "prayers": [],
+      "titles": [],
+      "apparitions": [],
+      "devotions": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-05",
+      "humanTheologicalReview": false
+    },
+    "banner": "durer-entre-doutores",
+    "figures": []
+  },
+  {
+    "id": "dossie-10",
+    "slug": "10-cana-a-atencao-de-maria-e-o-primeiro-sinal",
+    "type": "artigo",
+    "category": "dossie",
+    "order": 10,
+    "status": "published",
+    "title": "10. Caná: a atenção de Maria e o primeiro sinal",
+    "summary": "João 2 situa Maria numa festa de casamento em Caná da Galileia.",
+    "blocks": [
+      {
+        "kind": "escritura",
+        "heading": "Síntese documentada",
+        "text": "145. João 2 situa Maria numa festa de casamento em Caná da Galileia.\n\n146. Jesus e seus discípulos também participam da celebração.\n\n147. Durante a festa, o vinho acaba.\n\n148. Maria comunica a necessidade a Jesus.\n\n149. A resposta de Jesus introduz o tema de sua hora.\n\n150. Maria orienta os serventes a cumprir o que Jesus lhes disser.\n\n151. O relato menciona seis talhas de pedra destinadas à purificação judaica.\n\n152. Jesus manda enchê-las de água.\n\n153. Em seguida, orienta que uma porção seja levada ao responsável pela festa.\n\n154. O responsável prova a água transformada em vinho.\n\n155. Ele elogia o vinho apresentado naquele momento.\n\n156. João descreve o acontecimento como o início dos sinais de Jesus.\n\n157. O sinal manifesta sua glória e fortalece a fé dos discípulos.\n\n158. A ação extraordinária é atribuída a Jesus, não a um poder independente de Maria.\n\n159. Depois, Jesus segue para Cafarnaum com sua mãe e outros acompanhantes.\n\n160. Caná tornou-se uma referência central da reflexão católica sobre a intercessão mariana.",
+        "sources": [
+          "dossie-b05"
+        ]
+      }
+    ],
+    "relations": {
+      "articles": [],
+      "prayers": [],
+      "titles": [],
+      "apparitions": [],
+      "devotions": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-05",
+      "humanTheologicalReview": false
+    },
+    "banner": "obra-flandes-cana",
+    "figures": []
+  },
+  {
+    "id": "dossie-11",
+    "slug": "11-maria-junto-a-cruz",
+    "type": "artigo",
+    "category": "dossie",
+    "order": 11,
+    "status": "published",
+    "title": "11. Maria junto à cruz",
+    "summary": "João 19 menciona a mãe de Jesus junto à cruz.",
+    "blocks": [
+      {
+        "kind": "escritura",
+        "heading": "Síntese documentada",
+        "text": "161. João 19 menciona a mãe de Jesus junto à cruz.\n\n162. O texto também apresenta outras mulheres nesse momento.\n\n163. Maria Madalena é uma delas, distinta da mãe de Jesus.\n\n164. O discípulo amado aparece próximo a Maria.\n\n165. Jesus se dirige à mãe e ao discípulo.\n\n166. Suas palavras estabelecem entre eles uma relação de acolhimento familiar.\n\n167. O Evangelho afirma que o discípulo a recebe consigo.\n\n168. A tradição identifica esse discípulo com João.\n\n169. O trecho, porém, o designa pela expressão discípulo amado.\n\n170. A Igreja lê a cena também em seu significado espiritual e eclesial.\n\n171. O Vaticano II associa Maria à paixão do Filho em fé e compaixão.\n\n172. Sua presença não elimina a singularidade da redenção realizada por Cristo.\n\n173. A cena bíblica é uma das raízes da devoção a Nossa Senhora das Dores.\n\n174. A Pietà representa artisticamente Maria acolhendo o corpo de Jesus morto.\n\n175. João 19 não descreve diretamente essa composição visual específica.\n\n176. Arte sacra, meditação e relato evangélico podem dialogar sem serem confundidos.",
+        "sources": [
+          "dossie-b06",
+          "dossie-s02"
+        ]
+      }
+    ],
+    "relations": {
+      "articles": [],
+      "prayers": [],
+      "titles": [],
+      "apparitions": [],
+      "devotions": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-05",
+      "humanTheologicalReview": false
+    },
+    "banner": "obra-david-crucificacao",
+    "figures": []
+  },
+  {
+    "id": "dossie-12",
+    "slug": "12-maria-depois-da-ressurreicao",
+    "type": "artigo",
+    "category": "dossie",
+    "order": 12,
+    "status": "published",
+    "title": "12. Maria depois da Ressurreição",
+    "summary": "Os Evangelhos narram diversas aparições de Jesus ressuscitado.",
+    "blocks": [
+      {
+        "kind": "escritura",
+        "heading": "Síntese documentada",
+        "text": "177. Os Evangelhos narram diversas aparições de Jesus ressuscitado.\n\n178. Não narram explicitamente um encontro do Ressuscitado com sua mãe.\n\n179. Essa ausência textual não demonstra que tal encontro tenha sido impossível.\n\n180. João Paulo II examinou essa questão numa catequese de 21 de maio de 1997.\n\n181. Ele apresentou uma reflexão teológica sobre a participação de Maria na alegria pascal.\n\n182. Essa reflexão não acrescenta um novo episódio ao texto dos Evangelhos.\n\n183. Atos 1,14 menciona Maria com a comunidade reunida em oração.\n\n184. Ela aparece junto aos apóstolos, algumas mulheres e os irmãos de Jesus.\n\n185. O contexto é a espera pelo Espírito Santo após a Ascensão.\n\n186. A tradição cristã contempla Maria vinculada ao nascimento missionário da Igreja.\n\n187. Atos não oferece uma biografia de seus anos posteriores.\n\n188. O Novo Testamento não informa sua idade ao terminar a vida terrestre.\n\n189. Também não determina uma data para esse acontecimento.\n\n190. A fé católica professa sua Assunção em corpo e alma à glória celeste.\n\n191. A definição da Assunção foi promulgada por Pio XII em 1950.\n\n192. Esse dogma não fornece um roteiro geográfico detalhado dos últimos anos de Maria.",
+        "sources": [
+          "dossie-b07",
+          "dossie-s06",
+          "dossie-s07"
+        ]
+      }
+    ],
+    "relations": {
+      "articles": [],
+      "prayers": [],
+      "titles": [],
+      "apparitions": [],
+      "devotions": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-05",
+      "humanTheologicalReview": false
+    },
+    "banner": "durer-pentecostes",
+    "figures": []
+  },
+  {
+    "id": "dossie-13",
+    "slug": "13-os-dogmas-marianos-e-o-que-afirmam",
+    "type": "artigo",
+    "category": "dossie",
+    "order": 13,
+    "status": "published",
+    "title": "13. Os dogmas marianos e o que afirmam",
+    "summary": "A maternidade divina afirma que Jesus, filho de Maria, é verdadeiramente Deus encarnado.",
+    "blocks": [
+      {
+        "kind": "doutrina",
+        "heading": "Síntese documentada",
+        "text": "193. A maternidade divina afirma que Jesus, filho de Maria, é verdadeiramente Deus encarnado.\n\n194. O Concílio de Éfeso, em 431, é uma referência decisiva dessa formulação.\n\n195. Theotokos é o título grego normalmente traduzido como Mãe de Deus.\n\n196. Ele protege a unidade pessoal de Cristo, verdadeiro Deus e verdadeiro homem.\n\n197. A virgindade perpétua pertence ao ensinamento católico sobre Maria.\n\n198. O Catecismo a apresenta como sempre virgem.\n\n199. A Imaculada Conceição diz respeito à concepção de Maria, não à concepção de Jesus.\n\n200. Afirma sua preservação do pecado original desde o primeiro instante da existência.\n\n201. Essa graça é compreendida em referência aos méritos de Jesus Cristo.\n\n202. Pio IX definiu solenemente esse dogma em 1854.\n\n203. A concepção virginal de Jesus é um ensinamento distinto.\n\n204. A Assunção afirma a glorificação de Maria em corpo e alma.\n\n205. A constituição Munificentissimus Deus foi promulgada em 1º de novembro de 1950.\n\n206. Sua fórmula fala da conclusão do curso da vida terrestre de Maria.\n\n207. O texto não define uma idade exata ou um local obrigatório para esse término.\n\n208. Na compreensão católica, todos esses ensinamentos se relacionam ao mistério de Cristo.",
+        "sources": [
+          "dossie-s01",
+          "dossie-s07",
+          "dossie-s08"
+        ]
+      }
+    ],
+    "relations": {
+      "articles": [],
+      "prayers": [],
+      "titles": [],
+      "apparitions": [],
+      "devotions": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-05",
+      "humanTheologicalReview": false
+    },
+    "banner": "obra-signorelli-assuncao",
+    "figures": []
+  },
+  {
+    "id": "dossie-14",
+    "slug": "14-rosario-oracao-e-titulos-da-ladainha",
+    "type": "artigo",
+    "category": "dossie",
+    "order": 14,
+    "status": "published",
+    "title": "14. Rosário, oração e títulos da Ladainha",
+    "summary": "O Rosário é uma oração de meditação sobre os mistérios de Cristo com Maria.",
+    "blocks": [
+      {
+        "kind": "devocional",
+        "heading": "Síntese documentada",
+        "text": "209. O Rosário é uma oração de meditação sobre os mistérios de Cristo com Maria.\n\n210. Sua forma se desenvolveu ao longo da história cristã.\n\n211. João Paulo II publicou Rosarium Virginis Mariae em 2002.\n\n212. Nessa carta, propôs os mistérios luminosos ligados à vida pública de Jesus.\n\n213. Os mistérios gozosos contemplam acontecimentos da encarnação e da infância.\n\n214. Os dolorosos acompanham a paixão do Senhor.\n\n215. Os gloriosos contemplam a vitória pascal e sua plenitude.\n\n216. A repetição das orações deve servir à contemplação, não substituí-la.\n\n217. Paulo VI tratou do Rosário e do Angelus em Marialis Cultus.\n\n218. O Angelus recorda a Anunciação e a encarnação.\n\n219. A Ladainha de Loreto reúne invocações dirigidas a Maria.\n\n220. Entre elas estão Mãe de Cristo, Virgem fiel e Saúde dos enfermos.\n\n221. Também aparecem Refúgio dos pecadores e Auxílio dos cristãos.\n\n222. Esses títulos exprimem confiança espiritual, não diferentes identidades pessoais.\n\n223. Uma devoção mariana pode existir sem se originar numa aparição.\n\n224. Na orientação da Igreja, a piedade mariana deve conduzir à vida cristã e à liturgia.",
+        "sources": [
+          "dossie-s09",
+          "dossie-s10",
+          "dossie-s11"
+        ]
+      }
+    ],
+    "relations": {
+      "articles": [],
+      "prayers": [],
+      "titles": [],
+      "apparitions": [],
+      "devotions": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-05",
+      "humanTheologicalReview": false
+    },
+    "banner": "obra-rosario-misterios",
+    "figures": []
+  },
+  {
+    "id": "dossie-15",
+    "slug": "15-nossa-senhora-da-conceicao-aparecida-brasil",
+    "type": "artigo",
+    "category": "dossie",
+    "order": 15,
+    "status": "published",
+    "title": "15. Nossa Senhora da Conceição Aparecida: Brasil",
+    "summary": "A devoção a Aparecida começou com o encontro de uma imagem em 1717.",
+    "blocks": [
+      {
+        "kind": "historia",
+        "heading": "Síntese documentada",
+        "text": "225. A devoção a Aparecida começou com o encontro de uma imagem em 1717.\n\n226. O episódio ocorreu no rio Paraíba do Sul, na região de Guaratinguetá.\n\n227. Os pescadores eram João Alves, Felipe Pedroso e Domingos Garcia.\n\n228. Segundo a narrativa do Santuário, primeiro encontraram o corpo da imagem.\n\n229. Em outro lançamento da rede, encontraram a cabeça.\n\n230. A representação é de Nossa Senhora da Conceição.\n\n231. O nome Aparecida se relaciona ao modo como a imagem foi encontrada.\n\n232. O relato tradicional associa o encontro a uma pesca abundante.\n\n233. A devoção se desenvolveu inicialmente em ambiente doméstico.\n\n234. Orações e encontros de fiéis ampliaram sua presença na região.\n\n235. Uma pequena capela foi construída em 1740, segundo a cronologia do Santuário.\n\n236. Em 1743, o padre José Alves Vilela encaminhou informações à autoridade episcopal.\n\n237. O crescimento da devoção conduziu à construção de espaços maiores de culto.\n\n238. A história central trata de uma imagem encontrada, não de uma vidente recebendo aparições.\n\n239. Os milagres tradicionais de Aparecida precisam ser estudados individualmente em suas fontes.\n\n240. A devoção tornou-se uma expressão fundamental da identidade católica brasileira.",
+        "sources": [
+          "dossie-s12",
+          "dossie-s13"
+        ]
+      }
+    ],
+    "relations": {
+      "articles": [],
+      "prayers": [],
+      "titles": [],
+      "apparitions": [],
+      "devotions": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-05",
+      "humanTheologicalReview": false
+    },
+    "banner": "obra-reni-imaculada",
+    "figures": []
+  },
+  {
+    "id": "dossie-16",
+    "slug": "16-nossa-senhora-de-guadalupe-mexico",
+    "type": "artigo",
+    "category": "dossie",
+    "order": 16,
+    "status": "published",
+    "title": "16. Nossa Senhora de Guadalupe: México",
+    "summary": "Guadalupe está ligada ao monte Tepeyac, no México.",
+    "blocks": [
+      {
+        "kind": "historia",
+        "heading": "Síntese documentada",
+        "text": "241. Guadalupe está ligada ao monte Tepeyac, no México.\n\n242. Sua narrativa central se situa em dezembro de 1531.\n\n243. Juan Diego é apresentado como o mensageiro indígena da Virgem.\n\n244. Segundo o relato devocional, Maria solicita a construção de um templo.\n\n245. Juan Diego leva a mensagem ao bispo.\n\n246. O pedido de um sinal ocupa lugar importante na história.\n\n247. O relato descreve flores recolhidas e transportadas no manto do mensageiro.\n\n248. Esse manto é conhecido como tilma.\n\n249. Ao abri-lo diante do bispo, manifesta-se a imagem venerada de Maria.\n\n250. A narrativa é transmitida, entre outras fontes, pelo Nican Mopohua.\n\n251. Francisco retomou essa história numa catequese em agosto de 2023.\n\n252. Ele destacou a linguagem materna e a proximidade com a cultura indígena.\n\n253. João Paulo II canonizou Juan Diego em 31 de julho de 2002.\n\n254. A celebração ocorreu na Basílica de Nossa Senhora de Guadalupe.\n\n255. A veneração eclesial não transforma toda alegação popular sobre a tilma em conclusão científica.\n\n256. Guadalupe oferece uma referência importante para a inculturação da devoção mariana.",
+        "sources": [
+          "dossie-s14",
+          "dossie-s15"
+        ]
+      }
+    ],
+    "relations": {
+      "articles": [],
+      "prayers": [],
+      "titles": [],
+      "apparitions": [],
+      "devotions": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-05",
+      "humanTheologicalReview": false
+    },
+    "banner": "obra-david-virgem-paisagem",
+    "figures": []
+  },
+  {
+    "id": "dossie-17",
+    "slug": "17-nossa-senhora-de-fatima-portugal",
+    "type": "artigo",
+    "category": "dossie",
+    "order": 17,
+    "status": "published",
+    "title": "17. Nossa Senhora de Fátima: Portugal",
+    "summary": "Fátima está ligada aos relatos de três crianças portuguesas em 1917.",
+    "blocks": [
+      {
+        "kind": "historia",
+        "heading": "Síntese documentada",
+        "text": "257. Fátima está ligada aos relatos de três crianças portuguesas em 1917.\n\n258. Seus nomes são Lúcia dos Santos, Francisco Marto e Jacinta Marto.\n\n259. O primeiro encontro mariano da série é situado em 13 de maio.\n\n260. A Cova da Iria é o principal lugar associado aos acontecimentos.\n\n261. As narrativas incluem encontros posteriores até outubro daquele ano.\n\n262. O encontro de agosto é situado nos Valinhos, em circunstâncias diferentes.\n\n263. A oração do Rosário ocupa lugar central nas mensagens transmitidas.\n\n264. Também aparecem apelos à conversão e à paz.\n\n265. O contexto histórico inclui a Primeira Guerra Mundial.\n\n266. As memórias de Lúcia são fontes importantes, redigidas posteriormente aos acontecimentos.\n\n267. O Santuário publica narrativas acompanhadas de referências documentais.\n\n268. O chamado milagre do sol está associado a 13 de outubro de 1917.\n\n269. Trata-se de um acontecimento relatado por testemunhas, não de uma medição astronômica consensual.\n\n270. Em 13 de outubro de 1930, o bispo de Leiria reconheceu as visões como dignas de crédito.\n\n271. A decisão autorizou oficialmente o culto a Nossa Senhora de Fátima.\n\n272. Esse reconhecimento deve ser distinguido da avaliação de qualquer mensagem posteriormente atribuída a Maria.",
+        "sources": [
+          "dossie-s16",
+          "dossie-s17"
+        ]
+      }
+    ],
+    "relations": {
+      "articles": [],
+      "prayers": [],
+      "titles": [],
+      "apparitions": [
+        "apar-fatima-1917"
+      ],
+      "devotions": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-05",
+      "humanTheologicalReview": false
+    },
+    "banner": "obra-bellini-madona",
+    "figures": []
+  },
+  {
+    "id": "dossie-18",
+    "slug": "18-nossa-senhora-de-lourdes-franca",
+    "type": "artigo",
+    "category": "dossie",
+    "order": 18,
+    "status": "published",
+    "title": "18. Nossa Senhora de Lourdes: França",
+    "summary": "Lourdes está ligada a Bernadette Soubirous e à gruta de Massabielle.",
+    "blocks": [
+      {
+        "kind": "historia",
+        "heading": "Síntese documentada",
+        "text": "273. Lourdes está ligada a Bernadette Soubirous e à gruta de Massabielle.\n\n274. A primeira aparição relatada ocorreu em 11 de fevereiro de 1858.\n\n275. A série tradicionalmente reconhecida compreende dezoito aparições.\n\n276. Bernadette inicialmente descrevia a presença sem identificá-la por um nome pessoal.\n\n277. O Rosário e a oração acompanham os relatos.\n\n278. A penitência e a conversão fazem parte da mensagem.\n\n279. A água da fonte tornou-se um elemento importante da peregrinação.\n\n280. O relato de 25 de março inclui a identificação com a Imaculada Conceição.\n\n281. Essa expressão se relaciona a um dogma definido quatro anos antes.\n\n282. Uma comissão episcopal começou a investigar os acontecimentos em 1858.\n\n283. O bispo de Tarbes, Bertrand-Sévère Laurence, publicou sua decisão em 1862.\n\n284. O documento de reconhecimento é datado de 18 de janeiro.\n\n285. A decisão afirma a autenticidade das aparições dentro do julgamento eclesial da época.\n\n286. O desenvolvimento do santuário ocorreu depois desse processo.\n\n287. Lourdes tornou-se especialmente associado à acolhida de pessoas enfermas.\n\n288. O reconhecimento das aparições e o reconhecimento de curas são processos distintos.",
+        "sources": [
+          "dossie-s18",
+          "dossie-s19"
+        ]
+      }
+    ],
+    "relations": {
+      "articles": [],
+      "prayers": [],
+      "titles": [],
+      "apparitions": [
+        "apar-lourdes-1858"
+      ],
+      "devotions": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-05",
+      "humanTheologicalReview": false
+    },
+    "banner": "durer-porta-dourada",
+    "figures": []
+  },
+  {
+    "id": "dossie-19",
+    "slug": "19-como-a-igreja-examina-as-curas-de-lourdes",
+    "type": "artigo",
+    "category": "dossie",
+    "order": 19,
+    "status": "published",
+    "title": "19. Como a Igreja examina as curas de Lourdes",
+    "summary": "O Santuário de Lourdes mantém um serviço dedicado à avaliação de curas relatadas.",
+    "blocks": [
+      {
+        "kind": "historia",
+        "heading": "Síntese documentada",
+        "text": "289. O Santuário de Lourdes mantém um serviço dedicado à avaliação de curas relatadas.\n\n290. Esse trabalho é conhecido pelo nome francês Bureau des Constatations Médicales.\n\n291. Uma pessoa pode comunicar uma cura sem que ela seja imediatamente reconhecida como milagre.\n\n292. Os médicos examinam a documentação clínica disponível.\n\n293. A investigação considera a realidade e a natureza da doença anterior.\n\n294. Também procura compreender os tratamentos realizados.\n\n295. A recuperação é observada quanto à extensão e à estabilidade.\n\n296. O tempo de acompanhamento pode ser prolongado.\n\n297. O Comitê Médico Internacional de Lourdes participa da avaliação de casos selecionados.\n\n298. Uma conclusão médica de cura inexplicada não é uma declaração religiosa automática.\n\n299. O reconhecimento como milagre depende de uma decisão eclesiástica.\n\n300. O bispo da diocese da pessoa curada tem papel decisivo nesse reconhecimento.\n\n301. A documentação do Santuário identifica casos e datas de reconhecimento.\n\n302. Na consulta realizada para este dossiê, o catálogo apresentava 72 curas reconhecidas.\n\n303. Esse número pertence ao catálogo de Lourdes, não a todos os milagres marianos do mundo.\n\n304. A data da cura pode ser muito anterior à data de sua declaração eclesial.",
+        "sources": [
+          "dossie-s20",
+          "dossie-s21"
+        ]
+      }
+    ],
+    "relations": {
+      "articles": [],
+      "prayers": [],
+      "titles": [],
+      "apparitions": [],
+      "devotions": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-05",
+      "humanTheologicalReview": false
+    },
+    "banner": "durer-anunciacao",
+    "figures": []
+  },
+  {
+    "id": "dossie-20",
+    "slug": "20-pessoas-identificadas-no-catalogo-de-milagres-de-lourdes",
+    "type": "artigo",
+    "category": "dossie",
+    "order": 20,
+    "status": "published",
+    "title": "20. Pessoas identificadas no catálogo de milagres de Lourdes",
+    "summary": "Catherine Latapie aparece no catálogo com reconhecimento em 18 de janeiro de 1862.",
+    "blocks": [
+      {
+        "kind": "historia",
+        "heading": "Síntese documentada",
+        "text": "305. Catherine Latapie aparece no catálogo com reconhecimento em 18 de janeiro de 1862.\n\n306. Louis Bouriette também integra o grupo reconhecido nessa data.\n\n307. Justin Bouhort é outro nome desse conjunto inicial.\n\n308. Pierre De Rudder tem reconhecimento registrado em 25 de julho de 1908.\n\n309. Vittorio Micheli aparece com reconhecimento em 26 de maio de 1976.\n\n310. Jean-Pierre Bély tem reconhecimento registrado em 9 de fevereiro de 1999.\n\n311. Bernadette Moriau aparece com reconhecimento em 11 de fevereiro de 2018.\n\n312. John Traynor é identificado pelo Santuário como o 71º caso reconhecido.\n\n313. Sua cura é situada em Lourdes, em julho de 1923.\n\n314. Ele havia sofrido ferimentos graves durante a Primeira Guerra Mundial.\n\n315. O arcebispo Malcolm McMahon proclamou o reconhecimento em 8 de dezembro de 2024.\n\n316. O reconhecimento foi, portanto, posterior à morte de Traynor.\n\n317. Antonia Raco é identificada pelo Santuário como o 72º caso.\n\n318. Sua cura de esclerose lateral primária é situada em 2009.\n\n319. O bispo Vincenzo Carmine Orofino proclamou o reconhecimento em 16 de abril de 2025.\n\n320. Esses exemplos demonstram a diferença entre ocorrência, investigação e reconhecimento.",
+        "sources": [
+          "dossie-s21",
+          "dossie-s22",
+          "dossie-s23"
+        ]
+      }
+    ],
+    "relations": {
+      "articles": [],
+      "prayers": [],
+      "titles": [],
+      "apparitions": [],
+      "devotions": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-05",
+      "humanTheologicalReview": false
+    },
+    "banner": "durer-visitacao",
+    "figures": []
+  },
+  {
+    "id": "dossie-21",
+    "slug": "21-nossa-senhora-das-lagrimas-de-siracusa-italia",
+    "type": "artigo",
+    "category": "dossie",
+    "order": 21,
+    "status": "published",
+    "title": "21. Nossa Senhora das Lágrimas de Siracusa: Itália",
+    "summary": "Siracusa fica na Sicília, no sul da Itália.",
+    "blocks": [
+      {
+        "kind": "historia",
+        "heading": "Síntese documentada",
+        "text": "321. Siracusa fica na Sicília, no sul da Itália.\n\n322. A devoção está ligada a uma imagem do Imaculado Coração de Maria.\n\n323. O objeto é descrito nas fontes eclesiais como uma representação em gesso.\n\n324. Ele estava na casa de Angelo Iannuso e Antonina Giusto.\n\n325. O casal aguardava o nascimento do primeiro filho.\n\n326. As lacrimações são situadas entre 29 de agosto e 1º de setembro de 1953.\n\n327. O acontecimento se tornou o centro de uma devoção pública duradoura.\n\n328. Nesse caso, o relato diz respeito a uma imagem que teria vertido lágrimas.\n\n329. Isso é diferente de uma aparição na qual alguém relata ver Maria pessoalmente.\n\n330. João Paulo II dedicou o santuário em 6 de novembro de 1994.\n\n331. Em sua homilia, interpretou as lágrimas como sinal de solicitude materna.\n\n332. Ele relacionou essa devoção ao sofrimento humano e à conversão.\n\n333. Francisco retomou o episódio numa carta pelo septuagésimo aniversário, em 2023.\n\n334. A carta associa a devoção à paz, ao perdão e ao cuidado dos vulneráveis.\n\n335. Siracusa oferece documentação eclesial concreta para estudar o tema das imagens lacrimantes.\n\n336. Seu caso não valida automaticamente relatos semelhantes ocorridos em outros lugares.",
+        "sources": [
+          "dossie-s24",
+          "dossie-s25"
+        ]
+      }
+    ],
+    "relations": {
+      "articles": [],
+      "prayers": [],
+      "titles": [],
+      "apparitions": [],
+      "devotions": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-05",
+      "humanTheologicalReview": false
+    },
+    "banner": "durer-desposorios",
+    "figures": []
+  },
+  {
+    "id": "dossie-22",
+    "slug": "22-nossa-senhora-de-la-salette-franca",
+    "type": "artigo",
+    "category": "dossie",
+    "order": 22,
+    "status": "published",
+    "title": "22. Nossa Senhora de La Salette: França",
+    "summary": "O acontecimento de La Salette é situado em 19 de setembro de 1846.",
+    "blocks": [
+      {
+        "kind": "historia",
+        "heading": "Síntese documentada",
+        "text": "337. O acontecimento de La Salette é situado em 19 de setembro de 1846.\n\n338. O local fica numa região montanhosa dos Alpes franceses.\n\n339. Os protagonistas são Maximin Giraud e Mélanie Calvat.\n\n340. Eles cuidavam de animais quando relataram encontrar uma senhora luminosa.\n\n341. Segundo o Santuário, Maximin tinha onze anos e Mélanie catorze.\n\n342. A figura é inicialmente descrita sentada e chorando.\n\n343. O relato apresenta uma mensagem de conversão destinada ao povo.\n\n344. A senhora fala de seu Filho e da vida dos ouvintes.\n\n345. Sua representação inclui um crucifixo junto ao peito.\n\n346. Outros elementos narrados são rosas, uma corrente, martelo e tenazes.\n\n347. A investigação eclesial se estendeu por cinco anos.\n\n348. O bispo de Grenoble, Philibert de Bruillard, reconheceu a aparição em 1851.\n\n349. O documento é datado de 19 de setembro.\n\n350. A fundação de um santuário foi anunciada no ano seguinte.\n\n351. A história deu origem aos Missionários de Nossa Senhora de La Salette.\n\n352. A espiritualidade do lugar destaca reconciliação, oração e mudança de vida.",
+        "sources": [
+          "dossie-s26"
+        ]
+      }
+    ],
+    "relations": {
+      "articles": [],
+      "prayers": [],
+      "titles": [],
+      "apparitions": [
+        "apar-la-salette-1846"
+      ],
+      "devotions": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-05",
+      "humanTheologicalReview": false
+    },
+    "banner": "durer-natividade",
+    "figures": []
+  },
+  {
+    "id": "dossie-23",
+    "slug": "23-nossa-senhora-de-knock-irlanda",
+    "type": "artigo",
+    "category": "dossie",
+    "order": 23,
+    "status": "published",
+    "title": "23. Nossa Senhora de Knock: Irlanda",
+    "summary": "Knock é um lugar de peregrinação mariana na Irlanda.",
+    "blocks": [
+      {
+        "kind": "historia",
+        "heading": "Síntese documentada",
+        "text": "353. Knock é um lugar de peregrinação mariana na Irlanda.\n\n354. Sua história central se situa em 21 de agosto de 1879.\n\n355. O relato está associado à parede externa da igreja paroquial.\n\n356. As testemunhas descrevem uma cena com Maria, José e João Evangelista.\n\n357. A composição também apresenta um altar e um cordeiro.\n\n358. O cordeiro e a cruz conferem forte significado eucarístico à cena.\n\n359. O acontecimento é lembrado por seu caráter silencioso.\n\n360. Não há uma sequência de discursos marianos equivalente à narrativa de outros santuários.\n\n361. O guia oficial do Santuário destaca a contemplação desse silêncio.\n\n362. A atual Capela da Aparição protege o local associado ao relato.\n\n363. O espaço conserva a relação com a antiga igreja paroquial.\n\n364. A peregrinação inclui oração, celebração e possibilidade de reconciliação sacramental.\n\n365. O Rosário faz parte das práticas dos peregrinos.\n\n366. Existe uma tradição de oração ao redor da igreja.\n\n367. O Santuário apresenta essa prática em continuidade com costumes irlandeses de peregrinação.\n\n368. Knock demonstra que as narrativas marianas não possuem todas a mesma forma.",
+        "sources": [
+          "dossie-s27"
+        ]
+      }
+    ],
+    "relations": {
+      "articles": [],
+      "prayers": [],
+      "titles": [],
+      "apparitions": [
+        "apar-knock-1879"
+      ],
+      "devotions": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-05",
+      "humanTheologicalReview": false
+    },
+    "banner": "durer-apresentacao-jesus",
+    "figures": []
+  },
+  {
+    "id": "dossie-24",
+    "slug": "24-banneux-e-beauraing-duas-historias-belgas-distintas",
+    "type": "artigo",
+    "category": "dossie",
+    "order": 24,
+    "status": "published",
+    "title": "24. Banneux e Beauraing: duas histórias belgas distintas",
+    "summary": "Banneux está ligada a Mariette Beco e a acontecimentos de 1933.",
+    "blocks": [
+      {
+        "kind": "historia",
+        "heading": "Síntese documentada",
+        "text": "369. Banneux está ligada a Mariette Beco e a acontecimentos de 1933.\n\n370. O relato compreende oito aparições, entre 15 de janeiro e 2 de março.\n\n371. Maria é invocada nesse contexto como Virgem dos Pobres.\n\n372. A família de Mariette vivia em condições materiais difíceis.\n\n373. Uma fonte de água ocupa lugar central na narrativa.\n\n374. A mensagem relaciona essa fonte ao alívio dos enfermos e a todas as nações.\n\n375. O bispo de Liège reconheceu as aparições em 22 de agosto de 1949.\n\n376. Seu nome era Louis-Joseph Kerkhofs.\n\n377. Beauraing corresponde a outro local e a outro grupo de relatos.\n\n378. Ali, cinco crianças estão ligadas aos acontecimentos de 1932 e 1933.\n\n379. O período vai de 29 de novembro a 3 de janeiro.\n\n380. O local estava ligado a um pensionato mantido por religiosas.\n\n381. A devoção é associada à Virgem do Coração de Ouro.\n\n382. O bispo André-Marie Charue autorizou o culto em 1943.\n\n383. O reconhecimento das aparições ocorreu em 2 de julho de 1949.\n\n384. As duas histórias não devem ser fundidas num único acontecimento belga.",
+        "sources": [
+          "dossie-s28",
+          "dossie-s29"
+        ]
+      }
+    ],
+    "relations": {
+      "articles": [],
+      "prayers": [],
+      "titles": [],
+      "apparitions": [
+        "apar-banneux-1933"
+      ],
+      "devotions": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-05",
+      "humanTheologicalReview": false
+    },
+    "banner": "durer-fuga-egito",
+    "figures": []
+  },
+  {
+    "id": "dossie-25",
+    "slug": "25-nossa-senhora-de-kibeho-ruanda",
+    "type": "artigo",
+    "category": "dossie",
+    "order": 25,
+    "status": "published",
+    "title": "25. Nossa Senhora de Kibeho: Ruanda",
+    "summary": "Kibeho fica em Ruanda, na África.",
+    "blocks": [
+      {
+        "kind": "historia",
+        "heading": "Síntese documentada",
+        "text": "385. Kibeho fica em Ruanda, na África.\n\n386. O início dos acontecimentos é situado em 28 de novembro de 1981.\n\n387. Os primeiros relatos surgiram no ambiente de um colégio.\n\n388. Posteriormente, outras pessoas também afirmaram receber visões.\n\n389. A autoridade eclesial distinguiu os diferentes testemunhos.\n\n390. O culto público foi autorizado em 1988.\n\n391. Essa autorização inicial não resolveu todas as questões sobre autenticidade.\n\n392. O bispo Augustin Misago publicou um julgamento em 29 de junho de 2001.\n\n393. A decisão reconheceu as experiências de três videntes específicas.\n\n394. Seus nomes são Alphonsine Mumureke, Nathalie Mukamazimpaka e Marie-Claire Mukangango.\n\n395. O título Nyina wa Jambo é traduzido como Mãe do Verbo.\n\n396. A declaração não estendeu a aprovação a todos os supostos videntes.\n\n397. Também não reconheceu indistintamente os relatos de aparições de Jesus.\n\n398. O documento acentua a relevância dos acontecimentos públicos de 1982 e 1983.\n\n399. A mensagem pastoral favorece conversão, reconciliação e fraternidade.\n\n400. O próprio julgamento distingue reconhecimento de aparição de um artigo obrigatório de fé.",
+        "sources": [
+          "dossie-s30"
+        ]
+      }
+    ],
+    "relations": {
+      "articles": [],
+      "prayers": [],
+      "titles": [],
+      "apparitions": [
+        "apar-kibeho-1981"
+      ],
+      "devotions": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-05",
+      "humanTheologicalReview": false
+    },
+    "banner": "durer-entre-doutores",
+    "figures": []
+  },
+  {
+    "id": "dossie-26",
+    "slug": "26-donglu-e-sheshan-devocoes-marianas-na-china",
+    "type": "artigo",
+    "category": "dossie",
+    "order": 26,
+    "status": "published",
+    "title": "26. Donglü e Sheshan: devoções marianas na China",
+    "summary": "Donglü também aparece em transliterações como Donglu, Dong Lu e Donglv.",
+    "blocks": [
+      {
+        "kind": "historia",
+        "heading": "Síntese documentada",
+        "text": "401. Donglü também aparece em transliterações como Donglu, Dong Lu e Donglv.\n\n402. A devoção está associada à província chinesa de Hebei.\n\n403. Nossa Senhora de Donglü se relaciona ao título Nossa Senhora da China.\n\n404. Uma notícia da Agência Fides documenta essa ligação histórica.\n\n405. O primeiro concílio chinês, realizado em Xangai em 1924, teve marcante expressão mariana.\n\n406. Seus bispos formularam o propósito de consagrar a China a Nossa Senhora de Donglü.\n\n407. Em 8 de dezembro de 1941, Pio XII atendeu ao pedido de uma festa própria.\n\n408. A celebração homenageia Maria como Rainha da China.\n\n409. A Fides registra sua celebração no segundo sábado de maio nas comunidades mencionadas.\n\n410. Esses atos documentam a devoção, sem resolver automaticamente cada relato extraordinário associado ao lugar.\n\n411. Sheshan corresponde a outro santuário, ligado a Xangai.\n\n412. Ali, Maria é venerada como Auxiliadora dos Cristãos.\n\n413. Bento XVI compôs uma oração a Nossa Senhora de Sheshan em 2008.\n\n414. A oração se relaciona à jornada de 24 de maio pela Igreja na China.\n\n415. Seu conteúdo pede perseverança na fé e fidelidade a Cristo.\n\n416. Donglü e Sheshan pertencem à história mariana chinesa, mas são referências distintas.",
+        "sources": [
+          "dossie-s31",
+          "dossie-s32"
+        ]
+      }
+    ],
+    "relations": {
+      "articles": [],
+      "prayers": [],
+      "titles": [],
+      "apparitions": [],
+      "devotions": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-05",
+      "humanTheologicalReview": false
+    },
+    "banner": "obra-flandes-cana",
+    "figures": []
+  },
+  {
+    "id": "dossie-27",
+    "slug": "27-la-vang-vailankanni-e-antipolo-outras-expressoes-asiaticas",
+    "type": "artigo",
+    "category": "dossie",
+    "order": 27,
+    "status": "published",
+    "title": "27. La Vang, Vailankanni e Antipolo: outras expressões asiáticas",
+    "summary": "La Vang é um importante centro de devoção mariana no Vietnã.",
+    "blocks": [
+      {
+        "kind": "historia",
+        "heading": "Síntese documentada",
+        "text": "417. La Vang é um importante centro de devoção mariana no Vietnã.\n\n418. Sua tradição remonta a cristãos perseguidos no final do século XVIII.\n\n419. O relato situa em 1798 o auxílio de Maria aos refugiados na floresta.\n\n420. Essa narrativa é transmitida pela memória devocional vietnamita.\n\n421. Vatican News documenta peregrinações e celebrações da Igreja nesse santuário.\n\n422. Vailankanni fica no estado indiano de Tamil Nadu.\n\n423. O título local é Nossa Senhora da Saúde.\n\n424. A devoção está associada a tradições que remontam ao século XVI.\n\n425. O santuário recebe também visitantes que não são católicos.\n\n426. Uma carta do Dicastério para a Doutrina da Fé abordou essa realidade em 2024.\n\n427. O documento valorizou seus frutos espirituais e o acolhimento dos peregrinos.\n\n428. Esse acolhimento não equivale a declarar idênticas todas as crenças religiosas.\n\n429. Antipolo fica nas Filipinas e está ligado à Paz e Boa Viagem.\n\n430. Sua catedral recebeu o título de santuário internacional.\n\n431. Em fevereiro de 2024, o arcebispo Rino Fisichella celebrou ali uma missa de ação de graças.\n\n432. As três devoções mostram formas locais diferentes de expressar a proximidade de Maria.",
+        "sources": [
+          "dossie-s33",
+          "dossie-s34",
+          "dossie-s35"
+        ]
+      }
+    ],
+    "relations": {
+      "articles": [],
+      "prayers": [],
+      "titles": [],
+      "apparitions": [],
+      "devotions": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-05",
+      "humanTheologicalReview": false
+    },
+    "banner": "obra-david-crucificacao",
+    "figures": []
+  },
+  {
+    "id": "dossie-28",
+    "slug": "28-lujan-caacupe-el-cobre-e-chiquinquira",
+    "type": "artigo",
+    "category": "dossie",
+    "order": 28,
+    "status": "published",
+    "title": "28. Luján, Caacupé, El Cobre e Chiquinquirá",
+    "summary": "Nossa Senhora de Luján é venerada como padroeira da Argentina.",
+    "blocks": [
+      {
+        "kind": "historia",
+        "heading": "Síntese documentada",
+        "text": "433. Nossa Senhora de Luján é venerada como padroeira da Argentina.\n\n434. João Paulo II relacionou o início de sua veneração ao ano de 1630.\n\n435. A imagem corresponde à representação da Imaculada Conceição.\n\n436. Luján se tornou um centro de peregrinação e religiosidade popular argentina.\n\n437. Nossa Senhora de Caacupé está profundamente ligada à fé do Paraguai.\n\n438. Seu título também aparece como Virgem dos Milagres de Caacupé.\n\n439. Francisco celebrou missa junto ao santuário em 11 de julho de 2015.\n\n440. Sua homilia destacou a proximidade de Maria com a vida do povo.\n\n441. Nossa Senhora da Caridade do Cobre é uma referência mariana de Cuba.\n\n442. O santuário de El Cobre fica próximo a Santiago de Cuba.\n\n443. Francisco rezou ali em setembro de 2015.\n\n444. No mesmo contexto, relacionou Maria à visita, ao serviço e à esperança.\n\n445. Nossa Senhora de Chiquinquirá é uma devoção central na Colômbia.\n\n446. Sua história está associada a uma imagem venerada, não apenas a um nome geográfico.\n\n447. Francisco recordou essa devoção em sua viagem colombiana de 2017.\n\n448. Esses títulos mostram a integração da memória mariana à história de diferentes povos americanos.",
+        "sources": [
+          "dossie-s36",
+          "dossie-s37",
+          "dossie-s38",
+          "dossie-s39"
+        ]
+      }
+    ],
+    "relations": {
+      "articles": [],
+      "prayers": [],
+      "titles": [],
+      "apparitions": [],
+      "devotions": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-05",
+      "humanTheologicalReview": false
+    },
+    "banner": "durer-pentecostes",
+    "figures": []
+  },
+  {
+    "id": "dossie-29",
+    "slug": "29-walsingham-montserrat-e-czestochowa",
+    "type": "artigo",
+    "category": "dossie",
+    "order": 29,
+    "status": "published",
+    "title": "29. Walsingham, Montserrat e Częstochowa",
+    "summary": "Walsingham é uma referência da devoção mariana inglesa.",
+    "blocks": [
+      {
+        "kind": "historia",
+        "heading": "Síntese documentada",
+        "text": "449. Walsingham é uma referência da devoção mariana inglesa.\n\n450. Sua narrativa de origem está ligada a Richeldis de Faverches.\n\n451. A tradição situa em 1061 a experiência que motivou uma reprodução da casa de Nazaré.\n\n452. O propósito era recordar a Anunciação e a encarnação.\n\n453. O antigo santuário foi destruído no contexto da Reforma inglesa.\n\n454. A peregrinação católica foi retomada nos séculos posteriores.\n\n455. Montserrat é um centro mariano ligado à Catalunha, na Espanha.\n\n456. A invocação local aparece em catalão como Mare de Déu de Montserrat.\n\n457. Sua tradição se relaciona à vida de uma abadia e às peregrinações.\n\n458. Documentos pontifícios reconhecem sua importância para a oração do povo.\n\n459. Częstochowa está ligada ao santuário de Jasna Góra, na Polônia.\n\n460. A imagem mariana ocupa lugar marcante na memória religiosa polonesa.\n\n461. João Paulo II celebrou ali em 4 de junho de 1979.\n\n462. Ele descreveu o vínculo entre o santuário, as famílias e a história nacional.\n\n463. A presença de Maria nesses lugares é expressa por imagens, liturgia e peregrinação.\n\n464. Nem toda grande devoção europeia se estrutura como uma série moderna de aparições.",
+        "sources": [
+          "dossie-s40",
+          "dossie-s41",
+          "dossie-s42"
+        ]
+      }
+    ],
+    "relations": {
+      "articles": [],
+      "prayers": [],
+      "titles": [],
+      "apparitions": [],
+      "devotions": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-05",
+      "humanTheologicalReview": false
+    },
+    "banner": "obra-signorelli-assuncao",
+    "figures": []
+  },
+  {
+    "id": "dossie-30",
+    "slug": "30-muxima-nossa-senhora-da-africa-e-auxiliadora-na-australia",
+    "type": "artigo",
+    "category": "dossie",
+    "order": 30,
+    "status": "published",
+    "title": "30. Muxima, Nossa Senhora da África e Auxiliadora na Austrália",
+    "summary": "Muxima é um centro de peregrinação mariana de Angola.",
+    "blocks": [
+      {
+        "kind": "historia",
+        "heading": "Síntese documentada",
+        "text": "465. Muxima é um centro de peregrinação mariana de Angola.\n\n466. A expressão Mamã Muxima manifesta a linguagem afetiva dessa devoção.\n\n467. O santuário está associado a encontros comunitários e à oração do Rosário.\n\n468. A documentação eclesial destaca seu papel de consolo para os peregrinos.\n\n469. A devoção mariana integra ali a vida religiosa e a memória local.\n\n470. Nossa Senhora da África é venerada numa basílica em Argel.\n\n471. Esse santuário pertence ao contexto cristão da Argélia.\n\n472. Uma inscrição pede a intercessão de Maria por cristãos e muçulmanos.\n\n473. O lugar expressa também uma vocação de encontro e convivência.\n\n474. Essa referência norte-africana é distinta de Kibeho e de Muxima.\n\n475. Na Austrália, Maria é venerada como Auxiliadora dos Cristãos.\n\n476. A Conferência Episcopal australiana relaciona seu patronato nacional a 1844.\n\n477. O título é expresso em inglês como Mary Help of Christians.\n\n478. Ele também pertence ao repertório mais amplo da oração católica.\n\n479. O patronato australiano não exige a existência de uma aparição mariana local.\n\n480. África e Oceania participam da devoção mariana por histórias próprias e variadas.",
+        "sources": [
+          "dossie-s43",
+          "dossie-s44",
+          "dossie-s45"
+        ]
+      }
+    ],
+    "relations": {
+      "articles": [],
+      "prayers": [],
+      "titles": [],
+      "apparitions": [],
+      "devotions": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-05",
+      "humanTheologicalReview": false
+    },
+    "banner": "obra-rosario-misterios",
+    "figures": []
+  },
+  {
+    "id": "dossie-31",
+    "slug": "31-imagens-cores-e-o-manto-estrelado",
+    "type": "artigo",
+    "category": "dossie",
+    "order": 31,
+    "status": "published",
+    "title": "31. Imagens, cores e o manto estrelado",
+    "summary": "A arte mariana interpreta a fé mediante formas, cores, gestos e materiais.",
+    "blocks": [
+      {
+        "kind": "arte",
+        "heading": "Síntese documentada",
+        "text": "481. A arte mariana interpreta a fé mediante formas, cores, gestos e materiais.\n\n482. Uma pintura de Maria não é automaticamente um retrato histórico de sua aparência.\n\n483. O azul é frequente em mantos marianos da pintura europeia.\n\n484. Em determinadas obras, os pintores utilizaram ultramarino produzido a partir de lápis-lazúli.\n\n485. A National Gallery identifica esse pigmento no manto de uma Virgem de Giovanni Bellini.\n\n486. Em outra obra, de Ghirlandaio, o museu identifica azurita no manto.\n\n487. A mesma análise registra alterações na aparência desse pigmento ao longo do tempo.\n\n488. Portanto, nem todo azul mariano corresponde à mesma substância ou conservação.\n\n489. Apocalipse 12 apresenta uma mulher vestida de sol.\n\n490. A figura possui a lua sob os pés e uma coroa de doze estrelas.\n\n491. A leitura cristã relaciona essa imagem ao povo de Deus e também a Maria.\n\n492. Seu simbolismo não funciona como descrição fotográfica de uma roupa histórica.\n\n493. Um manto estrelado pode evocar essa tradição iconográfica de maneira artística.\n\n494. Não demonstra, por si, uma correspondência astronômica com um acontecimento particular.\n\n495. O Catecismo explica que a honra prestada à imagem se dirige à pessoa representada.\n\n496. A veneração de imagens não atribui divindade à madeira, à tinta ou ao tecido.",
+        "sources": [
+          "dossie-b08",
+          "dossie-s46",
+          "dossie-s47",
+          "dossie-s48"
+        ]
+      }
+    ],
+    "relations": {
+      "articles": [],
+      "prayers": [],
+      "titles": [],
+      "apparitions": [],
+      "devotions": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-05",
+      "humanTheologicalReview": false
+    },
+    "banner": "obra-reni-imaculada",
+    "figures": []
+  },
+  {
+    "id": "dossie-32",
+    "slug": "32-aparicoes-reconhecimento-e-precisao-dos-titulos-marianos",
+    "type": "artigo",
+    "category": "dossie",
+    "order": 32,
+    "status": "published",
+    "title": "32. Aparições, reconhecimento e precisão dos títulos marianos",
+    "summary": "As revelações privadas não acrescentam uma nova etapa à revelação cristã definitiva.",
+    "blocks": [
+      {
+        "kind": "doutrina",
+        "heading": "Síntese documentada",
+        "text": "497. As revelações privadas não acrescentam uma nova etapa à revelação cristã definitiva.\n\n498. O Catecismo as distingue do depósito da fé.\n\n499. Em 2024, o Dicastério publicou novas normas sobre presumidos fenômenos sobrenaturais.\n\n500. As normas entraram em vigor em 19 de maio daquele ano.\n\n501. Entre os resultados possíveis está o nihil obstat.\n\n502. Essa decisão pode permitir a valorização pastoral de uma experiência espiritual.\n\n503. Ela não declara automaticamente a origem sobrenatural de todos os acontecimentos.\n\n504. Em setembro de 2024, uma nota tratou da experiência espiritual de Medjugorje.\n\n505. O documento reconheceu frutos positivos e estabeleceu esclarecimentos importantes.\n\n506. O nihil obstat não foi uma autenticação indiscriminada das presumidas mensagens.\n\n507. Em novembro de 2025, o Dicastério publicou Mater Populi fidelis.\n\n508. A nota examinou títulos ligados à cooperação de Maria na salvação.\n\n509. Seu fundamento é a singularidade de Cristo como Mediador e Redentor.\n\n510. O texto considera inadequado empregar Corredentora para definir essa cooperação.\n\n511. Ao mesmo tempo, valoriza a maternidade espiritual e a intercessão de Maria.\n\n512. A fidelidade da devoção inclui distinguir a beleza da linguagem religiosa da precisão doutrinal.",
+        "sources": [
+          "dossie-s49",
+          "dossie-s50",
+          "dossie-s51",
+          "dossie-s52"
+        ]
+      }
+    ],
+    "relations": {
+      "articles": [],
+      "prayers": [],
+      "titles": [],
+      "apparitions": [],
+      "devotions": []
+    },
+    "review": {
+      "state": "pesquisa-documental",
+      "lastVerified": "2026-10-05",
+      "humanTheologicalReview": false
+    },
+    "banner": "obra-david-virgem-paisagem",
+    "figures": []
+  }
+]

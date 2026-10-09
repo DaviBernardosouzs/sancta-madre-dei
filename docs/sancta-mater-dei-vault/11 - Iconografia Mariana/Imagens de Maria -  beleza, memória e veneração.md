@@ -11,6 +11,8 @@ origens:
 - content/pesquisa-documentada.txt#capitulo-63
 tags:
 - mariana/estudo
+pagina_principal:
+- '[[Devoção a Maria e adoração a Deus]]'
 ---
 
 # Imagens de Maria: beleza, memória e veneração
@@ -51,6 +53,11 @@ tags:
 
 1008. A beleza da arte sacra encontra seu horizonte no mistério de Cristo.
 
+## Página principal no site e conferência
+
+Este capítulo resume uma fonte; a página principal do assunto é [[Devoção a Maria e adoração a Deus]].
+
 ## Relações e bibliografia
 
 - **fontes:** [[Referência F63 — João Paulo II, catequese sobre devoção e imagens, 29 de outubro de 1997]]
+- **pagina principal:** [[Devoção a Maria e adoração a Deus]]

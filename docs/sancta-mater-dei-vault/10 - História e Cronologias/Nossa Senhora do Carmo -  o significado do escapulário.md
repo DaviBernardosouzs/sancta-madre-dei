@@ -13,6 +13,8 @@ tags:
 - mariana/estudo
 titulo_estudado:
 - '[[Nossa Senhora do Carmo]]'
+pagina_principal:
+- '[[Celebração — Nossa Senhora do Monte Carmelo]]'
 ---
 
 # Nossa Senhora do Carmo: o significado do escapulário
@@ -53,7 +55,12 @@ titulo_estudado:
 
 896. A mensagem convida os devotos a viver uma confiança ativa e perseverante.
 
+## Página principal no site e conferência
+
+Este capítulo resume uma fonte; a página principal do assunto é [[Celebração — Nossa Senhora do Monte Carmelo]].
+
 ## Relações e bibliografia
 
 - **fontes:** [[Referência F56 — João Paulo II, mensagem à Ordem do Carmelo, assinada em 25 de março de 2001]]
 - **titulo estudado:** [[Nossa Senhora do Carmo]]
+- **pagina principal:** [[Celebração — Nossa Senhora do Monte Carmelo]]

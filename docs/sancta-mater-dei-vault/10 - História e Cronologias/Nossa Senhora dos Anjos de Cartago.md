@@ -13,6 +13,8 @@ tags:
 - mariana/estudo
 titulo_estudado:
 - '[[Nossa Senhora dos Anjos de Cartago — invocacao-32]]'
+pagina_principal:
+- '[[Basílica de Nossa Senhora dos Anjos (Cartago)]]'
 ---
 
 # Nossa Senhora dos Anjos de Cartago
@@ -53,7 +55,12 @@ titulo_estudado:
 
 512. Não deve ser transformado automaticamente numa narrativa de aparições sucessivas.
 
+## Página principal no site e conferência
+
+Este capítulo resume uma fonte; a página principal do assunto é [[Basílica de Nossa Senhora dos Anjos (Cartago)]].
+
 ## Relações e bibliografia
 
 - **fontes:** [[Referência F32 — Angelus pontifício · 02 - 08 - 1992]]
 - **titulo estudado:** [[Nossa Senhora dos Anjos de Cartago — invocacao-32]]
+- **pagina principal:** [[Basílica de Nossa Senhora dos Anjos (Cartago)]]

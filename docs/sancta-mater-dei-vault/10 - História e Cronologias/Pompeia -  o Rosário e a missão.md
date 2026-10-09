@@ -13,6 +13,9 @@ tags:
 - mariana/estudo
 titulo_estudado:
 - '[[Nossa Senhora do Rosário de Pompeia]]'
+pagina_principal:
+- '[[Santuário Pontifício da Virgem do Rosário de Pompeia]]'
+- '[[O Santo Rosário]]'
 ---
 
 # Pompeia: o Rosário e a missão
@@ -53,7 +56,12 @@ titulo_estudado:
 
 304. Pompeia oferece, nesse documento, uma ligação entre devoção e evangelização.
 
+## Página principal no site e conferência
+
+Este capítulo resume uma fonte; a página principal do assunto é [[Santuário Pontifício da Virgem do Rosário de Pompeia]], [[O Santo Rosário]].
+
 ## Relações e bibliografia
 
 - **fontes:** [[Referência F19 — Homilia pontifícia · 21 - 10 - 1979]]
 - **titulo estudado:** [[Nossa Senhora do Rosário de Pompeia]]
+- **pagina principal:** [[Santuário Pontifício da Virgem do Rosário de Pompeia]], [[O Santo Rosário]]

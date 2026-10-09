@@ -13,6 +13,9 @@ tags:
 - mariana/estudo
 menciona:
 - '[[Maternidade divina]]'
+pagina_principal:
+- '[[Maternidade divina]]'
+- '[[Mãe de Deus (Theotokos)]]'
 ---
 
 # Maria e a Santíssima Trindade
@@ -53,7 +56,12 @@ menciona:
 
 16. Contemplar Maria conduz, assim, ao mistério do Pai, Filho e Espírito.
 
+## Página principal no site e conferência
+
+Este capítulo resume uma fonte; a página principal do assunto é [[Maternidade divina]], [[Mãe de Deus (Theotokos)]].
+
 ## Relações e bibliografia
 
 - **fontes:** [[Referência F01 — Catequese pontifícia · 10 - 01 - 1996]]
 - **menciona:** [[Maternidade divina]]
+- **pagina principal:** [[Maternidade divina]], [[Mãe de Deus (Theotokos)]]

@@ -11,6 +11,9 @@ origens:
 - content/pesquisa-documentada.txt#capitulo-07
 tags:
 - mariana/estudo
+pagina_principal:
+- '[[A Visitação e o Magnificat]]'
+- '[[Magnificat]]'
 ---
 
 # O Magnificat como memória da fidelidade divina
@@ -51,6 +54,11 @@ tags:
 
 112. Sua beleza poética carrega também uma exigência de conversão do coração.
 
+## Página principal no site e conferência
+
+Este capítulo resume uma fonte; a página principal do assunto é [[A Visitação e o Magnificat]], [[Magnificat]].
+
 ## Relações e bibliografia
 
 - **fontes:** [[Referência F07 — Catequese pontifícia · 06 - 11 - 1996]]
+- **pagina principal:** [[A Visitação e o Magnificat]], [[Magnificat]]
