@@ -12,14 +12,6 @@ on:
         default: '1.0.0'
   push:
     tags: ['app-v*']
-  pull_request:
-    paths:
-      - 'android/**'
-      - 'capacitor.config.json'
-      - 'site/**'
-      - 'content/**'
-      - 'package.json'
-      - '.github/workflows/android.yml'
 
 jobs:
   android:
