@@ -162,3 +162,24 @@ test('rascunhos de aparições e milagres não vazam para atlas, títulos nem pe
     assert.ok(!surfaces.includes(`/aparicoes/${d.slug}/`) && !surfaces.includes(`/milagres/${d.slug}/`), d.slug);
   }
 });
+
+test('PWA: manifesto por idioma com ícones existentes, service worker gerado e página de instalação', () => {
+  for (const code of ['pt', 'en', 'es', 'fr', 'it', 'de', 'ja', 'zh']) {
+    const p = join(ROOT, 'dist', `manifest.${code}.webmanifest`);
+    if (code !== 'pt' && !existsSync(p)) continue; // o teste gera só o português
+    const m = JSON.parse(readFileSync(p, 'utf8'));
+    assert.equal(m.display, 'standalone');
+    assert.ok(m.icons.some((i) => i.sizes === '512x512' && i.purpose === 'maskable'));
+    for (const i of m.icons) assert.ok(existsSync(join(ROOT, 'dist', i.src.replace(/^\//, ''))), i.src);
+  }
+  const sw = read('sw.js');
+  assert.ok(!sw.includes('__VERSAO__') && !sw.includes('__PRECACHE__') && !sw.includes("'__BASE__'"), 'marcadores não substituídos');
+  assert.ok(sw.includes("'api/'"), 'a API precisa ficar fora do cache');
+  const home = read('index.html');
+  assert.ok(home.includes('rel="manifest"') && home.includes('apple-touch-icon') && home.includes('pwa.js'));
+  const html = read('instalar/index.html');
+  assert.ok(html.includes('<legend>') && html.includes('type="radio" name="aparelho" id="ap-android"') && html.includes('id="ap-ios"'));
+  assert.ok(html.includes('data-painel="android"') && html.includes('data-painel="ios"'));
+  assert.ok(!read('sitemap.xml').includes('/offline/'), 'a página offline não entra no sitemap');
+  assert.ok(existsSync(join(ROOT, 'dist', 'offline', 'index.html')));
+});

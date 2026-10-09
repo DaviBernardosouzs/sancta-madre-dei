@@ -46,3 +46,9 @@ Detalhes e evidências em `docs/MATRIZ-EVIDENCIAS-2026-10-08.md`.
 - **Orações:** Lembrai-vos (Memorare) e Rainha do Céu ainda não incluídas; nenhuma tradução de oração teve parecer jurídico sobre reprodução.
 - **Mapa:** na escala do mapa-múndi, os pontos europeus ficam próximos; não há aproximação por região na página de aparições (o atlas tem).
 - **Fora do escopo editorial, anteriores a esta etapa:** a auditoria de interação acusa estouro horizontal na página inicial a 320 px com texto a 150%, e a auditoria visual acusa contraste insuficiente no rótulo do seletor de idioma da página inicial. Os dois problemas já existiam no commit b27516e (conferido num build separado). O teste `tests/vault_integrity_test.py` depende de `scripts/vault-validate.py`, que não está no repositório.
+
+## Aplicativo instalável (PWA)
+- Testar a instalação em aparelhos reais (Android com Chrome e Samsung Internet; iPhone com Safari), inclusive o comportamento offline.
+- Traduzir os textos da página `/instalar/` e da página offline (hoje em português nos outros idiomas).
+- O iPhone não oferece botão de instalação automática; a orientação pelo menu Compartilhar depende da versão do iOS, e os nomes das opções podem mudar.
+- **Coroa das Almas:** não há texto oficial da coroa (as formas populares variam e nenhuma tem original em latim conhecido). Por decisão do autor (8/10/2026), publicou-se só a oração com texto oficial, «Dai-lhes, Senhor, o eterno descanso / Requiem aeternam» (Compêndio do Catecismo, em português e latim), com nota sobre a devoção. Se o autor indicar uma fonte própria da coroa (livreto ou paróquia), conferir e publicar com essa procedência.

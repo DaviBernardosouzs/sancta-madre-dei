@@ -65,7 +65,7 @@ A edição atual inclui:
 - Rosário;
 - mensagem de Lourdes;
 - títulos marianos;
-- nove orações tradicionais, incluindo o Pai-Nosso e a Ladainha de Nossa Senhora;
+- dez orações tradicionais, incluindo o Pai-Nosso, a Ladainha de Nossa Senhora e o «Dai-lhes, Senhor, o eterno descanso» em português e em latim;
 - guia do Rosário;
 - modo de leitura;
 - galeria de arte sacra;
@@ -75,6 +75,7 @@ A edição atual inclui:
 - créditos das imagens;
 - metodologia;
 - busca;
+- aplicativo instalável no Android e no iPhone (PWA), com página de instruções e leitura sem internet das páginas já abertas;
 - filtros;
 - páginas institucionais e editoriais.
 

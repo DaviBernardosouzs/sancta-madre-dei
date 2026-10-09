@@ -58,7 +58,8 @@
       "§ 966: a Virgem Imaculada, terminado o curso da vida terrena, foi elevada ao céu em corpo e alma; a Assunção é singular participação na ressurreição do Filho.",
       "§ 969: a maternidade de Maria na economia da graça perdura; ela é invocada com títulos como advogada, auxiliadora, socorro e medianeira.",
       "§ 970: a função maternal de Maria não ofusca nem diminui a mediação única de Cristo.",
-      "§ 971: o culto à Virgem, embora singular, difere essencialmente do culto de adoração prestado ao Verbo Encarnado, ao Pai e ao Espírito Santo."
+      "§ 971: o culto à Virgem, embora singular, difere essencialmente do culto de adoração prestado ao Verbo Encarnado, ao Pai e ao Espírito Santo.",
+      "§ 1032: desde os primeiros tempos, a Igreja honrou a memória dos defuntos, oferecendo sufrágios em seu favor, particularmente o Sacrifício eucarístico, para que, purificados, possam chegar à visão beatífica de Deus; recomenda também a esmola, as indulgências e as obras de penitência a favor dos defuntos."
     ]
   },
   {
@@ -112,7 +113,9 @@
     "accessedDate": "2026-10-04",
     "note": "Versão em português (Portugal). O Apêndice traz Sinal da Cruz, Glória ao Pai, Avé Maria, Angelus, Salve Rainha, Magnificat, Sob a Tua Protecção, entre outras.",
     "supports": [
-      "Texto em português das orações Avé Maria, Glória ao Pai, Sinal da Cruz, Angelus, Salve Rainha, Magnificat e Sob a Tua Protecção, tal como publicado no Apêndice."
+      "Texto em português das orações Avé Maria, Glória ao Pai, Sinal da Cruz, Angelus, Salve Rainha, Magnificat e Sob a Tua Protecção, tal como publicado no Apêndice.",
+      "Apêndice, oração pelos defuntos em português: «Dai-lhes, Senhor, o eterno descanso / Entre os esplendores da luz perpétua. / Descansem em paz. Ámen.»",
+      "Apêndice, a mesma oração em latim: «Réquiem ætérnam dona eis, Dómine, / et lux perpétua lúceat eis. / Requiéscant in pace. Amen.»"
     ]
   },
   {
@@ -3658,6 +3661,45 @@
       "O papa Francisco dispôs que no formulário das ladainhas lauretanas se inserissem as invocações «Mater misericordiae», «Mater spei» e «Solacium migrantium».",
       "A primeira é colocada depois de «Mater Ecclesiae», a segunda depois de «Mater divinae gratiae» e a terceira depois de «Refugium peccatorum».",
       "A carta é assinada pelo cardeal Robert Sarah, prefeito, e por Dom Arthur Roche, secretário."
+    ]
+  },
+  {
+    "id": "paroquias-coroa-almas",
+    "type": "estudo",
+    "title": "Coroa pelas almas do Purgatório (Paroquias.org)",
+    "institution": "Paroquias.org (site católico português de iniciativa privada; não é publicação oficial da Igreja)",
+    "url": "https://www.paroquias.org/oracoes/?o=147",
+    "documentDate": null,
+    "accessedDate": "2026-10-08",
+    "note": "Fonte devocional, citada só para mostrar uma forma da coroa. Direitos reservados pelo site; o texto não é reproduzido.",
+    "supports": [
+      "Uma versão da «Coroa pelas almas do Purgatório» é feita de cinco invocações a Jesus pelos sofrimentos da Paixão (Getsêmani, tribunais, coroa de espinhos, caminho do Calvário, cruz), cada uma seguida de «Que as Almas dos fiéis defuntos, pela Misericórdia Divina, descansem em paz»."
+    ]
+  },
+  {
+    "id": "saopiov-terco-almas",
+    "type": "estudo",
+    "title": "Terço e Ladainha pelas Almas do Purgatório (blog São Pio V, Curitiba, 2010)",
+    "institution": "Blog São Pio V, Católicos de Curitiba (iniciativa privada; não é publicação oficial da Igreja)",
+    "url": "https://www.saopiov.org/2010/06/terco-e-ladainha-pelas-almas-do.html",
+    "documentDate": "2010-06",
+    "accessedDate": "2026-10-08",
+    "note": "Fonte devocional, citada só para mostrar outra forma do terço. Lida pelo endereço http; o validador exige https no registro.",
+    "supports": [
+      "Em outra forma do terço pelas almas, em cada conta pequena se reza «Meu Jesus, misericórdia!» ou «Jesus, dai-lhes o descanso eterno!», e em cada conta grande o oferecimento do Sangue de Cristo pelas almas do Purgatório."
+    ]
+  },
+  {
+    "id": "indulgentiarum-doctrina",
+    "type": "magisterio",
+    "title": "Paulo VI, Constituição Apostólica Indulgentiarum doctrina (1º de janeiro de 1967)",
+    "institution": "Papa Paulo VI (Santa Sé)",
+    "url": "https://www.vatican.va/content/paul-vi/pt/apost_constitutions/documents/hf_p-vi_apc_01011967_indulgentiarum-doctrina.html",
+    "documentDate": "1967-01-01",
+    "accessedDate": "2026-10-08",
+    "note": "Versão em português no sítio do Vaticano.",
+    "supports": [
+      "No que tange à indulgência parcial, fica abolida a antiga determinação por dias e anos."
     ]
   }
 ]

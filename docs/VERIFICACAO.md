@@ -53,3 +53,10 @@ Oceano azul-noite com paralelos, meridianos e contorno do globo (Equal Earth); p
 - Corrigidos nesses ciclos: a revelação linha a linha das orações levava cerca de 10 s na Ladainha (67 linhas) e o axe acusava contraste nas linhas ainda esmaecidas; a cascata agora cabe em 1,4 s. A seção «Acontecimento relatado» dos milagres não mostrava fonte (campo `event.sources` criado e exigido).
 - `audit:visual` e `audit:interactions` do projeto: as únicas falhas (contraste do seletor de idioma e reflow a 320 px/150% na página inicial) se repetem no build do commit anterior; não foram introduzidas nesta etapa e estão em `PENDENCIAS.md`.
 - Não feito: leitor de tela, Safari e Firefox, revisão teológica, canônica ou médica humana.
+
+## Aplicativo instalável (PWA, 8 de outubro de 2026)
+- Chromium via Playwright (script fora do repositório), servidor local: `Page.getAppManifest` sem erros e `Page.getInstallabilityErrors` vazio (o Chrome considera o site instalável); o service worker assume a página; sem conexão, uma página já visitada abre normalmente e uma não visitada mostra «Sem conexão».
+- `/instalar/`: com agente de usuário de Android, Android vem marcado e só o painel dele aparece; de iPhone, o iPhone; no computador, Android e aviso de computador. Pelo teclado, a seta troca a opção, o painel e o endereço (`#ios`). Sem JavaScript, o clique no cartão troca o painel (`:has()`). axe sem violações em celular, celular escuro, 320 px e desktop; sem rolagem horizontal; sem erros de console. Capturas inspecionadas (claro e escuro).
+- O build `--app` não contém manifesto, `sw.js`, `pwa.js` nem a página de instalação.
+- `npm run check`: 56 testes (um novo, do PWA), 2024 páginas no verificador, sem problemas.
+- Não testado: instalação real em aparelho Android e iPhone (só emulação de navegador), Safari e Firefox.

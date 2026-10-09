@@ -6,3 +6,4 @@ art-originals/
 dist-app/
 dist-orig/
 .wrangler/
+__pycache__/

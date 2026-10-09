@@ -649,3 +649,7 @@ body.modo-leitura h1 { font-size: 1.7rem; }
 .oracao__notas { margin-top: var(--e4); }
 body.modo-leitura .oracao__notas, body.modo-leitura .principal { display: none; }
 @media (forced-colors: active) { .principal, .apar__cat { border: 1px solid CanvasText; } .apar-mapa__ponto circle, .apar-mapa__ponto rect { fill: LinkText; stroke: Canvas; } }
+.oracao__latim { margin-top: var(--e4); }
+.oracao__latim h2 { font-size: 1.6rem; }
+.oracao__latim .oracao__texto { font-style: italic; }
+body.modo-leitura .oracao__latim h2 { font-size: 1.2rem; color: var(--tinta-2); }

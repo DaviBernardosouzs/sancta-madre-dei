@@ -13,7 +13,7 @@ site/                       o site (front-end): tudo o que o gerador usa para mo
     css/                        style, cinematic, filme e um arquivo por área (estudo, iconografia, peregrinacao)
     js/                         app, filme, filtro, visitas e um arquivo por área (estudo, peregrinacao)
     fonts/  vendor/             fontes OFL e GSAP (sem CDN)
-    img/                        obras (WebP e manifest.json), canvas.png e icone.svg
+    img/                        obras (WebP e manifest.json), canvas.png e favicons/ (ícones do site e do aplicativo instalável)
   scripts/
     build.mjs, build-all.mjs    gerador (um idioma; todos os idiomas)
     lib/                        módulos do gerador; caminhos.mjs diz onde fica cada pasta
@@ -52,6 +52,14 @@ A página `/pedidos-de-oracao/` tem o formulário (nome e necessidade) e o mural
   3. Fazer um novo deploy do Pages (um push na `main` ou **Retry deployment**), para que a Function e o binding entrem no ar.
   O Worker não tem endereço público (`workers_dev: false` e `preview_urls: false` em `wrangler.jsonc`): quem visita só vê o endereço do Pages, e o Worker só responde pelo binding. Para um endereço mais bonito que `pages.dev`, ligue um domínio próprio ao projeto do Pages em **Custom domains**; o mural continua funcionando sem mudar nada no código.
   Se o Cloudflare recusar o nome do Worker por já existir um projeto do Pages com o mesmo nome, troque `name` em `wrangler.jsonc` (por exemplo, `sancta-madre-dei-api`) e use esse nome no binding.
+
+## Aplicativo instalável (PWA, 8/10/2026)
+O site pode ser instalado na tela inicial do Android e do iPhone. Nada disso entra no build do aplicativo Android (`--app`), que já é nativo.
+
+- **Manifesto:** um por idioma (`manifest.<idioma>.webmanifest`, gerado em `build.mjs`), todos com o mesmo `id`, para que instalar em qualquer idioma seja o mesmo aplicativo. `start_url` é o início do idioma; `scope` é o site inteiro. Ícones em `site/src/assets/img/favicons/` (pacote entregue pelo autor: PNGs de 16 a 512 px, `favicon.ico` com seis tamanhos, `apple-touch-icon.png` de 180 px e `icon-maskable-512x512.png` com fundo marfim; as instruções originais do pacote ficam em `docs/favicons/`). O build copia o `favicon.ico` também para a raiz da saída.
+- **Service worker:** modelo em `site/src/pwa/sw.js`; o build grava `dist/sw.js` com a versão (data do build), a base e a lista de pré-cache (estilos, scripts, fontes, ícones e as páginas `/offline/` de cada idioma). Páginas: rede primeiro, depois a cópia guardada, depois a página offline do idioma. Arquivos de `/assets/`: cópia guardada na hora e atualização em segundo plano. `/api/` (mural e contador) nunca é guardado. Limites: 60 páginas e 220 arquivos; versões antigas do cache são apagadas na ativação.
+- **Página `/instalar/`:** seletor de aparelho (dois rádios nativos dentro de `fieldset`, estilizados como cartões em `instalar.css`), passo a passo para Android (Chrome e Samsung Internet) e iPhone/iPad (Safari, menu Compartilhar), botão «Instalar agora» quando o navegador oferece o convite (`beforeinstallprompt`, só Android), e orientação para remover. `site/src/assets/js/pwa.js` registra o service worker, detecta o aparelho (preseleção, sem esconder a outra opção), aceita `#android` e `#ios` no endereço e avisa quando o site já está instalado. Sem JavaScript, o painel muda pelo rádio com `:has()`; em navegadores sem `:has()`, as duas orientações aparecem.
+- **Servidores:** `deploy/nginx.conf` serve `sw.js` e os manifestos sem cache e com o tipo `application/manifest+json`; `serve.mjs` também usa esse tipo. No Cloudflare, o padrão de arquivos estáticos já revalida a cada acesso.
 
 ## Decisões
 | Decisão | Motivo |

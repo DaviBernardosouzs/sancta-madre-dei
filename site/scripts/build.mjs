@@ -122,7 +122,7 @@ const NAV = [
   ['biblioteca/', 'Biblioteca'],
   ['sobre/', 'Sobre']
 ];
-const UTIL = [['galeria/', 'Galeria'], ['cronologia/', 'Cronologia'], ['santuarios/', 'Santuários'], ['calendario/', 'Calendário'], ['busca/', 'Busca']];
+const UTIL = [['galeria/', 'Galeria'], ['cronologia/', 'Cronologia'], ['santuarios/', 'Santuários'], ['calendario/', 'Calendário'], ['busca/', 'Busca'], ...(APP ? [] : [['instalar/', 'Instalar no celular']])];
 
 const MANIFEST = JSON.parse(readFileSync(join(CAMINHOS.obras, 'manifest.json'), 'utf8'));
 const APP_MAX_W = 1280;
@@ -300,7 +300,14 @@ ${alts}
 <meta property="og:type" content="website">
 <meta property="og:locale" content="${L.og}">
 <meta property="og:image" content="${SITE_URL}${fileOf(og, MANIFEST[og].widths.includes(1280) ? 1280 : midOf(og))}">
-<link rel="icon" href="${asset('assets/img/icone.svg')}" type="image/svg+xml">
+<link rel="icon" href="${asset('assets/img/favicons/favicon.ico')}" sizes="any">
+<link rel="icon" type="image/png" sizes="32x32" href="${asset('assets/img/favicons/favicon-32x32.png')}">
+<link rel="icon" type="image/png" sizes="16x16" href="${asset('assets/img/favicons/favicon-16x16.png')}">
+${APP ? '' : `<link rel="manifest" href="${asset(`manifest.${L.code}.webmanifest`)}">
+<link rel="apple-touch-icon" sizes="180x180" href="${asset('assets/img/favicons/apple-touch-icon.png')}">
+<meta name="apple-mobile-web-app-title" content="Mater Dei">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">`}
 <link rel="preload" href="${asset('assets/fonts/cormorant-garamond-latin-500-normal.woff2')}" as="font" type="font/woff2" crossorigin>
 <link rel="preload" href="${asset('assets/fonts/atkinson-hyperlegible-latin-400-normal.woff2')}" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="${asset('assets/css/style.css')}">
@@ -346,6 +353,7 @@ ${art ? (() => { const sp = splitHead(body); return abertura(art.id, sp.head, { 
   <div class="miolo rodape__in">
     <p class="rodape__marca">Sancta Mater Dei</p>
     <p class="rodape__pedir"><a href="${href('pedidos-de-oracao/')}">${VELA}${esc(_('Pedir oração'))}</a></p>
+    ${APP ? '' : `<p class="rodape__instalar"><a href="${href('instalar/')}">${esc(_('Instalar no celular (Android e iPhone)'))}</a></p>`}
     ${APP ? '' : `<div class="visitas" data-visitas hidden><p class="visitas__n" data-visitas-n></p><p class="visitas__r"><span data-visitas-a></span> · <a href="${href('privacidade/')}#visitas">${esc(_('Contador anônimo, sem cookies'))}</a></p></div>`}
     <p>${_h('Projeto pessoal, independente, gratuito e sem fins lucrativos. <strong>Não é um órgão oficial da Igreja Católica</strong> e não substitui o ensino do Magistério nem a orientação de um pároco ou de um diretor espiritual.')}</p>
     <p>${_h('O conteúdo passou por pesquisa documental, mas ainda não por revisão teológica humana. Encontrou um erro? <a href="{link}">Veja como pedir uma correção</a>.', { link: href('sobre/#correcoes') })}</p>
@@ -361,7 +369,8 @@ ${LB}
 <script src="${asset('assets/js/filtro.js')}" defer></script>
 <script src="${asset('assets/js/filme.js')}" defer></script>
 ${js.map((f) => `<script src="${asset(`assets/js/${f}`)}" defer></script>`).join('\n')}
-${APP ? '' : `<script src="${asset('assets/js/visitas.js')}" defer></script>`}
+${APP ? '' : `<script src="${asset('assets/js/visitas.js')}" defer></script>
+<script src="${asset('assets/js/pwa.js')}" defer data-base="${BASE}"></script>`}
 <script src="${asset('assets/js/app.js')}" defer data-obras="${asset(`assets/obras.${L.code}.json`)}" data-galeria="${href('galeria/')}"></script>
 </body>
 </html>
@@ -1411,7 +1420,7 @@ function pageHolyFamily() {
 
 // ---------- orações ----------
 function pagePrayers() {
-  const items = cat.prayers.map((p) => filterItem({ text: normalize(`${p.title} ${p.summary} ${p.text.join(' ')}`), grupo: p.marian ? 'mariana' : 'geral' },
+  const items = cat.prayers.map((p) => filterItem({ text: normalize(`${p.title} ${p.summary} ${p.text.join(' ')} ${(p.latin ?? []).join(' ')}`), grupo: p.marian ? 'mariana' : 'geral' },
     `<article><h2 class="item-t"><a href="${urlOf[p.id]}">${esc(p.title)}</a></h2><p>${esc(p.summary)}</p></article>`)).join('');
   const body = `<div class="miolo pagina">
 ${crumbs([[HOME(), ''], [_('Orações'), 'oracoes/']])}
@@ -1438,6 +1447,7 @@ ${crumbs([[HOME(), ''], [_('Orações'), 'oracoes/'], [p.title, '']])}
 <header><p class="sobretitulo">${esc(_('Oração'))}</p><h1>${esc(p.title)}</h1><p class="lede">${esc(p.summary)}</p>
 <p class="oracao__acoes"><button type="button" class="botao botao--sec" data-leitura-toggle aria-pressed="false">${esc(_('Modo de leitura sem distrações'))}</button></p></header>
 <div class="oracao__texto" lang="${L.lang}">${p.text.map((l) => `<p>${esc(l)}</p>`).join('')}</div>
+${p.latin?.length ? `<section class="oracao__latim" aria-labelledby="em-latim"><h2 id="em-latim">${esc(_('Em latim'))}</h2><div class="oracao__texto" lang="la">${p.latin.map((l) => `<p>${esc(l)}</p>`).join('')}</div></section>` : ''}
 ${p.blocks?.length ? `<div class="oracao__notas">${renderBlocks(p.blocks)}</div>` : ''}
 <section class="oracao__proc"><h2>${esc(_('Procedência e direitos'))}</h2>
 <dl class="ficha"><div><dt>${esc(_('Procedência'))}</dt><dd>${esc(p.provenance)}</dd></div><div><dt>${esc(_('Direitos'))}</dt><dd>${esc(p.rights)}</dd></div></dl>
@@ -1580,6 +1590,88 @@ ${L.code === DEFAULT_LOCALE ? '' : `<li>${esc(_('As traduções para outros idio
 <p>${_h('Projeto pessoal, criado e mantido por uma pessoa. Não publicamos biografia, contatos nem vínculos institucionais. Correções são recebidas no repositório do projeto (abra um <em>issue</em>, quando o repositório for publicado) e seguem o processo descrito em <code>docs/POLITICA-EDITORIAL.md</code>: conferir a fonte, corrigir o registro, atualizar a data de verificação e registrar a mudança.')}</p></section>
 </div>`;
   return layout({ title: _('Sobre e metodologia'), path: 'sobre/', section: 'sobre/', body, art: { id: 'obra-bellini-madona', fina: true }, description: _('Projeto independente, gratuito e sem fins lucrativos. Metodologia editorial, limites desta edição, acessibilidade e processo de correção.') });
+}
+
+// ---------- aplicativo instalável (PWA) ----------
+const ICO = {
+  android: '<svg viewBox="0 0 48 48" aria-hidden="true" focusable="false"><rect x="12" y="4" width="24" height="40" rx="4" fill="none" stroke="currentColor" stroke-width="2.5"/><path d="M20 39h8" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/><circle cx="24" cy="15" r="1.8" fill="currentColor"/><circle cx="24" cy="21" r="1.8" fill="currentColor"/><circle cx="24" cy="27" r="1.8" fill="currentColor"/></svg>',
+  ios: '<svg viewBox="0 0 48 48" aria-hidden="true" focusable="false"><rect x="12" y="4" width="24" height="40" rx="6" fill="none" stroke="currentColor" stroke-width="2.5"/><rect x="20" y="7.5" width="8" height="2.6" rx="1.3" fill="currentColor"/><path d="M24 17v11M19.5 21.5 24 17l4.5 4.5" fill="none" stroke="currentColor" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"/></svg>',
+  menu: '<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="5" r="2" fill="currentColor"/><circle cx="12" cy="12" r="2" fill="currentColor"/><circle cx="12" cy="19" r="2" fill="currentColor"/></svg>',
+  mais: '<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="5" cy="12" r="2" fill="currentColor"/><circle cx="12" cy="12" r="2" fill="currentColor"/><circle cx="19" cy="12" r="2" fill="currentColor"/></svg>',
+  compartilhar: '<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M8 9H6v12h12V9h-2M12 3v12M8.5 6.5 12 3l3.5 3.5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>',
+  adicionar: '<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><rect x="4" y="4" width="16" height="16" rx="3" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M12 8v8M8 12h8" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>',
+  baixar: '<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12 4v11M7.5 10.5 12 15l4.5-4.5M5 19h14" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>',
+  estrela: `<img src="${asset('assets/img/favicons/favicon-64x64.png')}" width="64" height="64" alt="">`
+};
+const tecla = (icone, rotulo) => `<span class="tecla">${ICO[icone]}<span>${esc(rotulo)}</span></span>`;
+const passos = (lista) => `<ol class="passos-inst">${lista.map(([titulo, texto], i) => `<li class="passos-inst__item"><span class="passos-inst__n" aria-hidden="true">${i + 1}</span><div><h3>${titulo}</h3>${texto}</div></li>`).join('')}</ol>`;
+
+function pageInstall() {
+  const android = passos([
+    [esc(_('Abra o site no Google Chrome')), `<p>${esc(_('Se você chegou por um link dentro de outro aplicativo (WhatsApp, Instagram, e-mail), abra a página no Chrome primeiro: procure no menu desse aplicativo a opção «Abrir no navegador» ou «Abrir no Chrome».'))}</p>`],
+    [_h('Toque no menu {tecla}', { tecla: tecla('menu', _('Menu')) }), `<p>${esc(_('São os três pontinhos no canto superior direito da tela, ao lado do endereço.'))}</p>`],
+    [_h('Escolha {tecla}', { tecla: tecla('baixar', _('Instalar app')) }), `<p>${esc(_('Em algumas versões do Chrome a opção se chama «Adicionar à tela inicial». Se aparecer a pergunta entre criar um atalho ou instalar, escolha instalar.'))}</p>`],
+    [esc(_('Confirme em «Instalar»')), `<p>${_h('O ícone {estrela} <strong>Mater Dei</strong> aparece na tela inicial e na lista de aplicativos. Abra por ele, como qualquer outro aplicativo.', { estrela: `<span class="ico-app">${ICO.estrela}</span>` })}</p>`]
+  ]);
+  const ios = passos([
+    [esc(_('Abra o site no Safari')), `<p>${esc(_('O Safari é o navegador da bússola azul, que já vem no iPhone e no iPad. É nele que a instalação funciona de forma garantida.'))}</p><p class="nota-peq" data-ios-outro hidden>${esc(_('Parece que você está em outro navegador. Copie o endereço desta página e cole na barra do Safari.'))}</p>`],
+    [_h('Toque em {tecla}', { tecla: tecla('compartilhar', _('Compartilhar')) }), `<p>${esc(_('É o quadrado com uma seta para cima: embaixo da tela no iPhone, em cima no iPad.'))}</p><p class="nota-peq">${_h('Nas versões mais novas do iOS, o botão pode ficar dentro de {tecla}, ao lado do endereço.', { tecla: tecla('mais', _('Mais')) })}</p>`],
+    [_h('Escolha {tecla}', { tecla: tecla('adicionar', _('Adicionar à Tela de Início')) }), `<p>${esc(_('Role a lista de opções para baixo até encontrá-la. Se não estiver lá, toque em «Editar Ações» no fim da lista e ative-a.'))}</p>`],
+    [esc(_('Toque em «Adicionar»')), `<p>${_h('Se aparecer a opção «Abrir como app web», deixe-a ligada. O ícone {estrela} <strong>Mater Dei</strong> aparece na Tela de Início; abra por ele.', { estrela: `<span class="ico-app">${ICO.estrela}</span>` })}</p>`]
+  ]);
+  const opcao = (valor, titulo, sub, marcado) => `<input class="seletor-ap__radio" type="radio" name="aparelho" id="ap-${valor}" value="${valor}"${marcado ? ' checked' : ''}>
+<label class="seletor-ap__op" for="ap-${valor}"><span class="seletor-ap__ico">${ICO[valor]}</span><span class="seletor-ap__txt"><span class="seletor-ap__t">${esc(titulo)}</span><span class="seletor-ap__s">${esc(sub)}</span></span><span class="seletor-ap__marca" aria-hidden="true"></span></label>`;
+  const body = `<div class="miolo pagina instalar" data-instalar>
+${crumbs([[HOME(), ''], [_('Instalar no celular'), 'instalar/']])}
+<h1>${esc(_('Instalar no celular'))}</h1>
+<p class="lede">${esc(_('O Sancta Mater Dei pode ficar na tela inicial do seu celular, como um aplicativo: abre em tela cheia, sem a barra do navegador, e as páginas que você já leu continuam disponíveis sem internet. Não há loja, cadastro nem pagamento, e leva menos de um minuto.'))}</p>
+<p class="aviso" data-instalado hidden role="status">${esc(_('Você já está usando o Sancta Mater Dei instalado. Nada mais a fazer.'))}</p>
+<form class="seletor-ap" onsubmit="return false">
+<fieldset>
+<legend>${esc(_('Qual é o seu celular?'))}</legend>
+<div class="seletor-ap__ops">
+${opcao('android', _('Android'), _('Samsung, Motorola, Xiaomi e outros'), true)}
+${opcao('ios', _('iPhone ou iPad'), _('Aparelhos da Apple'), false)}
+</div>
+</fieldset>
+<p class="seletor-ap__det" data-detectado="android" hidden>${esc(_('Pelo seu navegador, parece um Android. Se não for, escolha a outra opção.'))}</p>
+<p class="seletor-ap__det" data-detectado="ios" hidden>${esc(_('Pelo seu navegador, parece um iPhone ou iPad. Se não for, escolha a outra opção.'))}</p>
+<p class="seletor-ap__det" data-detectado="outro" hidden>${esc(_('Você parece estar num computador. Abra este endereço no celular para instalar, ou escolha o aparelho para ver as instruções.'))}</p>
+</form>
+<section class="instalar__painel" data-painel="android" aria-labelledby="p-android">
+<h2 id="p-android">${esc(_('No Android'))}</h2>
+<div class="instalar__agora" data-instalar-pronto hidden><p>${esc(_('Seu navegador permite instalar direto daqui:'))}</p><p><button type="button" class="botao" data-instalar-agora>${ICO.baixar}<span>${esc(_('Instalar agora'))}</span></button></p><p class="nota-peq">${esc(_('Ou siga os passos abaixo, que dão no mesmo.'))}</p></div>
+<p class="aviso" data-instalado-agora hidden role="status">${esc(_('Pronto! O aplicativo foi instalado. Procure o ícone Mater Dei na tela inicial.'))}</p>
+${android}
+<p class="nota-peq">${esc(_('No Samsung Internet, toque no menu (três tracinhos, embaixo) e depois em «Adicionar página a» e «Tela inicial». Os nomes das opções podem variar um pouco conforme a versão do navegador.'))}</p>
+</section>
+<section class="instalar__painel" data-painel="ios" aria-labelledby="p-ios">
+<h2 id="p-ios">${esc(_('No iPhone ou iPad'))}</h2>
+${ios}
+<p class="nota-peq">${esc(_('A Apple não mostra um botão de instalação automática nos sites: por isso a instalação é feita pelo menu Compartilhar. Os nomes das opções podem variar um pouco conforme a versão do iOS.'))}</p>
+</section>
+<section class="instalar__depois" aria-labelledby="depois"><h2 id="depois">${esc(_('Depois de instalar'))}</h2>
+<ul>
+<li>${esc(_('As páginas que você abrir ficam guardadas no próprio celular e podem ser lidas sem internet. Uma página nunca aberta precisa de conexão.'))}</li>
+<li>${esc(_('O conteúdo se atualiza sozinho quando há internet; não é preciso reinstalar.'))}</li>
+<li>${esc(_('O mural de pedidos de oração sempre precisa de internet.'))}</li>
+<li>${_h('O aplicativo instalado não coleta dados nem pede permissões: é o mesmo site, com as mesmas regras de <a href="{link}">privacidade</a>.', { link: href('privacidade/') })}</li>
+</ul>
+<h3>${esc(_('Para remover'))}</h3>
+<p>${esc(_('Mantenha o dedo sobre o ícone Mater Dei na tela inicial. No Android, escolha «Desinstalar» ou «Remover»; no iPhone, «Remover App» e depois «Apagar» ou «Remover da Tela de Início».'))}</p>
+</section>
+</div>`;
+  return layout({ title: _('Instalar no celular'), path: 'instalar/', section: 'instalar/', body, css: ['instalar.css'], description: _('Como instalar o Sancta Mater Dei na tela inicial do Android e do iPhone, passo a passo, para ler também sem internet.') });
+}
+
+function pageOffline() {
+  const body = `<div class="miolo pagina">
+<h1>${esc(_('Sem conexão'))}</h1>
+<p class="lede">${esc(_('Esta página ainda não foi guardada no seu aparelho, e agora não há internet para buscá-la.'))}</p>
+<p>${esc(_('As páginas que você já abriu continuam disponíveis. Quando a conexão voltar, toque em «Tentar de novo».'))}</p>
+<p><a class="botao" href="${href()}">${esc(_('Ir para o início'))}</a> <button type="button" class="botao botao--sec" onclick="location.reload()">${esc(_('Tentar de novo'))}</button></p>
+</div>`;
+  return layout({ title: _('Sem conexão'), path: 'offline/', body, alternates: false, description: _('Página mostrada pelo aplicativo instalado quando não há conexão.') });
 }
 
 // ---------- busca ----------
@@ -1799,6 +1891,28 @@ emit('busca/', pageSearch());
 emit('galeria/', pageGallery());
 emit('pedidos-de-oracao/', pagePedidos());
 emit('privacidade/', pagePrivacy());
+if (!APP) {
+  emit('instalar/', pageInstall());
+  // página offline: guardada pelo service worker, fora do sitemap
+  mkdirSync(join(OUT, PREFIX, 'offline'), { recursive: true });
+  writeFileSync(join(OUT, PREFIX, 'offline', 'index.html'), pageOffline().replace('<head>', '<head>\n<meta name="robots" content="noindex">'));
+  // manifesto do aplicativo instalável, um por idioma (mesmo id: instalar em qualquer idioma é o mesmo aplicativo)
+  writeFileSync(join(OUT, `manifest.${L.code}.webmanifest`), JSON.stringify({
+    id: BASE, name: 'Sancta Mater Dei', short_name: 'Mater Dei', description: _('Livro digital independente sobre a Virgem Maria, com as fontes de cada afirmação.'),
+    lang: L.lang, dir: 'ltr', start_url: href(''), scope: BASE, display: 'standalone', orientation: 'any',
+    background_color: '#f8f1e1', theme_color: '#1d3a8c', categories: ['books', 'education'],
+    icons: [
+      { src: asset('assets/img/favicons/favicon-192x192.png'), sizes: '192x192', type: 'image/png', purpose: 'any' },
+      { src: asset('assets/img/favicons/favicon-512x512.png'), sizes: '512x512', type: 'image/png', purpose: 'any' },
+      { src: asset('assets/img/favicons/icon-maskable-512x512.png'), sizes: '512x512', type: 'image/png', purpose: 'maskable' }
+    ],
+    shortcuts: [
+      { name: _('Orações'), url: href('oracoes/') },
+      { name: _('Pedir oração'), url: href('pedidos-de-oracao/') },
+      { name: _('Busca'), url: href('busca/') }
+    ]
+  }, null, 1));
+}
 
 // dados da visualização ampliada (um arquivo por idioma)
 const obrasJson = JSON.stringify(galeriaObras.map((im) => ({ id: im.id, titulo: im.title, autor: _p(im.author), data: imgDate(im.dateText), tecnica: _t(im.medium), instituicao: _t(im.institution), acesso: im.accession ?? null, licenca: _(im.license), origem: imgOrigin(im.origin), url: im.originUrl, alt: im.alt, legenda: im.caption, srcset: srcsetOf(im.id), src: fileOf(im.id, MANIFEST[im.id].widths.at(-1)), w: MANIFEST[im.id].width, h: MANIFEST[im.id].height, galeria: href('galeria/') + '#' + im.id })));
@@ -1807,6 +1921,21 @@ writeFileSync(join(OUT, 'assets', `obras.${L.code}.json`), obrasJson);
 if (isDefault) {
   writeFileSync(join(OUT, 'assets', 'obras.json'), obrasJson);
   writeFileSync(join(OUT, '404.html'), page404());
+  // navegadores pedem /favicon.ico na raiz mesmo sem a declaração no <head>
+  cpSync(join(CAMINHOS.ativos, 'img', 'favicons', 'favicon.ico'), join(OUT, 'favicon.ico'));
+  if (!APP) {
+    const pre = [
+      'assets/css/style.css', 'assets/css/cinematic.css', 'assets/css/filme.css', 'assets/css/instalar.css',
+      'assets/js/app.js', 'assets/js/filme.js', 'assets/js/filtro.js', 'assets/js/pwa.js',
+      'assets/vendor/gsap.min.js', 'assets/vendor/ScrollTrigger.min.js',
+      'assets/fonts/cormorant-garamond-latin-500-normal.woff2', 'assets/fonts/atkinson-hyperlegible-latin-400-normal.woff2',
+      'assets/img/favicons/favicon.ico', 'assets/img/favicons/favicon-32x32.png', 'assets/img/favicons/favicon-192x192.png',
+      ...LOCALES.map((x) => `${x.prefix}offline/`)
+    ].map((p) => BASE + p);
+    const versao = `${Date.now().toString(36)}`;
+    const modelo = readFileSync(join(CAMINHOS.pwa, 'sw.js'), 'utf8');
+    writeFileSync(join(OUT, 'sw.js'), modelo.replace('__VERSAO__', () => versao).replace('__BASE__', () => BASE).replace('__PRECACHE__', () => JSON.stringify(pre)));
+  }
 } else {
   writeFileSync(join(OUT, PREFIX, '404.html'), page404());
 }
