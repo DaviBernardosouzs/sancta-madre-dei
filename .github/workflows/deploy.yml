@@ -1,0 +1,61 @@
+name: Deploy do site
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'site/**'
+      - 'content/**'
+      - 'worker/**'
+      - 'package.json'
+      - 'package-lock.json'
+      - 'wrangler.jsonc'
+      - '.github/workflows/deploy.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: deploy-production
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    environment:
+      name: production
+      url: ${{ vars.SITE_URL || steps.cloudflare.outputs.deployment-url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - name: Conferir credenciais
+        env:
+          CF_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CF_ACCOUNT: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: |
+          if [ -z "$CF_TOKEN" ] || [ -z "$CF_ACCOUNT" ]; then
+            echo '::error::Configure CLOUDFLARE_API_TOKEN e CLOUDFLARE_ACCOUNT_ID nos secrets do GitHub. Consulte docs/DEPLOY-GITHUB.md.'
+            exit 1
+          fi
+      - name: Instalar dependências
+        run: npm ci
+      - name: Validar conteúdo e testar
+        run: npm run validate && npm test
+      - name: Publicar no Cloudflare
+        id: cloudflare
+        uses: cloudflare/wrangler-action@v4
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: deploy
+      - name: Registrar resultado
+        env:
+          SITE_URL: ${{ vars.SITE_URL || steps.cloudflare.outputs.deployment-url }}
+        run: |
+          printf '### Deploy de produção\n\nSite: %s\n\nCommit: `%s`\n' "$SITE_URL" "$GITHUB_SHA" >> "$GITHUB_STEP_SUMMARY"
