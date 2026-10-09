@@ -16,7 +16,8 @@ const FILES = {
   shrines: 'shrines.json',
   celebrations: 'celebrations.json',
   curasLourdes: 'curas-lourdes.json',
-  images: 'images.json'
+  images: 'images.json',
+  pesquisaRelacoes: 'pesquisa-relacoes.json'
 };
 
 export function loadContent(dir = CAMINHOS.conteudo) {
@@ -73,6 +74,26 @@ export const TITLE_KINDS = {
   'acontecimento-extraordinario': 'Acontecimento extraordinário associado a uma imagem'
 };
 
+/**
+ * Situação eclesial de um caso de aparição, na terminologia da época de cada decisão.
+ * Cada categoria exige decisões compatíveis (ver validateContent): o rótulo nunca diz mais do que os documentos.
+ */
+export const ECCLESIAL_CATEGORIES = {
+  'aparicao-reconhecida': 'Aparição reconhecida pelo bispo diocesano',
+  'inquerito-sem-declaracao': 'Inquérito diocesano, sem declaração formal encontrada',
+  'nihil-obstat-2024': 'Nihil obstat (normas de 2024), sem declaração de origem sobrenatural',
+  'juizo-doutrinal-2024': 'Juízo doutrinal do Dicastério; decisão do bispo não lida'
+};
+/** Data em que o Dicastério publicou as normas de discernimento; decisões a partir dela usam a nova terminologia. */
+export const NORMAS_2024 = '2024-05-17';
+/** A que lugar as coordenadas se referem: nunca apresentar o santuário como o ponto exato do acontecimento. */
+export const COORD_REFERS = {
+  acontecimento: 'Local do acontecimento relatado',
+  santuario: 'Santuário (não necessariamente o ponto exato do acontecimento)',
+  localidade: 'Localidade (centro da aldeia ou do município)'
+};
+const TIMELINE_KINDS = ['relato', 'historia', 'devocao'];
+
 export const MACRO_REGIONS = ['América Latina', 'América do Norte', 'Europa', 'Ásia', 'África', 'Oceania'];
 export const RANKS = { solenidade: 'Solenidade', festa: 'Festa', memoria: 'Memória', 'memoria-facultativa': 'Memória facultativa', devocional: 'Celebração devocional ou local' };
 
@@ -94,6 +115,7 @@ const REL_TARGET = {
   shrines: 'shrines',
   celebrations: 'celebrations'
 };
+const sortKey = (iso) => { const [y, m = '01', d = '01'] = String(iso).split('-'); return Number(y) * 10000 + Number(m) * 100 + Number(d); };
 const ISO = { dia: /^\d{4}-\d{2}-\d{2}$/, mes: /^\d{4}-\d{2}$/, ano: /^\d{4}$/, aproximada: /^.{3,}$/ };
 const FORBIDDEN_PHRASES = [/reconhecid[oa]s? pelo vaticano/i, /aprovad[oa]s? pelo vaticano/i, /oficialmente aprovad[oa]/i];
 
@@ -233,6 +255,31 @@ export function validateContent(data) {
     if (!a.period?.start || !ISO[a.period.precision]?.test(a.period.start)) err(w, 'período inválido ou sem precisão');
     if (!(a.decisions?.length > 0) && a.noDecisionDocumented !== true) err(w, 'aparição publicada precisa de decisão documentada (ou noDecisionDocumented=true explícito)');
     validDecisions(w, a, sourceIds, err);
+    if (!MACRO_REGIONS.includes(a.place?.macro)) err(w, `place.macro inválido: ${a.place?.macro}`);
+    if (a.place?.coordinates && !COORD_REFERS[a.place.coordinates.refersTo]) err(w, 'coordenadas exigem refersTo (acontecimento, santuario ou localidade)');
+
+    // classificação eclesial coerente com os documentos
+    const cat = a.ecclesialCategory;
+    const ds = a.decisions ?? [];
+    const has = (kind, pred = () => true) => ds.some((d) => d.kinds?.includes(kind) && pred(d));
+    const recente = (d) => sortKey(d.date) >= sortKey(NORMAS_2024);
+    if (!ECCLESIAL_CATEGORIES[cat]) err(w, `ecclesialCategory ausente ou inválida: ${cat}`);
+    if (cat === 'aparicao-reconhecida' && !has('reconhecimento-da-aparicao', (d) => d.authorityLevel === 'diocesano')) err(w, 'categoria "aparicao-reconhecida" exige decisão diocesana de reconhecimento da aparição');
+    if (cat === 'inquerito-sem-declaracao' && has('reconhecimento-da-aparicao')) err(w, 'categoria "inquerito-sem-declaracao" contradiz uma decisão de reconhecimento registrada');
+    if (cat === 'nihil-obstat-2024' && !has('nihil-obstat', recente)) err(w, 'categoria "nihil-obstat-2024" exige decisão de nihil obstat a partir de 17/05/2024');
+    if (cat === 'juizo-doutrinal-2024' && (has('nihil-obstat') || !ds.some((d) => d.authorityLevel === 'santa-se' && recente(d)))) err(w, 'categoria "juizo-doutrinal-2024" exige juízo da Santa Sé a partir de 2024 e nenhum nihil obstat');
+    // as normas de 2024 não declaram aparições: um "reconhecimento" com data posterior é erro de classificação
+    if (has('reconhecimento-da-aparicao', recente)) err(w, 'reconhecimento de aparição com data posterior às normas de 2024: use nihil-obstat ou outra categoria prevista nas normas');
+    if (has('nihil-obstat', (d) => !recente(d))) err(w, 'nihil obstat com data anterior às normas de 2024: não reclassifique decisões antigas');
+
+    for (const [i, ev] of (a.timeline ?? []).entries()) {
+      const tw = `${w} cronologia ${i + 1}`;
+      if (!TIMELINE_KINDS.includes(ev.kind)) err(tw, `kind inválido: ${ev.kind}`);
+      if (!ev.text) err(tw, 'texto vazio');
+      if (!ev.date || !ISO[ev.precision]?.test(ev.date)) err(tw, 'data ausente ou incompatível com a precisão');
+      if (!(ev.sources?.length > 0)) err(tw, 'acontecimento da cronologia exige fonte');
+      for (const sid of ev.sources ?? []) if (!sourceIds.has(sid)) err(tw, `fonte inexistente: ${sid}`);
+    }
   }
 
   // país por código ISO (seleção no atlas)
@@ -268,6 +315,9 @@ export function validateContent(data) {
       for (const sid of sy.sources ?? []) if (!sourceIds.has(sid)) err(`${w} símbolo ${i + 1}`, `fonte inexistente: ${sid}`);
     }
     validDecisions(w, t, sourceIds, err);
+    // página principal do assunto: o título vira resumo e aponta para ela
+    if (t.mainRecord && (!byId[t.mainRecord] || !isPublished(byId[t.mainRecord].record))) err(w, `mainRecord deve apontar para registro publicado: ${t.mainRecord}`);
+    if (t.mainRecord && !Object.values(t.relations ?? {}).some((ids) => ids.includes(t.mainRecord))) err(w, 'mainRecord deve constar também nas relações');
   }
 
   // fotos e retratos ligados a títulos e santuários precisam existir no registro de imagens
@@ -315,6 +365,8 @@ export function validateContent(data) {
     if (!(e.sources?.length > 0)) err(w, 'milagre publicado exige fonte da decisão eclesiástica');
     for (const sid of e.sources ?? []) if (!sourceIds.has(sid)) err(w, `fonte inexistente: ${sid}`);
     if (!m.event?.description || !m.event?.date) err(w, 'milagre publicado exige evento com data');
+    if (!(m.event?.sources?.length > 0)) err(w, 'milagre publicado exige fonte do acontecimento relatado');
+    for (const sid of [...(m.event?.sources ?? []), ...(m.medicalInvestigation?.sources ?? [])]) if (!sourceIds.has(sid)) err(w, `fonte inexistente: ${sid}`);
     if (!m.medicalInvestigation?.summary && !m.medicalInvestigation?.notDocumented) err(w, 'registre a investigação médica ou declare medicalInvestigation.notDocumented');
     if (!m.sources?.length) err(w, 'milagre publicado exige fontes');
     if (/interrompa|abandone o tratamento|dispens(e|ar) (o )?m[eé]dico/i.test(allText(m))) err(w, 'não pode orientar a interromper tratamento médico');
@@ -341,6 +393,21 @@ export function validateContent(data) {
     if (!p.provenance) err(w, 'procedência ausente');
     if (!p.rights) err(w, 'situação de direitos ausente');
     if (!(p.sources?.length > 0)) err(w, 'fonte ausente');
+  }
+
+  // pesquisa documentada: cada capítulo aponta para a página principal do assunto (registro publicado)
+  for (const [cap, rel] of Object.entries(data.pesquisaRelacoes?.capitulos ?? {})) {
+    const w = `pesquisa-relacoes/capítulo ${cap}`;
+    if (!/^\d{1,2}$/.test(cap) || Number(cap) < 1 || Number(cap) > 64) err(w, 'número de capítulo inválido');
+    for (const id of rel.registros ?? []) {
+      const t = byId[id];
+      if (!t) err(w, `registro inexistente: ${id}`);
+      else if (!isPublished(t.record)) err(w, `aponta para rascunho: ${id} (rascunhos não podem ser ligados a páginas públicas)`);
+    }
+    for (const c of rel.conferencia ?? []) {
+      if (!c.texto || !(c.fontes?.length > 0)) err(w, 'nota de conferência exige texto e fonte');
+      for (const sid of c.fontes ?? []) if (!sourceIds.has(sid)) err(w, `fonte inexistente: ${sid}`);
+    }
   }
 
   return errors;

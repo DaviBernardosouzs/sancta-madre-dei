@@ -14,6 +14,9 @@ tags:
 menciona:
 - '[[Nossa Senhora de Banneux (Virgem dos Pobres)]]'
 - '[[Mariette Beco]]'
+pagina_principal:
+- '[[Relatos de aparições — Banneux]]'
+- '[[Nossa Senhora de Banneux (Virgem dos Pobres)]]'
 ---
 
 # Nossa Senhora de Banneux: a Virgem dos Pobres
@@ -54,7 +57,15 @@ menciona:
 
 672. A história do santuário une consolo espiritual e atenção à vulnerabilidade humana.
 
+## Página principal no site e conferência
+
+Este capítulo resume uma fonte; a página principal do assunto é [[Relatos de aparições — Banneux]], [[Nossa Senhora de Banneux (Virgem dos Pobres)]].
+
+> [!warning] Nota de conferência (8 de outubro de 2026)
+> A afirmação 660 diz que Mariette Beco era a primogênita de onze filhos. O site do santuário de Banneux, lido em 8 de outubro de 2026, diz que ela era a mais velha de sete filhos. A ficha da aparição segue o santuário. Fontes: banneux-santuario-aparicoes.
+
 ## Relações e bibliografia
 
 - **fontes:** [[Referência F42 — Vatican News, reportagem sobre Banneux, 11 de maio de 2021]]
 - **menciona:** [[Nossa Senhora de Banneux (Virgem dos Pobres)]], [[Mariette Beco]]
+- **pagina principal:** [[Relatos de aparições — Banneux]], [[Nossa Senhora de Banneux (Virgem dos Pobres)]]

@@ -11,6 +11,8 @@ origens:
 - content/pesquisa-documentada.txt#capitulo-11
 tags:
 - mariana/estudo
+pagina_principal:
+- '[[Com o Menino -  Templo, Egito e Nazaré]]'
 ---
 
 # A santidade dos anos silenciosos de Nazaré
@@ -51,6 +53,11 @@ tags:
 
 176. Nazaré ensina a descobrir valor espiritual no que parece pequeno.
 
+## Página principal no site e conferência
+
+Este capítulo resume uma fonte; a página principal do assunto é [[Com o Menino -  Templo, Egito e Nazaré]].
+
 ## Relações e bibliografia
 
 - **fontes:** [[Referência F11 — Catequese pontifícia · 29 - 01 - 1997]]
+- **pagina principal:** [[Com o Menino -  Templo, Egito e Nazaré]]

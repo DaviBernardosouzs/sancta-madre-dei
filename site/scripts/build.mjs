@@ -4,11 +4,12 @@ import { mkdirSync, writeFileSync, rmSync, cpSync, readFileSync, existsSync } fr
 import { join, relative } from 'node:path';
 import {
   ROOT, loadContent, validateContent, buildPublicCatalog, draftCounts,
-  BLOCK_KINDS, DECISION_KINDS, AUTHORITY_LEVELS, TITLE_KINDS, MACRO_REGIONS, RANKS
+  BLOCK_KINDS, DECISION_KINDS, AUTHORITY_LEVELS, TITLE_KINDS, MACRO_REGIONS, RANKS, ECCLESIAL_CATEGORIES, COORD_REFERS
 } from './lib/content.mjs';
 import { CAMINHOS } from './lib/caminhos.mjs';
 import { project, MAP } from './lib/mapa.mjs';
 import { paginasEstudo } from './lib/estudo.mjs';
+import { capitulosPesquisa } from './lib/estudo/pesquisa.mjs';
 import { SIMBOLOS, OUTROS, EMBLEMAS, emblema, apocalipse } from './lib/iconografia.mjs';
 import { rotas as ROTAS_SF, pontos as PONTOS_SF, montarMapas } from './lib/peregrinacao.mjs';
 import { esc, paragraphs, fmtDate, fmtPeriod, fmtDayMonth, monthName, monthHeading, normalize, sortKey } from './lib/format.mjs';
@@ -73,7 +74,7 @@ const SRC_TYPE = {
 registerKeys([
   ...Object.values(TYPE_LABEL), ...Object.values(CAT_LABEL), ...Object.values(SCOPE_L), ...Object.values(SCOPE_LC), ...Object.values(SRC_TYPE),
   ...Object.values(BLOCK_KINDS), ...Object.values(DECISION_KINDS), ...Object.values(TITLE_KINDS), ...MACRO_REGIONS,
-  ...Object.values(RANKS), ...Object.values(AUTHORITY_LEVELS)
+  ...Object.values(RANKS), ...Object.values(AUTHORITY_LEVELS), ...Object.values(ECCLESIAL_CATEGORIES), ...Object.values(COORD_REFERS)
 ]);
 /** Valor de dado que é nome próprio (autor, cidade): se o idioma não tiver forma própria, vale o original. Em japonês e chinês exige transliteração. */
 const _p = proper;
@@ -97,6 +98,14 @@ for (const c of cat.celebrations) { pubById[c.id] = c; urlOf[c.id] = href(`calen
 const ART_DIR = { vida: 'vida-de-maria', fe: 'fe-catolica', dossie: 'dossie', milagres: 'milagres', promessas: 'promessas' };
 for (const a of cat.articles) { pubById[a.id] = a; urlOf[a.id] = href(`${ART_DIR[a.category]}/${a.slug}/`); }
 
+// pesquisa documentada: capítulos ligados a cada registro (content/pesquisa-relacoes.json), para a ligação de volta
+const CAPITULOS = capitulosPesquisa();
+const pesquisaDe = {};
+for (const [n, rel] of Object.entries(rawPt.pesquisaRelacoes?.capitulos ?? {})) {
+  const cap = CAPITULOS.find((c) => c.n === Number(n));
+  if (cap) for (const id of rel.registros ?? []) (pesquisaDe[id] ??= []).push(cap);
+}
+
 // ---------- componentes ----------
 const NAV = [
   ['vida-de-maria/', 'A vida de Maria'],
@@ -113,7 +122,7 @@ const NAV = [
   ['biblioteca/', 'Biblioteca'],
   ['sobre/', 'Sobre']
 ];
-const UTIL = [['galeria/', 'Galeria'], ['cronologia/', 'Cronologia'], ['santuarios/', 'Santuários'], ['calendario/', 'Calendário'], ['busca/', 'Busca']];
+const UTIL = [['galeria/', 'Galeria'], ['cronologia/', 'Cronologia'], ['santuarios/', 'Santuários'], ['calendario/', 'Calendário'], ['busca/', 'Busca'], ...(APP ? [] : [['instalar/', 'Instalar no celular']])];
 
 const MANIFEST = JSON.parse(readFileSync(join(CAMINHOS.obras, 'manifest.json'), 'utf8'));
 const APP_MAX_W = 1280;
@@ -291,7 +300,14 @@ ${alts}
 <meta property="og:type" content="website">
 <meta property="og:locale" content="${L.og}">
 <meta property="og:image" content="${SITE_URL}${fileOf(og, MANIFEST[og].widths.includes(1280) ? 1280 : midOf(og))}">
-<link rel="icon" href="${asset('assets/img/icone.svg')}" type="image/svg+xml">
+<link rel="icon" href="${asset('assets/img/favicons/favicon.ico')}" sizes="any">
+<link rel="icon" type="image/png" sizes="32x32" href="${asset('assets/img/favicons/favicon-32x32.png')}">
+<link rel="icon" type="image/png" sizes="16x16" href="${asset('assets/img/favicons/favicon-16x16.png')}">
+${APP ? '' : `<link rel="manifest" href="${asset(`manifest.${L.code}.webmanifest`)}">
+<link rel="apple-touch-icon" sizes="180x180" href="${asset('assets/img/favicons/apple-touch-icon.png')}">
+<meta name="apple-mobile-web-app-title" content="Mater Dei">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">`}
 <link rel="preload" href="${asset('assets/fonts/cormorant-garamond-latin-500-normal.woff2')}" as="font" type="font/woff2" crossorigin>
 <link rel="preload" href="${asset('assets/fonts/atkinson-hyperlegible-latin-400-normal.woff2')}" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="${asset('assets/css/style.css')}">
@@ -337,6 +353,7 @@ ${art ? (() => { const sp = splitHead(body); return abertura(art.id, sp.head, { 
   <div class="miolo rodape__in">
     <p class="rodape__marca">Sancta Mater Dei</p>
     <p class="rodape__pedir"><a href="${href('pedidos-de-oracao/')}">${VELA}${esc(_('Pedir oração'))}</a></p>
+    ${APP ? '' : `<p class="rodape__instalar"><a href="${href('instalar/')}">${esc(_('Instalar no celular (Android e iPhone)'))}</a></p>`}
     ${APP ? '' : `<div class="visitas" data-visitas hidden><p class="visitas__n" data-visitas-n></p><p class="visitas__r"><span data-visitas-a></span> · <a href="${href('privacidade/')}#visitas">${esc(_('Contador anônimo, sem cookies'))}</a></p></div>`}
     <p>${_h('Projeto pessoal, independente, gratuito e sem fins lucrativos. <strong>Não é um órgão oficial da Igreja Católica</strong> e não substitui o ensino do Magistério nem a orientação de um pároco ou de um diretor espiritual.')}</p>
     <p>${_h('O conteúdo passou por pesquisa documental, mas ainda não por revisão teológica humana. Encontrou um erro? <a href="{link}">Veja como pedir uma correção</a>.', { link: href('sobre/#correcoes') })}</p>
@@ -352,7 +369,8 @@ ${LB}
 <script src="${asset('assets/js/filtro.js')}" defer></script>
 <script src="${asset('assets/js/filme.js')}" defer></script>
 ${js.map((f) => `<script src="${asset(`assets/js/${f}`)}" defer></script>`).join('\n')}
-${APP ? '' : `<script src="${asset('assets/js/visitas.js')}" defer></script>`}
+${APP ? '' : `<script src="${asset('assets/js/visitas.js')}" defer></script>
+<script src="${asset('assets/js/pwa.js')}" defer data-base="${BASE}"></script>`}
 <script src="${asset('assets/js/app.js')}" defer data-obras="${asset(`assets/obras.${L.code}.json`)}" data-galeria="${href('galeria/')}"></script>
 </body>
 </html>
@@ -410,8 +428,16 @@ function relatedBlock(record) {
       if (!items.length) return '';
       return `<div><h3>${esc(_(label))}</h3><ul>${items.map((id) => `<li><a href="${urlOf[id]}">${esc(pubById[id].title)}</a></li>`).join('')}</ul></div>`;
     })
-    .join('');
+    .join('') + pesquisaLinks(record.id);
   return parts ? `<aside class="relacionados" aria-labelledby="rel-t"><h2 id="rel-t">${esc(_('Relacionados'))}</h2><div class="relacionados__grade">${parts}</div></aside>` : '';
+}
+
+/** Capítulos da pesquisa documentada sobre o mesmo assunto (o texto da pesquisa está sempre em português). */
+function pesquisaLinks(id) {
+  const caps = pesquisaDe[id] ?? [];
+  if (!caps.length) return '';
+  const lang = L.code === DEFAULT_LOCALE ? '' : ' lang="pt-BR"';
+  return `<div><h3>${esc(_('Na pesquisa documentada'))}</h3><ul>${caps.map((c) => `<li><a href="${href(`pesquisa/${c.slug}/`)}"${lang}>${esc(_('Capítulo {n}: {titulo}', { n: c.n, titulo: c.titulo }))}</a></li>`).join('')}</ul></div>`;
 }
 
 function decisionTable(a) {
@@ -755,64 +781,123 @@ ${relatedBlock(a)}
   return layout({ title: a.title, path: `${dir}/${a.slug}/`, section: `${dir}/`, body, art: { id: a.banner }, description: a.summary });
 }
 
-const placeCountry = (a) => a.place.country;
+const CAT_ORDER = Object.keys(ECCLESIAL_CATEGORIES);
+const categoryOf = (a) => _(ECCLESIAL_CATEGORIES[a.ecclesialCategory]);
+const CAT_EXPLICA = {
+  'aparicao-reconhecida': 'O bispo da diocese declarou, depois de inquérito, que a aparição é digna de crédito ou real. São decisões anteriores a 2024, mantidas na linguagem da época.',
+  'inquerito-sem-declaracao': 'Houve inquérito da autoridade diocesana, mas nas fontes lidas não há declaração formal sobre a natureza do acontecimento.',
+  'nihil-obstat-2024': 'Segundo as normas de 2024, a devoção pode ser acolhida e o culto público é permitido, mas não se declara que o fenômeno seja sobrenatural.',
+  'juizo-doutrinal-2024': 'O Dicastério avaliou as mensagens e devolveu o caso ao bispo; a decisão final dele não foi lida.'
+};
+registerKeys(Object.values(CAT_EXPLICA));
+
+/** Mapa-múndi estático com os locais das aparições publicadas (mesmos contornos e projeção do atlas). */
+function apparitionsMap(list) {
+  const com = list.filter((a) => a.place.coordinates);
+  const forma = { acontecimento: 'circle', santuario: 'ring', localidade: 'square' };
+  const pontos = com.map((a) => {
+    const c = a.place.coordinates;
+    const [x, y] = project(c.lon, c.lat);
+    const rot = `${a.title}. ${_(COORD_REFERS[c.refersTo])}.`;
+    const marca = forma[c.refersTo] === 'square'
+      ? `<rect x="${(x - 4.5).toFixed(1)}" y="${(y - 4.5).toFixed(1)}" width="9" height="9"/>`
+      : `<circle cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="${forma[c.refersTo] === 'ring' ? 5 : 5.5}"/>`;
+    return `<a class="apar-mapa__ponto apar-mapa__ponto--${c.refersTo}" href="${urlOf[a.id]}" aria-label="${esc(rot)}"><title>${esc(rot)}</title>${marca}</a>`;
+  }).join('');
+  return `<figure class="apar-mapa">
+<svg viewBox="0 0 ${MAPA.w} ${MAPA.h}" role="group" aria-label="${esc(_n('Mapa-múndi com {n} locais de aparições; cada ponto leva à página do caso', com.length))}"><path class="apar-mapa__terra" d="${MAPA.d}"/><g>${pontos}</g></svg>
+<figcaption class="nota-peq"><ul class="apar-mapa__chaves"><li><i class="chave-ap chave-ap--acontecimento" aria-hidden="true"></i> ${esc(_(COORD_REFERS.acontecimento))}</li><li><i class="chave-ap chave-ap--santuario" aria-hidden="true"></i> ${esc(_(COORD_REFERS.santuario))}</li><li><i class="chave-ap chave-ap--localidade" aria-hidden="true"></i> ${esc(_(COORD_REFERS.localidade))}</li></ul>${esc(_('Coordenadas do Wikidata (CC0), conferidas item por item; terras do Natural Earth (domínio público). Na escala do mapa-múndi, cada ponto indica só a região. A lista abaixo é a alternativa em texto.'))}</figcaption>
+</figure>`;
+}
+
 function pageApparitions() {
-  const countries = [...new Set(cat.apparitions.map(placeCountry))].sort(collator.compare);
-  const items = cat.apparitions.map((a) => filterItem({
-    text: normalize(`${a.title} ${a.summary} ${a.place.locality} ${a.people.map((p) => p.name).join(' ')}`),
-    pais: normalize(a.place.country),
+  const iso = (a) => a.place.iso.toLowerCase();
+  const countries = [...new Map(cat.apparitions.map((a) => [iso(a), a.place.country])).entries()].sort((x, y) => collator.compare(x[1], y[1]));
+  const sorted = [...cat.apparitions].sort((x, y) => CAT_ORDER.indexOf(x.ecclesialCategory) - CAT_ORDER.indexOf(y.ecclesialCategory) || sortKey(x.period.start) - sortKey(y.period.start));
+  const items = sorted.map((a) => filterItem({
+    text: normalize(`${a.title} ${a.summary} ${a.place.locality} ${a.place.country} ${a.people.map((p) => p.name).join(' ')}`),
+    pais: iso(a),
+    categoria: a.ecclesialCategory,
     decisao: a.decisions.flatMap((d) => d.kinds).join(' '),
     nivel: [...new Set(a.decisions.map((d) => d.authorityLevel))].join(' ')
-  }, `<article><h2 class="item-t"><a href="${urlOf[a.id]}">${esc(a.title)}</a></h2>
-<p class="meta">${esc(a.place.locality)}, ${esc(a.place.country)} · ${esc(fmtPeriod(a.period))}</p>
+  }, `<article${a.banner ? ' class="com-mini"' : ''}>${miniatura(a.banner)}<div><p class="apar__cat apar__cat--${a.ecclesialCategory}">${esc(categoryOf(a))}</p><h2 class="item-t"><a href="${urlOf[a.id]}">${esc(a.title)}</a></h2>
+<p class="meta">${esc(joinPlace([a.place.locality, a.place.country]))} · ${esc(fmtPeriod(a.period))}</p>
 <p>${esc(a.summary)}</p>
-<p class="apar__status"><span class="sr-only">${esc(_('Situação eclesial: '))}</span>${esc(statusSummary(a))}</p></article>`)).join('');
-  const place = cat.apparitions.map((a) => `<li>${_h('{lugar}, {localidade} ({pais}), <a href="{link}">{titulo}</a>', { lugar: esc(a.place.name), localidade: esc(a.place.locality), pais: esc(a.place.country), link: urlOf[a.id], titulo: esc(a.title) })}</li>`).join('');
+<p class="apar__status"><span class="sr-only">${esc(_('Última decisão documentada: '))}</span>${esc(statusSummary(a))}</p></div></article>`)).join('');
+  const place = sorted.map((a) => {
+    const c = a.place.coordinates;
+    return `<li>${_h('{lugar}, {localidade} ({pais}), <a href="{link}">{titulo}</a>', { lugar: esc(a.place.name), localidade: esc(a.place.locality), pais: esc(a.place.country), link: urlOf[a.id], titulo: esc(a.title) })}${c ? `<br><span class="nota-peq">${esc(_(COORD_REFERS[c.refersTo]))}: ${c.lat}, ${c.lon}</span>` : ''}</li>`;
+  }).join('');
+  const usadas = CAT_ORDER.filter((k) => cat.apparitions.some((a) => a.ecclesialCategory === k));
   const body = `<div class="miolo pagina">
 ${crumbs([[HOME(), ''], [_('Aparições'), 'aparicoes/']])}
 <h1>${esc(_('Aparições'))}</h1>
-<p class="lede">${esc(_('Relatos de aparições da Virgem Maria estudados pela Igreja. Para cada um, mostramos o local, o período, as pessoas envolvidas, a narrativa e, separadamente, a decisão eclesial: quem decidiu, quando, com qual alcance e em qual documento.'))}</p>
+<p class="lede">${esc(_('Relatos de aparições da Virgem Maria estudados pela Igreja. Para cada um, mostramos o lugar, o período, as pessoas envolvidas, a narrativa e, separadamente, a decisão eclesial: quem decidiu, quando, com qual alcance e em qual documento.'))}</p>
 <aside class="aviso" role="note">${_h('<strong>Importante.</strong> Reconhecer uma aparição, autorizar o culto, dar nihil obstat e reconhecer um milagre são coisas diferentes. Aparições são "revelações privadas": não pertencem ao depósito da fé (<a href="{link}">saiba mais</a>).', { link: urlOf['fe-revelacoes-privadas'] })}</aside>
+<section class="secao-menor" aria-labelledby="categorias"><h2 id="categorias">${esc(_('Como os casos estão classificados'))}</h2>
+<dl class="apar-cats">${usadas.map((k) => `<div><dt><span class="apar__cat apar__cat--${k}">${esc(_(ECCLESIAL_CATEGORIES[k]))}</span></dt><dd>${esc(_(CAT_EXPLICA[k]))}</dd></div>`).join('')}</dl>
+<p class="nota-peq">${_h('Nenhum caso é chamado de "aprovado pelo Vaticano": cada ficha diz qual autoridade decidiu. As normas de 2024 do Dicastério para a Doutrina da Fé estão resumidas na <a href="{link}">pesquisa documentada</a>.', { link: href(`pesquisa/${CAPITULOS.find((c) => c.n === 64).slug}/`) })}</p></section>
 <form class="filtros" data-filter-form role="search" aria-label="${esc(_('Filtrar aparições'))}">
   ${searchBox()}
-  <div><label for="pais">${esc(_('País'))}</label><select id="pais" data-field="pais"><option value="">${esc(_('Todos'))}</option>${countries.map((c) => `<option value="${esc(normalize(c))}">${esc(c)}</option>`).join('')}</select></div>
-  <div><label for="decisao">${esc(_('Decisão documentada'))}</label><select id="decisao" data-field="decisao"><option value="">${esc(_('Todas'))}</option>${['reconhecimento-da-aparicao', 'autorizacao-de-culto', 'nihil-obstat'].map((k) => `<option value="${k}">${esc(_(DECISION_KINDS[k]))}</option>`).join('')}</select></div>
+  <div><label for="categoria">${esc(_('Situação eclesial'))}</label><select id="categoria" data-field="categoria"><option value="">${esc(_('Todas'))}</option>${usadas.map((k) => `<option value="${k}">${esc(_(ECCLESIAL_CATEGORIES[k]))}</option>`).join('')}</select></div>
+  <div><label for="pais">${esc(_('País'))}</label><select id="pais" data-field="pais"><option value="">${esc(_('Todos'))}</option>${countries.map(([k, nome]) => `<option value="${k}">${esc(nome)}</option>`).join('')}</select></div>
+  <div><label for="decisao">${esc(_('Decisão documentada'))}</label><select id="decisao" data-field="decisao"><option value="">${esc(_('Todas'))}</option>${['reconhecimento-da-aparicao', 'autorizacao-de-culto', 'nihil-obstat', 'reconhecimento-de-milagre', 'titulo-de-basilica'].map((k) => `<option value="${k}">${esc(_(DECISION_KINDS[k]))}</option>`).join('')}</select></div>
   <div><label for="nivel">${esc(_('Autoridade'))}</label><select id="nivel" data-field="nivel"><option value="">${esc(_('Todas'))}</option>${Object.entries(AUTHORITY_LEVELS).map(([k, v]) => `<option value="${k}">${esc(_(v))}</option>`).join('')}</select></div>
   ${resetBtn('Limpar filtros')}
 </form>
 ${countLine(cat.apparitions.length)}
 <ul class="catalogo" data-filter-list>${items}</ul>
-${emptyState(_('Nenhuma aparição corresponde a esses filtros. Limpe os filtros ou tente outro termo. O acervo inicial é pequeno.'))}
+${emptyState(_('Nenhuma aparição corresponde a esses filtros. Limpe os filtros ou tente outro termo.'))}
 <section class="secao-menor" aria-labelledby="locais">
   <h2 id="locais">${esc(_('Locais'))}</h2>
-  <p>${esc(_('O mapa ainda não está disponível: as coordenadas precisam ser verificadas em fonte antes de serem mostradas, para não sugerir precisão que não temos. Enquanto isso, esta lista é a alternativa completa.'))}</p>
+  <p>${esc(_('Cada ponto diz a que se refere: o local do acontecimento, o santuário construído depois ou apenas a localidade. Quando a fonte só permite situar o santuário ou a aldeia, o mapa não finge mais precisão.'))}</p>
+  ${apparitionsMap(sorted)}
   <ul>${place}</ul>
 </section>
 <p class="nota-acervo">${esc(_('Em pesquisa, fora do catálogo: {n} registro(s) de aparições em rascunho.', { n: drafts.apparitions }))}</p>
 </div>`;
-  return layout({ title: _('Aparições'), path: 'aparicoes/', section: 'aparicoes/', body, art: { id: 'obra-david-descanso' }, description: _('Catálogo de aparições marianas com local, período, narrativa e a decisão eclesial documentada: autoridade, data, alcance e fonte.') });
+  return layout({ title: _('Aparições'), path: 'aparicoes/', section: 'aparicoes/', body, art: { id: 'retrato-lourdes' }, description: _('Catálogo de aparições marianas com local, período, narrativa e a decisão eclesial documentada: autoridade, data, alcance e fonte.') });
+}
+
+const TL_LABEL = { relato: 'Acontecimento relatado', historia: 'Fato documentado', devocao: 'Devoção e santuário' };
+registerKeys(Object.values(TL_LABEL));
+/** Cronologia da aparição: acontecimentos relatados e fatos documentados, intercalados com as decisões, cada um com o seu rótulo. */
+function apparitionTimeline(a) {
+  const ev = [
+    ...(a.timeline ?? []).map((e) => ({ date: e.date, precision: e.precision, rotulo: _(TL_LABEL[e.kind]), cls: e.kind, texto: e.text, sources: e.sources })),
+    ...a.decisions.map((d) => ({ date: d.date, precision: d.datePrecision, rotulo: _('Decisão eclesial'), cls: 'decisao', texto: _('{autoridade}: {tipos}.', { autoridade: d.authority, tipos: listAnd(d.kinds.map((k) => _(DECISION_KINDS[k]))) }), ancora: `${d.id}-t` }))
+  ].sort((x, y) => sortKey(x.date) - sortKey(y.date));
+  if (ev.length < 2) return '';
+  return `<section class="apar-cron" aria-labelledby="cronologia"><h2 id="cronologia">${esc(_('Cronologia'))}</h2>
+<p class="nota-peq">${esc(_('Datas com a precisão da fonte. Acontecimentos relatados, fatos documentados e decisões aparecem com rótulos diferentes.'))}</p>
+<ol class="apar-cron__lista">${ev.map((e) => `<li class="apar-cron__item apar-cron__item--${e.cls}"><p class="apar-cron__data"><time datetime="${esc(e.date)}">${esc(fmtDate(e.date, e.precision))}</time> <span class="apar-cron__tipo">${esc(e.rotulo)}</span></p><p>${e.ancora ? `<a href="#${e.ancora}">${esc(e.texto)}</a>` : esc(e.texto)}</p></li>`).join('')}</ol></section>`;
 }
 
 function pageApparition(a) {
   const people = a.people.map((p) => `<li><strong>${esc(p.name)}</strong>: ${esc(p.role)}</li>`).join('');
   const plain = [...a.decisions].sort((x, y) => sortKey(x.date) - sortKey(y.date)).map((d) => `<p>${esc(d.plain)}</p>`).join('');
+  const c = a.place.coordinates;
+  const cron = apparitionTimeline(a);
   const side = `<aside class="doc__lado" aria-label="${esc(_('Ficha do registro'))}">
 <dl class="ficha">
+  <div><dt>${esc(_('Situação eclesial'))}</dt><dd>${esc(categoryOf(a))}</dd></div>
   <div><dt>${esc(_('Local'))}</dt><dd>${esc(a.place.name)}, ${esc(a.place.locality)}${a.place.region ? ` (${esc(a.place.region)})` : ''}, ${esc(a.place.country)}</dd></div>
+  ${c ? `<div><dt>${esc(_('Coordenadas'))}</dt><dd>${c.lat}, ${c.lon}<br><span class="nota-peq">${esc(_(COORD_REFERS[c.refersTo]))}. ${esc(c.precision)}</span></dd></div>` : ''}
   <div><dt>${esc(_('Período relatado'))}</dt><dd>${esc(fmtPeriod(a.period))}</dd></div>
-  <div><dt>${esc(_('Situação eclesial documentada'))}</dt><dd>${esc(statusSummary(a))}</dd></div>
+  <div><dt>${esc(_('Última decisão documentada'))}</dt><dd>${esc(statusSummary(a))}</dd></div>
   <div><dt>${esc(_('Pessoas envolvidas'))}</dt><dd><ul>${people}</ul></dd></div>
   <div><dt>${esc(_('Última verificação'))}</dt><dd><time datetime="${a.review.lastVerified}">${esc(fmtDate(a.review.lastVerified, 'dia'))}</time></dd></div>
 </dl>
-<nav aria-label="${esc(_('Nesta página'))}"><ol><li><a href="#resumo-claro">${esc(_('Em linguagem simples'))}</a></li>${tocOf(a.blocks)}<li><a href="#decisoes">${esc(_('Decisões eclesiais'))}</a></li><li><a href="#lacunas">${esc(_('O que falta pesquisar'))}</a></li></ol></nav>
+<nav aria-label="${esc(_('Nesta página'))}"><ol><li><a href="#resumo-claro">${esc(_('Em linguagem simples'))}</a></li>${tocOf(a.blocks)}${cron ? `<li><a href="#cronologia">${esc(_('Cronologia'))}</a></li>` : ''}<li><a href="#decisoes">${esc(_('Decisões eclesiais'))}</a></li><li><a href="#lacunas">${esc(_('O que falta pesquisar'))}</a></li></ol></nav>
 </aside>`;
   const body = `<div class="miolo doc">
 <article>
 ${crumbs([[HOME(), ''], [_('Aparições'), 'aparicoes/'], [a.title, '']])}
-<header><p class="sobretitulo">${esc(_('Aparição, {pais}', { pais: a.place.country }))}</p><h1>${esc(a.title)}</h1><p class="lede">${esc(a.summary)}</p></header>
+<header><p class="sobretitulo">${esc(_('Aparição, {pais}', { pais: a.place.country }))} · ${esc(categoryOf(a))}</p><h1>${esc(a.title)}</h1><p class="lede">${esc(a.summary)}</p></header>
 ${a.imageIds?.[0] ? figure(a.imageIds[0], { cls: 'fig--leitura', sizes: '(min-width: 62rem) 46rem, 94vw' }) : ''}
 <section class="resumo-claro" aria-labelledby="resumo-claro"><h2 id="resumo-claro">${esc(_('Em linguagem simples'))}</h2>${plain}<p class="nota-peq">${esc(_('Reconhecer uma aparição, autorizar o culto, dar nihil obstat e reconhecer um milagre são decisões diferentes. Aqui só constam as decisões listadas abaixo, com o documento de cada uma.'))}</p></section>
 ${renderBlocks(a.blocks)}
+${cron}
 <section aria-labelledby="decisoes" class="decisoes"><h2 id="decisoes">${esc(_('Histórico de decisões eclesiais'))}</h2>
 <p class="nota-peq">${esc(_('Cada decisão aparece com a sua autoridade, data, alcance e documento. Decisões anteriores a 2024 não são reclassificadas com a terminologia das normas de 2024.'))}</p>
 ${decisionTable(a)}</section>
@@ -823,23 +908,26 @@ ${relatedBlock(a)}
 </article>
 ${side}
 </div>`;
-  return layout({ title: a.title, path: `aparicoes/${a.slug}/`, section: 'aparicoes/', body, art: { id: a.banner, fina: true }, description: a.summary });
+  return layout({ title: a.title, path: `aparicoes/${a.slug}/`, section: 'aparicoes/', body, art: a.banner ? { id: a.banner, fina: true } : null, description: a.summary });
 }
 
 function pageMiracles() {
   const guide = cat.articles.filter((a) => a.category === 'milagres');
-  const items = cat.miracles.map((m) => `<li class="item"><article><h2 class="item-t"><a href="${urlOf[m.id]}">${esc(m.title)}</a></h2><p>${esc(m.summary)}</p></article></li>`).join('');
+  const items = [...cat.miracles].sort((x, y) => sortKey(x.ecclesialDecision.date) - sortKey(y.ecclesialDecision.date)).map((m) => `<li class="item"><article${m.banner ? ' class="com-mini"' : ''}>${miniatura(m.banner)}<div><h2 class="item-t"><a href="${urlOf[m.id]}">${esc(m.title)}</a></h2><p class="meta">${esc(_('Cura: {cura} · Reconhecimento: {data}, {autoridade}', { cura: fmtDate(m.event.date, m.event.datePrecision), data: fmtDate(m.ecclesialDecision.date, m.ecclesialDecision.datePrecision ?? 'dia'), autoridade: m.ecclesialDecision.authority }))}</p><p>${esc(m.summary)}</p></div></article></li>`).join('');
   const body = `<div class="miolo pagina">
 ${crumbs([[HOME(), ''], [_('Milagres'), 'milagres/']])}
 <h1>${esc(_('Milagres'))}</h1>
 <p class="lede">${esc(_('Segundo a compreensão católica, um milagre é obra de Deus, atribuída à intercessão de Maria. Cada registro individual separa três coisas: o acontecimento relatado, a investigação médica e a decisão eclesiástica.'))}</p>
 <aside class="aviso" role="note">${_h('<strong>Cuidado com a saúde.</strong> Nada aqui orienta a interromper tratamento médico. A oração pode acompanhar o cuidado profissional, nunca substituí-lo.')}</aside>
 ${cat.miracles.length
-    ? `<ul class="catalogo">${items}</ul>`
+    ? `<section aria-labelledby="fichas"><h2 id="fichas">${esc(_('Fichas publicadas'))}</h2>
+<p>${_h('Só entra aqui o caso em que lemos o <strong>documento da decisão do bispo</strong>, com autoridade e data. Cada ficha separa o acontecimento, a investigação médica e a decisão eclesiástica. Há {n} caso(s) em pesquisa, fora do catálogo, porque falta ler esse documento.', { n: drafts.miracles })}</p>
+<ul class="catalogo">${items}</ul></section>`
     : `<section class="vazio-sec" aria-labelledby="vz"><h2 id="vz">${esc(_('Ainda não há fichas individuais publicadas'))}</h2>
 <p>${_h('Nenhum caso atende hoje ao nosso critério mínimo para ser publicado como milagre reconhecido: <strong>autoridade, data e documento da decisão, lidos na fonte</strong>. Há {n} casos em rascunho (fora do catálogo) aguardando essa verificação.', { n: drafts.miracles })}</p>
 <p>${esc(_('Enquanto isso, leia o que o santuário de Lourdes informa e o que ainda não conseguimos confirmar:'))}</p></section>`}
 <p><a class="botao" href="${href('milagres/curas-reconhecidas-de-lourdes/')}">${esc(_n('Curas reconhecidas de Lourdes ({n} casos)', cat.curasLourdes.length))}</a></p>
+<p class="nota-peq">${esc(_('A lista inclui todos os casos que o santuário de Lourdes informa como reconhecidos; as fichas individuais acima são só aquelas cujo documento de decisão foi lido.'))}</p>
 <ul class="capitulos">${guide.map((a) => `<li><div><h2 class="item-t"><a href="${urlOf[a.id]}">${esc(a.title)}</a></h2><p>${esc(a.summary)}</p></div></li>`).join('')}</ul>
 </div>`;
   return layout({ title: _('Milagres'), path: 'milagres/', section: 'milagres/', body, art: { id: 'obra-bellini-dormindo' }, description: _('Milagres atribuídos à intercessão de Maria, com separação entre o acontecimento relatado, a investigação médica e a decisão eclesiástica.') });
@@ -862,7 +950,7 @@ ${crumbs([[HOME(), ''], [_('Milagres'), 'milagres/'], [_('Curas reconhecidas de 
 <p>${_h('O caminho de cada caso tem três partes distintas. Primeiro, o Bureau médico de Lourdes examina se a doença foi grave e se a cura é real e duradoura. Depois, o Comitê Médico Internacional de Lourdes julga o caráter inexplicado da cura segundo critérios fixados. Por fim, quem reconhece publicamente a cura como milagre é o <strong>bispo da diocese da pessoa curada</strong>, e não o santuário nem os médicos.')}</p>
 <p>${_h('Isso é descrito pela Igreja na França. Nesta edição <strong>não foram lidos os decretos individuais</strong>: por isso a lista não dá, caso a caso, o nome do bispo, o documento, a doença nem a data da cura. As datas de reconhecimento são as da lista do santuário.')}</p>
 ${sourcesLine(['egl-fr-enquete-lourdes'])}</section>
-<p class="nota-peq">${esc(_('A lista oficial lida tinha 70 casos; o 71º (John Traynor, 2024) vem do Vatican News. A página do santuário e outras fontes falam em 72 casos em 2025; o 72º caso não foi lido aqui. Esta página não orienta a abandonar tratamento médico: o exame de Lourdes parte de casos tratados por médicos.'))}</p>
+<p class="nota-peq">${esc(_('Contagem conferida em 8 de outubro de 2026 na página oficial do santuário, que informa 72 curas reconhecidas como miraculosas entre mais de 7.000 curas declaradas. Os dois casos mais recentes (John Traynor, 2024, e Antonia Raco, 2025) foram conferidos nas páginas do santuário dedicadas a cada um. Esta página não orienta a abandonar tratamento médico: o exame de Lourdes parte de casos tratados por médicos.'))}</p>
 <form class="filtros" data-filter-form role="search" aria-label="${esc(_('Filtrar curas'))}">
   ${searchBox()}
   <div><label for="pais">${esc(_('País'))}</label><select id="pais" data-field="pais"><option value="">${esc(_('Todos'))}</option>${countries.map((c) => `<option value="${esc(normalize(c).replace(/ /g, '-'))}">${esc(c)}</option>`).join('')}</select></div>
@@ -881,15 +969,15 @@ function pageMiracle(m) {
   const body = `<article class="miolo pagina leitura-longa">
 ${crumbs([[HOME(), ''], [_('Milagres'), 'milagres/'], [m.title, '']])}
 <header><p class="sobretitulo">${esc(_('Milagre'))}</p><h1>${esc(m.title)}</h1><p class="lede">${esc(m.summary)}</p></header>
-<section class="bloco"><h2>${esc(_('1. Acontecimento relatado'))}</h2><p>${esc(_('{data}. {descricao}', { data: fmtDate(m.event.date, m.event.datePrecision), descricao: m.event.description }))}</p></section>
+<section class="bloco"><h2>${esc(_('1. Acontecimento relatado'))}</h2><p>${esc(_('{data}. {descricao}', { data: fmtDate(m.event.date, m.event.datePrecision), descricao: m.event.description }))}</p>${m.event.sources?.length ? sourcesLine(m.event.sources) : ''}</section>
 <section class="bloco"><h2>${esc(_('2. Investigação médica'))}</h2><p>${esc(md.summary ?? md.notDocumented)}</p>${sourcesLine(md.sources)}</section>
-<section class="bloco"><h2>${esc(_('3. Decisão eclesiástica'))}</h2><dl class="ficha"><div><dt>${esc(_('Autoridade'))}</dt><dd>${esc(e.authority)}</dd></div><div><dt>${esc(_('Data'))}</dt><dd>${esc(fmtDate(e.date, e.datePrecision ?? 'dia'))}</dd></div><div><dt>${esc(_('Documento'))}</dt><dd>${esc(e.document)}</dd></div></dl>${sourcesLine(e.sources)}</section>
+<section class="bloco"><h2>${esc(_('3. Decisão eclesiástica'))}</h2><dl class="ficha"><div><dt>${esc(_('Autoridade'))}</dt><dd>${esc(e.authority)}</dd></div><div><dt>${esc(_('Data'))}</dt><dd>${esc(fmtDate(e.date, e.datePrecision ?? 'dia'))}</dd></div><div><dt>${esc(_('Documento'))}</dt><dd>${esc(e.document)}</dd></div>${e.scope ? `<div><dt>${esc(_('Alcance e limites'))}</dt><dd>${esc(e.scope)}</dd></div>` : ''}</dl>${sourcesLine(e.sources)}</section>
 ${renderBlocks(m.blocks)}
 <aside class="aviso" role="note">${esc(_('Este site não orienta a interromper tratamentos médicos.'))}</aside>
 ${reviewLine(m.review)}
 ${relatedBlock(m)}
 </article>`;
-  return layout({ title: m.title, path: `milagres/${m.slug}/`, section: 'milagres/', body, art: { id: m.banner, fina: true }, description: m.summary });
+  return layout({ title: m.title, path: `milagres/${m.slug}/`, section: 'milagres/', body, art: m.banner ? { id: m.banner, fina: true } : null, description: m.summary });
 }
 
 // ---------- promessas e devoções ----------
@@ -980,6 +1068,8 @@ function symbolsBlock(t) {
 
 function pageTitle(t) {
   const variants = (t.names ?? []).slice(1);
+  const principal = t.mainRecord ? pubById[t.mainRecord] : null;
+  const caixaPrincipal = principal ? `<aside class="principal" aria-labelledby="principal-t"><p class="principal__rotulo" id="principal-t">${esc(_('Página principal deste assunto'))}</p><p><a class="principal__link" href="${urlOf[principal.id]}">${esc(principal.title)}</a></p><p class="nota-peq">${esc(_('O relato completo, a cronologia, o histórico de decisões e as lacunas da pesquisa estão nessa página. Aqui fica só o resumo do título.'))}</p></aside>` : '';
   const side = `<aside class="doc__lado" aria-label="${esc(_('Ficha do título'))}"><dl class="ficha">
   <div><dt>${esc(_('Natureza'))}</dt><dd>${t.titleKinds.map((k) => esc(_(TITLE_KINDS[k]))).join('; ')}</dd></div>
   ${t.place ? `<div><dt>${esc(_('Lugar'))}</dt><dd>${placeLine(t.place)} (${esc(macroLabel(t.place.macro))})</dd></div>` : ''}
@@ -987,6 +1077,7 @@ function pageTitle(t) {
   ${variants.length ? `<div><dt>${esc(_('Outras formas do nome'))}</dt><dd><ul>${variants.map((n) => `<li><span lang="${esc(n.lang ?? 'pt')}">${esc(n.name)}</span></li>`).join('')}</ul></dd></div>` : ''}
   ${feastLine(t)}
   ${t.decisions?.length ? `<div><dt>${esc(_('Situação eclesial documentada'))}</dt><dd>${esc(statusSummary(t))}</dd></div>` : ''}
+  ${principal?.decisions ? `<div><dt>${esc(_('Situação eclesial documentada'))}</dt><dd>${esc(categoryOf(principal))}. ${esc(statusSummary(principal))}</dd></div>` : ''}
   <div><dt>${esc(_('Última verificação'))}</dt><dd><time datetime="${t.review.lastVerified}">${esc(fmtDate(t.review.lastVerified, 'dia'))}</time></dd></div>
 </dl>
 <nav aria-label="${esc(_('Nesta página'))}"><ol>${tocOf(t.blocks)}${t.symbols?.length ? `<li><a href="#simbolos">${esc(_('Símbolos da imagem'))}</a></li>` : ''}${t.decisions?.length ? `<li><a href="#decisoes">${esc(_('Decisões eclesiais'))}</a></li>` : ''}${t.gaps?.length ? `<li><a href="#lacunas">${esc(_('O que falta pesquisar'))}</a></li>` : ''}</ol></nav>
@@ -995,6 +1086,7 @@ function pageTitle(t) {
 <article class="leitura-longa">
 ${crumbs([[HOME(), ''], [_('Títulos marianos'), 'titulos/'], [t.title, '']])}
 <header><p class="sobretitulo">${t.titleKinds.map((k) => esc(_(TITLE_KINDS[k]))).join(' · ')}</p><h1>${esc(t.title)}</h1><p class="lede">${esc(t.summary)}</p></header>
+${caixaPrincipal}
 ${renderBlocks(t.blocks, t.figures ?? [])}
 ${symbolsBlock(t)}
 ${t.decisions?.length ? `<section aria-labelledby="decisoes" class="decisoes"><h2 id="decisoes">${esc(_('Histórico de decisões eclesiais'))}</h2><p class="nota-peq">${esc(_('Cada decisão aparece com a sua autoridade, data, alcance e documento. Decisões diferentes (reconhecer aparição, autorizar culto, coroar, elevar a basílica, proclamar padroeira) não se confundem.'))}</p>${decisionTable(t)}</section>` : ''}
@@ -1099,7 +1191,8 @@ function pageAtlas() {
     : `<path class="pais" d="${p.d}"/>`).join('');
   const isApar = (r, tipo) => tipo === 'titulo' && r.titleKinds?.includes('aparicao-relatada');
   // cada ponto: halo e núcleo num grupo que o script reescala no zoom, para o ponto manter o tamanho na tela
-  const pontos = recs.filter(({ r }) => r.place.coordinates).map(({ r, tipo }) => {
+  const temPrincipal = (r) => r.mainRecord && pubById[r.mainRecord]?.place?.coordinates;
+  const pontos = recs.filter(({ r }) => r.place.coordinates && !temPrincipal(r)).map(({ r, tipo }) => {
     const [x, y] = project(r.place.coordinates.lon, r.place.coordinates.lat);
     const fig = r.portrait ?? r.photo ?? r.imageIds?.[0];
     const rotulo = isApar(r, tipo) ? tituloAparicao : tipoLabel[tipo];
@@ -1327,7 +1420,7 @@ function pageHolyFamily() {
 
 // ---------- orações ----------
 function pagePrayers() {
-  const items = cat.prayers.map((p) => filterItem({ text: normalize(`${p.title} ${p.summary} ${p.text.join(' ')}`), grupo: p.marian ? 'mariana' : 'geral' },
+  const items = cat.prayers.map((p) => filterItem({ text: normalize(`${p.title} ${p.summary} ${p.text.join(' ')} ${(p.latin ?? []).join(' ')}`), grupo: p.marian ? 'mariana' : 'geral' },
     `<article><h2 class="item-t"><a href="${urlOf[p.id]}">${esc(p.title)}</a></h2><p>${esc(p.summary)}</p></article>`)).join('');
   const body = `<div class="miolo pagina">
 ${crumbs([[HOME(), ''], [_('Orações'), 'oracoes/']])}
@@ -1342,7 +1435,7 @@ ${crumbs([[HOME(), ''], [_('Orações'), 'oracoes/']])}
 ${`<p class="contagem" data-contagem role="status" aria-live="polite">${esc(_n('{n} oração(ões)', cat.prayers.length))}</p>`}
 <ul class="catalogo" data-filter-list>${items}</ul>
 ${emptyState(_('Nenhuma oração encontrada. Limpe os filtros.'))}
-<p class="nota-acervo">${esc(_('Ainda não incluído: o Pai-Nosso (texto a conferir em fonte antes de publicar) e outras orações marianas tradicionais, como a Ladainha de Nossa Senhora.'))}</p>
+<p class="nota-acervo">${esc(_('Ainda não incluídas: outras orações marianas tradicionais, como o Lembrai-vos (Memorare) e a Rainha do Céu (Regina Caeli), que serão publicadas depois de conferido o texto na fonte.'))}</p>
 <aside class="chamada-pedido" aria-labelledby="chamada-pedido-t"><h2 id="chamada-pedido-t">${VELA}${esc(_('Precisa de oração?'))}</h2><p>${esc(_('Deixe o seu nome e a sua necessidade no mural de pedidos. Ele é renovado todo domingo às 19:30 (horário de Brasília).'))}</p><p><a class="botao" href="${href('pedidos-de-oracao/')}">${esc(_('Pedir oração'))}</a></p></aside>
 </div>`;
   return layout({ title: _('Orações'), path: 'oracoes/', section: 'oracoes/', body, art: { id: 'img-virgem-em-oracao' }, description: _('Orações marianas com procedência e situação de direitos verificadas, e guia do Rosário.') });
@@ -1354,6 +1447,8 @@ ${crumbs([[HOME(), ''], [_('Orações'), 'oracoes/'], [p.title, '']])}
 <header><p class="sobretitulo">${esc(_('Oração'))}</p><h1>${esc(p.title)}</h1><p class="lede">${esc(p.summary)}</p>
 <p class="oracao__acoes"><button type="button" class="botao botao--sec" data-leitura-toggle aria-pressed="false">${esc(_('Modo de leitura sem distrações'))}</button></p></header>
 <div class="oracao__texto" lang="${L.lang}">${p.text.map((l) => `<p>${esc(l)}</p>`).join('')}</div>
+${p.latin?.length ? `<section class="oracao__latim" aria-labelledby="em-latim"><h2 id="em-latim">${esc(_('Em latim'))}</h2><div class="oracao__texto" lang="la">${p.latin.map((l) => `<p>${esc(l)}</p>`).join('')}</div></section>` : ''}
+${p.blocks?.length ? `<div class="oracao__notas">${renderBlocks(p.blocks)}</div>` : ''}
 <section class="oracao__proc"><h2>${esc(_('Procedência e direitos'))}</h2>
 <dl class="ficha"><div><dt>${esc(_('Procedência'))}</dt><dd>${esc(p.provenance)}</dd></div><div><dt>${esc(_('Direitos'))}</dt><dd>${esc(p.rights)}</dd></div></dl>
 ${sourcesLine(p.sources)}${reviewLine(p.review)}</section>
@@ -1371,7 +1466,7 @@ ${crumbs([[HOME(), ''], [_('Orações'), 'oracoes/'], [_('Rosário'), '']])}
 <p class="oracao__acoes"><button type="button" class="botao botao--sec" data-leitura-toggle aria-pressed="false">${esc(_('Modo de leitura sem distrações'))}</button></p></header>
 <section><h2>${esc(_('Passo a passo'))}</h2><ol class="passos">${rosary.steps.map((s) => `<li>${esc(s)}</li>`).join('')}</ol>
 <p class="nota-peq">${esc(rosary.stepsNote)}</p></section>
-<section><h2>${esc(_('Orações usadas'))}</h2><ul>${['ora-sinal-da-cruz', 'ora-ave-maria', 'ora-gloria', 'ora-salve-rainha'].map((id) => `<li><a href="${urlOf[id]}">${esc(pubById[id].title)}</a></li>`).join('')}<li>${esc(_('Pai-Nosso: texto ainda não incluído nesta edição (use o da sua comunidade).'))}</li></ul></section>
+<section><h2>${esc(_('Orações usadas'))}</h2><ul>${['ora-sinal-da-cruz', 'ora-ave-maria', 'ora-gloria', 'ora-salve-rainha'].map((id) => `<li><a href="${urlOf[id]}">${esc(pubById[id].title)}</a></li>`).join('')}<li><a href="${urlOf['ora-pai-nosso']}">${esc(pubById['ora-pai-nosso'].title)}</a></li><li><a href="${urlOf['ora-ladainha']}">${esc(pubById['ora-ladainha'].title)}</a></li></ul></section>
 <section><h2>${esc(_('Os vinte mistérios'))}</h2><p>${esc(_('Segundo o sítio do Vaticano, distribuem-se assim: gozosos às segundas e sábados, luminosos às quintas, dolorosos às terças e sextas, gloriosos às quartas e domingos.'))}</p><div class="ciclos">${cycles}</div></section>
 <aside class="aviso" role="note">${esc(_('O Rosário é meditação e confiança em Deus por intercessão de Maria, não um mecanismo que garanta resultados.'))}</aside>
 <p class="bloco__fontes">${_h('Fonte: {fonte}.', { fonte: `<a href="${href('biblioteca/')}#fonte-${src.id}">${esc(src.title)}</a>` })}</p>
@@ -1484,9 +1579,9 @@ ${crumbs([[HOME(), ''], [_('Sobre'), 'sobre/']])}
 <section aria-labelledby="lim"><h2 id="lim">${esc(_('Limites desta edição'))}</h2>
 <ul>
 <li>${_h('Foi feita pesquisa documental em fontes oficiais; <strong>não houve revisão teológica, canônica nem médica por especialistas</strong>.')}</li>
-<li>${esc(_('O acervo é inicial: {aparicoes} aparições, {titulos} títulos, {oracoes} orações, {artigos} artigos e {fontes} fontes. Milagres e promessas aguardam verificação.', { aparicoes: cat.apparitions.length, titulos: cat.titles.length, oracoes: cat.prayers.length, artigos: cat.articles.length, fontes: cat.sources.length }))}</li>
-<li>${esc(_('Sem imagens de obras de arte: a procedência e a licença ainda não foram verificadas. Os ornamentos são desenhos originais do projeto.'))}</li>
-<li>${esc(_('O mapa interativo está adiado até haver coordenadas verificadas; a lista de locais e a cronologia são as alternativas.'))}</li>
+<li>${esc(_('O acervo é uma amostra em crescimento: {aparicoes} aparições, {milagres} fichas de milagres, {titulos} títulos, {oracoes} orações, {artigos} artigos e {fontes} fontes. Outros casos de aparições e de curas estão em pesquisa, fora do catálogo, até que o documento da decisão seja lido.', { aparicoes: cat.apparitions.length, milagres: cat.miracles.length, titulos: cat.titles.length, oracoes: cat.prayers.length, artigos: cat.articles.length, fontes: cat.sources.length }))}</li>
+<li>${esc(_('As imagens vêm de acervos com licença declarada (Open Access do Met, CC0, domínio público e licenças livres do Wikimedia Commons), com crédito junto de cada uma; não houve auditoria jurídica independente. Obras de arte ilustram o texto e não são registro histórico dos acontecimentos.'))}</li>
+<li>${esc(_('Os mapas usam só coordenadas conferidas no Wikidata e dizem a que se referem (local do acontecimento, santuário ou localidade); a lista de locais e a cronologia são as alternativas em texto.'))}</li>
 ${L.code === DEFAULT_LOCALE ? '' : `<li>${esc(_('As traduções para outros idiomas seguem o texto de referência em português e ainda não passaram por revisão de falantes nativos nem por revisão teológica.'))}</li>`}
 </ul></section>
 <section aria-labelledby="acess"><h2 id="acess">${esc(_('Acessibilidade'))}</h2>
@@ -1495,6 +1590,88 @@ ${L.code === DEFAULT_LOCALE ? '' : `<li>${esc(_('As traduções para outros idio
 <p>${_h('Projeto pessoal, criado e mantido por uma pessoa. Não publicamos biografia, contatos nem vínculos institucionais. Correções são recebidas no repositório do projeto (abra um <em>issue</em>, quando o repositório for publicado) e seguem o processo descrito em <code>docs/POLITICA-EDITORIAL.md</code>: conferir a fonte, corrigir o registro, atualizar a data de verificação e registrar a mudança.')}</p></section>
 </div>`;
   return layout({ title: _('Sobre e metodologia'), path: 'sobre/', section: 'sobre/', body, art: { id: 'obra-bellini-madona', fina: true }, description: _('Projeto independente, gratuito e sem fins lucrativos. Metodologia editorial, limites desta edição, acessibilidade e processo de correção.') });
+}
+
+// ---------- aplicativo instalável (PWA) ----------
+const ICO = {
+  android: '<svg viewBox="0 0 48 48" aria-hidden="true" focusable="false"><rect x="12" y="4" width="24" height="40" rx="4" fill="none" stroke="currentColor" stroke-width="2.5"/><path d="M20 39h8" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/><circle cx="24" cy="15" r="1.8" fill="currentColor"/><circle cx="24" cy="21" r="1.8" fill="currentColor"/><circle cx="24" cy="27" r="1.8" fill="currentColor"/></svg>',
+  ios: '<svg viewBox="0 0 48 48" aria-hidden="true" focusable="false"><rect x="12" y="4" width="24" height="40" rx="6" fill="none" stroke="currentColor" stroke-width="2.5"/><rect x="20" y="7.5" width="8" height="2.6" rx="1.3" fill="currentColor"/><path d="M24 17v11M19.5 21.5 24 17l4.5 4.5" fill="none" stroke="currentColor" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"/></svg>',
+  menu: '<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="5" r="2" fill="currentColor"/><circle cx="12" cy="12" r="2" fill="currentColor"/><circle cx="12" cy="19" r="2" fill="currentColor"/></svg>',
+  mais: '<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="5" cy="12" r="2" fill="currentColor"/><circle cx="12" cy="12" r="2" fill="currentColor"/><circle cx="19" cy="12" r="2" fill="currentColor"/></svg>',
+  compartilhar: '<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M8 9H6v12h12V9h-2M12 3v12M8.5 6.5 12 3l3.5 3.5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>',
+  adicionar: '<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><rect x="4" y="4" width="16" height="16" rx="3" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M12 8v8M8 12h8" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>',
+  baixar: '<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12 4v11M7.5 10.5 12 15l4.5-4.5M5 19h14" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>',
+  estrela: `<img src="${asset('assets/img/favicons/favicon-64x64.png')}" width="64" height="64" alt="">`
+};
+const tecla = (icone, rotulo) => `<span class="tecla">${ICO[icone]}<span>${esc(rotulo)}</span></span>`;
+const passos = (lista) => `<ol class="passos-inst">${lista.map(([titulo, texto], i) => `<li class="passos-inst__item"><span class="passos-inst__n" aria-hidden="true">${i + 1}</span><div><h3>${titulo}</h3>${texto}</div></li>`).join('')}</ol>`;
+
+function pageInstall() {
+  const android = passos([
+    [esc(_('Abra o site no Google Chrome')), `<p>${esc(_('Se você chegou por um link dentro de outro aplicativo (WhatsApp, Instagram, e-mail), abra a página no Chrome primeiro: procure no menu desse aplicativo a opção «Abrir no navegador» ou «Abrir no Chrome».'))}</p>`],
+    [_h('Toque no menu {tecla}', { tecla: tecla('menu', _('Menu')) }), `<p>${esc(_('São os três pontinhos no canto superior direito da tela, ao lado do endereço.'))}</p>`],
+    [_h('Escolha {tecla}', { tecla: tecla('baixar', _('Instalar app')) }), `<p>${esc(_('Em algumas versões do Chrome a opção se chama «Adicionar à tela inicial». Se aparecer a pergunta entre criar um atalho ou instalar, escolha instalar.'))}</p>`],
+    [esc(_('Confirme em «Instalar»')), `<p>${_h('O ícone {estrela} <strong>Mater Dei</strong> aparece na tela inicial e na lista de aplicativos. Abra por ele, como qualquer outro aplicativo.', { estrela: `<span class="ico-app">${ICO.estrela}</span>` })}</p>`]
+  ]);
+  const ios = passos([
+    [esc(_('Abra o site no Safari')), `<p>${esc(_('O Safari é o navegador da bússola azul, que já vem no iPhone e no iPad. É nele que a instalação funciona de forma garantida.'))}</p><p class="nota-peq" data-ios-outro hidden>${esc(_('Parece que você está em outro navegador. Copie o endereço desta página e cole na barra do Safari.'))}</p>`],
+    [_h('Toque em {tecla}', { tecla: tecla('compartilhar', _('Compartilhar')) }), `<p>${esc(_('É o quadrado com uma seta para cima: embaixo da tela no iPhone, em cima no iPad.'))}</p><p class="nota-peq">${_h('Nas versões mais novas do iOS, o botão pode ficar dentro de {tecla}, ao lado do endereço.', { tecla: tecla('mais', _('Mais')) })}</p>`],
+    [_h('Escolha {tecla}', { tecla: tecla('adicionar', _('Adicionar à Tela de Início')) }), `<p>${esc(_('Role a lista de opções para baixo até encontrá-la. Se não estiver lá, toque em «Editar Ações» no fim da lista e ative-a.'))}</p>`],
+    [esc(_('Toque em «Adicionar»')), `<p>${_h('Se aparecer a opção «Abrir como app web», deixe-a ligada. O ícone {estrela} <strong>Mater Dei</strong> aparece na Tela de Início; abra por ele.', { estrela: `<span class="ico-app">${ICO.estrela}</span>` })}</p>`]
+  ]);
+  const opcao = (valor, titulo, sub, marcado) => `<input class="seletor-ap__radio" type="radio" name="aparelho" id="ap-${valor}" value="${valor}"${marcado ? ' checked' : ''}>
+<label class="seletor-ap__op" for="ap-${valor}"><span class="seletor-ap__ico">${ICO[valor]}</span><span class="seletor-ap__txt"><span class="seletor-ap__t">${esc(titulo)}</span><span class="seletor-ap__s">${esc(sub)}</span></span><span class="seletor-ap__marca" aria-hidden="true"></span></label>`;
+  const body = `<div class="miolo pagina instalar" data-instalar>
+${crumbs([[HOME(), ''], [_('Instalar no celular'), 'instalar/']])}
+<h1>${esc(_('Instalar no celular'))}</h1>
+<p class="lede">${esc(_('O Sancta Mater Dei pode ficar na tela inicial do seu celular, como um aplicativo: abre em tela cheia, sem a barra do navegador, e as páginas que você já leu continuam disponíveis sem internet. Não há loja, cadastro nem pagamento, e leva menos de um minuto.'))}</p>
+<p class="aviso" data-instalado hidden role="status">${esc(_('Você já está usando o Sancta Mater Dei instalado. Nada mais a fazer.'))}</p>
+<form class="seletor-ap" onsubmit="return false">
+<fieldset>
+<legend>${esc(_('Qual é o seu celular?'))}</legend>
+<div class="seletor-ap__ops">
+${opcao('android', _('Android'), _('Samsung, Motorola, Xiaomi e outros'), true)}
+${opcao('ios', _('iPhone ou iPad'), _('Aparelhos da Apple'), false)}
+</div>
+</fieldset>
+<p class="seletor-ap__det" data-detectado="android" hidden>${esc(_('Pelo seu navegador, parece um Android. Se não for, escolha a outra opção.'))}</p>
+<p class="seletor-ap__det" data-detectado="ios" hidden>${esc(_('Pelo seu navegador, parece um iPhone ou iPad. Se não for, escolha a outra opção.'))}</p>
+<p class="seletor-ap__det" data-detectado="outro" hidden>${esc(_('Você parece estar num computador. Abra este endereço no celular para instalar, ou escolha o aparelho para ver as instruções.'))}</p>
+</form>
+<section class="instalar__painel" data-painel="android" aria-labelledby="p-android">
+<h2 id="p-android">${esc(_('No Android'))}</h2>
+<div class="instalar__agora" data-instalar-pronto hidden><p>${esc(_('Seu navegador permite instalar direto daqui:'))}</p><p><button type="button" class="botao" data-instalar-agora>${ICO.baixar}<span>${esc(_('Instalar agora'))}</span></button></p><p class="nota-peq">${esc(_('Ou siga os passos abaixo, que dão no mesmo.'))}</p></div>
+<p class="aviso" data-instalado-agora hidden role="status">${esc(_('Pronto! O aplicativo foi instalado. Procure o ícone Mater Dei na tela inicial.'))}</p>
+${android}
+<p class="nota-peq">${esc(_('No Samsung Internet, toque no menu (três tracinhos, embaixo) e depois em «Adicionar página a» e «Tela inicial». Os nomes das opções podem variar um pouco conforme a versão do navegador.'))}</p>
+</section>
+<section class="instalar__painel" data-painel="ios" aria-labelledby="p-ios">
+<h2 id="p-ios">${esc(_('No iPhone ou iPad'))}</h2>
+${ios}
+<p class="nota-peq">${esc(_('A Apple não mostra um botão de instalação automática nos sites: por isso a instalação é feita pelo menu Compartilhar. Os nomes das opções podem variar um pouco conforme a versão do iOS.'))}</p>
+</section>
+<section class="instalar__depois" aria-labelledby="depois"><h2 id="depois">${esc(_('Depois de instalar'))}</h2>
+<ul>
+<li>${esc(_('As páginas que você abrir ficam guardadas no próprio celular e podem ser lidas sem internet. Uma página nunca aberta precisa de conexão.'))}</li>
+<li>${esc(_('O conteúdo se atualiza sozinho quando há internet; não é preciso reinstalar.'))}</li>
+<li>${esc(_('O mural de pedidos de oração sempre precisa de internet.'))}</li>
+<li>${_h('O aplicativo instalado não coleta dados nem pede permissões: é o mesmo site, com as mesmas regras de <a href="{link}">privacidade</a>.', { link: href('privacidade/') })}</li>
+</ul>
+<h3>${esc(_('Para remover'))}</h3>
+<p>${esc(_('Mantenha o dedo sobre o ícone Mater Dei na tela inicial. No Android, escolha «Desinstalar» ou «Remover»; no iPhone, «Remover App» e depois «Apagar» ou «Remover da Tela de Início».'))}</p>
+</section>
+</div>`;
+  return layout({ title: _('Instalar no celular'), path: 'instalar/', section: 'instalar/', body, css: ['instalar.css'], description: _('Como instalar o Sancta Mater Dei na tela inicial do Android e do iPhone, passo a passo, para ler também sem internet.') });
+}
+
+function pageOffline() {
+  const body = `<div class="miolo pagina">
+<h1>${esc(_('Sem conexão'))}</h1>
+<p class="lede">${esc(_('Esta página ainda não foi guardada no seu aparelho, e agora não há internet para buscá-la.'))}</p>
+<p>${esc(_('As páginas que você já abriu continuam disponíveis. Quando a conexão voltar, toque em «Tentar de novo».'))}</p>
+<p><a class="botao" href="${href()}">${esc(_('Ir para o início'))}</a> <button type="button" class="botao botao--sec" onclick="location.reload()">${esc(_('Tentar de novo'))}</button></p>
+</div>`;
+  return layout({ title: _('Sem conexão'), path: 'offline/', body, alternates: false, description: _('Página mostrada pelo aplicativo instalado quando não há conexão.') });
 }
 
 // ---------- busca ----------
@@ -1703,7 +1880,7 @@ emit('calendario/', pageCalendar());
 emit('maria-pelo-mundo/', pageAtlas());
 emit('sagrada-familia/', pageHolyFamily());
 emit('iconografia/', pageIconography());
-for (const pg of paginasEstudo({ _, _h, esc, href, layout, crumbs, HOME, bibleRef, img, urlOf, srcById, MANIFEST, imageById, focusStyle, creditText, originLink })) emit(pg.path, pg.html);
+for (const pg of paginasEstudo({ _, _h, esc, href, layout, crumbs, HOME, bibleRef, img, urlOf, pubById, srcById, MANIFEST, imageById, focusStyle, creditText, originLink, pesquisaRelacoes: rawPt.pesquisaRelacoes })) emit(pg.path, pg.html);
 emit('oracoes/', pagePrayers());
 cat.prayers.forEach((p) => emit(`oracoes/${p.slug}/`, pagePrayer(p)));
 emit('oracoes/rosario/', pageRosary());
@@ -1714,6 +1891,28 @@ emit('busca/', pageSearch());
 emit('galeria/', pageGallery());
 emit('pedidos-de-oracao/', pagePedidos());
 emit('privacidade/', pagePrivacy());
+if (!APP) {
+  emit('instalar/', pageInstall());
+  // página offline: guardada pelo service worker, fora do sitemap
+  mkdirSync(join(OUT, PREFIX, 'offline'), { recursive: true });
+  writeFileSync(join(OUT, PREFIX, 'offline', 'index.html'), pageOffline().replace('<head>', '<head>\n<meta name="robots" content="noindex">'));
+  // manifesto do aplicativo instalável, um por idioma (mesmo id: instalar em qualquer idioma é o mesmo aplicativo)
+  writeFileSync(join(OUT, `manifest.${L.code}.webmanifest`), JSON.stringify({
+    id: BASE, name: 'Sancta Mater Dei', short_name: 'Mater Dei', description: _('Livro digital independente sobre a Virgem Maria, com as fontes de cada afirmação.'),
+    lang: L.lang, dir: 'ltr', start_url: href(''), scope: BASE, display: 'standalone', orientation: 'any',
+    background_color: '#f8f1e1', theme_color: '#1d3a8c', categories: ['books', 'education'],
+    icons: [
+      { src: asset('assets/img/favicons/favicon-192x192.png'), sizes: '192x192', type: 'image/png', purpose: 'any' },
+      { src: asset('assets/img/favicons/favicon-512x512.png'), sizes: '512x512', type: 'image/png', purpose: 'any' },
+      { src: asset('assets/img/favicons/icon-maskable-512x512.png'), sizes: '512x512', type: 'image/png', purpose: 'maskable' }
+    ],
+    shortcuts: [
+      { name: _('Orações'), url: href('oracoes/') },
+      { name: _('Pedir oração'), url: href('pedidos-de-oracao/') },
+      { name: _('Busca'), url: href('busca/') }
+    ]
+  }, null, 1));
+}
 
 // dados da visualização ampliada (um arquivo por idioma)
 const obrasJson = JSON.stringify(galeriaObras.map((im) => ({ id: im.id, titulo: im.title, autor: _p(im.author), data: imgDate(im.dateText), tecnica: _t(im.medium), instituicao: _t(im.institution), acesso: im.accession ?? null, licenca: _(im.license), origem: imgOrigin(im.origin), url: im.originUrl, alt: im.alt, legenda: im.caption, srcset: srcsetOf(im.id), src: fileOf(im.id, MANIFEST[im.id].widths.at(-1)), w: MANIFEST[im.id].width, h: MANIFEST[im.id].height, galeria: href('galeria/') + '#' + im.id })));
@@ -1722,6 +1921,21 @@ writeFileSync(join(OUT, 'assets', `obras.${L.code}.json`), obrasJson);
 if (isDefault) {
   writeFileSync(join(OUT, 'assets', 'obras.json'), obrasJson);
   writeFileSync(join(OUT, '404.html'), page404());
+  // navegadores pedem /favicon.ico na raiz mesmo sem a declaração no <head>
+  cpSync(join(CAMINHOS.ativos, 'img', 'favicons', 'favicon.ico'), join(OUT, 'favicon.ico'));
+  if (!APP) {
+    const pre = [
+      'assets/css/style.css', 'assets/css/cinematic.css', 'assets/css/filme.css', 'assets/css/instalar.css',
+      'assets/js/app.js', 'assets/js/filme.js', 'assets/js/filtro.js', 'assets/js/pwa.js',
+      'assets/vendor/gsap.min.js', 'assets/vendor/ScrollTrigger.min.js',
+      'assets/fonts/cormorant-garamond-latin-500-normal.woff2', 'assets/fonts/atkinson-hyperlegible-latin-400-normal.woff2',
+      'assets/img/favicons/favicon.ico', 'assets/img/favicons/favicon-32x32.png', 'assets/img/favicons/favicon-192x192.png',
+      ...LOCALES.map((x) => `${x.prefix}offline/`)
+    ].map((p) => BASE + p);
+    const versao = `${Date.now().toString(36)}`;
+    const modelo = readFileSync(join(CAMINHOS.pwa, 'sw.js'), 'utf8');
+    writeFileSync(join(OUT, 'sw.js'), modelo.replace('__VERSAO__', () => versao).replace('__BASE__', () => BASE).replace('__PRECACHE__', () => JSON.stringify(pre)));
+  }
 } else {
   writeFileSync(join(OUT, PREFIX, '404.html'), page404());
 }

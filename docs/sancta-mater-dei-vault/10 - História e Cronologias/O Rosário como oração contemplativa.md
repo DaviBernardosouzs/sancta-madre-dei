@@ -13,6 +13,9 @@ tags:
 - mariana/estudo
 documento_de_referencia:
 - '[[Rosarium Virginis Mariae]]'
+pagina_principal:
+- '[[O Santo Rosário]]'
+- '[[Pai-Nosso]]'
 ---
 
 # O Rosário como oração contemplativa
@@ -53,7 +56,12 @@ documento_de_referencia:
 
 928. O documento rejeita a compreensão do terço como objeto mágico.
 
+## Página principal no site e conferência
+
+Este capítulo resume uma fonte; a página principal do assunto é [[O Santo Rosário]], [[Pai-Nosso]].
+
 ## Relações e bibliografia
 
 - **fontes:** [[Referência F58 — João Paulo II, Rosarium Virginis Mariae, 16 de outubro de 2002, especialmente números 27 a 33]]
 - **documento de referencia:** [[Rosarium Virginis Mariae]]
+- **pagina principal:** [[O Santo Rosário]], [[Pai-Nosso]]

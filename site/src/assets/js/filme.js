@@ -309,9 +309,9 @@
         .filter(function (el) { return ja.indexOf(el) < 0 && !el.closest('[data-cartela], .abertura, .lb, .f-creditos'); });
       if (itens.length) ST.batch(itens, { start: 'top 92%', once: true, interval: .12, batchMax: 8, onEnter: function (b) { g.fromTo(b, { autoAlpha: 0, y: 38 }, { autoAlpha: 1, y: 0, duration: 1, stagger: .07, ease: 'power3.out', clearProps: 'transform' }); } });
 
-      // oração em página própria: as linhas surgem como legendas
+      // oração em página própria: as linhas surgem como legendas; em textos longos (ladainha) a cascata inteira cabe em 1,4 s
       var linhasOr = qa('.oracao__texto p, .oracao__texto li');
-      if (linhasOr.length) g.fromTo(linhasOr, { autoAlpha: 0, y: 14, filter: 'blur(4px)' }, { autoAlpha: 1, y: 0, filter: 'blur(0px)', duration: 1.2, stagger: .14, ease: 'power2.out', clearProps: 'filter,transform', scrollTrigger: { trigger: linhasOr[0], start: 'top 92%', once: true } });
+      if (linhasOr.length) g.fromTo(linhasOr, { autoAlpha: 0, y: 14, filter: 'blur(4px)' }, { autoAlpha: 1, y: 0, filter: 'blur(0px)', duration: 1.2, stagger: Math.min(.14, 1.4 / Math.max(1, linhasOr.length - 1)), ease: 'power2.out', clearProps: 'filter,transform', scrollTrigger: { trigger: linhasOr[0], start: 'top 92%', once: true } });
 
       // atlas: países e pontos se acendem
       var mapa = q('.mapa svg');

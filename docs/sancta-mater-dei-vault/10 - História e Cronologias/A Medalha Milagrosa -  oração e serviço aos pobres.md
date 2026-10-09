@@ -15,6 +15,9 @@ titulo_estudado:
 - '[[Nossa Senhora da Medalha Milagrosa]]'
 menciona:
 - '[[Santa Catarina Labouré]]'
+pagina_principal:
+- '[[A Medalha Milagrosa (Rue du Bac, 1830)]]'
+- '[[Capela de Nossa Senhora da Medalha Milagrosa (Rue du Bac, Paris)]]'
 ---
 
 # A Medalha Milagrosa: oração e serviço aos pobres
@@ -55,8 +58,13 @@ menciona:
 
 880. A história da medalha une, nessa oração, confiança, missão e caridade.
 
+## Página principal no site e conferência
+
+Este capítulo resume uma fonte; a página principal do assunto é [[A Medalha Milagrosa (Rue du Bac, 1830)]], [[Capela de Nossa Senhora da Medalha Milagrosa (Rue du Bac, Paris)]].
+
 ## Relações e bibliografia
 
 - **fontes:** [[Referência F55 — João Paulo II, oração na Capela da Medalha Milagrosa, 31 de maio de 1980]]
 - **titulo estudado:** [[Nossa Senhora da Medalha Milagrosa]]
 - **menciona:** [[Santa Catarina Labouré]]
+- **pagina principal:** [[A Medalha Milagrosa (Rue du Bac, 1830)]], [[Capela de Nossa Senhora da Medalha Milagrosa (Rue du Bac, Paris)]]

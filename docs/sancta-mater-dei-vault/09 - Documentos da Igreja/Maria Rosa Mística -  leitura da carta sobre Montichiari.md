@@ -13,6 +13,8 @@ tags:
 - mariana/estudo
 titulo_estudado:
 - '[[Maria Rosa Mística de Montichiari]]'
+pagina_principal:
+- '[[Relatos e discernimento — Maria Rosa Mística de Montichiari]]'
 ---
 
 # Maria Rosa Mística: leitura da carta sobre Montichiari
@@ -53,7 +55,12 @@ titulo_estudado:
 
 800. A apresentação pública dessa devoção deve conservar os esclarecimentos do documento.
 
+## Página principal no site e conferência
+
+Este capítulo resume uma fonte; a página principal do assunto é [[Relatos e discernimento — Maria Rosa Mística de Montichiari]].
+
 ## Relações e bibliografia
 
 - **fontes:** [[Referência F50 — Dicastério para a Doutrina da Fé, carta sobre Maria Rosa Mística, 5 de julho de 2024]]
 - **titulo estudado:** [[Maria Rosa Mística de Montichiari]]
+- **pagina principal:** [[Relatos e discernimento — Maria Rosa Mística de Montichiari]]

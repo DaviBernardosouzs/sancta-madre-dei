@@ -2,12 +2,14 @@
 id: apar-fatima-1917
 tipo: aparicao
 titulo: Aparições de Fátima (1917)
-aliases: []
-fontes_verificadas: false
-estado_pesquisa: importado-sem-revalidacao
+aliases:
+- Fátima (Portugal), 1917
+fontes_verificadas: true
+estado_pesquisa: conferido-na-fonte
 fontes:
 - '[[Fonte — Carta Pastoral ''A Providência Divina'' sobre o culto de Nossa Senhora de Fátima]]'
 - '[[Fonte — Catecismo da Igreja Católica, §§ 50-141 (Revelação e Escritura)]]'
+- '[[Fonte — Wikidata -  coordenadas geográficas de santuários e lugares]]'
 origens:
 - content/apparitions.json#apar-fatima-1917
 tags:
@@ -22,18 +24,24 @@ data_inicio: '1917-05-13'
 ano: 1917
 data_fim: '1917-10-13'
 status_eclesial: reconhecimento-diocesano-historico
+categoria_eclesial: Aparição reconhecida pelo bispo diocesano
 natureza_documentacao: aparicao
+coordenadas:
+- 39.63167
+- -8.67333
+coordenadas_referem_se_a: santuario
 titulos_relacionados:
 - '[[Nossa Senhora de Fátima]]'
+relato_documentado_em:
+- '[[Fátima -  como interpretar a linguagem do segredo]]'
 devocoes_relacionadas:
 - '[[O Santo Rosário]]'
 estudos_relacionados:
 - '[[Revelações privadas e aparições]]'
 local_associado:
 - '[[Santuário de Fátima (Cova da Iria)]]'
-menciona:
-- '[[Nossa Senhora de Fátima]]'
-- '[[Lúcia dos Santos]]'
+pagina_no_site: aparicoes/fatima/
+revisado_em: '2026-10-08'
 ---
 
 # Aparições de Fátima (1917)
@@ -42,31 +50,35 @@ menciona:
 
 A partir de 13 de maio de 1917, três crianças relataram aparições na Cova da Iria, na paróquia de Fátima. Em 13 de outubro de 1930, o Bispo de Leiria declarou dignas de crédito as visões e permitiu oficialmente o culto de Nossa Senhora de Fátima.
 
+## Situação eclesial — apar-fatima-1917
+
+**Aparição reconhecida pelo bispo diocesano.** Classificação na terminologia da época de cada decisão; decisões anteriores a 2024 não são reclassificadas pelas normas do Dicastério para a Doutrina da Fé.
+
 ## O que foi relatado — apar-fatima-1917
 
 > [!info] Natureza: relato
-> Texto preservado do acervo; fontes e revisão abaixo.
+> Texto do acervo, conferido nas fontes em 8 de outubro de 2026; fontes e revisão abaixo.
 
 Segundo a carta pastoral do Bispo de Leiria, em 13 de maio de 1917 três crianças da paróquia de Fátima, que cuidavam de um rebanho de ovelhas na Cova da Iria, relataram uma aparição. Francisco e Jacinta eram irmãos, e Lúcia era prima deles. A carta fala de seis aparições, uma no dia 13 de cada mês, exceto em agosto.
 
 ## O fenômeno de 13 de outubro — apar-fatima-1917
 
 > [!info] Natureza: historia
-> Texto preservado do acervo; fontes e revisão abaixo.
+> Texto do acervo, conferido nas fontes em 8 de outubro de 2026; fontes e revisão abaixo.
 
 A carta pastoral de 1930 refere o fenômeno solar de 13 de outubro de 1917, descrito nos jornais da época, como algo maravilhoso que causou grande impressão. Este site relata o que o documento afirma; não faz, aqui, avaliação científica nem teológica do fenômeno.
 
 ## O processo canônico — apar-fatima-1917
 
 > [!info] Natureza: historia
-> Texto preservado do acervo; fontes e revisão abaixo.
+> Texto do acervo, conferido nas fontes em 8 de outubro de 2026; fontes e revisão abaixo.
 
 Por ordem de 6 de maio de 1922, o bispo nomeou uma comissão de sacerdotes para recolher depoimentos livremente. A decisão foi publicada em 13 de outubro de 1930.
 
 ## O lugar das aparições na fé católica — apar-fatima-1917
 
 > [!info] Natureza: doutrina
-> Texto preservado do acervo; fontes e revisão abaixo.
+> Texto do acervo, conferido nas fontes em 8 de outubro de 2026; fontes e revisão abaixo.
 
 As aparições aprovadas pela Igreja pertencem ao campo das revelações privadas. O Catecismo (§ 67) afirma que elas não pertencem ao depósito da fé e não completam a Revelação de Cristo.
 
@@ -80,11 +92,21 @@ As aparições aprovadas pela Igreja pertencem ao campo das revelações privada
 
 **País:** Portugal
 
-**Coordenadas:** Não informado no registro original.
-
-**coordinatesNote:** Coordenadas ainda não verificadas em fonte consultada; mapa adiado.
-
 **iso:** PT
+
+**macro:** Europa
+
+**Coordenadas:** **lat:** 39.63167
+
+**lon:** -8.67333
+
+**refersTo:** santuario
+
+**Identificador de fonte:** wikidata
+
+**Precisão:** Capelinha das Aparições, no Santuário de Fátima, conforme o Wikidata (Q16592859); precisão de dezenas de metros.
+
+**qid:** Q16592859
 
 ## Período do acontecimento — apar-fatima-1917
 
@@ -107,6 +129,14 @@ As aparições aprovadas pela Igreja pertencem ao campo das revelações privada
 **Nome:** Jacinta
 
 **role:** Criança vidente; 7 anos em 1917, segundo a carta pastoral de 1930
+
+## Cronologia — apar-fatima-1917
+
+- **1917-05-13** (relato): Três crianças relatam uma aparição na Cova da Iria. Fontes: fatima-carta-1930.
+
+- **1917-10-13** (historia): Fenômeno solar descrito nos jornais da época, segundo a carta pastoral de 1930. Fontes: fatima-carta-1930.
+
+- **1922-05-06** (historia): O bispo nomeia uma comissão de sacerdotes para recolher depoimentos. Fontes: fatima-carta-1930.
 
 ## Decisões eclesiais documentadas no acervo — apar-fatima-1917
 
@@ -146,22 +176,20 @@ As aparições aprovadas pela Igreja pertencem ao campo das revelações privada
 
 - Conteúdo das mensagens atribuídas às aparições, outras datas (incluindo agosto) e documentos da Santa Sé: pesquisa pendente.
 
-- Coordenadas verificadas: pendentes.
-
 ## Revisão herdada do acervo — apar-fatima-1917
 
 **state:** pesquisa-documental
 
-**lastVerified:** 2026-10-04
+**lastVerified:** 2026-10-08
 
 **humanTheologicalReview:** não
 
 ## Relações e bibliografia
 
-- **fontes:** [[Fonte — Carta Pastoral 'A Providência Divina' sobre o culto de Nossa Senhora de Fátima]], [[Fonte — Catecismo da Igreja Católica, §§ 50-141 (Revelação e Escritura)]]
+- **fontes:** [[Fonte — Carta Pastoral 'A Providência Divina' sobre o culto de Nossa Senhora de Fátima]], [[Fonte — Catecismo da Igreja Católica, §§ 50-141 (Revelação e Escritura)]], [[Fonte — Wikidata -  coordenadas geográficas de santuários e lugares]]
 - **protagonistas:** [[Lúcia dos Santos]], [[São Francisco Marto]], [[Santa Jacinta Marto]]
 - **titulos relacionados:** [[Nossa Senhora de Fátima]]
+- **relato documentado em:** [[Fátima -  como interpretar a linguagem do segredo]]
 - **devocoes relacionadas:** [[O Santo Rosário]]
 - **estudos relacionados:** [[Revelações privadas e aparições]]
 - **local associado:** [[Santuário de Fátima (Cova da Iria)]]
-- **menciona:** [[Nossa Senhora de Fátima]], [[Lúcia dos Santos]]

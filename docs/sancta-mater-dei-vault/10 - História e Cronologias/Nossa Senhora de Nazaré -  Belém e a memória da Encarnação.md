@@ -13,6 +13,8 @@ tags:
 - mariana/estudo
 titulo_estudado:
 - '[[Nossa Senhora de Nazaré]]'
+pagina_principal:
+- '[[Basílica Santuário de Nossa Senhora de Nazaré (Belém)]]'
 ---
 
 # Nossa Senhora de Nazaré: Belém e a memória da Encarnação
@@ -53,7 +55,12 @@ titulo_estudado:
 
 528. Nazaré pode ser contemplada, assim, como escola de acolhimento da Palavra.
 
+## Página principal no site e conferência
+
+Este capítulo resume uma fonte; a página principal do assunto é [[Basílica Santuário de Nossa Senhora de Nazaré (Belém)]].
+
 ## Relações e bibliografia
 
 - **fontes:** [[Referência F33 — João Paulo II, homilia em Belém, 8 de julho de 1980]]
 - **titulo estudado:** [[Nossa Senhora de Nazaré]]
+- **pagina principal:** [[Basílica Santuário de Nossa Senhora de Nazaré (Belém)]]

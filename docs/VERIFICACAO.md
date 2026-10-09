@@ -45,3 +45,18 @@ Este relatório lista só o que foi executado. O que não foi feito está na se�
 
 ## Mapa do atlas redesenhado (6 de outubro de 2026)
 Oceano azul-noite com paralelos, meridianos e contorno do globo (Equal Earth); países com registro em bronze, país escolhido em ouro com brilho; pontos com halo que pulsa (só com movimento ativo) e cor por tipo, com legenda; ficha ao passar o mouse ou focar um ponto (nome, tipo, lugar, imagem); aproximação suave ao escolher país, região ou atalho de região (GSAP; sem movimento, salta direto); botão "Ver o mundo inteiro". `npm run check`, interaction-audit (28) e axe nos temas claro e escuro e no celular: sem falhas nem estouro horizontal.
+
+## Expansão editorial (8 de outubro de 2026)
+- `npm run check`: validação do acervo, 55 testes (55 passaram), build dos 8 idiomas (250 páginas por idioma) e verificador de saída em 2008 páginas: sem problemas.
+- Testes novos: classificação eclesial coerente com as decisões (nihil obstat não pode virar «aparição reconhecida»; inquérito não vira reconhecimento; juízo doutrinal não vira nihil obstat), terminologia de 2024 não aplicada a decisões antigas nem a antiga a decisões novas, cronologia com data e fonte, ligação da pesquisa a rascunho recusada, `mainRecord` só para registro publicado, fonte obrigatória do acontecimento nos milagres, rascunhos fora de atlas, títulos, lista de curas e capítulos da pesquisa.
+- Navegador (Chromium via Playwright, script fora do repositório): 26 páginas novas ou alteradas em celular (390 px), desktop (1440 px), desktop escuro com movimento reduzido e 320 px: axe (WCAG 2.0 a 2.2 A/AA) sem violações, sem rolagem horizontal, sem erros de console. Capturas inspecionadas por mim: catálogo de aparições (cartões, legenda de categorias, mapa e lista), ficha de Kibeho no celular, ficha de Traynor, título de Kibeho.
+- Corrigidos nesses ciclos: a revelação linha a linha das orações levava cerca de 10 s na Ladainha (67 linhas) e o axe acusava contraste nas linhas ainda esmaecidas; a cascata agora cabe em 1,4 s. A seção «Acontecimento relatado» dos milagres não mostrava fonte (campo `event.sources` criado e exigido).
+- `audit:visual` e `audit:interactions` do projeto: as únicas falhas (contraste do seletor de idioma e reflow a 320 px/150% na página inicial) se repetem no build do commit anterior; não foram introduzidas nesta etapa e estão em `PENDENCIAS.md`.
+- Não feito: leitor de tela, Safari e Firefox, revisão teológica, canônica ou médica humana.
+
+## Aplicativo instalável (PWA, 8 de outubro de 2026)
+- Chromium via Playwright (script fora do repositório), servidor local: `Page.getAppManifest` sem erros e `Page.getInstallabilityErrors` vazio (o Chrome considera o site instalável); o service worker assume a página; sem conexão, uma página já visitada abre normalmente e uma não visitada mostra «Sem conexão».
+- `/instalar/`: com agente de usuário de Android, Android vem marcado e só o painel dele aparece; de iPhone, o iPhone; no computador, Android e aviso de computador. Pelo teclado, a seta troca a opção, o painel e o endereço (`#ios`). Sem JavaScript, o clique no cartão troca o painel (`:has()`). axe sem violações em celular, celular escuro, 320 px e desktop; sem rolagem horizontal; sem erros de console. Capturas inspecionadas (claro e escuro).
+- O build `--app` não contém manifesto, `sw.js`, `pwa.js` nem a página de instalação.
+- `npm run check`: 56 testes (um novo, do PWA), 2024 páginas no verificador, sem problemas.
+- Não testado: instalação real em aparelho Android e iPhone (só emulação de navegador), Safari e Firefox.

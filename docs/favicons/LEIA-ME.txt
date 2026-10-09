@@ -1,0 +1,18 @@
+SANCTA MATER DEI — PACOTE DE FAVICONS
+
+Mesma arte aprovada, redimensionada com filtro Lanczos.
+PNGs transparentes: 16, 32, 48, 64, 96, 128, 180, 192, 256 e 512 pixels.
+favicon.ico: 16, 32, 48, 64, 128 e 256 pixels no mesmo arquivo.
+apple-touch-icon.png: 180 pixels, fundo marfim e margem.
+icon-maskable-512x512.png: fundo marfim, margem maior para recortes do sistema.
+
+INSTALAÇÃO
+1. Copie os arquivos para /favicons/ na pasta pública do projeto.
+2. Adapte o trecho de instalacao.html ao head/layout existente.
+3. Remova declarações antigas conflitantes de favicon.
+4. Se já houver um manifest, incorpore os ícones nele; não duplique manifests.
+5. Opcionalmente copie favicon.ico também para a raiz pública /favicon.ico.
+6. Atualize o cache ao conferir no navegador.
+
+O manifest fornece metadados e ícones; não implementa funcionamento offline.
+As versões 16 e 32 são reduções da mesma arte, sem redesenho dos detalhes.

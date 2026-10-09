@@ -14,6 +14,9 @@ tags:
 menciona:
 - '[[Maximin Giraud]]'
 - '[[Mélanie Calvat]]'
+pagina_principal:
+- '[[Relatos de aparições — La Salette]]'
+- '[[Nossa Senhora de La Salette]]'
 ---
 
 # Nossa Senhora de La Salette: lágrimas e conversão
@@ -54,7 +57,12 @@ menciona:
 
 640. A imagem da Virgem chorosa convida à responsabilidade diante do sofrimento humano.
 
+## Página principal no site e conferência
+
+Este capítulo resume uma fonte; a página principal do assunto é [[Relatos de aparições — La Salette]], [[Nossa Senhora de La Salette]].
+
 ## Relações e bibliografia
 
 - **fontes:** [[Referência F40 — Vatican News, recordação pontifícia dos 175 anos de La Salette, 19 de setembro de 2021]]
 - **menciona:** [[Maximin Giraud]], [[Mélanie Calvat]]
+- **pagina principal:** [[Relatos de aparições — La Salette]], [[Nossa Senhora de La Salette]]

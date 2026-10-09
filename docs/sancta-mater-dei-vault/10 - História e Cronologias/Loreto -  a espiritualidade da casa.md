@@ -13,6 +13,8 @@ tags:
 - mariana/estudo
 titulo_estudado:
 - '[[Nossa Senhora de Loreto]]'
+pagina_principal:
+- '[[Santuário da Santa Casa de Loreto]]'
 ---
 
 # Loreto: a espiritualidade da casa
@@ -53,7 +55,12 @@ titulo_estudado:
 
 288. Seu conteúdo central é pastoral: preparar uma casa humana pelo amor.
 
+## Página principal no site e conferência
+
+Este capítulo resume uma fonte; a página principal do assunto é [[Santuário da Santa Casa de Loreto]].
+
 ## Relações e bibliografia
 
 - **fontes:** [[Referência F18 — Homilia pontifícia · 08 - 09 - 1979]]
 - **titulo estudado:** [[Nossa Senhora de Loreto]]
+- **pagina principal:** [[Santuário da Santa Casa de Loreto]]

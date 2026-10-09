@@ -6,10 +6,10 @@ aliases:
 - Nossa Senhora de Kibeho
 - Our Lady of Kibeho
 - Notre-Dame de Kibeho
-fontes_verificadas: false
-estado_pesquisa: importado-sem-revalidacao
+fontes_verificadas: true
+estado_pesquisa: conferido-na-fonte
 fontes:
-- '[[Fonte — Declaração do bispo de Gikongoro sobre as aparições de Kibeho (29 de junho de 2001)]]'
+- '[[Fonte — Sala de Imprensa da Santa Sé, declaração do bispo de Gikongoro sobre Kibeho; 29 de junho de 2001]]'
 - '[[Fonte — Wikidata -  coordenadas geográficas de santuários e lugares]]'
 origens:
 - content/titles.json#tit-kibeho
@@ -27,27 +27,27 @@ natureza_documentacao: titulo
 menciona:
 - '[[Alphonsine Mumureke]]'
 - '[[Nathalie Mukamazimpaka]]'
+pagina_principal:
+- '[[Relatos de aparições — Kibeho]]'
+revisado_em: '2026-10-08'
 ---
 
 # Nossa Senhora de Kibeho (Ruanda)
 
 ## Apresentação — tit-kibeho
 
-Aparições relatadas a três jovens em Kibeho, em Ruanda, a partir de 1981, declaradas autênticas pelo bispo de Gikongoro em 2001.
+Título ligado às aparições relatadas em Kibeho, em Ruanda, a partir de 1981. Em 2001, o bispo de Gikongoro declarou autênticas as aparições às três primeiras videntes.
 
-## A declaração do bispo de Gikongoro (2001) — tit-kibeho
+## Página principal deste assunto — tit-kibeho
 
-> [!info] Natureza: decisao
-> Texto preservado do acervo; fontes e revisão abaixo.
+O relato completo, a cronologia, o histórico de decisões e as lacunas estão em [[Relatos de aparições — Kibeho]]. Esta nota guarda só o resumo do título, para não duplicar o histórico.
 
-Em 29 de junho de 2001, Dom Augustin Misago, bispo de Gikongoro, declarou que a Virgem Maria apareceu em Kibeho em 28 de novembro de 1981 e nos meses seguintes, reconhecendo como autênticas apenas as três primeiras videntes: Alphonsine Mumureke, Nathalie Mukamazimpaka e Marie Claire Mukangango. A declaração deixa de fora as supostas aparições de Jesus relatadas a partir de julho de 1982 e outros videntes, e diz que a mensagem não é nova revelação, mas um modo de recordar o ensino ordinário da Igreja. O reconhecimento não é exigência de fé: cada cristão é livre para crer ou não.
+## Em resumo — tit-kibeho
 
-## O que esta página ainda não traz — tit-kibeho
+> [!info] Natureza: relato
+> Texto do acervo, conferido nas fontes em 8 de outubro de 2026; fontes e revisão abaixo.
 
-> [!info] Natureza: nota
-> Texto preservado do acervo; fontes e revisão abaixo.
-
-O relato das aparições, o trabalho das comissões médica e teológica, os eventos entre 1981 e 1989 e o contexto histórico de Ruanda não foram lidos em fontes primárias nesta edição, por isso não são narrados aqui.
+Nossa Senhora de Kibeho é o título ligado às aparições relatadas a partir de 28 de novembro de 1981 no colégio de Kibeho, em Ruanda. Segundo a declaração do bispo de Gikongoro de 29 de junho de 2001, a Virgem se apresentou às videntes como «Nyina wa Jambo», Mãe do Verbo. A declaração reconheceu como autênticas só as aparições às três primeiras videntes. A história, as decisões de 1988 e 2001 e o seu alcance estão na página da aparição.
 
 ## Nomes registrados — tit-kibeho
 
@@ -73,82 +73,17 @@ O relato das aparições, o trabalho das comissões médica e teológica, os eve
 
 - aparicao-relatada
 
-## Localização — tit-kibeho
-
-**locality:** Kibeho
-
-**region:** Província do Sul
-
-**País:** Ruanda
-
-**iso:** RW
-
-**macro:** África
-
-**Coordenadas:** **lat:** -2.64889
-
-**lon:** 29.55333
-
-**verified:** sim
-
-**Identificador de fonte:** wikidata
-
-**Precisão:** Kibeho, conforme o Wikidata (Q182578: Our Lady of Kibeho); precisão da ordem de dezenas a centenas de metros
-
-**qid:** Q182578
-
-## Período do acontecimento — tit-kibeho
-
-**start:** 1981-11-28
-
-**Precisão:** dia
-
-## Decisões eclesiais documentadas no acervo — tit-kibeho
-
-**id:** d-ki-2001
-
-**Data:** 2001-06-29
-
-**datePrecision:** dia
-
-**Autoridade:** Dom Augustin Misago, bispo de Gikongoro
-
-**authorityLevel:** diocesano
-
-**kinds:** - reconhecimento-da-aparicao
-
-**Alcance:** Reconhece como autênticas as aparições às três primeiras videntes; exclui as supostas aparições de Jesus e os demais videntes; a crença é livre.
-
-**Documento:** Declaração de 29 de junho de 2001 (tradução em inglês, publicada no L'Osservatore Romano, edição semanal em inglês, 11 de julho de 2001, p. 8).
-
-**documentSourceId:** kibeho-declaracao-2001
-
-**Explicação:** O bispo da diocese declarou autênticas as aparições da Virgem às três primeiras videntes e disse que ninguém é obrigado a crer.
-
-**Identificadores de fontes:** - kibeho-declaracao-2001
-
-**Citação preservada do acervo:** The recognition of these apparitions should not be considered a requirement of faith. Therefore each Christian is free to believe or not.
-
-**quoteLang:** en
-
-## Lacunas registradas — tit-kibeho
-
-- Fonte terciária cita aprovação da devoção pública pelo bispo de Gikongoro em 15 de agosto de 1988 e o envio da declaração pela Santa Sé em 2 de julho de 2001; os documentos não foram lidos, e por isso não constam do histórico.
-
-- O relatório de 23 páginas (em francês) que acompanha a declaração não foi lido.
-
-- O santuário e sua situação atual não foram pesquisados.
-
 ## Revisão herdada do acervo — tit-kibeho
 
 **state:** pesquisa-documental
 
-**lastVerified:** 2026-10-04
+**lastVerified:** 2026-10-08
 
 **humanTheologicalReview:** não
 
 ## Relações e bibliografia
 
-- **fontes:** [[Fonte — Declaração do bispo de Gikongoro sobre as aparições de Kibeho (29 de junho de 2001)]], [[Fonte — Wikidata -  coordenadas geográficas de santuários e lugares]]
+- **fontes:** [[Fonte — Sala de Imprensa da Santa Sé, declaração do bispo de Gikongoro sobre Kibeho; 29 de junho de 2001]], [[Fonte — Wikidata -  coordenadas geográficas de santuários e lugares]]
+- **pagina principal:** [[Relatos de aparições — Kibeho]]
 - **protagonistas:** [[Alphonsine Mumureke]], [[Nathalie Mukamazimpaka]], [[Marie-Claire Mukangango]]
 - **menciona:** [[Alphonsine Mumureke]], [[Nathalie Mukamazimpaka]]

@@ -13,6 +13,8 @@ tags:
 - mariana/estudo
 titulo_estudado:
 - '[[Nossa Senhora do Pilar]]'
+pagina_principal:
+- '[[Catedral-Basílica de Nossa Senhora do Pilar (Saragoça)]]'
 ---
 
 # Nossa Senhora do Pilar: uma oração pelas gerações
@@ -53,7 +55,12 @@ titulo_estudado:
 
 544. A oração oferece um caminho para unir peregrinação e responsabilidade cotidiana.
 
+## Página principal no site e conferência
+
+Este capítulo resume uma fonte; a página principal do assunto é [[Catedral-Basílica de Nossa Senhora do Pilar (Saragoça)]].
+
 ## Relações e bibliografia
 
 - **fontes:** [[Referência F34 — João Paulo II, celebração em Zaragoza, 6 de novembro de 1982]]
 - **titulo estudado:** [[Nossa Senhora do Pilar]]
+- **pagina principal:** [[Catedral-Basílica de Nossa Senhora do Pilar (Saragoça)]]

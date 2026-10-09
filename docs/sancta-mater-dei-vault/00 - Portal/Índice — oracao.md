@@ -17,6 +17,9 @@ catalogo:
 - '[[Sob a Tua Protecção]]'
 - '[[Magnificat]]'
 - '[[Angelus]]'
+- '[[Pai-Nosso]]'
+- '[[Ladainha de Nossa Senhora]]'
+- '[[Dai-lhes, Senhor, o eterno descanso (Requiem aeternam)]]'
 ---
 
 # Índice — oracao
@@ -27,4 +30,4 @@ catalogo:
 
 ## Relações e bibliografia
 
-- **catalogo:** [[Sinal da Cruz]], [[Glória ao Pai]], [[Avé Maria]], [[Salve Rainha]], [[Sob a Tua Protecção]], [[Magnificat]], [[Angelus]]
+- **catalogo:** [[Sinal da Cruz]], [[Glória ao Pai]], [[Avé Maria]], [[Salve Rainha]], [[Sob a Tua Protecção]], [[Magnificat]], [[Angelus]], [[Pai-Nosso]], [[Ladainha de Nossa Senhora]], [[Dai-lhes, Senhor, o eterno descanso (Requiem aeternam)]]

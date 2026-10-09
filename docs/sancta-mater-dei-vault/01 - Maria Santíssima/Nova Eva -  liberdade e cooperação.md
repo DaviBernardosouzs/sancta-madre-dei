@@ -11,6 +11,8 @@ origens:
 - content/pesquisa-documentada.txt#capitulo-10
 tags:
 - mariana/estudo
+pagina_principal:
+- '[[A Anunciação]]'
 ---
 
 # Nova Eva: liberdade e cooperação
@@ -51,6 +53,11 @@ tags:
 
 160. Cada fiel é convidado a responder livremente ao mesmo chamado divino.
 
+## Página principal no site e conferência
+
+Este capítulo resume uma fonte; a página principal do assunto é [[A Anunciação]].
+
 ## Relações e bibliografia
 
 - **fontes:** [[Referência F10 — Catequese patrística e conciliar · 18 - 09 - 1996]]
+- **pagina principal:** [[A Anunciação]]

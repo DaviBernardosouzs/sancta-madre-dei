@@ -2,14 +2,16 @@
 id: apar-lourdes-1858
 tipo: aparicao
 titulo: Aparições de Lourdes (1858)
-aliases: []
-fontes_verificadas: false
-estado_pesquisa: importado-sem-revalidacao
+aliases:
+- Lourdes (França), 1858
+fontes_verificadas: true
+estado_pesquisa: conferido-na-fonte
 fontes:
 - '[[Fonte — The apparitions in Lourdes]]'
 - '[[Fonte — The message of Lourdes]]'
 - '[[Fonte — La reconnaissance des apparitions de Lourdes]]'
 - '[[Fonte — Catecismo da Igreja Católica, §§ 50-141 (Revelação e Escritura)]]'
+- '[[Fonte — Wikidata -  coordenadas geográficas de santuários e lugares]]'
 origens:
 - content/apparitions.json#apar-lourdes-1858
 tags:
@@ -22,10 +24,17 @@ data_inicio: '1858-02-11'
 ano: 1858
 data_fim: '1858-07-16'
 status_eclesial: reconhecimento-diocesano-historico
+categoria_eclesial: Aparição reconhecida pelo bispo diocesano
 natureza_documentacao: aparicao
+coordenadas:
+- 43.09754
+- -0.05851
+coordenadas_referem_se_a: acontecimento
 titulos_relacionados:
-- '[[Nossa Senhora de Lourdes]]'
 - '[[Nossa Senhora da Imaculada Conceição]]'
+- '[[Nossa Senhora de Lourdes]]'
+relato_documentado_em:
+- '[[Lourdes -  Antonietta Raco e o reconhecimento de 2025]]'
 devocoes_relacionadas:
 - '[[A mensagem de Lourdes -  penitência, oração, a fonte e a procissão]]'
 - '[[O Santo Rosário]]'
@@ -36,8 +45,11 @@ mensagem_relacionada_ao_dogma:
 - '[[Imaculada Conceição]]'
 local_associado:
 - '[[Santuário de Nossa Senhora de Lourdes]]'
-menciona:
-- '[[Santa Bernadette Soubirous]]'
+milagres_relacionados:
+- '[[Cura atribuída — John Traynor]]'
+- '[[Cura atribuída — Sister Bernadette Moriau]]'
+pagina_no_site: aparicoes/lourdes/
+revisado_em: '2026-10-08'
 ---
 
 # Aparições de Lourdes (1858)
@@ -46,31 +58,35 @@ menciona:
 
 Entre 11 de fevereiro e 16 de julho de 1858, uma jovem chamada Bernadette Soubirous relatou dezoito aparições da Mãe de Deus na gruta de Massabielle. Em 1862, o bispo local reconheceu as aparições e autorizou o culto.
 
+## Situação eclesial — apar-lourdes-1858
+
+**Aparição reconhecida pelo bispo diocesano.** Classificação na terminologia da época de cada decisão; decisões anteriores a 2024 não são reclassificadas pelas normas do Dicastério para a Doutrina da Fé.
+
 ## O que foi relatado — apar-lourdes-1858
 
 > [!info] Natureza: relato
-> Texto preservado do acervo; fontes e revisão abaixo.
+> Texto do acervo, conferido nas fontes em 8 de outubro de 2026; fontes e revisão abaixo.
 
 Segundo o santuário de Lourdes, as aparições ocorreram entre 11 de fevereiro e 16 de julho de 1858, na gruta de Massabielle, e Bernadette Soubirous contemplou a Mãe de Deus dezoito vezes. Na última, em 16 de julho, ela contou que a Virgem não falou e estava mais bela do que nunca.
 
 ## Palavras atribuídas à Virgem, segundo o relato de Bernadette — apar-lourdes-1858
 
 > [!info] Natureza: revelacao-privada
-> Texto preservado do acervo; fontes e revisão abaixo.
+> Texto do acervo, conferido nas fontes em 8 de outubro de 2026; fontes e revisão abaixo.
 
 O santuário apresenta estas palavras como relatadas por Bernadette: na 3ª aparição (18 de fevereiro de 1858), «o que tenho a dizer-te não precisa de ser escrito» (em inglês no original consultado: «what I have to say to you does not have to be written down»); depois, «Penitência, penitência, penitência. Rezai pelos pecadores»; na 9ª aparição, o pedido de ir à fonte, beber e lavar-se; na 13ª, o pedido de vir em procissão e de construir uma capela. As traduções para o português são nossas, a partir da página em inglês do santuário.
 
 ## O inquérito da Igreja — apar-lourdes-1858
 
 > [!info] Natureza: historia
-> Texto preservado do acervo; fontes e revisão abaixo.
+> Texto do acervo, conferido nas fontes em 8 de outubro de 2026; fontes e revisão abaixo.
 
 O reconhecimento apoiou-se no trabalho de uma Comissão de Inquérito constituída em 1858, encarregada de verificar a autenticidade e a natureza dos fatos. Quase quatro anos depois das aparições, em 18 de janeiro de 1862, o Bispo de Tarbes publicou o seu mandamento.
 
 ## Como a Igreja entende um acontecimento assim — apar-lourdes-1858
 
 > [!info] Natureza: doutrina
-> Texto preservado do acervo; fontes e revisão abaixo.
+> Texto do acervo, conferido nas fontes em 8 de outubro de 2026; fontes e revisão abaixo.
 
 Mesmo quando a Igreja reconhece uma aparição, isso não a transforma em parte da Revelação. O Catecismo (§ 67) ensina que as revelações privadas «não pertencem ao depósito da fé» e que o seu papel é ajudar a viver a Revelação de Cristo mais plenamente numa época. Em outras palavras, segundo esse ensino, a fé católica não se apoia em aparições particulares: esta é a leitura do projeto, e não uma citação do Catecismo.
 
@@ -84,11 +100,21 @@ Mesmo quando a Igreja reconhece uma aparição, isso não a transforma em parte 
 
 **País:** França
 
-**Coordenadas:** Não informado no registro original.
-
-**coordinatesNote:** Coordenadas ainda não verificadas em fonte consultada; mapa adiado.
-
 **iso:** FR
+
+**macro:** Europa
+
+**Coordenadas:** **lat:** 43.09754
+
+**lon:** -0.05851
+
+**refersTo:** acontecimento
+
+**Identificador de fonte:** wikidata
+
+**Precisão:** Gruta de Massabielle, conforme o Wikidata (Q1918916); precisão da ordem de dez metros.
+
+**qid:** Q1918916
 
 ## Período do acontecimento — apar-lourdes-1858
 
@@ -103,6 +129,16 @@ Mesmo quando a Igreja reconhece uma aparição, isso não a transforma em parte 
 **Nome:** Bernadette Soubirous
 
 **role:** Jovem que relatou as aparições
+
+## Cronologia — apar-lourdes-1858
+
+- **1858-02-11** (relato): Primeira aparição relatada por Bernadette Soubirous na gruta de Massabielle. Fontes: lourdes-aparicoes.
+
+- **1858-02-18** (relato): Terceira aparição: segundo Bernadette, «o que tenho a dizer-te não precisa de ser escrito». Fontes: lourdes-mensagem.
+
+- **1858-07-16** (relato): Décima oitava e última aparição relatada. Fontes: lourdes-aparicoes.
+
+- **1858** (historia): Constituição da Comissão de Inquérito encarregada de verificar os fatos. Fontes: lourdes-reconhecimento.
 
 ## Decisões eclesiais documentadas no acervo — apar-lourdes-1858
 
@@ -142,23 +178,22 @@ Mesmo quando a Igreja reconhece uma aparição, isso não a transforma em parte 
 
 - Contexto histórico e social da França de 1858 e estudos acadêmicos sobre Lourdes: pesquisa pendente.
 
-- Coordenadas verificadas da gruta: pendentes.
-
 ## Revisão herdada do acervo — apar-lourdes-1858
 
 **state:** pesquisa-documental
 
-**lastVerified:** 2026-10-04
+**lastVerified:** 2026-10-08
 
 **humanTheologicalReview:** não
 
 ## Relações e bibliografia
 
-- **fontes:** [[Fonte — The apparitions in Lourdes]], [[Fonte — The message of Lourdes]], [[Fonte — La reconnaissance des apparitions de Lourdes]], [[Fonte — Catecismo da Igreja Católica, §§ 50-141 (Revelação e Escritura)]]
+- **fontes:** [[Fonte — The apparitions in Lourdes]], [[Fonte — The message of Lourdes]], [[Fonte — La reconnaissance des apparitions de Lourdes]], [[Fonte — Catecismo da Igreja Católica, §§ 50-141 (Revelação e Escritura)]], [[Fonte — Wikidata -  coordenadas geográficas de santuários e lugares]]
 - **protagonistas:** [[Santa Bernadette Soubirous]]
-- **titulos relacionados:** [[Nossa Senhora de Lourdes]], [[Nossa Senhora da Imaculada Conceição]]
+- **titulos relacionados:** [[Nossa Senhora da Imaculada Conceição]], [[Nossa Senhora de Lourdes]]
+- **relato documentado em:** [[Lourdes -  Antonietta Raco e o reconhecimento de 2025]]
 - **devocoes relacionadas:** [[A mensagem de Lourdes -  penitência, oração, a fonte e a procissão]], [[O Santo Rosário]]
 - **estudos relacionados:** [[Imaculada Conceição]], [[Revelações privadas e aparições]]
 - **mensagem relacionada ao dogma:** [[Imaculada Conceição]]
 - **local associado:** [[Santuário de Nossa Senhora de Lourdes]]
-- **menciona:** [[Santa Bernadette Soubirous]]
+- **milagres relacionados:** [[Cura atribuída — John Traynor]], [[Cura atribuída — Sister Bernadette Moriau]]

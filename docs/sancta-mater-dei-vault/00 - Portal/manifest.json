@@ -1,21 +1,22 @@
 {
   "schema": 1,
-  "data": "2026-10-07",
+  "data": "2026-10-08",
   "edicoes_importadas": {
-    "content/apparitions.json": "12 - Fontes e Bibliografia/Originais/content/apparitions.json",
-    "content/articles.json": "12 - Fontes e Bibliografia/Originais/content/articles.json",
+    "content/apparitions.json": "12 - Fontes e Bibliografia/Originais/Edições/e49c9e0642f9/content/apparitions.json",
+    "content/articles.json": "12 - Fontes e Bibliografia/Originais/Edições/fb702c63f1f9/content/articles.json",
     "content/celebrations.json": "12 - Fontes e Bibliografia/Originais/content/celebrations.json",
-    "content/curas-lourdes.json": "12 - Fontes e Bibliografia/Originais/content/curas-lourdes.json",
+    "content/curas-lourdes.json": "12 - Fontes e Bibliografia/Originais/Edições/93deb1484982/content/curas-lourdes.json",
     "content/devotions.json": "12 - Fontes e Bibliografia/Originais/content/devotions.json",
     "content/images.json": "12 - Fontes e Bibliografia/Originais/content/images.json",
-    "content/miracles.json": "12 - Fontes e Bibliografia/Originais/content/miracles.json",
+    "content/miracles.json": "12 - Fontes e Bibliografia/Originais/Edições/9e899437f8b9/content/miracles.json",
     "content/pesquisa-documentada.txt": "12 - Fontes e Bibliografia/Originais/content/pesquisa-documentada.txt",
     "content/pilgrimage.json": "12 - Fontes e Bibliografia/Originais/Edições/fa77adfcc07a/content/pilgrimage.json",
-    "content/prayers.json": "12 - Fontes e Bibliografia/Originais/content/prayers.json",
+    "content/prayers.json": "12 - Fontes e Bibliografia/Originais/Edições/352d83a291f1/content/prayers.json",
     "content/rosary.json": "12 - Fontes e Bibliografia/Originais/content/rosary.json",
     "content/shrines.json": "12 - Fontes e Bibliografia/Originais/content/shrines.json",
-    "content/sources.json": "12 - Fontes e Bibliografia/Originais/content/sources.json",
-    "content/titles.json": "12 - Fontes e Bibliografia/Originais/content/titles.json"
+    "content/sources.json": "12 - Fontes e Bibliografia/Originais/Edições/7c96c593c438/content/sources.json",
+    "content/titles.json": "12 - Fontes e Bibliografia/Originais/Edições/9d0f53ed0f85/content/titles.json",
+    "content/pesquisa-relacoes.json": "12 - Fontes e Bibliografia/Originais/Edições/bd9313eae075/content/pesquisa-relacoes.json"
   },
   "registros_importados": [
     {
@@ -700,7 +701,7 @@
       "origem": "content/sources.json",
       "id": "champion-decreto-2010",
       "nota": "12 - Fontes e Bibliografia/Fonte — Decree on the Authenticity of the Apparitions of 1859 at the Shrine of Our Lady of Good Help (8 de dezembro de 2010).md",
-      "sha256_registro": "b757c4b09e09cd1800fbb706090c056c469b76fc149ec862a855fb14a5b7e49f"
+      "sha256_registro": "9da2cafbb5fda4984571e4c8e6d0bd970d2cf848c65f985d264e8b30781da128"
     },
     {
       "origem": "content/sources.json",
@@ -1060,7 +1061,7 @@
       "origem": "content/articles.json",
       "id": "guia-curas-e-milagres",
       "nota": "06 - Dogmas e Doutrina/Curas e milagres em Lourdes -  o que está documentado.md",
-      "sha256_registro": "039ad943ca59cdf6acb26b31fb60be48efee0d663f0ce987ab0087c6b61cf169"
+      "sha256_registro": "a95749cb09e671c7b02297440404cdd572058e4e967f4a16f88ef351f0f2bd76"
     },
     {
       "origem": "content/articles.json",
@@ -1348,7 +1349,7 @@
       "origem": "content/titles.json",
       "id": "tit-lourdes",
       "nota": "03 - Títulos Marianos/Nossa Senhora de Lourdes.md",
-      "sha256_registro": "4cf3ee4e27dab78902f7dec5aec7e2c1c4a217161bf4ae1a61dcda184aebd757"
+      "sha256_registro": "7f1ab9ea1be2bdccbf93a3adcdd4e8fa11f12cf04ffddeaa2a7c17b8c545c2f8"
     },
     {
       "origem": "content/titles.json",
@@ -1390,19 +1391,19 @@
       "origem": "content/titles.json",
       "id": "tit-bom-socorro-champion",
       "nota": "03 - Títulos Marianos/Nossa Senhora do Bom Socorro (Champion, Wisconsin).md",
-      "sha256_registro": "734db05c5cb16b7b589c02710e8f46aa11a465f6ba2629e7319653923d0510c7"
+      "sha256_registro": "1a9770b623ec90f92843ce5fb5bbc647594b71b99f7bb58951ad6b366910f49e"
     },
     {
       "origem": "content/titles.json",
       "id": "tit-kibeho",
       "nota": "03 - Títulos Marianos/Nossa Senhora de Kibeho (Ruanda).md",
-      "sha256_registro": "7a8c1022fdbc76d6d74ba240a6cad56f51da5ad9a6de6761f91f0cd3f63411bc"
+      "sha256_registro": "079e3ea33276a01b0794bc403689ae1d3ec537e7c9fd87bf55c9debeb25039ae"
     },
     {
       "origem": "content/titles.json",
       "id": "tit-la-salette",
       "nota": "03 - Títulos Marianos/Nossa Senhora de La Salette.md",
-      "sha256_registro": "12a3d017d3b849f19149bec8d41e585b3fecae2cc6f78f55e1935a69627ebafd"
+      "sha256_registro": "2f6f157aa7f5642a4da89a02dada74322ea8bf1669d8c96707860b74280c4932"
     },
     {
       "origem": "content/titles.json",
@@ -1414,13 +1415,13 @@
       "origem": "content/titles.json",
       "id": "tit-banneux",
       "nota": "03 - Títulos Marianos/Nossa Senhora de Banneux (Virgem dos Pobres).md",
-      "sha256_registro": "b7eca79f14fe5f735d5f4289f20b77ede54b132b062fb36b5c0c833afae3044a"
+      "sha256_registro": "c023ac84baf1a4faa20bb920344f41eda74b2907cafa565e8b9d23a058734afe"
     },
     {
       "origem": "content/titles.json",
       "id": "tit-knock",
       "nota": "03 - Títulos Marianos/Nossa Senhora de Knock.md",
-      "sha256_registro": "b984df3ac1bf63fedceb360f7ec9114008c3a3f119248a32ee773109096bcd11"
+      "sha256_registro": "191c00ea720e7e5dafa8ffccb6cfa35da770db7587bee98e564851c8ee9ef28d"
     },
     {
       "origem": "content/titles.json",
@@ -1432,13 +1433,13 @@
       "origem": "content/apparitions.json",
       "id": "apar-lourdes-1858",
       "nota": "02 - Aparições Marianas/Europa/Aparições de Lourdes (1858).md",
-      "sha256_registro": "faf7ab84947a20b6ae6ef547349af5450367c04eb5b395e0872646e4dd5fd7a2"
+      "sha256_registro": "cbc1a6c4f2d8c55d37e83d329c401fc9c2e7fb6450b9b0d661bc7524a7614e8f"
     },
     {
       "origem": "content/apparitions.json",
       "id": "apar-fatima-1917",
       "nota": "02 - Aparições Marianas/Europa/Aparições de Fátima (1917).md",
-      "sha256_registro": "a7f1dfd5dade28f6e6786c2f338884d736ea3528cf016734ae5cd748a34c1484"
+      "sha256_registro": "2ea76e50b305884d6ead7f92fa6190fef3c9dac98cadaad440e83c332ee9eb39"
     },
     {
       "origem": "content/miracles.json",
@@ -1450,7 +1451,7 @@
       "origem": "content/miracles.json",
       "id": "mil-lourdes-raco",
       "nota": "04 - Milagres/Cura atribuída — Antonietta Raco.md",
-      "sha256_registro": "0cabfb3deef312f95246cba763e795e6a294e6219f643803e5ed0734e24170e9"
+      "sha256_registro": "43bea1b040bda18fd9055e4a16dd5361701cdba1d6ea9c528e592d02d6bd6cfb"
     },
     {
       "origem": "content/devotions.json",
@@ -2314,13 +2315,13 @@
       "origem": "content/curas-lourdes.json",
       "id": "cura-sister-bernadette-moriau",
       "nota": "04 - Milagres/Cura atribuída — Sister Bernadette Moriau.md",
-      "sha256_registro": "7da7d81bff1203ebe76a3cb4bc388ad5f13bc72a13baf10025834811475e7cc0"
+      "sha256_registro": "0151fb4fc0ea477acb71dd7ebabc2f026a073c436b0cc28c89de24aacef529d6"
     },
     {
       "origem": "content/curas-lourdes.json",
       "id": "cura-john-traynor",
       "nota": "04 - Milagres/Cura atribuída — John Traynor.md",
-      "sha256_registro": "e89802a9b5600cbc17ba577967c1ccf3d6da67a892c2019a1638a3ec5ba9ccc4"
+      "sha256_registro": "17df267d46e1455f675db1208d0f51a701968067353af3e70ddf51f3477f2f1d"
     },
     {
       "origem": "content/images.json",
@@ -3377,6 +3378,264 @@
       "id": "capitulo-64",
       "nota": "09 - Documentos da Igreja/Como compreender as decisões sobre fenômenos extraordinários.md",
       "afirmacoes": 16
+    },
+    {
+      "origem": "content/sources.json",
+      "id": "kibeho-boletim-2001",
+      "nota": "12 - Fontes e Bibliografia/Fonte — Sala de Imprensa da Santa Sé, declaração do bispo de Gikongoro sobre Kibeho; 29 de junho de 2001.md",
+      "sha256_registro": "816722255b89f4c2bd7300893e69baff78553fecc4c0b67e680d94c177f67805"
+    },
+    {
+      "origem": "content/sources.json",
+      "id": "lasalette-santuario-historia",
+      "nota": "12 - Fontes e Bibliografia/Fonte — Santuário de Nossa Senhora de La Salette, History -  narrativa e decisões episcopais.md",
+      "sha256_registro": "561c35e3e70894780d76961bf979ce0a66b597cc241ed7d5c6afa709a6df2f96"
+    },
+    {
+      "origem": "content/sources.json",
+      "id": "francisco-angelus-2021-09-19",
+      "nota": "12 - Fontes e Bibliografia/Fonte — Francisco, Angelus de 19 de setembro de 2021 (saudação a La Salette).md",
+      "sha256_registro": "71ec98a4bebb7d58bda4ca35df99a82f49267e68975c393d7f44d1ad9f776218"
+    },
+    {
+      "origem": "content/sources.json",
+      "id": "banneux-santuario-aparicoes",
+      "nota": "12 - Fontes e Bibliografia/Fonte — Santuário de Banneux, The apparitions (1933), com data do reconhecimento episcopal.md",
+      "sha256_registro": "b33873e6e491422c0504fea00371461060d77a86867ed72ac4f0c7d682e6c48d"
+    },
+    {
+      "origem": "content/sources.json",
+      "id": "banneux-santuario-reconhecimento",
+      "nota": "12 - Fontes e Bibliografia/Fonte — Reconhecimento das aparições de Banneux (site do santuário).md",
+      "sha256_registro": "363e9c7b363555df3023e19b03a0811c97a376dd029f223c92e51b7f46177007"
+    },
+    {
+      "origem": "content/sources.json",
+      "id": "francisco-knock-2021",
+      "nota": "12 - Fontes e Bibliografia/Fonte — Francisco, videomensagem pela elevação do santuário de Knock a santuário internacional (19 de março de 2021).md",
+      "sha256_registro": "4928489d23b18b621daf6a51ae610e4510a4a37591f3bca3821c2436d1174360"
+    },
+    {
+      "origem": "content/sources.json",
+      "id": "ddf-pellevoisin-2024",
+      "nota": "12 - Fontes e Bibliografia/Fonte — Dicastério para a Doutrina da Fé, «Nossa Senhora da Misericórdia nos leva ao Coração de Cristo» -  carta ao arcebispo de Bourges sobre a experiência espiritual de Estelle F.md",
+      "sha256_registro": "6ba0e7e56c7753b51111ab8a6cfe27790ab72ab44e95f4e445ef9f36d48e4bbd"
+    },
+    {
+      "origem": "content/sources.json",
+      "id": "vaticannews-pellevoisin-2024",
+      "nota": "12 - Fontes e Bibliografia/Fonte — Vatican News, «Nossa Senhora da Misericórdia de Pellevoisin -  uma devoção que faz bem» (agosto de 2024).md",
+      "sha256_registro": "aad3a00777a7ebfc64a9d3c88b138e370d0d5e9922c7a0e39bc10eea56f2b453"
+    },
+    {
+      "origem": "content/sources.json",
+      "id": "ddf-chandavila-2024",
+      "nota": "12 - Fontes e Bibliografia/Fonte — Dicastério para a Doutrina da Fé, «Uma luz em Espanha» -  carta ao arcebispo de Mérida-Badajoz sobre a experiência espiritual de Chandavila (22 de agosto de 2024).md",
+      "sha256_registro": "6c23ed03f291272937e8cbec835223cb14a31a2c13b5dc5c104a98190ac4819e"
+    },
+    {
+      "origem": "content/sources.json",
+      "id": "ddf-medjugorje-2024",
+      "nota": "12 - Fontes e Bibliografia/Fonte — Dicastério para a Doutrina da Fé, A Rainha da Paz -  nota sobre Medjugorje; 19 de setembro de 2024.md",
+      "sha256_registro": "9c8f88d467129092bc41c9daa67751e207019c5e462b6f9b63418100adb86e6d"
+    },
+    {
+      "origem": "content/sources.json",
+      "id": "ddf-litmanova-2025",
+      "nota": "12 - Fontes e Bibliografia/Fonte — Dicastério para a Doutrina da Fé, «Deixa que Jesus te liberte» -  carta ao arcebispo de Prešov sobre a experiência espiritual no monte Zvir (Litmanová) (4 de julho de 2025).md",
+      "sha256_registro": "ddc6c3d29b728e41223075b065437fee173ee38c570de8291f8aba0ec4bd0e41"
+    },
+    {
+      "origem": "content/sources.json",
+      "id": "ddf-montichiari-2024",
+      "nota": "12 - Fontes e Bibliografia/Fonte — Dicastério para a Doutrina da Fé, carta ao bispo de Brescia sobre a devoção a Maria Rosa Mística (Montichiari) (5 de julho de 2024).md",
+      "sha256_registro": "dc370b9d0077cec3054dd1b389ee78f5db9a93096a101c68f6f09f6e90eae5b2"
+    },
+    {
+      "origem": "content/sources.json",
+      "id": "ddf-scoglio-2024",
+      "nota": "12 - Fontes e Bibliografia/Fonte — Dicastério para a Doutrina da Fé, carta ao bispo de Locri-Gerace sobre a experiência espiritual ligada ao santuário de Nossa Senhora «dello Scoglio» (5 de julho de 2024).md",
+      "sha256_registro": "92c7730e187ad5f07e68efdd9b3b58e2965da331bd54185c523ea4feac869836"
+    },
+    {
+      "origem": "content/sources.json",
+      "id": "traynor-declaracao-2024",
+      "nota": "12 - Fontes e Bibliografia/Fonte — Arcebispo de Liverpool, «Statement on the Case of John Traynor» (8 de dezembro de 2024).md",
+      "sha256_registro": "ecefff94f6a320bc8e0db3e908efb7b21f737b5cf587ca1f29c969d5569c0529"
+    },
+    {
+      "origem": "content/sources.json",
+      "id": "lourdes-traynor-2024",
+      "nota": "12 - Fontes e Bibliografia/Fonte — Santuário de Lourdes, John Traynor, 71st miracle at Lourdes; 8 de dezembro de 2024.md",
+      "sha256_registro": "8e0c3b0630729633ac9b92a432cda0984ad7832833358899ab4a3da8656b2760"
+    },
+    {
+      "origem": "content/sources.json",
+      "id": "cef-moriau-2018",
+      "nota": "12 - Fontes e Bibliografia/Fonte — Conferência dos Bispos da França, «Le 70e miracle de Lourdes officiellement reconnu par l’évêque de Beauvais» (2018).md",
+      "sha256_registro": "5376c0fa9383a5a9a513d9d526b9f671d4581903fe427c69fa4d2eb05e1515e4"
+    },
+    {
+      "origem": "content/sources.json",
+      "id": "lourdes-raco-2025",
+      "nota": "12 - Fontes e Bibliografia/Fonte — Santuário de Lourdes, Antonia Raco, 72nd Lourdes miracle; reconhecimento de 16 de abril de 2025, página publicada em 18 de julho de 2025.md",
+      "sha256_registro": "cd181e66925bba3e4e9b75672ce57d59437dce5a344801d8108abc573bb32582"
+    },
+    {
+      "origem": "content/sources.json",
+      "id": "sir-raco-2025",
+      "nota": "12 - Fontes e Bibliografia/Fonte — Agência SIR, «Diocesi -  Tursi-Lagonegro, mons. Orofino dichiara “prodigiosa-miracolosa” la guarigione di Antonia Raco» (16 de abril de 2025).md",
+      "sha256_registro": "0e1b99da933fbe902de6fe9970b1849b547cef4738b73f90377d702f6beebe54"
+    },
+    {
+      "origem": "content/sources.json",
+      "id": "vaticannews-pai-nosso",
+      "nota": "12 - Fontes e Bibliografia/Fonte — Pai Nosso (Vatican News, seção Orações, em português).md",
+      "sha256_registro": "2c5358a7de609a029b66b6279f51ebbff23298b4f557a18382901279cfcad90f"
+    },
+    {
+      "origem": "content/sources.json",
+      "id": "ladainha-vaticano-pt",
+      "nota": "12 - Fontes e Bibliografia/Fonte — Ladainha de Nossa Senhora (sítio do Vaticano, O Santo Rosário, versão em português).md",
+      "sha256_registro": "5db84dccfd6c1c03e2de81efef6df2a6d28ae267e2947e4430701633949e0bb0"
+    },
+    {
+      "origem": "content/sources.json",
+      "id": "ladainha-carta-2020",
+      "nota": "12 - Fontes e Bibliografia/Fonte — Congregação para o Culto Divino, carta aos presidentes das conferências episcopais sobre as invocações «Mater misericordiae», «Mater spei» e «Solacium migrantium» (20 de ju.md",
+      "sha256_registro": "32962a8b7e1ee23506499e7623dc3754797740926524ea9ed1400c4abdf1994d"
+    },
+    {
+      "origem": "content/sources.json",
+      "id": "paroquias-coroa-almas",
+      "nota": "12 - Fontes e Bibliografia/Fonte — Coroa pelas almas do Purgatório (Paroquias.org).md",
+      "sha256_registro": "d37b605e17d9ee088c7f1cb8ff9566b2a5e68f85ad67b91472d9aa34d390c6c5"
+    },
+    {
+      "origem": "content/sources.json",
+      "id": "saopiov-terco-almas",
+      "nota": "12 - Fontes e Bibliografia/Fonte — Terço e Ladainha pelas Almas do Purgatório (blog São Pio V, Curitiba, 2010).md",
+      "sha256_registro": "7769a9020731412e8e20fc928f1cb1dad7be6bdc49f9181604a50792d5b4466b"
+    },
+    {
+      "origem": "content/sources.json",
+      "id": "indulgentiarum-doctrina",
+      "nota": "12 - Fontes e Bibliografia/Fonte — Paulo VI, Constituição Apostólica Indulgentiarum doctrina (1º de janeiro de 1967).md",
+      "sha256_registro": "ac464b5c809a4cb95f77eee7f5cfaa82975088ae7867a592521d6640149175c3"
+    },
+    {
+      "origem": "content/apparitions.json",
+      "id": "apar-kibeho-1981",
+      "nota": "02 - Aparições Marianas/África/Relatos de aparições — Kibeho.md",
+      "sha256_registro": "8e905f91fa576f3f7b4b7938bfc6baff32ec3e95a793288be417f6dca78046b8"
+    },
+    {
+      "origem": "content/apparitions.json",
+      "id": "apar-la-salette-1846",
+      "nota": "02 - Aparições Marianas/Europa/Relatos de aparições — La Salette.md",
+      "sha256_registro": "1274d7d99eb22b9b81335504637ea4b7bf40a25015faf22e187f5f6c582b30c1"
+    },
+    {
+      "origem": "content/apparitions.json",
+      "id": "apar-banneux-1933",
+      "nota": "02 - Aparições Marianas/Europa/Relatos de aparições — Banneux.md",
+      "sha256_registro": "912182cfd6ac45ca97746b1296d35deaa104a58c653e961717b03d24329e5343"
+    },
+    {
+      "origem": "content/apparitions.json",
+      "id": "apar-knock-1879",
+      "nota": "02 - Aparições Marianas/Europa/Relatos de aparições — Knock.md",
+      "sha256_registro": "d674c1363be6db26b4c00715c13546d8d289d890126517a05390d6fee751c432"
+    },
+    {
+      "origem": "content/apparitions.json",
+      "id": "apar-champion-1859",
+      "nota": "02 - Aparições Marianas/América/Relatos de aparições — Champion.md",
+      "sha256_registro": "560de03284fa64a18fa086764b09ff43cce774b0b93f7766433f98bcd14e5651"
+    },
+    {
+      "origem": "content/apparitions.json",
+      "id": "apar-pellevoisin-1876",
+      "nota": "02 - Aparições Marianas/Europa/Relatos e discernimento — Nossa Senhora de Pellevoisin.md",
+      "sha256_registro": "ef3dcc61f6cee4d61e846380cc6fa648119a7f985e0f2d1834df62cb9f4a19b4"
+    },
+    {
+      "origem": "content/apparitions.json",
+      "id": "apar-chandavila-1945",
+      "nota": "02 - Aparições Marianas/Europa/Relatos e discernimento — Nossa Senhora de Chandavila.md",
+      "sha256_registro": "2fa8a9ea33e4cab422beb3a7347ae1b90f0c4f7d247550b3b0893b601b0e9d80"
+    },
+    {
+      "origem": "content/apparitions.json",
+      "id": "apar-medjugorje-1981",
+      "nota": "02 - Aparições Marianas/Europa/Relatos e discernimento — Nossa Senhora Rainha da Paz de Medjugorje.md",
+      "sha256_registro": "caeea7ac8e1d525486940f1a12332f7629ddd8035f30a7463f1876d68f3f6a9f"
+    },
+    {
+      "origem": "content/apparitions.json",
+      "id": "apar-litmanova-1990",
+      "nota": "02 - Aparições Marianas/Europa/Relatos e discernimento — Devoção mariana de Litmanová.md",
+      "sha256_registro": "a6bf304cb7949dde66e14dfadfd730b2cdd069f99fa24396b3efbae66f203d0b"
+    },
+    {
+      "origem": "content/apparitions.json",
+      "id": "apar-montichiari-1947",
+      "nota": "02 - Aparições Marianas/Europa/Relatos e discernimento — Maria Rosa Mística de Montichiari.md",
+      "sha256_registro": "783852050301ec051c1a709f0936ff08f27881d4ab2f60eaaf122944b5486791"
+    },
+    {
+      "origem": "content/apparitions.json",
+      "id": "apar-beauraing-1932",
+      "nota": "02 - Aparições Marianas/Europa/Relatos e discernimento — Nossa Senhora de Beauraing.md",
+      "sha256_registro": "96e2a3cb8053cd4d83704c65bdcea86274ea7655e9354b9dc7fa8745267194eb"
+    },
+    {
+      "origem": "content/apparitions.json",
+      "id": "apar-pontmain-1871",
+      "nota": "02 - Aparições Marianas/Europa/Relatos e discernimento — Nossa Senhora de Pontmain.md",
+      "sha256_registro": "30ba9f361d133fc1925b131ed0639daeadede99bf9d54a3381737d18f0717775"
+    },
+    {
+      "origem": "content/apparitions.json",
+      "id": "apar-scoglio-placanica",
+      "nota": "02 - Aparições Marianas/Europa/Relatos e discernimento — Nossa Senhora do Scoglio.md",
+      "sha256_registro": "43f8ca979e19680155980e0769b251d1a2cc73394534baac3f5cc14adafbd4d5"
+    },
+    {
+      "origem": "content/miracles.json",
+      "id": "mil-lourdes-traynor",
+      "nota": "04 - Milagres/Cura atribuída — John Traynor.md",
+      "sha256_registro": "5d7ba3828bf0fa4e1dd8e383edc174779b3fc693edb4bead9a3c1eaee6dcc20c"
+    },
+    {
+      "origem": "content/miracles.json",
+      "id": "mil-lourdes-moriau",
+      "nota": "04 - Milagres/Cura atribuída — Sister Bernadette Moriau.md",
+      "sha256_registro": "1735d41307ec64e579b860d45d7f165d6c2fb1cc83af32f8109808a832d8dc29"
+    },
+    {
+      "origem": "content/curas-lourdes.json",
+      "id": "cura-antonia-raco",
+      "nota": "04 - Milagres/Cura atribuída — Antonietta Raco.md",
+      "sha256_registro": "f25f53a3c33e3cc8abc859a54ff13d550b83810b1d94b4273ece4c5d4705b575"
+    },
+    {
+      "origem": "content/prayers.json",
+      "id": "ora-pai-nosso",
+      "nota": "07 - Orações e Devoções/Pai-Nosso.md",
+      "sha256_registro": "e85c092157172cbd9a311727cf52b8beaf6515ec99b58238c9a15de9c900f045"
+    },
+    {
+      "origem": "content/prayers.json",
+      "id": "ora-ladainha",
+      "nota": "07 - Orações e Devoções/Ladainha de Nossa Senhora.md",
+      "sha256_registro": "66b589723333ec53396ed0fe3432959b2b97cf41d392ae2701bc675dad92471d"
+    },
+    {
+      "origem": "content/prayers.json",
+      "id": "ora-requiem",
+      "nota": "07 - Orações e Devoções/Dai-lhes, Senhor, o eterno descanso (Requiem aeternam).md",
+      "sha256_registro": "e7ee9da681d0e99e1e430d38d162c9938ff49f14e7e851db4021acc4961d7fd3"
     }
   ],
   "notas": [
@@ -8077,6 +8336,156 @@
       "nome": "Skills — instalação e versões",
       "caminho": "00 - Portal/Skills — instalação e versões.md",
       "tipo": "guia"
+    },
+    {
+      "id": "francisco-angelus-2021-09-19",
+      "nome": "Fonte — Francisco, Angelus de 19 de setembro de 2021 (saudação a La Salette)",
+      "caminho": "12 - Fontes e Bibliografia/Fonte — Francisco, Angelus de 19 de setembro de 2021 (saudação a La Salette).md",
+      "tipo": "fonte"
+    },
+    {
+      "id": "banneux-santuario-reconhecimento",
+      "nome": "Fonte — Reconhecimento das aparições de Banneux (site do santuário)",
+      "caminho": "12 - Fontes e Bibliografia/Fonte — Reconhecimento das aparições de Banneux (site do santuário).md",
+      "tipo": "fonte"
+    },
+    {
+      "id": "francisco-knock-2021",
+      "nome": "Fonte — Francisco, videomensagem pela elevação do santuário de Knock a santuário internacional (19 de março de 2021)",
+      "caminho": "12 - Fontes e Bibliografia/Fonte — Francisco, videomensagem pela elevação do santuário de Knock a santuário internacional (19 de março de 2021).md",
+      "tipo": "fonte"
+    },
+    {
+      "id": "ddf-pellevoisin-2024",
+      "nome": "Fonte — Dicastério para a Doutrina da Fé, «Nossa Senhora da Misericórdia nos leva ao Coração de Cristo» -  carta ao arcebispo de Bourges sobre a experiência espiritual de Estelle F",
+      "caminho": "12 - Fontes e Bibliografia/Fonte — Dicastério para a Doutrina da Fé, «Nossa Senhora da Misericórdia nos leva ao Coração de Cristo» -  carta ao arcebispo de Bourges sobre a experiência espiritual de Estelle F.md",
+      "tipo": "fonte"
+    },
+    {
+      "id": "vaticannews-pellevoisin-2024",
+      "nome": "Fonte — Vatican News, «Nossa Senhora da Misericórdia de Pellevoisin -  uma devoção que faz bem» (agosto de 2024)",
+      "caminho": "12 - Fontes e Bibliografia/Fonte — Vatican News, «Nossa Senhora da Misericórdia de Pellevoisin -  uma devoção que faz bem» (agosto de 2024).md",
+      "tipo": "fonte"
+    },
+    {
+      "id": "ddf-chandavila-2024",
+      "nome": "Fonte — Dicastério para a Doutrina da Fé, «Uma luz em Espanha» -  carta ao arcebispo de Mérida-Badajoz sobre a experiência espiritual de Chandavila (22 de agosto de 2024)",
+      "caminho": "12 - Fontes e Bibliografia/Fonte — Dicastério para a Doutrina da Fé, «Uma luz em Espanha» -  carta ao arcebispo de Mérida-Badajoz sobre a experiência espiritual de Chandavila (22 de agosto de 2024).md",
+      "tipo": "fonte"
+    },
+    {
+      "id": "ddf-litmanova-2025",
+      "nome": "Fonte — Dicastério para a Doutrina da Fé, «Deixa que Jesus te liberte» -  carta ao arcebispo de Prešov sobre a experiência espiritual no monte Zvir (Litmanová) (4 de julho de 2025)",
+      "caminho": "12 - Fontes e Bibliografia/Fonte — Dicastério para a Doutrina da Fé, «Deixa que Jesus te liberte» -  carta ao arcebispo de Prešov sobre a experiência espiritual no monte Zvir (Litmanová) (4 de julho de 2025).md",
+      "tipo": "fonte"
+    },
+    {
+      "id": "ddf-montichiari-2024",
+      "nome": "Fonte — Dicastério para a Doutrina da Fé, carta ao bispo de Brescia sobre a devoção a Maria Rosa Mística (Montichiari) (5 de julho de 2024)",
+      "caminho": "12 - Fontes e Bibliografia/Fonte — Dicastério para a Doutrina da Fé, carta ao bispo de Brescia sobre a devoção a Maria Rosa Mística (Montichiari) (5 de julho de 2024).md",
+      "tipo": "fonte"
+    },
+    {
+      "id": "ddf-scoglio-2024",
+      "nome": "Fonte — Dicastério para a Doutrina da Fé, carta ao bispo de Locri-Gerace sobre a experiência espiritual ligada ao santuário de Nossa Senhora «dello Scoglio» (5 de julho de 2024)",
+      "caminho": "12 - Fontes e Bibliografia/Fonte — Dicastério para a Doutrina da Fé, carta ao bispo de Locri-Gerace sobre a experiência espiritual ligada ao santuário de Nossa Senhora «dello Scoglio» (5 de julho de 2024).md",
+      "tipo": "fonte"
+    },
+    {
+      "id": "traynor-declaracao-2024",
+      "nome": "Fonte — Arcebispo de Liverpool, «Statement on the Case of John Traynor» (8 de dezembro de 2024)",
+      "caminho": "12 - Fontes e Bibliografia/Fonte — Arcebispo de Liverpool, «Statement on the Case of John Traynor» (8 de dezembro de 2024).md",
+      "tipo": "fonte"
+    },
+    {
+      "id": "cef-moriau-2018",
+      "nome": "Fonte — Conferência dos Bispos da França, «Le 70e miracle de Lourdes officiellement reconnu par l’évêque de Beauvais» (2018)",
+      "caminho": "12 - Fontes e Bibliografia/Fonte — Conferência dos Bispos da França, «Le 70e miracle de Lourdes officiellement reconnu par l’évêque de Beauvais» (2018).md",
+      "tipo": "fonte"
+    },
+    {
+      "id": "sir-raco-2025",
+      "nome": "Fonte — Agência SIR, «Diocesi -  Tursi-Lagonegro, mons. Orofino dichiara “prodigiosa-miracolosa” la guarigione di Antonia Raco» (16 de abril de 2025)",
+      "caminho": "12 - Fontes e Bibliografia/Fonte — Agência SIR, «Diocesi -  Tursi-Lagonegro, mons. Orofino dichiara “prodigiosa-miracolosa” la guarigione di Antonia Raco» (16 de abril de 2025).md",
+      "tipo": "fonte"
+    },
+    {
+      "id": "vaticannews-pai-nosso",
+      "nome": "Fonte — Pai Nosso (Vatican News, seção Orações, em português)",
+      "caminho": "12 - Fontes e Bibliografia/Fonte — Pai Nosso (Vatican News, seção Orações, em português).md",
+      "tipo": "fonte"
+    },
+    {
+      "id": "ladainha-vaticano-pt",
+      "nome": "Fonte — Ladainha de Nossa Senhora (sítio do Vaticano, O Santo Rosário, versão em português)",
+      "caminho": "12 - Fontes e Bibliografia/Fonte — Ladainha de Nossa Senhora (sítio do Vaticano, O Santo Rosário, versão em português).md",
+      "tipo": "fonte"
+    },
+    {
+      "id": "ladainha-carta-2020",
+      "nome": "Fonte — Congregação para o Culto Divino, carta aos presidentes das conferências episcopais sobre as invocações «Mater misericordiae», «Mater spei» e «Solacium migrantium» (20 de ju",
+      "caminho": "12 - Fontes e Bibliografia/Fonte — Congregação para o Culto Divino, carta aos presidentes das conferências episcopais sobre as invocações «Mater misericordiae», «Mater spei» e «Solacium migrantium» (20 de ju.md",
+      "tipo": "fonte"
+    },
+    {
+      "id": "paroquias-coroa-almas",
+      "nome": "Fonte — Coroa pelas almas do Purgatório (Paroquias.org)",
+      "caminho": "12 - Fontes e Bibliografia/Fonte — Coroa pelas almas do Purgatório (Paroquias.org).md",
+      "tipo": "fonte"
+    },
+    {
+      "id": "saopiov-terco-almas",
+      "nome": "Fonte — Terço e Ladainha pelas Almas do Purgatório (blog São Pio V, Curitiba, 2010)",
+      "caminho": "12 - Fontes e Bibliografia/Fonte — Terço e Ladainha pelas Almas do Purgatório (blog São Pio V, Curitiba, 2010).md",
+      "tipo": "fonte"
+    },
+    {
+      "id": "indulgentiarum-doctrina",
+      "nome": "Fonte — Paulo VI, Constituição Apostólica Indulgentiarum doctrina (1º de janeiro de 1967)",
+      "caminho": "12 - Fontes e Bibliografia/Fonte — Paulo VI, Constituição Apostólica Indulgentiarum doctrina (1º de janeiro de 1967).md",
+      "tipo": "fonte"
+    },
+    {
+      "id": "p-estelle-faguette",
+      "nome": "Estelle Faguette",
+      "caminho": "05 - Santos e Videntes/Estelle Faguette.md",
+      "tipo": "vidente"
+    },
+    {
+      "id": "p-marcelina-barroso",
+      "nome": "Marcelina Barroso Expósito",
+      "caminho": "05 - Santos e Videntes/Marcelina Barroso Expósito.md",
+      "tipo": "vidente"
+    },
+    {
+      "id": "p-afra-brigido",
+      "nome": "Afra Brígido Blanco",
+      "caminho": "05 - Santos e Videntes/Afra Brígido Blanco.md",
+      "tipo": "vidente"
+    },
+    {
+      "id": "p-pierina-gilli",
+      "nome": "Pierina Gilli",
+      "caminho": "05 - Santos e Videntes/Pierina Gilli.md",
+      "tipo": "vidente"
+    },
+    {
+      "id": "ora-pai-nosso",
+      "nome": "Pai-Nosso",
+      "caminho": "07 - Orações e Devoções/Pai-Nosso.md",
+      "tipo": "oracao"
+    },
+    {
+      "id": "ora-ladainha",
+      "nome": "Ladainha de Nossa Senhora",
+      "caminho": "07 - Orações e Devoções/Ladainha de Nossa Senhora.md",
+      "tipo": "oracao"
+    },
+    {
+      "id": "ora-requiem",
+      "nome": "Dai-lhes, Senhor, o eterno descanso (Requiem aeternam)",
+      "caminho": "07 - Orações e Devoções/Dai-lhes, Senhor, o eterno descanso (Requiem aeternam).md",
+      "tipo": "oracao"
     }
   ],
   "id_aliases": {
@@ -8088,7 +8497,29 @@
     "dossie-s21": "lourdes-curas",
     "dossie-s49": "ddf-normas-2024",
     "dossie-s52": "ccc-pt-50-141",
-    "cura-catherine-latapie": "mil-lourdes-latapie"
+    "cura-catherine-latapie": "mil-lourdes-latapie",
+    "kibeho-boletim-2001": "dossie-s30",
+    "lasalette-santuario-historia": "dossie-s26",
+    "banneux-santuario-aparicoes": "dossie-s28",
+    "ddf-medjugorje-2024": "dossie-s50",
+    "lourdes-traynor-2024": "dossie-s22",
+    "lourdes-raco-2025": "dossie-s23",
+    "apar-kibeho-1981": "evento-tit-kibeho",
+    "apar-la-salette-1846": "evento-tit-la-salette",
+    "apar-banneux-1933": "evento-tit-banneux",
+    "apar-knock-1879": "evento-tit-knock",
+    "apar-champion-1859": "evento-tit-bom-socorro-champion",
+    "apar-pellevoisin-1876": "sequencia-44",
+    "apar-chandavila-1945": "sequencia-51",
+    "apar-medjugorje-1981": "sequencia-49",
+    "apar-litmanova-1990": "sequencia-53",
+    "apar-montichiari-1947": "sequencia-50",
+    "apar-beauraing-1932": "sequencia-43",
+    "apar-pontmain-1871": "sequencia-39",
+    "apar-scoglio-placanica": "sequencia-52",
+    "mil-lourdes-traynor": "cura-john-traynor",
+    "mil-lourdes-moriau": "cura-sister-bernadette-moriau",
+    "cura-antonia-raco": "mil-lourdes-raco"
   },
   "relacoes": [
     {
@@ -26834,9 +27265,1251 @@
       "destino": "vaticannews-mae-da-igreja-1964",
       "tipo": "fontes",
       "evidencia": "content/articles.json#vida-13-maria-na-igreja"
+    },
+    {
+      "origem": "apar-lourdes-1858",
+      "destino": "wikidata",
+      "tipo": "fontes",
+      "evidencia": "content/apparitions.json#apar-lourdes-1858"
+    },
+    {
+      "origem": "apar-lourdes-1858",
+      "destino": "p-bernadette",
+      "tipo": "protagonistas",
+      "evidencia": "content/apparitions.json#apar-lourdes-1858"
+    },
+    {
+      "origem": "apar-lourdes-1858",
+      "destino": "tit-lourdes",
+      "tipo": "titulos_relacionados",
+      "evidencia": "content/apparitions.json#apar-lourdes-1858"
+    },
+    {
+      "origem": "apar-lourdes-1858",
+      "destino": "tit-imaculada-conceicao",
+      "tipo": "titulos_relacionados",
+      "evidencia": "content/apparitions.json#apar-lourdes-1858"
+    },
+    {
+      "origem": "apar-lourdes-1858",
+      "destino": "pesquisa-45",
+      "tipo": "relato_documentado_em",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "apar-lourdes-1858",
+      "destino": "mil-lourdes-traynor",
+      "tipo": "milagres_relacionados",
+      "evidencia": "content/apparitions.json#apar-lourdes-1858"
+    },
+    {
+      "origem": "apar-lourdes-1858",
+      "destino": "mil-lourdes-moriau",
+      "tipo": "milagres_relacionados",
+      "evidencia": "content/apparitions.json#apar-lourdes-1858"
+    },
+    {
+      "origem": "apar-fatima-1917",
+      "destino": "wikidata",
+      "tipo": "fontes",
+      "evidencia": "content/apparitions.json#apar-fatima-1917"
+    },
+    {
+      "origem": "apar-fatima-1917",
+      "destino": "p-lucia",
+      "tipo": "protagonistas",
+      "evidencia": "content/apparitions.json#apar-fatima-1917"
+    },
+    {
+      "origem": "apar-fatima-1917",
+      "destino": "p-francisco",
+      "tipo": "protagonistas",
+      "evidencia": "content/apparitions.json#apar-fatima-1917"
+    },
+    {
+      "origem": "apar-fatima-1917",
+      "destino": "p-jacinta",
+      "tipo": "protagonistas",
+      "evidencia": "content/apparitions.json#apar-fatima-1917"
+    },
+    {
+      "origem": "apar-fatima-1917",
+      "destino": "tit-fatima",
+      "tipo": "titulos_relacionados",
+      "evidencia": "content/apparitions.json#apar-fatima-1917"
+    },
+    {
+      "origem": "apar-fatima-1917",
+      "destino": "pesquisa-59",
+      "tipo": "relato_documentado_em",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "evento-tit-kibeho",
+      "destino": "dossie-s30",
+      "tipo": "fontes",
+      "evidencia": "content/apparitions.json#apar-kibeho-1981"
+    },
+    {
+      "origem": "evento-tit-kibeho",
+      "destino": "ccc-pt-50-141",
+      "tipo": "fontes",
+      "evidencia": "content/apparitions.json#apar-kibeho-1981"
+    },
+    {
+      "origem": "evento-tit-kibeho",
+      "destino": "kibeho-declaracao-2001",
+      "tipo": "fontes",
+      "evidencia": "content/apparitions.json#apar-kibeho-1981"
+    },
+    {
+      "origem": "evento-tit-kibeho",
+      "destino": "wikidata",
+      "tipo": "fontes",
+      "evidencia": "content/apparitions.json#apar-kibeho-1981"
+    },
+    {
+      "origem": "evento-tit-kibeho",
+      "destino": "p-alphonsine",
+      "tipo": "protagonistas",
+      "evidencia": "content/apparitions.json#apar-kibeho-1981"
+    },
+    {
+      "origem": "evento-tit-kibeho",
+      "destino": "p-nathalie",
+      "tipo": "protagonistas",
+      "evidencia": "content/apparitions.json#apar-kibeho-1981"
+    },
+    {
+      "origem": "evento-tit-kibeho",
+      "destino": "p-marie-claire",
+      "tipo": "protagonistas",
+      "evidencia": "content/apparitions.json#apar-kibeho-1981"
+    },
+    {
+      "origem": "evento-tit-kibeho",
+      "destino": "tit-kibeho",
+      "tipo": "titulos_relacionados",
+      "evidencia": "content/apparitions.json#apar-kibeho-1981"
+    },
+    {
+      "origem": "evento-tit-kibeho",
+      "destino": "pesquisa-38",
+      "tipo": "relato_documentado_em",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "evento-tit-la-salette",
+      "destino": "dossie-s26",
+      "tipo": "fontes",
+      "evidencia": "content/apparitions.json#apar-la-salette-1846"
+    },
+    {
+      "origem": "evento-tit-la-salette",
+      "destino": "francisco-angelus-2021-09-19",
+      "tipo": "fontes",
+      "evidencia": "content/apparitions.json#apar-la-salette-1846"
+    },
+    {
+      "origem": "evento-tit-la-salette",
+      "destino": "lasalette-bruillard-1851",
+      "tipo": "fontes",
+      "evidencia": "content/apparitions.json#apar-la-salette-1846"
+    },
+    {
+      "origem": "evento-tit-la-salette",
+      "destino": "ccc-pt-50-141",
+      "tipo": "fontes",
+      "evidencia": "content/apparitions.json#apar-la-salette-1846"
+    },
+    {
+      "origem": "evento-tit-la-salette",
+      "destino": "wikidata",
+      "tipo": "fontes",
+      "evidencia": "content/apparitions.json#apar-la-salette-1846"
+    },
+    {
+      "origem": "evento-tit-la-salette",
+      "destino": "p-maximin",
+      "tipo": "protagonistas",
+      "evidencia": "content/apparitions.json#apar-la-salette-1846"
+    },
+    {
+      "origem": "evento-tit-la-salette",
+      "destino": "p-melanie",
+      "tipo": "protagonistas",
+      "evidencia": "content/apparitions.json#apar-la-salette-1846"
+    },
+    {
+      "origem": "evento-tit-la-salette",
+      "destino": "tit-la-salette",
+      "tipo": "titulos_relacionados",
+      "evidencia": "content/apparitions.json#apar-la-salette-1846"
+    },
+    {
+      "origem": "evento-tit-la-salette",
+      "destino": "pesquisa-40",
+      "tipo": "relato_documentado_em",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "evento-tit-banneux",
+      "destino": "dossie-s28",
+      "tipo": "fontes",
+      "evidencia": "content/apparitions.json#apar-banneux-1933"
+    },
+    {
+      "origem": "evento-tit-banneux",
+      "destino": "banneux-santuario-reconhecimento",
+      "tipo": "fontes",
+      "evidencia": "content/apparitions.json#apar-banneux-1933"
+    },
+    {
+      "origem": "evento-tit-banneux",
+      "destino": "banneux-kerkhofs-1949",
+      "tipo": "fontes",
+      "evidencia": "content/apparitions.json#apar-banneux-1933"
+    },
+    {
+      "origem": "evento-tit-banneux",
+      "destino": "wikidata",
+      "tipo": "fontes",
+      "evidencia": "content/apparitions.json#apar-banneux-1933"
+    },
+    {
+      "origem": "evento-tit-banneux",
+      "destino": "p-mariette",
+      "tipo": "protagonistas",
+      "evidencia": "content/apparitions.json#apar-banneux-1933"
+    },
+    {
+      "origem": "evento-tit-banneux",
+      "destino": "tit-banneux",
+      "tipo": "titulos_relacionados",
+      "evidencia": "content/apparitions.json#apar-banneux-1933"
+    },
+    {
+      "origem": "evento-tit-banneux",
+      "destino": "pesquisa-42",
+      "tipo": "relato_documentado_em",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "evento-tit-knock",
+      "destino": "knock-historia",
+      "tipo": "fontes",
+      "evidencia": "content/apparitions.json#apar-knock-1879"
+    },
+    {
+      "origem": "evento-tit-knock",
+      "destino": "francisco-knock-2021",
+      "tipo": "fontes",
+      "evidencia": "content/apparitions.json#apar-knock-1879"
+    },
+    {
+      "origem": "evento-tit-knock",
+      "destino": "knock-comissoes",
+      "tipo": "fontes",
+      "evidencia": "content/apparitions.json#apar-knock-1879"
+    },
+    {
+      "origem": "evento-tit-knock",
+      "destino": "jp2-knock-1979",
+      "tipo": "fontes",
+      "evidencia": "content/apparitions.json#apar-knock-1879"
+    },
+    {
+      "origem": "evento-tit-knock",
+      "destino": "wikidata",
+      "tipo": "fontes",
+      "evidencia": "content/apparitions.json#apar-knock-1879"
+    },
+    {
+      "origem": "evento-tit-knock",
+      "destino": "tit-knock",
+      "tipo": "titulos_relacionados",
+      "evidencia": "content/apparitions.json#apar-knock-1879"
+    },
+    {
+      "origem": "evento-tit-knock",
+      "destino": "pesquisa-41",
+      "tipo": "relato_documentado_em",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "evento-tit-bom-socorro-champion",
+      "destino": "champion-decreto-2010",
+      "tipo": "fontes",
+      "evidencia": "content/apparitions.json#apar-champion-1859"
+    },
+    {
+      "origem": "evento-tit-bom-socorro-champion",
+      "destino": "wikidata",
+      "tipo": "fontes",
+      "evidencia": "content/apparitions.json#apar-champion-1859"
+    },
+    {
+      "origem": "evento-tit-bom-socorro-champion",
+      "destino": "p-adele",
+      "tipo": "protagonistas",
+      "evidencia": "content/apparitions.json#apar-champion-1859"
+    },
+    {
+      "origem": "evento-tit-bom-socorro-champion",
+      "destino": "tit-bom-socorro-champion",
+      "tipo": "titulos_relacionados",
+      "evidencia": "content/apparitions.json#apar-champion-1859"
+    },
+    {
+      "origem": "sequencia-44",
+      "destino": "vaticannews-pellevoisin-2024",
+      "tipo": "fontes",
+      "evidencia": "content/apparitions.json#apar-pellevoisin-1876"
+    },
+    {
+      "origem": "sequencia-44",
+      "destino": "ddf-pellevoisin-2024",
+      "tipo": "fontes",
+      "evidencia": "content/apparitions.json#apar-pellevoisin-1876"
+    },
+    {
+      "origem": "sequencia-44",
+      "destino": "ddf-normas-2024",
+      "tipo": "fontes",
+      "evidencia": "content/apparitions.json#apar-pellevoisin-1876"
+    },
+    {
+      "origem": "sequencia-44",
+      "destino": "wikidata",
+      "tipo": "fontes",
+      "evidencia": "content/apparitions.json#apar-pellevoisin-1876"
+    },
+    {
+      "origem": "sequencia-44",
+      "destino": "p-estelle-faguette",
+      "tipo": "protagonistas",
+      "evidencia": "content/apparitions.json#apar-pellevoisin-1876"
+    },
+    {
+      "origem": "sequencia-44",
+      "destino": "pesquisa-44",
+      "tipo": "relato_documentado_em",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "sequencia-44",
+      "destino": "pesquisa-64",
+      "tipo": "relato_documentado_em",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "sequencia-51",
+      "destino": "ddf-chandavila-2024",
+      "tipo": "fontes",
+      "evidencia": "content/apparitions.json#apar-chandavila-1945"
+    },
+    {
+      "origem": "sequencia-51",
+      "destino": "ddf-normas-2024",
+      "tipo": "fontes",
+      "evidencia": "content/apparitions.json#apar-chandavila-1945"
+    },
+    {
+      "origem": "sequencia-51",
+      "destino": "wikidata",
+      "tipo": "fontes",
+      "evidencia": "content/apparitions.json#apar-chandavila-1945"
+    },
+    {
+      "origem": "sequencia-51",
+      "destino": "p-marcelina-barroso",
+      "tipo": "protagonistas",
+      "evidencia": "content/apparitions.json#apar-chandavila-1945"
+    },
+    {
+      "origem": "sequencia-51",
+      "destino": "p-afra-brigido",
+      "tipo": "protagonistas",
+      "evidencia": "content/apparitions.json#apar-chandavila-1945"
+    },
+    {
+      "origem": "sequencia-51",
+      "destino": "pesquisa-51",
+      "tipo": "relato_documentado_em",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "sequencia-49",
+      "destino": "dossie-s50",
+      "tipo": "fontes",
+      "evidencia": "content/apparitions.json#apar-medjugorje-1981"
+    },
+    {
+      "origem": "sequencia-49",
+      "destino": "ddf-normas-2024",
+      "tipo": "fontes",
+      "evidencia": "content/apparitions.json#apar-medjugorje-1981"
+    },
+    {
+      "origem": "sequencia-49",
+      "destino": "wikidata",
+      "tipo": "fontes",
+      "evidencia": "content/apparitions.json#apar-medjugorje-1981"
+    },
+    {
+      "origem": "sequencia-49",
+      "destino": "pesquisa-49",
+      "tipo": "relato_documentado_em",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "sequencia-49",
+      "destino": "pesquisa-64",
+      "tipo": "relato_documentado_em",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "sequencia-53",
+      "destino": "ddf-litmanova-2025",
+      "tipo": "fontes",
+      "evidencia": "content/apparitions.json#apar-litmanova-1990"
+    },
+    {
+      "origem": "sequencia-53",
+      "destino": "ddf-normas-2024",
+      "tipo": "fontes",
+      "evidencia": "content/apparitions.json#apar-litmanova-1990"
+    },
+    {
+      "origem": "sequencia-53",
+      "destino": "wikidata",
+      "tipo": "fontes",
+      "evidencia": "content/apparitions.json#apar-litmanova-1990"
+    },
+    {
+      "origem": "sequencia-53",
+      "destino": "pesquisa-53",
+      "tipo": "relato_documentado_em",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "sequencia-50",
+      "destino": "ddf-montichiari-2024",
+      "tipo": "fontes",
+      "evidencia": "content/apparitions.json#apar-montichiari-1947"
+    },
+    {
+      "origem": "sequencia-50",
+      "destino": "wikidata",
+      "tipo": "fontes",
+      "evidencia": "content/apparitions.json#apar-montichiari-1947"
+    },
+    {
+      "origem": "sequencia-50",
+      "destino": "p-pierina-gilli",
+      "tipo": "protagonistas",
+      "evidencia": "content/apparitions.json#apar-montichiari-1947"
+    },
+    {
+      "origem": "sequencia-50",
+      "destino": "pesquisa-50",
+      "tipo": "relato_documentado_em",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "p-estelle-faguette",
+      "destino": "ddf-pellevoisin-2024",
+      "tipo": "fontes",
+      "evidencia": "expansão editorial de 2026-10-08"
+    },
+    {
+      "origem": "p-estelle-faguette",
+      "destino": "vaticannews-pellevoisin-2024",
+      "tipo": "fontes",
+      "evidencia": "expansão editorial de 2026-10-08"
+    },
+    {
+      "origem": "p-estelle-faguette",
+      "destino": "sequencia-44",
+      "tipo": "documentado_em",
+      "evidencia": "content/apparitions.json#apar-pellevoisin-1876"
+    },
+    {
+      "origem": "p-marcelina-barroso",
+      "destino": "ddf-chandavila-2024",
+      "tipo": "fontes",
+      "evidencia": "expansão editorial de 2026-10-08"
+    },
+    {
+      "origem": "p-marcelina-barroso",
+      "destino": "sequencia-51",
+      "tipo": "documentado_em",
+      "evidencia": "content/apparitions.json#apar-chandavila-1945"
+    },
+    {
+      "origem": "p-afra-brigido",
+      "destino": "ddf-chandavila-2024",
+      "tipo": "fontes",
+      "evidencia": "expansão editorial de 2026-10-08"
+    },
+    {
+      "origem": "p-afra-brigido",
+      "destino": "sequencia-51",
+      "tipo": "documentado_em",
+      "evidencia": "content/apparitions.json#apar-chandavila-1945"
+    },
+    {
+      "origem": "p-pierina-gilli",
+      "destino": "ddf-montichiari-2024",
+      "tipo": "fontes",
+      "evidencia": "expansão editorial de 2026-10-08"
+    },
+    {
+      "origem": "p-pierina-gilli",
+      "destino": "sequencia-50",
+      "tipo": "documentado_em",
+      "evidencia": "content/apparitions.json#apar-montichiari-1947"
+    },
+    {
+      "origem": "tit-bom-socorro-champion",
+      "destino": "evento-tit-bom-socorro-champion",
+      "tipo": "pagina_principal",
+      "evidencia": "content/titles.json#tit-bom-socorro-champion"
+    },
+    {
+      "origem": "tit-kibeho",
+      "destino": "evento-tit-kibeho",
+      "tipo": "pagina_principal",
+      "evidencia": "content/titles.json#tit-kibeho"
+    },
+    {
+      "origem": "tit-la-salette",
+      "destino": "evento-tit-la-salette",
+      "tipo": "pagina_principal",
+      "evidencia": "content/titles.json#tit-la-salette"
+    },
+    {
+      "origem": "tit-banneux",
+      "destino": "evento-tit-banneux",
+      "tipo": "pagina_principal",
+      "evidencia": "content/titles.json#tit-banneux"
+    },
+    {
+      "origem": "tit-knock",
+      "destino": "evento-tit-knock",
+      "tipo": "pagina_principal",
+      "evidencia": "content/titles.json#tit-knock"
+    },
+    {
+      "origem": "cura-john-traynor",
+      "destino": "traynor-declaracao-2024",
+      "tipo": "fontes",
+      "evidencia": "content/miracles.json#mil-lourdes-traynor"
+    },
+    {
+      "origem": "cura-john-traynor",
+      "destino": "dossie-s22",
+      "tipo": "fontes",
+      "evidencia": "content/miracles.json#mil-lourdes-traynor"
+    },
+    {
+      "origem": "cura-sister-bernadette-moriau",
+      "destino": "cef-moriau-2018",
+      "tipo": "fontes",
+      "evidencia": "content/miracles.json#mil-lourdes-moriau"
+    },
+    {
+      "origem": "cura-sister-bernadette-moriau",
+      "destino": "egl-fr-enquete-lourdes",
+      "tipo": "fontes",
+      "evidencia": "content/miracles.json#mil-lourdes-moriau"
+    },
+    {
+      "origem": "mil-lourdes-raco",
+      "destino": "dossie-s23",
+      "tipo": "fontes",
+      "evidencia": "content/miracles.json#mil-lourdes-raco"
+    },
+    {
+      "origem": "mil-lourdes-raco",
+      "destino": "sir-raco-2025",
+      "tipo": "fontes",
+      "evidencia": "content/miracles.json#mil-lourdes-raco"
+    },
+    {
+      "origem": "ora-pai-nosso",
+      "destino": "vaticannews-pai-nosso",
+      "tipo": "fontes",
+      "evidencia": "content/prayers.json#ora-pai-nosso"
+    },
+    {
+      "origem": "ora-pai-nosso",
+      "destino": "nv-mateus",
+      "tipo": "fontes",
+      "evidencia": "content/prayers.json#ora-pai-nosso"
+    },
+    {
+      "origem": "ora-pai-nosso",
+      "destino": "nv-lucas",
+      "tipo": "fontes",
+      "evidencia": "content/prayers.json#ora-pai-nosso"
+    },
+    {
+      "origem": "ora-pai-nosso",
+      "destino": "dev-rosario",
+      "tipo": "devocoes_relacionadas",
+      "evidencia": "content/prayers.json#ora-pai-nosso"
+    },
+    {
+      "origem": "ora-ladainha",
+      "destino": "ladainha-vaticano-pt",
+      "tipo": "fontes",
+      "evidencia": "content/prayers.json#ora-ladainha"
+    },
+    {
+      "origem": "ora-ladainha",
+      "destino": "ladainha-carta-2020",
+      "tipo": "fontes",
+      "evidencia": "content/prayers.json#ora-ladainha"
+    },
+    {
+      "origem": "ora-ladainha",
+      "destino": "dev-rosario",
+      "tipo": "devocoes_relacionadas",
+      "evidencia": "content/prayers.json#ora-ladainha"
+    },
+    {
+      "origem": "ora-requiem",
+      "destino": "compendio-ccc-oracoes",
+      "tipo": "fontes",
+      "evidencia": "content/prayers.json#ora-requiem"
+    },
+    {
+      "origem": "ora-requiem",
+      "destino": "ccc-pt-683-1065",
+      "tipo": "fontes",
+      "evidencia": "content/prayers.json#ora-requiem"
+    },
+    {
+      "origem": "ora-requiem",
+      "destino": "saopiov-terco-almas",
+      "tipo": "fontes",
+      "evidencia": "content/prayers.json#ora-requiem"
+    },
+    {
+      "origem": "ora-requiem",
+      "destino": "paroquias-coroa-almas",
+      "tipo": "fontes",
+      "evidencia": "content/prayers.json#ora-requiem"
+    },
+    {
+      "origem": "ora-requiem",
+      "destino": "indulgentiarum-doctrina",
+      "tipo": "fontes",
+      "evidencia": "content/prayers.json#ora-requiem"
+    },
+    {
+      "origem": "pesquisa-01",
+      "destino": "fe-maternidade-divina",
+      "tipo": "pagina_principal",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "pesquisa-01",
+      "destino": "tit-mae-de-deus",
+      "tipo": "pagina_principal",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "pesquisa-02",
+      "destino": "fe-imaculada-conceicao",
+      "tipo": "pagina_principal",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "pesquisa-02",
+      "destino": "tit-imaculada-conceicao",
+      "tipo": "pagina_principal",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "pesquisa-03",
+      "destino": "vida-01-mundo-de-maria",
+      "tipo": "pagina_principal",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "pesquisa-04",
+      "destino": "vida-01-mundo-de-maria",
+      "tipo": "pagina_principal",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "pesquisa-05",
+      "destino": "vida-05-anunciacao",
+      "tipo": "pagina_principal",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "pesquisa-06",
+      "destino": "vida-05-anunciacao",
+      "tipo": "pagina_principal",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "pesquisa-06",
+      "destino": "fe-imaculada-conceicao",
+      "tipo": "pagina_principal",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "pesquisa-07",
+      "destino": "vida-06-visitacao",
+      "tipo": "pagina_principal",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "pesquisa-07",
+      "destino": "ora-magnificat",
+      "tipo": "pagina_principal",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "pesquisa-08",
+      "destino": "vida-13-maria-na-igreja",
+      "tipo": "pagina_principal",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "pesquisa-09",
+      "destino": "vida-08-infancia-de-jesus",
+      "tipo": "pagina_principal",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "pesquisa-10",
+      "destino": "vida-05-anunciacao",
+      "tipo": "pagina_principal",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "pesquisa-11",
+      "destino": "vida-08-infancia-de-jesus",
+      "tipo": "pagina_principal",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "pesquisa-12",
+      "destino": "vida-12-dormicao-e-assuncao",
+      "tipo": "pagina_principal",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "pesquisa-12",
+      "destino": "fe-assuncao",
+      "tipo": "pagina_principal",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "pesquisa-12",
+      "destino": "cel-assuncao",
+      "tipo": "pagina_principal",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "pesquisa-13",
+      "destino": "cel-realeza",
+      "tipo": "pagina_principal",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "pesquisa-14",
+      "destino": "vida-13-maria-na-igreja",
+      "tipo": "pagina_principal",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "pesquisa-15",
+      "destino": "vida-13-maria-na-igreja",
+      "tipo": "pagina_principal",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "pesquisa-16",
+      "destino": "vida-11-apos-a-ressurreicao",
+      "tipo": "pagina_principal",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "pesquisa-16",
+      "destino": "fe-mae-da-igreja",
+      "tipo": "pagina_principal",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "pesquisa-17",
+      "destino": "sh-santa-maria-maior",
+      "tipo": "pagina_principal",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "pesquisa-18",
+      "destino": "sh-loreto",
+      "tipo": "pagina_principal",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "pesquisa-19",
+      "destino": "sh-pompeia",
+      "tipo": "pagina_principal",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "pesquisa-19",
+      "destino": "dev-rosario",
+      "tipo": "pagina_principal",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "pesquisa-21",
+      "destino": "sh-altotting",
+      "tipo": "pagina_principal",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "pesquisa-22",
+      "destino": "sh-mariazell",
+      "tipo": "pagina_principal",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "pesquisa-24",
+      "destino": "sh-yamoussoukro",
+      "tipo": "pagina_principal",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "pesquisa-25",
+      "destino": "sh-harissa",
+      "tipo": "pagina_principal",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "pesquisa-26",
+      "destino": "tit-guadalupe-mexico",
+      "tipo": "pagina_principal",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "pesquisa-26",
+      "destino": "sh-guadalupe-mexico",
+      "tipo": "pagina_principal",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "pesquisa-27",
+      "destino": "sh-suyapa",
+      "tipo": "pagina_principal",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "pesquisa-28",
+      "destino": "sh-copacabana",
+      "tipo": "pagina_principal",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "pesquisa-30",
+      "destino": "sh-lujan",
+      "tipo": "pagina_principal",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "pesquisa-32",
+      "destino": "sh-cartago",
+      "tipo": "pagina_principal",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "pesquisa-33",
+      "destino": "sh-belem-nazare",
+      "tipo": "pagina_principal",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "pesquisa-34",
+      "destino": "sh-pilar",
+      "tipo": "pagina_principal",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "pesquisa-35",
+      "destino": "sh-covadonga",
+      "tipo": "pagina_principal",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "pesquisa-36",
+      "destino": "tit-aparecida",
+      "tipo": "pagina_principal",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "pesquisa-36",
+      "destino": "sh-aparecida",
+      "tipo": "pagina_principal",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "pesquisa-36",
+      "destino": "cel-aparecida",
+      "tipo": "pagina_principal",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "pesquisa-38",
+      "destino": "evento-tit-kibeho",
+      "tipo": "pagina_principal",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "pesquisa-38",
+      "destino": "tit-kibeho",
+      "tipo": "pagina_principal",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "pesquisa-40",
+      "destino": "evento-tit-la-salette",
+      "tipo": "pagina_principal",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "pesquisa-40",
+      "destino": "tit-la-salette",
+      "tipo": "pagina_principal",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "pesquisa-41",
+      "destino": "evento-tit-knock",
+      "tipo": "pagina_principal",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "pesquisa-41",
+      "destino": "tit-knock",
+      "tipo": "pagina_principal",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "pesquisa-42",
+      "destino": "evento-tit-banneux",
+      "tipo": "pagina_principal",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "pesquisa-42",
+      "destino": "tit-banneux",
+      "tipo": "pagina_principal",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "pesquisa-44",
+      "destino": "sequencia-44",
+      "tipo": "pagina_principal",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "pesquisa-45",
+      "destino": "apar-lourdes-1858",
+      "tipo": "pagina_principal",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "pesquisa-45",
+      "destino": "guia-curas-e-milagres",
+      "tipo": "pagina_principal",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "pesquisa-46",
+      "destino": "cura-john-traynor",
+      "tipo": "pagina_principal",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "pesquisa-47",
+      "destino": "cura-sister-bernadette-moriau",
+      "tipo": "pagina_principal",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "pesquisa-48",
+      "destino": "sh-siracusa",
+      "tipo": "pagina_principal",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "pesquisa-49",
+      "destino": "sequencia-49",
+      "tipo": "pagina_principal",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "pesquisa-50",
+      "destino": "sequencia-50",
+      "tipo": "pagina_principal",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "pesquisa-51",
+      "destino": "sequencia-51",
+      "tipo": "pagina_principal",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "pesquisa-53",
+      "destino": "sequencia-53",
+      "tipo": "pagina_principal",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "pesquisa-55",
+      "destino": "dev-medalha-milagrosa",
+      "tipo": "pagina_principal",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "pesquisa-55",
+      "destino": "sh-rue-du-bac",
+      "tipo": "pagina_principal",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "pesquisa-56",
+      "destino": "cel-carmo",
+      "tipo": "pagina_principal",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "pesquisa-58",
+      "destino": "dev-rosario",
+      "tipo": "pagina_principal",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "pesquisa-58",
+      "destino": "ora-pai-nosso",
+      "tipo": "pagina_principal",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "pesquisa-59",
+      "destino": "apar-fatima-1917",
+      "tipo": "pagina_principal",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "pesquisa-59",
+      "destino": "tit-fatima",
+      "tipo": "pagina_principal",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "pesquisa-62",
+      "destino": "fe-devocao-e-adoracao",
+      "tipo": "pagina_principal",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "pesquisa-63",
+      "destino": "fe-devocao-e-adoracao",
+      "tipo": "pagina_principal",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "pesquisa-64",
+      "destino": "fe-revelacoes-privadas",
+      "tipo": "pagina_principal",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "pesquisa-64",
+      "destino": "sequencia-49",
+      "tipo": "pagina_principal",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "pesquisa-64",
+      "destino": "sequencia-44",
+      "tipo": "pagina_principal",
+      "evidencia": "content/pesquisa-relacoes.json"
+    },
+    {
+      "origem": "indice-oracao",
+      "destino": "ora-pai-nosso",
+      "tipo": "catalogo",
+      "evidencia": "índice por tipo de nota"
+    },
+    {
+      "origem": "indice-oracao",
+      "destino": "ora-ladainha",
+      "tipo": "catalogo",
+      "evidencia": "índice por tipo de nota"
+    },
+    {
+      "origem": "indice-oracao",
+      "destino": "ora-requiem",
+      "tipo": "catalogo",
+      "evidencia": "índice por tipo de nota"
+    },
+    {
+      "origem": "indice-vidente",
+      "destino": "p-estelle-faguette",
+      "tipo": "catalogo",
+      "evidencia": "índice por tipo de nota"
+    },
+    {
+      "origem": "indice-vidente",
+      "destino": "p-marcelina-barroso",
+      "tipo": "catalogo",
+      "evidencia": "índice por tipo de nota"
+    },
+    {
+      "origem": "indice-vidente",
+      "destino": "p-afra-brigido",
+      "tipo": "catalogo",
+      "evidencia": "índice por tipo de nota"
+    },
+    {
+      "origem": "indice-vidente",
+      "destino": "p-pierina-gilli",
+      "tipo": "catalogo",
+      "evidencia": "índice por tipo de nota"
+    },
+    {
+      "origem": "indice-fonte",
+      "destino": "francisco-angelus-2021-09-19",
+      "tipo": "catalogo",
+      "evidencia": "índice por tipo de nota"
+    },
+    {
+      "origem": "indice-fonte",
+      "destino": "banneux-santuario-reconhecimento",
+      "tipo": "catalogo",
+      "evidencia": "índice por tipo de nota"
+    },
+    {
+      "origem": "indice-fonte",
+      "destino": "francisco-knock-2021",
+      "tipo": "catalogo",
+      "evidencia": "índice por tipo de nota"
+    },
+    {
+      "origem": "indice-fonte",
+      "destino": "ddf-pellevoisin-2024",
+      "tipo": "catalogo",
+      "evidencia": "índice por tipo de nota"
+    },
+    {
+      "origem": "indice-fonte",
+      "destino": "vaticannews-pellevoisin-2024",
+      "tipo": "catalogo",
+      "evidencia": "índice por tipo de nota"
+    },
+    {
+      "origem": "indice-fonte",
+      "destino": "ddf-chandavila-2024",
+      "tipo": "catalogo",
+      "evidencia": "índice por tipo de nota"
+    },
+    {
+      "origem": "indice-fonte",
+      "destino": "ddf-litmanova-2025",
+      "tipo": "catalogo",
+      "evidencia": "índice por tipo de nota"
+    },
+    {
+      "origem": "indice-fonte",
+      "destino": "ddf-montichiari-2024",
+      "tipo": "catalogo",
+      "evidencia": "índice por tipo de nota"
+    },
+    {
+      "origem": "indice-fonte",
+      "destino": "ddf-scoglio-2024",
+      "tipo": "catalogo",
+      "evidencia": "índice por tipo de nota"
+    },
+    {
+      "origem": "indice-fonte",
+      "destino": "traynor-declaracao-2024",
+      "tipo": "catalogo",
+      "evidencia": "índice por tipo de nota"
+    },
+    {
+      "origem": "indice-fonte",
+      "destino": "cef-moriau-2018",
+      "tipo": "catalogo",
+      "evidencia": "índice por tipo de nota"
+    },
+    {
+      "origem": "indice-fonte",
+      "destino": "sir-raco-2025",
+      "tipo": "catalogo",
+      "evidencia": "índice por tipo de nota"
+    },
+    {
+      "origem": "indice-fonte",
+      "destino": "vaticannews-pai-nosso",
+      "tipo": "catalogo",
+      "evidencia": "índice por tipo de nota"
+    },
+    {
+      "origem": "indice-fonte",
+      "destino": "ladainha-vaticano-pt",
+      "tipo": "catalogo",
+      "evidencia": "índice por tipo de nota"
+    },
+    {
+      "origem": "indice-fonte",
+      "destino": "ladainha-carta-2020",
+      "tipo": "catalogo",
+      "evidencia": "índice por tipo de nota"
+    },
+    {
+      "origem": "indice-fonte",
+      "destino": "paroquias-coroa-almas",
+      "tipo": "catalogo",
+      "evidencia": "índice por tipo de nota"
+    },
+    {
+      "origem": "indice-fonte",
+      "destino": "saopiov-terco-almas",
+      "tipo": "catalogo",
+      "evidencia": "índice por tipo de nota"
+    },
+    {
+      "origem": "indice-fonte",
+      "destino": "indulgentiarum-doctrina",
+      "tipo": "catalogo",
+      "evidencia": "índice por tipo de nota"
+    },
+    {
+      "origem": "apar-lourdes-1858",
+      "destino": "cura-john-traynor",
+      "tipo": "milagres_relacionados",
+      "evidencia": "content/apparitions.json#apar-lourdes-1858"
+    },
+    {
+      "origem": "apar-lourdes-1858",
+      "destino": "cura-sister-bernadette-moriau",
+      "tipo": "milagres_relacionados",
+      "evidencia": "content/apparitions.json#apar-lourdes-1858"
     }
   ],
-  "referencias_originais": 167,
+  "referencias_originais": 191,
   "capitulos_txt": 64,
   "afirmacoes_txt": 1024,
   "referencias_nao_resolvidas": [],
@@ -26857,60 +28530,60 @@
     "00 - Portal/Índice — documento.md": "94730cad4b707e4bd892fae8e1e787e730b6f2a4ca029301d4e7308d1dca1cfd",
     "00 - Portal/Índice — dogma.md": "c053cc72a3cf476961ca895ee41254cc61cabf7cc1190c7d5339acec756c3e38",
     "00 - Portal/Índice — estudo.md": "608143add22fa78c75a1b7720cb50c7bc43886b2e4959b4fb5004de1b6a57fce",
-    "00 - Portal/Índice — fonte.md": "4115433a7710c1d7fb8e2cabde6be6fd19c3bd9d4e69f4b79401fbcf92df1bb5",
+    "00 - Portal/Índice — fonte.md": "7b77e8613b97bfcaf14ca0ed22151688fd36e46877cf995d65122027b3c9de5d",
     "00 - Portal/Índice — iconografia.md": "4504587d907966359b6c5bca476b2dbc0cd914a06948ca354764a92ebcf951b9",
     "00 - Portal/Índice — milagre.md": "0bf427afc6b26196c6bf4fe40ce10c86a1ec94984c3065bd6895043f5c4c1af4",
-    "00 - Portal/Índice — oracao.md": "9fc13cfe1be3f3a11d18d97dd79bc8bc1b94f9aa0b4f3da372a19d6d4575f6af",
+    "00 - Portal/Índice — oracao.md": "bfa1949d822bd574236be56319acea8149fa4c73e479cab775281c1174ea4b8d",
     "00 - Portal/Índice — pessoa.md": "dec8de03283b4c5ba0350cf473112a0a618cdbb88596c48e9e9481bdcf4a86f4",
     "00 - Portal/Índice — santo.md": "1c954aa0d861944e8d9da996034ffcf08bbd979bbc7e9aaf1be43125c131cdab",
     "00 - Portal/Índice — santuario.md": "d99e2317a6b836f81a3ad084cb18f5b1fa2d38401818899973bf8db6bd5da000",
     "00 - Portal/Índice — titulo.md": "c6fa1189daf30b32d2a2b5d854976f0b4e36f0f4c99b9ef5a28934189d23111e",
-    "00 - Portal/Índice — vidente.md": "dc86386175ef1e4de76019b30a252f5c2960e1c43744ff771d0241324a97732a",
+    "00 - Portal/Índice — vidente.md": "5209bb2a2cba612c554778da8b3580d7c75390e82276eefcd1c978fafaa76494",
     "01 - Maria Santíssima/A Anunciação.md": "a0c40cfdcd2899bdd08490999c54cf41c34320c6d982d2461bb019f17c9497e7",
     "01 - Maria Santíssima/A Visitação e o Magnificat.md": "6c22416ea8726a53bdeaa655149997d5daee5be919641b60050bde7a52b8ee1c",
-    "01 - Maria Santíssima/A alegria da nova Filha de Sião.md": "cffad7c4dfb62cb68180651a16756a98f5b3098a0e37040d09272766d2ccbf5e",
-    "01 - Maria Santíssima/A promessa de Gênesis e a leitura mariana.md": "00254fa2c34c5d157b1a253197c4f7c5dd3e8d2e064cb3841ad60ddad0d99be9",
-    "01 - Maria Santíssima/A santidade dos anos silenciosos de Nazaré.md": "fb16c715f26bf95f590b83b39adbdbe9ec48871d43cc63544575ff327fcb9abd",
-    "01 - Maria Santíssima/As mulheres de Israel que ajudam a compreender Maria.md": "f2c0aadd1a9fc60f146fdf7fbc6be977e07e15bd3474917dc1ad4ba950f4e7ad",
+    "01 - Maria Santíssima/A alegria da nova Filha de Sião.md": "746ab1734afc43a3d5d001973664338869d300e88bcbcb2ab95b42a2a32ef24f",
+    "01 - Maria Santíssima/A promessa de Gênesis e a leitura mariana.md": "585e8f3bfa58d4e2679459c439ec3e17eb829cdfc042c12627cc0b20f80f4f27",
+    "01 - Maria Santíssima/A santidade dos anos silenciosos de Nazaré.md": "2f6893419d1600eb68efabeb3c42e3cb855265bfebcc5319acf3595138cc72c8",
+    "01 - Maria Santíssima/As mulheres de Israel que ajudam a compreender Maria.md": "affed93b0c5cf574802937afe59549ffe29e84e807901074a5202f09eb008f6c",
     "01 - Maria Santíssima/Belém -  o nascimento de Jesus.md": "308a194d29c56e6adb3ebe23b1d8c7d7c6bcefa33437301cde660ab055a09180",
-    "01 - Maria Santíssima/Cheia de graça -  a precedência do dom.md": "bcec5913b8d4ac59e5a60fcabaea127fc2501cd568421147ca1aabb075e8ca24",
+    "01 - Maria Santíssima/Cheia de graça -  a precedência do dom.md": "eddc5bf031b8c686e98a493af5023e1237bd0e5696a8009575f403441e9a7b50",
     "01 - Maria Santíssima/Com o Menino -  Templo, Egito e Nazaré.md": "46ab91ef5acda0d226c42d6d1d48d2466ad17087d5d8342196c3d965a2c9fd00",
     "01 - Maria Santíssima/Depois da Ressurreição -  Cenáculo e Pentecostes.md": "798cb515b488eaf30d78606932dfbc82d688821055181d1e149712084c08a612",
-    "01 - Maria Santíssima/Dormição -  o que se pode afirmar e o que permanece aberto.md": "ed29d937f34a63efc3ef06f04cd726e43ed6fbbc82a64f8a0abc420adbace9ac",
+    "01 - Maria Santíssima/Dormição -  o que se pode afirmar e o que permanece aberto.md": "3dbb782a673e3576ce74a71a1cd6d1afe9e0cd70edd755635b72958ce71d3b86",
     "01 - Maria Santíssima/Dormição e Assunção.md": "4a26f7d293baa21c902cae4b48b2638da20e2a7df0c96195dad4b0c66accaae0",
-    "01 - Maria Santíssima/Filha de Sião -  o significado de uma expressão bíblica.md": "d82e43744011cc7316070950f9f71f8f20cda7cea1a679546a97e13ddba9b2b5",
+    "01 - Maria Santíssima/Filha de Sião -  o significado de uma expressão bíblica.md": "e12b88684e9b0611fe1f2ab92bf27a6802ab60038616833ac526c261c5dde156",
     "01 - Maria Santíssima/Joaquim e Ana, os pais de Maria.md": "e543ef8f2c8be1875702b47021fbde80d6507bdb1f907769c0c000851d8f5e5b",
-    "01 - Maria Santíssima/Maria como educadora do Menino Jesus.md": "ebda28dbc3bd549b6a4a3299021b130243fb5af9b38cc21fd6f779da16ff6ead",
-    "01 - Maria Santíssima/Maria como modelo da participação litúrgica.md": "f16cf494470194515a2761069c810c8faf5b271dff648f69abaa4be00305ed31",
+    "01 - Maria Santíssima/Maria como educadora do Menino Jesus.md": "b482e9ec2c3c4d3f9934e00e4859fee2310ad30719527bb8004306af6d367218",
+    "01 - Maria Santíssima/Maria como modelo da participação litúrgica.md": "d3f2cf3d0bed56ad2940c147a896630e9c30ec7998bd39d4635b81fdd7bb6505",
     "01 - Maria Santíssima/Maria e José.md": "a526370d407d6386a70890af1a6bdfcb1594f352d66e51c073d0d788afaddb24",
-    "01 - Maria Santíssima/Maria e a Santíssima Trindade.md": "a4968f54947d989d80c73def760f6217a9d3d055cf6172938321243b4fb17d6e",
-    "01 - Maria Santíssima/Maria e a dignidade das mulheres.md": "9cda12b78072349cc3ab8a868c31d84247e0e6dc27c22093214688566cc59e77",
+    "01 - Maria Santíssima/Maria e a Santíssima Trindade.md": "a36adc50984a291997cc5f38b18815afcba5ffb2b65c90664da38853a54d7b4d",
+    "01 - Maria Santíssima/Maria e a dignidade das mulheres.md": "eedd47566c31eccc61c3525573b2a29e483ea613b3652a9c34d4740270b397c4",
     "01 - Maria Santíssima/Maria na vida da Igreja.md": "61cbb8184a82af2a16f659dc303fc0f0695aa813af4aeaf0fcc7c852edde9857",
     "01 - Maria Santíssima/Maria na vida pública de Jesus.md": "df7057a80a48e55f978228db18f46dca15da6d509916128b60d79d9a71c5c638",
-    "01 - Maria Santíssima/Maria no caminho da unidade dos cristãos.md": "3a016eb71a1d31ffbcd73535f3dbaf35d286a92ff8a50c5026069a96f8fe6e94",
-    "01 - Maria Santíssima/Nova Eva -  liberdade e cooperação.md": "2a1da5f3a67a8eccad6a839b96073ef323ab51479f57b5908ca3917f1886221b",
-    "01 - Maria Santíssima/O Magnificat como memória da fidelidade divina.md": "800a4cb5e7845d35ece12fee2c28e8f6fc2b2418e9e336993ca7b647b9085712",
+    "01 - Maria Santíssima/Maria no caminho da unidade dos cristãos.md": "def4a4b94e3c29d3d0dfd2b48b63eda3dcad01b3ef6fbca0e40b0d3d3ac00508",
+    "01 - Maria Santíssima/Nova Eva -  liberdade e cooperação.md": "07f6bc30d5622cec7e8b3b07728a0beab9151c543a14be3c74f0bf1f07e1d033",
+    "01 - Maria Santíssima/O Magnificat como memória da fidelidade divina.md": "0e33b708658ea78e824df28f44902eba6d316a49e3a69f4a7b773395ae448529",
     "01 - Maria Santíssima/O mundo em que Maria viveu.md": "a7f8ec71e85423f26d24d893cf64a7f332bc4dd1b12524cacd8232a4436af830",
     "01 - Maria Santíssima/O nascimento e a infância de Maria.md": "945e95b2d7bd1e93719d3204236457a8b47233fbc508e5a72039e5e42f0d8fb9",
     "01 - Maria Santíssima/Paixão -  Maria junto à cruz e as dores de Maria.md": "625ce10531f4b335848802523361517ab709caa195cf48739e787d44e50c782e",
-    "01 - Maria Santíssima/Pentecostes e a maternidade espiritual na Igreja nascente.md": "9e35ebddd503b44a7e4099d4d35cabf08bef9fe041045fd61088db49fc950bc3",
-    "01 - Maria Santíssima/Rainha do universo -  uma realeza recebida.md": "d668ae0746a6fe66a1b4786fdad16a55b35c4c638559f88c98321a215ce5ec5c",
-    "02 - Aparições Marianas/América/Relatos de aparições — Champion.md": "8975aab54abc51d23c74b8def755e40453b714809dd36e96bbcc48837d69a5fd",
+    "01 - Maria Santíssima/Pentecostes e a maternidade espiritual na Igreja nascente.md": "bf02e215406b3b083e5a9bad2418d7722b273109a20753bf0c20ca103b2a9b46",
+    "01 - Maria Santíssima/Rainha do universo -  uma realeza recebida.md": "b20db848695b2ce9bf89a474112ba9b63c14dd3d1e34489c18a2243a877a1fb2",
+    "02 - Aparições Marianas/América/Relatos de aparições — Champion.md": "e833e23bbf96b4a6137d45fe3066ac765f3daca167cc1b5d9894454a5c33999a",
     "02 - Aparições Marianas/América/Relatos de aparições — Guadalupe (México).md": "1f9b8ef158e35378799f231788a7963cd8b97611f16ce303c2b5ce9b26e6f80f",
-    "02 - Aparições Marianas/Europa/Aparições de Fátima (1917).md": "66e41a697e94e9354a0b3504bd7950b30f5a429ae0cf9eb38730430669c370f5",
-    "02 - Aparições Marianas/Europa/Aparições de Lourdes (1858).md": "6561e3693ad2795f1b753cdd28cacdb6ca3836d1d8bbc1ea051210a46edf4fdf",
-    "02 - Aparições Marianas/Europa/Relatos de aparições — Banneux.md": "69a48dcb73d42b5c4c9d037014389041dc55e41c6b9ee261e894c62a0078a4c3",
-    "02 - Aparições Marianas/Europa/Relatos de aparições — Knock.md": "7146e6bac1be39b57cffc87320cc8a1afe15f46845f086c674b2ffcb37a3d0ea",
-    "02 - Aparições Marianas/Europa/Relatos de aparições — La Salette.md": "3c77a001538738da9314e79624445a821f2092de10d24e9b9e3093aaa28d5ea6",
-    "02 - Aparições Marianas/Europa/Relatos e discernimento — Devoção mariana de Litmanová.md": "3ccb3a44b58a62848390699ba62ead4196d6f3d7d39beed212dd3d51b30efd67",
-    "02 - Aparições Marianas/Europa/Relatos e discernimento — Maria Rosa Mística de Montichiari.md": "41997883e8294cb108d0ec1f571d53ee925f13851e6046ca19cc3e64251a6bce",
-    "02 - Aparições Marianas/Europa/Relatos e discernimento — Nossa Senhora Rainha da Paz de Medjugorje.md": "03d6da2c2d5af3943076bcfd096ba19cd354424b8f0b0d36054e910e0c00b318",
-    "02 - Aparições Marianas/Europa/Relatos e discernimento — Nossa Senhora de Beauraing.md": "f197c26bde4471f9447ab15563643c7552e391813b86e99f72cceb4e5eda4418",
-    "02 - Aparições Marianas/Europa/Relatos e discernimento — Nossa Senhora de Chandavila.md": "9021447f6b91a208261f4fcbd2ac5413dfeab954bfe0b3e013ceef9ae29fdeb3",
-    "02 - Aparições Marianas/Europa/Relatos e discernimento — Nossa Senhora de Pellevoisin.md": "d2683e01cd05b53aaa5c63ad7a87fcdfdbf3313190bdacea678320d8f6228150",
-    "02 - Aparições Marianas/Europa/Relatos e discernimento — Nossa Senhora de Pontmain.md": "22c901ada265fff94d365f251cbd83ec768fdc55fa4523fd9961a069a7abeb29",
-    "02 - Aparições Marianas/Europa/Relatos e discernimento — Nossa Senhora do Scoglio.md": "aa47fa60b5ae3e4dd4aefa604f371f83f2b4060d61e7a87f0a9f12600f17779a",
-    "02 - Aparições Marianas/África/Relatos de aparições — Kibeho.md": "ed09aed0609e506457a9b59207776df150b6c7ff09014cbe60fe3c5045549559",
+    "02 - Aparições Marianas/Europa/Aparições de Fátima (1917).md": "119577247e87670ae20059d28ea4f3d52afe7068123cb885695973a50ecbe166",
+    "02 - Aparições Marianas/Europa/Aparições de Lourdes (1858).md": "108424dfc1a497469d61779272fb445ff8d980d29061d6884d27dbd15b51760b",
+    "02 - Aparições Marianas/Europa/Relatos de aparições — Banneux.md": "eb169eeed56b4334fd09f1c54fcebae458e0d1a9667a567f20ef6aa6a2ab807f",
+    "02 - Aparições Marianas/Europa/Relatos de aparições — Knock.md": "a97ba70c78f4d67517681a0dbaaf19e02ffd5d3685748f724fc9e17d7c0a2e1c",
+    "02 - Aparições Marianas/Europa/Relatos de aparições — La Salette.md": "bc5a793425d18d304cff43d6b945c5eaab6449e3fa7e06d3505cfbd715f98bcc",
+    "02 - Aparições Marianas/Europa/Relatos e discernimento — Devoção mariana de Litmanová.md": "0d969c08722226e6bd53054452c07e4fa758f863f3f4620952630e3e7ba7a17b",
+    "02 - Aparições Marianas/Europa/Relatos e discernimento — Maria Rosa Mística de Montichiari.md": "5e4c2dd3058f116f87ffdc81ed13264d2072a2f0d072d79953b3ef12d7a568d5",
+    "02 - Aparições Marianas/Europa/Relatos e discernimento — Nossa Senhora Rainha da Paz de Medjugorje.md": "12cb03825490d31e3ee29c500ce3f044e3e3f57029d096498968a0281487dfc9",
+    "02 - Aparições Marianas/Europa/Relatos e discernimento — Nossa Senhora de Beauraing.md": "329356be6ef20d82c38f5b6add498cf76cc56926a64f2546900545d49373307c",
+    "02 - Aparições Marianas/Europa/Relatos e discernimento — Nossa Senhora de Chandavila.md": "4046db29709c368105eb0496903ab06dd7c52e7c3144bb202b3394bd50ad4615",
+    "02 - Aparições Marianas/Europa/Relatos e discernimento — Nossa Senhora de Pellevoisin.md": "d55ad110005170b0fac9b34a72df7c6b48dbbc8522e86f14cf208a2b878348b5",
+    "02 - Aparições Marianas/Europa/Relatos e discernimento — Nossa Senhora de Pontmain.md": "8d06361b7c9d4a2622a44a045dbd11aa6ca50e5560b85a4eb3924e45cd29d81d",
+    "02 - Aparições Marianas/Europa/Relatos e discernimento — Nossa Senhora do Scoglio.md": "a432e5743f9dff28d736a55042bb6f1fa239ceb7e5070dae8e6362a890ca6f54",
+    "02 - Aparições Marianas/África/Relatos de aparições — Kibeho.md": "a851f768002a271764a7191cb3e8473410df2ae12092a425ed093dec496e8d79",
     "02 - Aparições Marianas/Ásia/Relatos de aparições — Akita.md": "898a007a93548f9de2783139f2fb9d29cfa6edfdadace238fe05f9de869695f5",
     "03 - Títulos Marianos/Devoção mariana de Litmanová.md": "020c71ef5554dabf71fc1561275a63dd935cc07b11d59698abdcf55f349a14f5",
     "03 - Títulos Marianos/Maria Rosa Mística de Montichiari.md": "e89467e24e924caf49676bc080656ba1c0af7862bf83d32630c6163b145a7368",
@@ -26929,7 +28602,7 @@
     "03 - Títulos Marianos/Nossa Senhora de Aglona.md": "c486fcce3d2326b3b751c11e826ed58a5340df476c40626476af72072e2ac9e3",
     "03 - Títulos Marianos/Nossa Senhora de Akita.md": "2716ac3f7ee2aea4f19d96107e0794482dd4843ad826e7d0ac513d105f147c7a",
     "03 - Títulos Marianos/Nossa Senhora de Altötting.md": "6bb7d2e1afe96f289ebb75c34d01957147ee7aef0e0ae287ab53ee733a9d2e00",
-    "03 - Títulos Marianos/Nossa Senhora de Banneux (Virgem dos Pobres).md": "af58b3f438caef987df8e779ad370e235b9ff53290cad5cd5a588eb8d41a5a0a",
+    "03 - Títulos Marianos/Nossa Senhora de Banneux (Virgem dos Pobres).md": "e31308923fc6bff366636320d1b3ff76e096c527947e326854aab43e12f66cdc",
     "03 - Títulos Marianos/Nossa Senhora de Beauraing.md": "7dce6ce9a51b1bbdec5a87d008aefc7b050f67aa798fd2aa81bab1ba2913b0c8",
     "03 - Títulos Marianos/Nossa Senhora de Chandavila.md": "28c136477c74cbbb34ede3a8979a946b607d1b0a020f789d16e2bc27d9b137b5",
     "03 - Títulos Marianos/Nossa Senhora de Copacabana.md": "0eef1b17d16c123a4eabdf14b62ad31d1067dcbfd5337d0c1a54fb2c1e0d0414",
@@ -26938,9 +28611,9 @@
     "03 - Títulos Marianos/Nossa Senhora de El Quinche.md": "79ececba9efc78a29a66b657496a1c40cb6a6cbfd0f7a98cc841d106c14b60f0",
     "03 - Títulos Marianos/Nossa Senhora de Fátima.md": "e25018ccc7538bcd25f1a5c94c64e104430c3af08ad75d4a98f654b176f2be4e",
     "03 - Títulos Marianos/Nossa Senhora de Guadalupe (México).md": "c100a891cff55ebf68974f52c33b401a19377f3d73230d0f8e945c2513c93561",
-    "03 - Títulos Marianos/Nossa Senhora de Kibeho (Ruanda).md": "6b087fc558dc1460414a445c0fccc78b02aa4c3768739086d34b89574e90aec1",
-    "03 - Títulos Marianos/Nossa Senhora de Knock.md": "c4be91bcf579cb5fbf6299b364c613222b4f640add2f9bf3159b5d3e213c8ff2",
-    "03 - Títulos Marianos/Nossa Senhora de La Salette.md": "a75e5127e276c2aeb45ba594fb1a9b09a3529dfcb9ec8c483fd175c863d4f117",
+    "03 - Títulos Marianos/Nossa Senhora de Kibeho (Ruanda).md": "4f41135c359cd4ffa5d20b407bd7eea145440fc3f52f7096feaf5a3260cabc77",
+    "03 - Títulos Marianos/Nossa Senhora de Knock.md": "d3b9f988f0dba87946d27eff3f041cbdc3a11913f0077d0c802ccf169d7d394e",
+    "03 - Títulos Marianos/Nossa Senhora de La Salette.md": "7b80eebc8c14aa2bf33590dd35cc6f02bb7734c5ce8f5cc2905f7269803ca9af",
     "03 - Títulos Marianos/Nossa Senhora de La Vang.md": "1072e542db1ebf4381b56cde7028c58bc670bc25dd30ff1ecb8ca8565956852b",
     "03 - Títulos Marianos/Nossa Senhora de Loreto.md": "cccd5fa24651f120a0fa97176bc1eb632636260d240dc10d88f6bfec025b9211",
     "03 - Títulos Marianos/Nossa Senhora de Lourdes.md": "825059cedeaa108bbc31a7cc3fd8ad31c8bfdcdcbfedbd7fe60643de11c85a38",
@@ -26950,7 +28623,7 @@
     "03 - Títulos Marianos/Nossa Senhora de Pellevoisin.md": "8ced37d4498d75bb9544224a2b76f11321d7223e34d8f9922af2be86aa4853f3",
     "03 - Títulos Marianos/Nossa Senhora de Pontmain.md": "16951a232d65888997f64cfd82e72f0d099acc11569fe5b8c813d2de322852e4",
     "03 - Títulos Marianos/Nossa Senhora de Suyapa.md": "87c001ff228dd63dc375ed8329d566b313f7e510f65e2f5e7d3074f30f16809a",
-    "03 - Títulos Marianos/Nossa Senhora do Bom Socorro (Champion, Wisconsin).md": "21a92ce44c2b374e0ccdf9b886d768e3fdf17f56a15ddfd468a461beb9c935da",
+    "03 - Títulos Marianos/Nossa Senhora do Bom Socorro (Champion, Wisconsin).md": "ed9ef456f871ec49927b3f1483a12570c45b3e4574fe89ead70a6823263e21bd",
     "03 - Títulos Marianos/Nossa Senhora do Carmo.md": "140fa2a208a71f7174f10f88234dfaca746aad3ba64100fde04e538d6ac59414",
     "03 - Títulos Marianos/Nossa Senhora do Líbano.md": "f365d356d2756a59ca1e989addb036209f36969866959f9706c9ec07cf55e953",
     "03 - Títulos Marianos/Nossa Senhora do Pilar.md": "b7205398c1e0634479403a7f18f13416bd2a7c4f44462541d7e8a79dbe62fd81",
@@ -26962,7 +28635,7 @@
     "04 - Milagres/Cura atribuída — Amélie Chagnon.md": "c157c7b24648210dab49c794d0ce8733027140322edd29ae4468cd289f1e3643",
     "04 - Milagres/Cura atribuída — Anna Santaniello.md": "cb8815e71fc448df517d3cb69a4198f55308a67a3c022b6b54e2c766d7a7bc3b",
     "04 - Milagres/Cura atribuída — Antonia Moulin.md": "b21b9e5c751bf70040fea606ae34b0f6f8d6e0a794208176082c3c4a3fe77e16",
-    "04 - Milagres/Cura atribuída — Antonietta Raco.md": "1d301ed35c9020d6c5c88600273faf622eb5d438614dc2a775eb64556abd31ef",
+    "04 - Milagres/Cura atribuída — Antonietta Raco.md": "d9cdee5915657490bc2ef261bdfb9fef851e0be99ff18ab8b9df02852f93b954",
     "04 - Milagres/Cura atribuída — Aurélie Huprelle.md": "12d7d6abbff10ab693336005b230f129c6ed2c1f67c2aff6067a7d87fee08841",
     "04 - Milagres/Cura atribuída — Blaisette Cazenave.md": "5e9416e082a8e5953f74a3310bc94352291f6b409f619fb0072f9d5377536535",
     "04 - Milagres/Cura atribuída — Catherine Latapie.md": "d058dd523e7ee3d3f85b72a40033812e7d59cc1ae83b518db740326194b0bd75",
@@ -26990,7 +28663,7 @@
     "04 - Milagres/Cura atribuída — Jeanne Tulasne.md": "992737aeca3b8e179fe882d78a7671d3734b1676b04696ca85c5fa8b4c79b505",
     "04 - Milagres/Cura atribuída — Joachime Dehant.md": "dc5233335188099bea690154ec40aee5feea9640334339df03289f8a507bb8c7",
     "04 - Milagres/Cura atribuída — Johanna Bézenac.md": "ea2e9eec009b443505fa0ea3d0f3ece2032a54d52e94ad0c58be36d10e18c414",
-    "04 - Milagres/Cura atribuída — John Traynor.md": "574f439471cc7126287ae14540cbc4401272af62f4e46365addc067f7e4d600a",
+    "04 - Milagres/Cura atribuída — John Traynor.md": "c5e9d74e2d8790efcd6a63893ae4baf78d89a9542362e2e32d59cf8395162905",
     "04 - Milagres/Cura atribuída — Juliette Orion.md": "02d9306e2b2569c65a31b3f067220940beed47cf49141cd751321c5709850948",
     "04 - Milagres/Cura atribuída — Juliette Tamburini.md": "67be8f415e4f3025e0d771895ceee431d82b68b6905b524124ea2bcfde583a94",
     "04 - Milagres/Cura atribuída — Justin Bouhort.md": "6b5f55d5f6bc31d60cb50a6d676a5e227f83cc87bda8277471ae8354bc2dde89",
@@ -27015,7 +28688,7 @@
     "04 - Milagres/Cura atribuída — Rose François.md": "4515f86a9b2f68b15d43ca3651f0a20803b4cdeaac1a125a1cac8cb78e5f8c81",
     "04 - Milagres/Cura atribuída — Rose Martin.md": "8c89583e6005b7d7814224c8c92f28237c7dc1275d9dd909ba53bb953d77d3a6",
     "04 - Milagres/Cura atribuída — Serge Perrin.md": "a65414376733e9bff41f6003a07699694168af7334cd27c0434242099c376dcd",
-    "04 - Milagres/Cura atribuída — Sister Bernadette Moriau.md": "505a373b699c18e72ed6457e029688006218ab15c9b158a8fab566a0fe01d4ec",
+    "04 - Milagres/Cura atribuída — Sister Bernadette Moriau.md": "1cf45a926d2c55bc5eb8d703ed0d5dd3fe7bf9946918254350a44c45c7bfa579",
     "04 - Milagres/Cura atribuída — Sister Eugenia (Marie Mabille).md": "4c234be2401056ce2f8b11146029e118ba4a7809e00af975fb6591ca57b85629",
     "04 - Milagres/Cura atribuída — Sister Joséphine-Marie (Anne Jourdain).md": "f2535d1aee958f374fc99e5eea157fe424f4a7936f1656c9463f8c198331df0a",
     "04 - Milagres/Cura atribuída — Sister Julienne (Aline Bruyère).md": "e0413bcc74c2a26596133d6a31315f802b9ccbf4d50fe36e9a23f137e317a896",
@@ -27029,9 +28702,9 @@
     "04 - Milagres/Cura atribuída — Virginie Haudebourg.md": "028e5f221e9dc31f6576fb45162fefe4d3a3606d73a17608b1227954a59aba94",
     "04 - Milagres/Cura atribuída — Vittorio Micheli.md": "cd9add7827f85ec2c849ad6a6733af386680f41cb467f3934bfb67965d3ace4e",
     "04 - Milagres/Cura atribuída — Yvonne Fournier.md": "6f3914b3218c5b145be8755c78ed1160329a494ab9632e50049f65f1840a9db9",
-    "04 - Milagres/Lourdes -  Antonietta Raco e o reconhecimento de 2025.md": "cfa23c6e95ee8cb4c5ddcff61fdbef1bf05e4b5a4819b01a74fe8d0818e1c9b9",
-    "04 - Milagres/Lourdes -  John Traynor e a recuperação de um processo histórico.md": "bf176d6c61a4eae8a6bbcc1d6ff15a8f4cb86ffb2182fc96fafdfd605b217ede",
-    "04 - Milagres/Lourdes -  a irmã Bernadette Moriau.md": "42c3b174d1ffb4cf63548cda019de9626bfcfb94e1f3b1cacd4b81ccffa745f2",
+    "04 - Milagres/Lourdes -  Antonietta Raco e o reconhecimento de 2025.md": "538f2c55fd6413a13799bedc4e93c316c6f1fce2662728c3ff550b95336f555c",
+    "04 - Milagres/Lourdes -  John Traynor e a recuperação de um processo histórico.md": "e90d72eb96f735fbf6d5c245914b5d1a898e662dc94b7bda3cc5e408f01b19cf",
+    "04 - Milagres/Lourdes -  a irmã Bernadette Moriau.md": "9ce7ea64e22611527f6f79be83ca07540bbae87fe56b03ff09ecce126954e548",
     "05 - Santos e Videntes/Adele Brise.md": "6ad7b78e435dd2c6a1dc75e0c7007e0d65dfe690aa9fad24bcd215148f163dd6",
     "05 - Santos e Videntes/Alphonsine Mumureke.md": "9ace5553f1a4b2432219d23b8a75e3f45df58465cb92e63ccec3465a2434b7c9",
     "05 - Santos e Videntes/Antonietta Raco.md": "a2dd85b7f82e17d3dc7a90098e0f55241bb13e833a945d2de43b8cea6ed6591c",
@@ -27055,7 +28728,7 @@
     "05 - Santos e Videntes/São Luís Maria Grignion de Montfort.md": "5f5702a7811c7435b9623f099ef79b9a011519b1e2d5836ed538ac1560358f25",
     "06 - Dogmas e Doutrina/Assunção de Maria.md": "f6d8df4ecf74afb5856435e774dc36f40090c1960d54085554ccce73c1b423f2",
     "06 - Dogmas e Doutrina/Como ler as promessas atribuídas a Maria.md": "b9196f58610cbcb0903deebdeed8c2572cccf50e4871363bff017e1dd7e32aff",
-    "06 - Dogmas e Doutrina/Curas e milagres em Lourdes -  o que está documentado.md": "2ba209a710d72c5dc04530150e5b7b32021932505d04dd9f2a8eaa0a528822b2",
+    "06 - Dogmas e Doutrina/Curas e milagres em Lourdes -  o que está documentado.md": "1c95cf8e566bd2cb1bb288780b3984ece70fdbaee017634cb6b192d64f8e9bc9",
     "06 - Dogmas e Doutrina/Devoção a Maria e adoração a Deus.md": "47a2221ad10507d978856fce98959c66dbc6fc308e99273c2cc1ca455e39eaba",
     "06 - Dogmas e Doutrina/Imaculada Conceição.md": "13604d2b800240b31dd13be8e4162f830379eebc9f417a1a56b71e66b32078b4",
     "06 - Dogmas e Doutrina/Maria, Mãe da Igreja.md": "9a3f6ef48f5db6615fa64401d61508beb6f969b4a9a0b94f47e4512d4c96b100",
@@ -27123,29 +28796,29 @@
     "09 - Documentos da Igreja/Carta de Bento XVI aos católicos da China (2007).md": "208ca8df70b9725bd2d2c19901defbd3fa2bd42b6cff2dcb30e3a416b841e24c",
     "09 - Documentos da Igreja/Carta sobre a experiência espiritual em Litmanová (2025).md": "a894cebf30fc529a2840379f1546713ab71bec2857e049b9d45e396eff364912",
     "09 - Documentos da Igreja/Catecismo da Igreja Católica — referências marianas.md": "950f81e156fd2b17d6a8bd45c8ee87f80fc429e612140dd06f95fcd13e5f44f7",
-    "09 - Documentos da Igreja/Como compreender as decisões sobre fenômenos extraordinários.md": "f97093e8ae334f64075558c1a6fa18d039cd283565ee7745dd7fe8ccbf07aaff",
+    "09 - Documentos da Igreja/Como compreender as decisões sobre fenômenos extraordinários.md": "ea31858e9358ef844bf1bc03f52f1fc9938e87d0230635b08246d1cba300de69",
     "09 - Documentos da Igreja/Compêndio do Catecismo — orações e referências marianas.md": "287abe9baafa80a24cce3d6f49bd10b2b66ee46e0072a1177596392b05a97d62",
     "09 - Documentos da Igreja/Ecclesia in America.md": "185f4c507d0c876168d18ba2c79161386629adc10e337841af5ff6cda91f513c",
     "09 - Documentos da Igreja/Ineffabilis Deus.md": "1b360fe07baa61baca7d218787fe1dc4187ddbac4ff5cdc3ee0e51d3046dfe22",
-    "09 - Documentos da Igreja/Litmanová -  acolher os frutos e corrigir as mensagens.md": "c686376e79570eddb4d758754bfa1b2bef106a5fb3412ce15acb0a59f9b5881a",
+    "09 - Documentos da Igreja/Litmanová -  acolher os frutos e corrigir as mensagens.md": "e538924109ac424497dfac111b1b4a1f7ca4aa0b886c9e1c36ed30eb86fac902",
     "09 - Documentos da Igreja/Lumen gentium — capítulo VIII.md": "cabb1a064587e286c2dc2c4309a80c6535fef68a87589df09ac577b248fdd9d8",
-    "09 - Documentos da Igreja/Maria Rosa Mística -  leitura da carta sobre Montichiari.md": "befe3de35335aa4b968d1e0356e93e065f7a13091137bae0d8f8c43a1b2f0962",
+    "09 - Documentos da Igreja/Maria Rosa Mística -  leitura da carta sobre Montichiari.md": "19bbd5be4a524950569a58259738cdff79a140434b9ca2e51cc433dc27fa545d",
     "09 - Documentos da Igreja/Marialis cultus.md": "e7a7e6c4ae0cde32d58dfb8b1bc097170477a7d7476318dec0a145ca70649788",
-    "09 - Documentos da Igreja/Mater Populi fidelis -  os títulos marianos à luz de Cristo.md": "1b1549313dafed6ce6cd99c42160c2893fcf76b8831f811eb2bc47f7a51ec997",
+    "09 - Documentos da Igreja/Mater Populi fidelis -  os títulos marianos à luz de Cristo.md": "fe3e2c87996535e996c1b5323f341632bf5da7c5546fd26ba7543f2309ab5996",
     "09 - Documentos da Igreja/Mater Populi fidelis.md": "128b2ac5107036dcdf694e3081096167092dfc2c3c617f94ad2db3e15410dd5c",
-    "09 - Documentos da Igreja/Medjugorje -  o que a nota de 2024 permite afirmar.md": "32bf01803ecd9cf3fb22c8d987e0a02255272d40dcd929181db16f32ebdb7f42",
+    "09 - Documentos da Igreja/Medjugorje -  o que a nota de 2024 permite afirmar.md": "268f387ec27dcf77fabfc952cf0c3d0f0b0b67542f8f2264b44108803b460fbb",
     "09 - Documentos da Igreja/Munificentissimus Deus.md": "014bd317c9af09b50c2d0fcbaa8c30de266e6db26818373d6398d4e8b184df96",
     "09 - Documentos da Igreja/Normas de discernimento de fenômenos sobrenaturais (2024).md": "b18a86b237deefdb90a21cea33395e5fc53d109d48ab6b9b025a8a6e84a93fea",
-    "09 - Documentos da Igreja/Nossa Senhora de Chandavila -  confiança e caridade.md": "712bfa153e1cb6be58b6e7cbbeeaf4a1956af302b59f198a137ea1e0cfaf5e81",
+    "09 - Documentos da Igreja/Nossa Senhora de Chandavila -  confiança e caridade.md": "4a65af1f32073eee7044566de59bfb709390c752db2646b082f4a84bfa9fece1",
     "09 - Documentos da Igreja/Nossa Senhora do Scoglio -  santuário e acompanhamento pastoral.md": "2923c63f77829e46ea80a8f9b3c6f128ba98062eb7df9de674146be674c5140e",
     "09 - Documentos da Igreja/Rosarium Virginis Mariae.md": "1d91280668d0916a8b5e18c03be9537b1a148ecc0b2ffa486d39ce88650d0aae",
     "10 - História e Cronologias/A Anunciação -  Maria diante da mensagem de Gabriel.md": "17a7e31306df8df93d0169deb9699e6bf6dfed90b0b3d62c04dccd32a97c00f6",
-    "10 - História e Cronologias/A Medalha Milagrosa -  oração e serviço aos pobres.md": "2f5948dd9e384fcb18b8f6fef9b0c85cf8ba7b4c870ca895292a8df755cb5b34",
+    "10 - História e Cronologias/A Medalha Milagrosa -  oração e serviço aos pobres.md": "92452b822662dae554f63bdf0f0d0320009e233e7caa3c4408f9ab1bd363969f",
     "10 - História e Cronologias/A Visitação e o Magnificat — dossie-04.md": "c73bf6c2d53c20de22688bab2e72712327a68dd5f7f924861ebcc3cca62232e3",
     "10 - História e Cronologias/A apresentação de Jesus e a profecia de Simeão.md": "de6a09320b7c211d4ddac44cd4eb3a27678a88b7670848bc7b548fa4cdca75c2",
     "10 - História e Cronologias/Aglona -  Maria junto dos que sofrem.md": "4caa3aa2d043e4719d3c96799972328d51600f768361118b5f2ed11f41b9b9f5",
-    "10 - História e Cronologias/Altötting -  aprender a rezar com Maria.md": "a0f058e30b468a5251e847fd40d52fb77881728369c4ac57e69de764d46b9b81",
-    "10 - História e Cronologias/Aparecida -  a coroação e a identidade da devoção brasileira.md": "5298fbee98040b727c4a8f1c8de8398524f4bb53bf2fadf56a2eac52b03c3531",
+    "10 - História e Cronologias/Altötting -  aprender a rezar com Maria.md": "1d9fbcfd411ae9429ec681927a422225803798314e66dc78999dc9f9462bee48",
+    "10 - História e Cronologias/Aparecida -  a coroação e a identidade da devoção brasileira.md": "5137f7580f83ad5471bba47f9de1298beeeaf4453a524d43d90660b439830e1a",
     "10 - História e Cronologias/Aparições, reconhecimento e precisão dos títulos marianos.md": "78405518007db84017e92409d5c953def6791ad57de1a3e8235cd12c94643e15",
     "10 - História e Cronologias/Banneux e Beauraing -  duas histórias belgas distintas.md": "610e556c2db123c7c895f8ea45bb66e521a992cdabcf9f9e8ccaa8ac16eb77c7",
     "10 - História e Cronologias/Belém e o nascimento de Jesus.md": "10c14f4c5c18577f7d31cd41c99ef4bc370b1c20839927fe7b6bc3db4f961e50",
@@ -27171,64 +28844,64 @@
     "10 - História e Cronologias/Celebração — Visitação da Virgem Maria.md": "659e37fce5b65e1210480d3514bde00989ee2c47a3b5d480bf94d613f324551f",
     "10 - História e Cronologias/Como a Igreja examina as curas de Lourdes.md": "b7e7474e876fb818ceb0888e6e49053576a1a7b9c95303b8edbd1238a06b4dfa",
     "10 - História e Cronologias/Consolata -  a memória espiritual de Turim.md": "cc763901a20237be6bb39bdd47aa0d440bc91781f15e41b5931ac49101442821",
-    "10 - História e Cronologias/Copacabana -  a Candelária do lago Titicaca.md": "eda23de72c6e00ed1ce16a142d2281bbd5181bd7224eeea96c196039c0cb81e3",
+    "10 - História e Cronologias/Copacabana -  a Candelária do lago Titicaca.md": "d239113910610817c3be369af07ccedac1569ccaa7ce455a8ed2b683c46ef294",
     "10 - História e Cronologias/Coromoto -  a memória mariana da Venezuela.md": "33fd64d00d1c686fb7971d63435bd84d55afd0bcbfe163f28a9d58ad8383a515",
     "10 - História e Cronologias/Cronologia mariana.md": "08f461f78d22c5e80b0fc58bf71c088010939790e4d3c28ab690f43b9d9f9b7d",
     "10 - História e Cronologias/Donglü e Sheshan -  devoções marianas na China.md": "6e6cb075108de566916ee35f1a65424b941caa51f7c930b7b36f7537540a5139",
     "10 - História e Cronologias/El Quinche -  tradição, imagem e perseverança.md": "9e0c515fa75f0599e29532603e2042ae40e2aedda16bbabe0900628d294ebbd5",
-    "10 - História e Cronologias/Fátima -  como interpretar a linguagem do segredo.md": "593f623fce94db9d9fe8b2c676bfe1e45aa5841103c285f2a86d2ac1a3efb1ee",
-    "10 - História e Cronologias/Guadalupe -  a tilma na memória pontifícia.md": "fbf1bea605f33d10cde30a0c7a6bda47f44e66704f34e304f3f385b892b1c2f2",
-    "10 - História e Cronologias/Harissa -  Nossa Senhora do Líbano e os jovens.md": "b60bb5dff0ec46897ddcdc252b731107d15490a0ec80e262cc7035d75a05097e",
+    "10 - História e Cronologias/Fátima -  como interpretar a linguagem do segredo.md": "1609c02bfb61e3616d5758fe25734baf02ab72ad2a0516e738f4c34f7fbdd0c5",
+    "10 - História e Cronologias/Guadalupe -  a tilma na memória pontifícia.md": "9daeb07a21758acfab445aa8409e62a4753a54ca7cf060c8bfb0971285037d55",
+    "10 - História e Cronologias/Harissa -  Nossa Senhora do Líbano e os jovens.md": "a7c714016124edc03def2fbd5ae3684986543fae280e423e997cf6b1589e8e60",
     "10 - História e Cronologias/Imagens, cores e o manto estrelado.md": "3275a125fa31146dab2333cf7c7e03a55b4fa3c941087ffc6b912fbf9c48cfd9",
     "10 - História e Cronologias/Joaquim, Ana e as tradições sobre a infância de Maria.md": "b551071fe454e220ccb748f16fa74919a551020b897489db23c479825667075d",
     "10 - História e Cronologias/José, o anúncio em sonho e a acolhida de Maria.md": "345977c65929fa3a9e896fc5f89bcabeadef9c83c4b4de31a176eb1e511f5cce",
-    "10 - História e Cronologias/Kibeho -  o alcance preciso da declaração de 2001.md": "d83ff7f1462bb9faaa0973fa11aa70720f376b090d0d8b90d78db002afe745bf",
+    "10 - História e Cronologias/Kibeho -  o alcance preciso da declaração de 2001.md": "467fd0001693c4b287f41b768fb2ea39e767b19d5ef21a69e46a109445fc43a0",
     "10 - História e Cronologias/La Vang, Vailankanni e Antipolo -  outras expressões asiáticas.md": "086e34da47ca48b921d014acd6c0d3b0e84c8e96f1d554ac682297136cf5bb6b",
-    "10 - História e Cronologias/Loreto -  a espiritualidade da casa.md": "1d73fc6a674f625df7904c20aa8626670200bb0749e7e8039cc1622f8173da54",
-    "10 - História e Cronologias/Luján -  a imagem da Conceição e o encontro dos peregrinos.md": "80acc78e9a3a8d07b7ce08b4c76c4f200254d8e465434875df63ab8eb4b2cc28",
+    "10 - História e Cronologias/Loreto -  a espiritualidade da casa.md": "8330c3d90defa324bf147e1486224dcc14d405f7810fab9a49e5778fe378b91d",
+    "10 - História e Cronologias/Luján -  a imagem da Conceição e o encontro dos peregrinos.md": "063bb41b1fb810967703bd0e0ae7795e8204b5756ee2ef49a7a8ea9f7d6f124c",
     "10 - História e Cronologias/Luján, Caacupé, El Cobre e Chiquinquirá.md": "3f6d41e63f22de3ba8088c5416491b32532263f8d7cbd85992b55561d73b6694",
     "10 - História e Cronologias/Maria -  identidade, fé e significado dos seus nomes.md": "fd3ac5509fde4842f2a6f55ce2076eb6e17ba4d5a3793a1255fb876ff7613594",
     "10 - História e Cronologias/Maria depois da Ressurreição.md": "09bc7d15985f0b56823c07e3cb13206e4a2e6dbb54a960cb0d535eef41635419",
     "10 - História e Cronologias/Maria junto à cruz.md": "c38fbf70fc7cf76c47bf67ffa8daa2069c8379cd3f5ab413a0d8f1a2273a53b6",
     "10 - História e Cronologias/Maria no calendário litúrgico romano.md": "e720f549e359445f4401f1c94acac72991b4f4ab55505ec27f5c08d59cc6e6d8",
-    "10 - História e Cronologias/Mariazell -  peregrinação, paz e encontro entre povos.md": "fd6c3f2b29ac600c3fc4bb3556b946179184eded3a0620c14ab9f579ce1df8cc",
+    "10 - História e Cronologias/Mariazell -  peregrinação, paz e encontro entre povos.md": "7c2e99cab45128068759d8bc89102367325c8211efd5c34c28d67aa18c4c3350",
     "10 - História e Cronologias/Muxima, Nossa Senhora da África e Auxiliadora na Austrália.md": "96a4aebf4199457128665a049d77f327cb0bad027d53c3ee403478b69ec222f9",
     "10 - História e Cronologias/Nazaré e Jesus encontrado no Templo.md": "6196b0d730b675fc0c36679b12a538a019b1a213a6f7bfdbf778ad25a94c69a3",
     "10 - História e Cronologias/Nossa Senhora da Conceição Aparecida -  Brasil.md": "1408970903833b49884768e21ee7f2639e57f4bfaf58ac1a2f21ecd8d007bab5",
     "10 - História e Cronologias/Nossa Senhora das Lágrimas de Siracusa -  Itália.md": "0ee292f99a34e648326715bc8d9fbf779a0ca6c6b4f95262b56a020894e06354",
-    "10 - História e Cronologias/Nossa Senhora das Lágrimas de Siracusa -  o sentido dos sinais.md": "dcf775ddb7c7bfc885a99763f211b24797c4ab4af81ef77dd700c83122d2608f",
-    "10 - História e Cronologias/Nossa Senhora de Banneux -  a Virgem dos Pobres.md": "6fb1142f62604896f5fcc00e748a906453aa84af04b48905965bbf9cb0d8ff5b",
+    "10 - História e Cronologias/Nossa Senhora das Lágrimas de Siracusa -  o sentido dos sinais.md": "f832c2eaab7a445528ffb3e1c474bb52c3fe9d7538d7230552e77a814ad6dbd0",
+    "10 - História e Cronologias/Nossa Senhora de Banneux -  a Virgem dos Pobres.md": "6c376e35dd177a643cb0de7dea23b07fc67d4a453bbc65069d030192143b5355",
     "10 - História e Cronologias/Nossa Senhora de Beauraing -  o coração de ouro.md": "295a4c5b1a73ff14dbea182a89ff0708e490bb1e00522b0e492ca2bcf41bbd00",
-    "10 - História e Cronologias/Nossa Senhora de Covadonga -  oração na gruta asturiana.md": "6c28b0d590c49e919a314ffe2ac05bd18078d0afdd99c68d221490ae11eb44cb",
+    "10 - História e Cronologias/Nossa Senhora de Covadonga -  oração na gruta asturiana.md": "86a1c66e2caaeb8dbae47cc8f0089720587d3a889afea1dc87b0486ca82e879a",
     "10 - História e Cronologias/Nossa Senhora de Fátima -  Portugal.md": "ed38e005c544392b8b31d928427cb4775b912279fde5440a4c86fede48433177",
     "10 - História e Cronologias/Nossa Senhora de Guadalupe -  México.md": "cb0bc8d502aeba79ea574493f52997f8c27589fc477385f4daee3fd697792ef0",
     "10 - História e Cronologias/Nossa Senhora de Kibeho -  Ruanda.md": "e5a045cae0f73691ba3f09b5e596618af3db995e6e988b98eab3653fa32b70cf",
     "10 - História e Cronologias/Nossa Senhora de Knock -  Irlanda.md": "57c57870c6d676d35d58262afffa1760c34cacebc9d63a47983a500ec78ffef9",
-    "10 - História e Cronologias/Nossa Senhora de Knock -  a linguagem do silêncio.md": "c57d888cb103367fd06d0c380ae3aa4f223ff9f3e46504bc116dc5e0c24c7023",
+    "10 - História e Cronologias/Nossa Senhora de Knock -  a linguagem do silêncio.md": "37af635a9731683e66ecf5e65ee14eca5d2793934012ab75f997638f0bf04727",
     "10 - História e Cronologias/Nossa Senhora de La Salette -  França.md": "9b912edd91313bda8f3db9dbdc8a7c3b3a9f0a7ed5216820a041e3e243843bb1",
-    "10 - História e Cronologias/Nossa Senhora de La Salette -  lágrimas e conversão.md": "a11835cb8749bfd5649a484154b48d8e9e2df20d02bc41d246fe14840e370a66",
+    "10 - História e Cronologias/Nossa Senhora de La Salette -  lágrimas e conversão.md": "222033b2c69f1113917a489ec0317082b884c4967104523c95df621b3eee25cf",
     "10 - História e Cronologias/Nossa Senhora de La Vang -  fé vietnamita em tempos difíceis.md": "61d7be370450c081d01e25e6ffcd3fde71307ae5f80ad42f04b7a17882abb45b",
     "10 - História e Cronologias/Nossa Senhora de Lourdes -  França.md": "ac6bd0f6d0114381b83eb1d0908927d1b98772be064609c4e1df72e0574f9857",
-    "10 - História e Cronologias/Nossa Senhora de Nazaré -  Belém e a memória da Encarnação.md": "7f6555b17ce158fb224cd165c6b9db2dd5f8d42f3518e9382e79245d4ac14f42",
+    "10 - História e Cronologias/Nossa Senhora de Nazaré -  Belém e a memória da Encarnação.md": "e63c74925743aabbe43cd22cb3fa0c5c5f5dd334e55bf918828e23fcc07e6bf1",
     "10 - História e Cronologias/Nossa Senhora de Pontmain -  oração durante a guerra.md": "876521f76abc1fcab055c13c31743bceb09940005db9e1deb68a230cb6176719",
-    "10 - História e Cronologias/Nossa Senhora do Carmo -  o significado do escapulário.md": "5db9122c5225e691881c265bba13501031f60b15e7bdfc6758f5b9f1b4c533e8",
-    "10 - História e Cronologias/Nossa Senhora do Pilar -  uma oração pelas gerações.md": "c1727cb1c0e175c7b0ec699121f86e676771696bc9d13e040a677f93455fd4db",
-    "10 - História e Cronologias/Nossa Senhora dos Anjos de Cartago.md": "9aa3f6fc86ba4386d85793abf8606c10275a69d755f528744dd28ecea0e96c9c",
-    "10 - História e Cronologias/O Rosário como oração contemplativa.md": "2032331841aee43d270d0217c37c60735e4dd389dabb0b7325dec8a3f895b9c5",
+    "10 - História e Cronologias/Nossa Senhora do Carmo -  o significado do escapulário.md": "c1add4f06257bae377971089657cfea41b4d846090483533d1813534a18fffcf",
+    "10 - História e Cronologias/Nossa Senhora do Pilar -  uma oração pelas gerações.md": "3252182b908da05dc68b1fbe798bcfe1328a2692af557515135efe8f44c482b5",
+    "10 - História e Cronologias/Nossa Senhora dos Anjos de Cartago.md": "5f07514ca225de8c972752beb634fc71c9a76e73eac90e2eaae3aeb34c5f153e",
+    "10 - História e Cronologias/O Rosário como oração contemplativa.md": "94d36adb293b136bf93906ee67d9b4eaf5b00403d7839b96f722bdb3ea5d61c3",
     "10 - História e Cronologias/O hino Akathistos -  a beleza da tradição oriental.md": "3e450f12dbcd28e314a8617eaa7c1934133977d7d1f0e409d2b76d9609ed9f97",
     "10 - História e Cronologias/Os dogmas marianos e o que afirmam.md": "50212a5f53f80477ee1f2777b0fb9ca4e6c3a09d5bd98e63497e0f71200418cf",
     "10 - História e Cronologias/Os magos, a fuga para o Egito e o retorno.md": "479596e5795f1ac4ff9ba464f107db3a6f89fffc9f41f04d310c0007fee31210",
-    "10 - História e Cronologias/Pellevoisin -  devoção autorizada e discernimento.md": "bd17ec82a3fb9857f42c04b3cac5d523219812f316a0c7f5249d6e074ab29673",
+    "10 - História e Cronologias/Pellevoisin -  devoção autorizada e discernimento.md": "5c4cae64e420a330088559f78a822a2586770b01515011ed4bfc2bad3c0f104f",
     "10 - História e Cronologias/Peregrinação da Sagrada Família.md": "7dca375f5c84f5a48f79497b38136384a93a35bf4959d3b0727de57283997677",
     "10 - História e Cronologias/Pessoas identificadas no catálogo de milagres de Lourdes.md": "f5cd64ac99dd149b769b94dae3b40ab4a95678de5af591d4b5c5fa07e797b702",
-    "10 - História e Cronologias/Pompeia -  o Rosário e a missão.md": "2ce6606978233bb4417002c31ee32010d9c6a614065cbfd3a4a4eae9aabdf318",
+    "10 - História e Cronologias/Pompeia -  o Rosário e a missão.md": "acf15443c934116bfdc3a0c44f192760c3e8afb513f228f9848b5864907337ed",
     "10 - História e Cronologias/Poponguine -  Nossa Senhora da Libertação no Senegal.md": "747c23b64a303334a386145fea2995851af9241bec33a366922fe2e2a9233891",
     "10 - História e Cronologias/Rosário, oração e títulos da Ladainha.md": "3ee03f53f56fd6ee078373cca3aaa349859b7b7667c33f038337edee737f9c32",
-    "10 - História e Cronologias/Salus Populi Romani -  o ícone e a linguagem do acolhimento.md": "5ede7a68104ea69e62ca951225816b56f27c9bf0b9dd54c2dd6e7adf002fbc5f",
-    "10 - História e Cronologias/Suyapa -  a pequena imagem e a devoção hondurenha.md": "5226a94d964088788d77d520c2c8fdbe651cbf5d9001771264fdcd595a6ddf9a",
+    "10 - História e Cronologias/Salus Populi Romani -  o ícone e a linguagem do acolhimento.md": "76bbed50aa27e94ea3d9281b08163b74d53573a8f230ebeef21c6ec263df878c",
+    "10 - História e Cronologias/Suyapa -  a pequena imagem e a devoção hondurenha.md": "e4ed5681cd66ae1790b7c7acdf524fed7eb42cf4c939038d7b719a8910a9fe87",
     "10 - História e Cronologias/São Luís de Montfort -  pertencer a Cristo com Maria.md": "ac1073f129be284bc71757c0188964d9757f9a6704b605f281960956a1f88f58",
     "10 - História e Cronologias/Walsingham, Montserrat e Częstochowa.md": "0e66a7629b42a430e5bf29f54fbdd943ac62512556699eb6c98a7843f8b337d0",
-    "10 - História e Cronologias/Yamoussoukro -  Nossa Senhora da Paz e o serviço fraterno.md": "ef5513fdebd0a74182ec6c01b52222f1a2ef0ceb121745a931df71a0437117c5",
+    "10 - História e Cronologias/Yamoussoukro -  Nossa Senhora da Paz e o serviço fraterno.md": "dd60a9f1b432c63cb9e406fa9afc40f5972cced4dba58a97f5f4cbde67d49de6",
     "11 - Iconografia Mariana/A Adoração dos Magos — Albrecht Dürer — durer-magos.md": "8887467487ff0403d3a3718649ada667e375346d9c0fff3a4c7633643d974954",
     "11 - Iconografia Mariana/A Anunciação — Albrecht Dürer — durer-anunciacao.md": "d2ab61113ed4fcbe123cf6a4d5633fe14bb6055f246e89100d94088d77094351",
     "11 - Iconografia Mariana/A Anunciação — Hans Memling — obra-memling-anunciacao.md": "53c6c58b4f84441839ed752aafd1f53437ed0051df93dada6c9e17561cf58383",
@@ -27285,7 +28958,7 @@
     "11 - Iconografia Mariana/Fatima — Bingar1234 — retrato-fatima.md": "a8194a5ad2180fed29f28d3e84172842302b8c1463ed166fefb3e24e22bab398",
     "11 - Iconografia Mariana/Gnadenstatue von Mariazell,  - Magna Mater Austriae -  — Launus — retrato-mariazell.md": "6216ac2a56cbe66445e1fac845c28a1a795de8ec3123a87b63b3088af0fa3829",
     "11 - Iconografia Mariana/Imagen oficial de Nuestra Señora de la Altagracia. — IacobusL — retrato-altagracia.md": "7d1219385cf5e90a7ec014c0f6e6ecf4eaf156cadbff380561cab0d86a8fd321",
-    "11 - Iconografia Mariana/Imagens de Maria -  beleza, memória e veneração.md": "5a5b1c0af40879c9b3615ddc513f07366b065c4597459b1719412141911dbb38",
+    "11 - Iconografia Mariana/Imagens de Maria -  beleza, memória e veneração.md": "8800736b9848247745f9aef462bf2f38af37274c08fa6b60f3839ce4448b3e84",
     "11 - Iconografia Mariana/Imaxe de la Virxe de Cuadonga, la Santina, con mantu blancu. — Cardoso — retrato-covadonga.md": "287434ab7e112719ed83fa8884ad70116b203086af6d7168058d68aaa6456b46",
     "11 - Iconografia Mariana/Ishusho ya Bikira Mariya Nyina wa Jambo, akaba kandi yitwa Mwamikazi wa Kibeho, iherereye mu cyanya cy'Ingoro ya Yezu Ny — Celestin KANUMA — retrato-kibeho.md": "75b06ae8854e71b6467946be735bcb506857fa72a72ade9d2cbff96405aab74e",
     "11 - Iconografia Mariana/Jesus entre os Doutores — Albrecht Dürer — durer-entre-doutores.md": "4dee969ebd20f945870c86bfd3aab9d8df1634356974f91c7bb36446a1428c3a",
@@ -27385,8 +29058,8 @@
     "12 - Fontes e Bibliografia/Fonte — Constituição dogmática Lumen Gentium, capítulo VIII (Concílio Vaticano II).md": "02b9b7c6f5d9d146ff77386ccfe01802b8db339149a3e8d9f048b3d73e753079",
     "12 - Fontes e Bibliografia/Fonte — Copacabana, Bolivia (Wikipédia em inglês).md": "11d91c1572181d4fd494aa2717ae7feb1d06dd9fdfc0b15954df11c623f58ee1",
     "12 - Fontes e Bibliografia/Fonte — Declaração do bispo de Gikongoro sobre as aparições de Kibeho (29 de junho de 2001).md": "90fed3ebab46cbb622210401e37af3567a750a18f2bd655d5ab1a1e5e05117f9",
-    "12 - Fontes e Bibliografia/Fonte — Decree on the Authenticity of the Apparitions of 1859 at the Shrine of Our Lady of Good Help (8 de dezembro de 2010).md": "ea4e59217d75b99455eccd35e43753501a1bc7aab7873284498da260c4f620af",
-    "12 - Fontes e Bibliografia/Fonte — Dicastério para a Doutrina da Fé, A Rainha da Paz -  nota sobre Medjugorje; 19 de setembro de 2024.md": "024877086cc1c114aaa6557baa8c08755ba63ab13daf4882d63bd2643664e157",
+    "12 - Fontes e Bibliografia/Fonte — Decree on the Authenticity of the Apparitions of 1859 at the Shrine of Our Lady of Good Help (8 de dezembro de 2010).md": "477e705794a3de9f583269ba5b8c793f5cdb0748dbf0602e07e28d7ee206b1b8",
+    "12 - Fontes e Bibliografia/Fonte — Dicastério para a Doutrina da Fé, A Rainha da Paz -  nota sobre Medjugorje; 19 de setembro de 2024.md": "4b17f8d952de218c97d56817c67793f632cda15079c48069bbe79e8d5489e823",
     "12 - Fontes e Bibliografia/Fonte — Dicastério para a Doutrina da Fé, Mater Populi fidelis, especialmente § 22; 4 de novembro de 2025.md": "c05d4290e8528ca2bda079b9a0877ff9504e92bc2595c283beb0d4f2603f3451",
     "12 - Fontes e Bibliografia/Fonte — Donglü (Wikipédia em inglês).md": "a41d09920922a14cece4df92aaf37eb753fdc6c43fe54f82aaacb4a3d957cab2",
     "12 - Fontes e Bibliografia/Fonte — Einsiedeln Abbey (Wikipédia em inglês).md": "3eb97c33adaae53d5c4c2c0c0e26de5baa1d1426c176f622bf18b2f5603902b3",
@@ -27457,7 +29130,7 @@
     "12 - Fontes e Bibliografia/Fonte — Pietà (Liebieghaus Skulpturensammlung).md": "529f581ff58bf5f233ac0e4bcb0f6c1f72ca15e878a4ba81f02b464d31817aa6",
     "12 - Fontes e Bibliografia/Fonte — Primeiro Livro de Samuel (Nova Vulgata).md": "5dfd769a0f54a9782fc0277934c11d397170fc9d6370bef38f25f63431a1a25b",
     "12 - Fontes e Bibliografia/Fonte — Protoevangelho de Tiago (tradução em inglês).md": "e9fc765826a81d390996a7872b8d35977388a580af681384b845acfaab1a8b46",
-    "12 - Fontes e Bibliografia/Fonte — Sala de Imprensa da Santa Sé, declaração do bispo de Gikongoro sobre Kibeho; 29 de junho de 2001.md": "b2f54396743ffb28c96d019bfa3483b88fdce53738bfb5e71153e5ef721470da",
+    "12 - Fontes e Bibliografia/Fonte — Sala de Imprensa da Santa Sé, declaração do bispo de Gikongoro sobre Kibeho; 29 de junho de 2001.md": "30f208d71fd28d06c7e0427bb9711a216f2cc3980972f83436c4f0a5baf39253",
     "12 - Fontes e Bibliografia/Fonte — Salus Populi Romani (site da Basílica Papal de Santa Maria Maior).md": "412a40a632cf9cf68f9da8305d6bcd6b97213080ca69f309a9e05357028e6eaf",
     "12 - Fontes e Bibliografia/Fonte — Sanctuary of Our Lady of Sameiro (Wikipédia em inglês).md": "ef0609f377b584329c34c307065cd6b071ce5a6f4544781ed9cb57455fe0ea41",
     "12 - Fontes e Bibliografia/Fonte — Santa Catarina Labouré e a Medalha Milagrosa (Filhas da Caridade, EUA).md": "a1d9c2891a5914e962a75d5ebeac6600767945af28d4c3df97a806f152a2377c",
@@ -27466,16 +29139,16 @@
     "12 - Fontes e Bibliografia/Fonte — Santa Maria de Montserrat Abbey (Wikipédia em inglês).md": "d15d606b4695f9fd0b0e28975fbc86521c5d1cea75dd5e99aac8279abda44b4a",
     "12 - Fontes e Bibliografia/Fonte — Santa Sé, Ladainha de Loreto, versão inglesa; títulos vertidos livremente para o português.md": "b2c6ded802757d788909bd85993da61d112e4b0859be00af0eebed6a7d4a3e41",
     "12 - Fontes e Bibliografia/Fonte — Santuário Nacional Católico de Walsingham, Our Story.md": "4bc55d7393c3a6c325a3e02d388a224d5c1e80f4cc51544d37ab3b3707a9225f",
-    "12 - Fontes e Bibliografia/Fonte — Santuário de Banneux, The apparitions (1933), com data do reconhecimento episcopal.md": "646fd07a2bc029d4f39ec242d201e040feea48939fa2f28f2cf0935bd16e23ea",
+    "12 - Fontes e Bibliografia/Fonte — Santuário de Banneux, The apparitions (1933), com data do reconhecimento episcopal.md": "458f3f4305c3f911b60c561b2e5b3fe7913deac15157fe512926c41472857d44",
     "12 - Fontes e Bibliografia/Fonte — Santuário de Beauraing, Récit des apparitions -  narrativa e reconhecimento.md": "68b4b9896dcc47032bfbe05527574e7ce29061c81517ec3415a0389284363c7a",
     "12 - Fontes e Bibliografia/Fonte — Santuário de Fátima, Cronologia; decisão episcopal de 13 de outubro de 1930.md": "216292b27f93b0679a05a63ad3a2c0a42842e0cb86f5e432b70ba5f2c9a72924",
     "12 - Fontes e Bibliografia/Fonte — Santuário de Fátima, Narrativa das aparições, com referências às memórias e à documentação crítica.md": "95714940a493676ab98532a1f2e8c69146b2a311c4e0b81ab339ed1e1f465e25",
-    "12 - Fontes e Bibliografia/Fonte — Santuário de Lourdes, Antonia Raco, 72nd Lourdes miracle; reconhecimento de 16 de abril de 2025, página publicada em 18 de julho de 2025.md": "f70c80b671b37e6a62fc68d81c36aaacf5332e725a24d02658b01bf55d27a9b8",
+    "12 - Fontes e Bibliografia/Fonte — Santuário de Lourdes, Antonia Raco, 72nd Lourdes miracle; reconhecimento de 16 de abril de 2025, página publicada em 18 de julho de 2025.md": "4a4197276e6bac161148c89fc36ab9a5d840fcfe77109fae3986c306d9ff8f49",
     "12 - Fontes e Bibliografia/Fonte — Santuário de Lourdes, As dezoito aparições de 1858.md": "0b2c21349b3da5630c54d887505b330bb6f0b6286cd11d922fbebd40422b3153",
-    "12 - Fontes e Bibliografia/Fonte — Santuário de Lourdes, John Traynor, 71st miracle at Lourdes; 8 de dezembro de 2024.md": "20aae0305647d906f7b54fa63db5b46d778c347c88ad960d276e5aa1a39d59dc",
+    "12 - Fontes e Bibliografia/Fonte — Santuário de Lourdes, John Traynor, 71st miracle at Lourdes; 8 de dezembro de 2024.md": "a612216a4a09723740bfce0b5830da2a4e2d571329f4223ead8731fcaf1a2dd9",
     "12 - Fontes e Bibliografia/Fonte — Santuário de Lourdes, Recognition of a miracle -  processo médico e decisão episcopal.md": "5b70607fef33f1698e1aa63bf8ad85ffb4aec7ac947354005fd0c5cd81f163d2",
     "12 - Fontes e Bibliografia/Fonte — Santuário de Lourdes, Reconhecimento das aparições; documento episcopal de 18 de janeiro de 1862.md": "ffb757acf19cdb26474c32a672b697be061a5e4e161859dd75c3fa12a0e2a7c1",
-    "12 - Fontes e Bibliografia/Fonte — Santuário de Nossa Senhora de La Salette, History -  narrativa e decisões episcopais.md": "0acb8afb5b24905aa341644b7cd3a458dc44a0a038c0f5cb1f0b178ab1c13989",
+    "12 - Fontes e Bibliografia/Fonte — Santuário de Nossa Senhora de La Salette, History -  narrativa e decisões episcopais.md": "2dd983adde6432c206291225d2a50f33cb8fbcd8bd701d4a44640aed5a68cd30",
     "12 - Fontes e Bibliografia/Fonte — Senhora Aparecida, 90 anos de padroeira (Vatican News).md": "adf981b22c1d9f566e6b6cc7ae1bff83d5c9d2e42dcb27f84d47f964a900f877",
     "12 - Fontes e Bibliografia/Fonte — Sheshan Basilica (Wikipédia em inglês).md": "917c494666d014423ae023857431e79082c8f46a3b4a265b1f881d69b6ee7f9c",
     "12 - Fontes e Bibliografia/Fonte — Shrine of Our Lady of Altötting (Wikipédia em inglês).md": "a29ba38f68efd5fa0271f292623a9b04863f90fc2f89f1fde31896a9213c38e8",
@@ -27623,7 +29296,7 @@
     "13 - Mapas de Conhecimento/Vietnã — pesquisa mariana.md": "e65de1a91f914180e998d1f586ac33dd24ad416cb0fcba37ff434515ebf3ade7",
     "13 - Mapas de Conhecimento/Áustria — pesquisa mariana.md": "3a9636c5e3fd5b8af1d20bf2113a3eff675e18dddb263e85698072691da1e5f7",
     "13 - Mapas de Conhecimento/Índia — pesquisa mariana.md": "ae558df8338267a693983c521239b7c796fcd1f1d11983f84ca0d2fedd6d9f65",
-    "14 - Pesquisas Pendentes/Pendências documentais e divergências.md": "1cafa256f82be49fb08044ed5c2da25dfa72b4db752c2479676e542d1d806669",
+    "14 - Pesquisas Pendentes/Pendências documentais e divergências.md": "b3ad305372262cc6f266bc6c4b082d30a807b9083ef0173f78a7b6c6c8f57722",
     "15 - Templates/Template — Acontecimento histórico.md": "8454aff20a52e7af1ba9c7980f50bead2da75ef0997f541ee5b738d67fd00e16",
     "15 - Templates/Template — Aparição.md": "e178dd9c93d07d79cf5f67550359e2652b59c4d15cbcdc2799ca3156cd86c09a",
     "15 - Templates/Template — Documento.md": "0cc5601485c35a90df79a5ca313affb0d8736e5f945ff507cd8c32f57ff9b631",
@@ -27644,6 +29317,31 @@
     "16 - Bases/Títulos.base": "4c736217b01c6bf8860fc3809b421b0e54821f74547b159bfadec6f94576783e",
     ".obsidian/snippets/sancta-mater-dei.css": "ce8453b32088067861e422650d6d784f4c6c9019cde4cf3a651f78309f13dc85",
     ".obsidian/appearance.json": "e7e9b9cca8197272dd32545250b30325cae12c72ad8b0e9ed432107d4cdb4cb7",
-    "00 - Portal/Cores e leitura dos grafos.md": "b4a97e4f2c4d21b0945e77edbadb90568e456458a5c32d3a4e4e549ab6111dd0"
+    "00 - Portal/Cores e leitura dos grafos.md": "b4a97e4f2c4d21b0945e77edbadb90568e456458a5c32d3a4e4e549ab6111dd0",
+    "05 - Santos e Videntes/Afra Brígido Blanco.md": "4ff91f4d9be1a000eb38dbd1956873651a16773819ce3544de0c1b258424cfdd",
+    "05 - Santos e Videntes/Estelle Faguette.md": "15137a263e1cac4b48fe1d0eab5210a814049811d8c5e653b535f108f8117196",
+    "05 - Santos e Videntes/Marcelina Barroso Expósito.md": "fa14065035d5071b8c9a8b60432fedf0f5fac36652c58f0c24051958072ba646",
+    "05 - Santos e Videntes/Pierina Gilli.md": "8a11134e5f7e22e8fe1477c5d01ed2efd68ab437b716b1f1293e600209933039",
+    "07 - Orações e Devoções/Dai-lhes, Senhor, o eterno descanso (Requiem aeternam).md": "d77d8aec85e02582a778e61c2baed83e17f519065d05ac705f681dc314c07e83",
+    "07 - Orações e Devoções/Ladainha de Nossa Senhora.md": "d95488cad8d276252deebcf392856e84284d94af99b7a7018c16c0806688bd0a",
+    "07 - Orações e Devoções/Pai-Nosso.md": "b0dee7a79c2b00fa0b28d9777d60ef14ef5c4e3597f651fed84d75d91edd5eb3",
+    "12 - Fontes e Bibliografia/Fonte — Agência SIR, «Diocesi -  Tursi-Lagonegro, mons. Orofino dichiara “prodigiosa-miracolosa” la guarigione di Antonia Raco» (16 de abril de 2025).md": "3a1fc710952515e131afff868eb030b66215a3fbd1ec780af955a9b4c887eff4",
+    "12 - Fontes e Bibliografia/Fonte — Arcebispo de Liverpool, «Statement on the Case of John Traynor» (8 de dezembro de 2024).md": "b872f00eb9a25a2605b0f9ec40e72cbfe6a74e6a0bb49153adfe6880671c180c",
+    "12 - Fontes e Bibliografia/Fonte — Conferência dos Bispos da França, «Le 70e miracle de Lourdes officiellement reconnu par l’évêque de Beauvais» (2018).md": "ad28d54f50e447de588aa948840dd5c1973d76d6941e0745a9248fb9b7ef2f81",
+    "12 - Fontes e Bibliografia/Fonte — Congregação para o Culto Divino, carta aos presidentes das conferências episcopais sobre as invocações «Mater misericordiae», «Mater spei» e «Solacium migrantium» (20 de ju.md": "585117ae42fefd7a40c2a23e40a98d19f9707013113f3beec55746a1f43c7a2c",
+    "12 - Fontes e Bibliografia/Fonte — Coroa pelas almas do Purgatório (Paroquias.org).md": "edf19f78135a58e2f7d8cc3f167f86f0ffff17fa514f3607e4e34844b2f676fd",
+    "12 - Fontes e Bibliografia/Fonte — Dicastério para a Doutrina da Fé, carta ao bispo de Brescia sobre a devoção a Maria Rosa Mística (Montichiari) (5 de julho de 2024).md": "59b4b7ed3b8559c335ccc5c96f10fb1b65de60b2ef72e79548543b2af035ac6f",
+    "12 - Fontes e Bibliografia/Fonte — Dicastério para a Doutrina da Fé, carta ao bispo de Locri-Gerace sobre a experiência espiritual ligada ao santuário de Nossa Senhora «dello Scoglio» (5 de julho de 2024).md": "8de9a9682d4e6deead3ab132230dddc1571633e70084df946cf47365241603e1",
+    "12 - Fontes e Bibliografia/Fonte — Dicastério para a Doutrina da Fé, «Deixa que Jesus te liberte» -  carta ao arcebispo de Prešov sobre a experiência espiritual no monte Zvir (Litmanová) (4 de julho de 2025).md": "8010f6508daad7acb9b560fb68ab5fcb30e39d3eb87f82a2c4ad3e96d1f8d6d7",
+    "12 - Fontes e Bibliografia/Fonte — Dicastério para a Doutrina da Fé, «Nossa Senhora da Misericórdia nos leva ao Coração de Cristo» -  carta ao arcebispo de Bourges sobre a experiência espiritual de Estelle F.md": "ba585886042430b4623d87637657771ca069c8b59e3048cd2632a34ea5454126",
+    "12 - Fontes e Bibliografia/Fonte — Dicastério para a Doutrina da Fé, «Uma luz em Espanha» -  carta ao arcebispo de Mérida-Badajoz sobre a experiência espiritual de Chandavila (22 de agosto de 2024).md": "73ee7ee273a3cf69896f94dcb16cdfdfde7a8d0d1515a0528e1bcfdf42cf9643",
+    "12 - Fontes e Bibliografia/Fonte — Francisco, Angelus de 19 de setembro de 2021 (saudação a La Salette).md": "3a070d138ded7e582ec89c9fcfedcd662ae57ccdacfd3c1828e726fce2d429b6",
+    "12 - Fontes e Bibliografia/Fonte — Francisco, videomensagem pela elevação do santuário de Knock a santuário internacional (19 de março de 2021).md": "384dabe09964bb922334f2a63369e56431558582c31432d6a12d580d4c2b4e1f",
+    "12 - Fontes e Bibliografia/Fonte — Ladainha de Nossa Senhora (sítio do Vaticano, O Santo Rosário, versão em português).md": "205ace2c7d644d0b412c6a41c3e4fa90330ee722f2aa334a8f10a2613c06fd13",
+    "12 - Fontes e Bibliografia/Fonte — Pai Nosso (Vatican News, seção Orações, em português).md": "99fcbfdd2c1e7b60d7a6f6669972e794230098f25b574c6c5eed301a52b08766",
+    "12 - Fontes e Bibliografia/Fonte — Paulo VI, Constituição Apostólica Indulgentiarum doctrina (1º de janeiro de 1967).md": "43c95a264ef2826f708825cba40f5ffbf4d53631e42f3a92f11d9e4a161b1dab",
+    "12 - Fontes e Bibliografia/Fonte — Reconhecimento das aparições de Banneux (site do santuário).md": "51fcd423e59b59b6a40eca70c39cd0b908e8566580a31ea3004e0a081472eccc",
+    "12 - Fontes e Bibliografia/Fonte — Terço e Ladainha pelas Almas do Purgatório (blog São Pio V, Curitiba, 2010).md": "0b650f5715a80eaf05bb79dc72ba2e6cc8fd4d516b4bd770c1a32204ac04f231",
+    "12 - Fontes e Bibliografia/Fonte — Vatican News, «Nossa Senhora da Misericórdia de Pellevoisin -  uma devoção que faz bem» (agosto de 2024).md": "e38f3ef7e90a63ba29b82c7542ab74ab464c056925ebacf6dcd5fef745a2b02d"
   }
 }

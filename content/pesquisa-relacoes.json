@@ -1,0 +1,73 @@
+{
+  "nota": "Liga cada capítulo da pesquisa documentada (content/pesquisa-documentada.txt) à página principal do assunto, quando ela existe. As ligações aparecem nos dois sentidos: no capítulo e na página do registro. Só registros publicados podem ser ligados. 'conferencia' guarda divergências encontradas ao reler as fontes, sem reescrever o texto original da pesquisa.",
+  "conferidoEm": "2026-10-08",
+  "capitulos": {
+    "1": { "registros": ["fe-maternidade-divina", "tit-mae-de-deus"] },
+    "2": { "registros": ["fe-imaculada-conceicao", "tit-imaculada-conceicao"] },
+    "3": { "registros": ["vida-01-mundo-de-maria"] },
+    "4": { "registros": ["vida-01-mundo-de-maria"] },
+    "5": { "registros": ["vida-05-anunciacao"] },
+    "6": { "registros": ["vida-05-anunciacao", "fe-imaculada-conceicao"] },
+    "7": { "registros": ["vida-06-visitacao", "ora-magnificat"] },
+    "8": { "registros": ["vida-13-maria-na-igreja"] },
+    "9": { "registros": ["vida-08-infancia-de-jesus"] },
+    "10": { "registros": ["vida-05-anunciacao"] },
+    "11": { "registros": ["vida-08-infancia-de-jesus"] },
+    "12": { "registros": ["vida-12-dormicao-e-assuncao", "fe-assuncao", "cel-assuncao"] },
+    "13": { "registros": ["cel-realeza"] },
+    "14": { "registros": ["vida-13-maria-na-igreja"] },
+    "15": { "registros": ["vida-13-maria-na-igreja"] },
+    "16": { "registros": ["vida-11-apos-a-ressurreicao", "fe-mae-da-igreja"] },
+    "17": { "registros": ["sh-santa-maria-maior"] },
+    "18": { "registros": ["sh-loreto"] },
+    "19": { "registros": ["sh-pompeia", "dev-rosario"] },
+    "21": { "registros": ["sh-altotting"] },
+    "22": { "registros": ["sh-mariazell"] },
+    "24": { "registros": ["sh-yamoussoukro"] },
+    "25": { "registros": ["sh-harissa"] },
+    "26": { "registros": ["tit-guadalupe-mexico", "sh-guadalupe-mexico"] },
+    "27": { "registros": ["sh-suyapa"] },
+    "28": { "registros": ["sh-copacabana"] },
+    "30": { "registros": ["sh-lujan"] },
+    "32": { "registros": ["sh-cartago"] },
+    "33": { "registros": ["sh-belem-nazare"] },
+    "34": { "registros": ["sh-pilar"] },
+    "35": { "registros": ["sh-covadonga"] },
+    "36": { "registros": ["tit-aparecida", "sh-aparecida", "cel-aparecida"] },
+    "38": { "registros": ["apar-kibeho-1981", "tit-kibeho"] },
+    "40": { "registros": ["apar-la-salette-1846", "tit-la-salette"] },
+    "41": { "registros": ["apar-knock-1879", "tit-knock"] },
+    "42": {
+      "registros": ["apar-banneux-1933", "tit-banneux"],
+      "conferencia": [
+        { "texto": "A afirmação 660 diz que Mariette Beco era a primogênita de onze filhos. O site do santuário de Banneux, lido em 8 de outubro de 2026, diz que ela era a mais velha de sete filhos. A ficha da aparição segue o santuário.", "fontes": ["banneux-santuario-aparicoes"] }
+      ]
+    },
+    "44": { "registros": ["apar-pellevoisin-1876"] },
+    "45": {
+      "registros": ["apar-lourdes-1858", "guia-curas-e-milagres"],
+      "conferencia": [
+        { "texto": "Este caso continua em pesquisa, fora do catálogo de milagres: o texto da decisão do bispo de Tursi-Lagonegro não foi lido em fonte da diocese ou da Igreja. A data e a autoridade foram conferidas no site do santuário de Lourdes, e o caso já consta da lista de curas reconhecidas.", "fontes": ["lourdes-raco-2025", "sir-raco-2025"] }
+      ]
+    },
+    "46": {
+      "registros": ["mil-lourdes-traynor"],
+      "conferencia": [
+        { "texto": "A afirmação 725 atribui o relatório de 1926 aos três médicos ligados à peregrinação. Segundo a declaração do arcebispo de Liverpool, o relatório é do Dr. Vallet, então presidente interino do Bureau médico de Lourdes, que examinou Traynor em julho de 1926 junto com esses três médicos.", "fontes": ["traynor-declaracao-2024"] }
+      ]
+    },
+    "47": { "registros": ["mil-lourdes-moriau"] },
+    "48": { "registros": ["sh-siracusa"] },
+    "49": { "registros": ["apar-medjugorje-1981"] },
+    "50": { "registros": ["apar-montichiari-1947"] },
+    "51": { "registros": ["apar-chandavila-1945"] },
+    "53": { "registros": ["apar-litmanova-1990"] },
+    "55": { "registros": ["dev-medalha-milagrosa", "sh-rue-du-bac"] },
+    "56": { "registros": ["cel-carmo"] },
+    "58": { "registros": ["dev-rosario", "ora-pai-nosso"] },
+    "59": { "registros": ["apar-fatima-1917", "tit-fatima"] },
+    "62": { "registros": ["fe-devocao-e-adoracao"] },
+    "63": { "registros": ["fe-devocao-e-adoracao"] },
+    "64": { "registros": ["fe-revelacoes-privadas", "apar-medjugorje-1981", "apar-pellevoisin-1876"] }
+  }
+}

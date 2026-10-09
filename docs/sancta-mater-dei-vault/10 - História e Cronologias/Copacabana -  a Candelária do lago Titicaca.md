@@ -13,6 +13,8 @@ tags:
 - mariana/estudo
 titulo_estudado:
 - '[[Nossa Senhora de Copacabana]]'
+pagina_principal:
+- '[[Basílica de Nossa Senhora de Copacabana (Bolívia)]]'
 ---
 
 # Copacabana: a Candelária do lago Titicaca
@@ -53,7 +55,12 @@ titulo_estudado:
 
 448. Sua história une arte indígena, peregrinação e memória religiosa regional.
 
+## Página principal no site e conferência
+
+Este capítulo resume uma fonte; a página principal do assunto é [[Basílica de Nossa Senhora de Copacabana (Bolívia)]].
+
 ## Relações e bibliografia
 
 - **fontes:** [[Referência F28 — Angelus pontifício · 29 - 03 - 1992]]
 - **titulo estudado:** [[Nossa Senhora de Copacabana]]
+- **pagina principal:** [[Basílica de Nossa Senhora de Copacabana (Bolívia)]]

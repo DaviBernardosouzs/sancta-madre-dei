@@ -31,7 +31,7 @@ Visão geral do que o santuário informa sobre curas inexplicadas e milagres rec
 > [!info] Natureza: historia
 > Texto preservado do acervo; fontes e revisão abaixo.
 
-Segundo o santuário de Lourdes, 72 casos de curas inexplicadas foram reconhecidos como milagrosos pela Igreja (número lido na consulta de 4 de outubro de 2026). O Bureau das Constatações Médicas, criado em 1883, registrou mais de 7.000 dossiês de curas. Ou seja: a imensa maioria dos dossiês não resultou em reconhecimento de milagre.
+Segundo o santuário de Lourdes, 72 casos de curas inexplicadas foram reconhecidos como milagrosos pela Igreja (número lido em 4 de outubro de 2026 e reconferido em 8 de outubro de 2026). O Bureau das Constatações Médicas, criado em 1883, registrou mais de 7.000 dossiês de curas. Ou seja: a imensa maioria dos dossiês não resultou em reconhecimento de milagre.
 
 ## Três coisas diferentes — guia-curas-e-milagres
 
@@ -47,13 +47,6 @@ Segundo o santuário de Lourdes, 72 casos de curas inexplicadas foram reconhecid
 
 Nenhum conteúdo deste site recomenda interromper tratamentos médicos. Procure sempre acompanhamento profissional; a oração pode caminhar junto com ele.
 
-## Por que não há fichas individuais ainda — guia-curas-e-milagres
-
-> [!info] Natureza: nota
-> Texto preservado do acervo; fontes e revisão abaixo.
-
-Os casos citados pelo santuário (como o de Catherine Latapie e o de Antonia Raco) estão em rascunho. A página do santuário consultada não detalha a autoridade que reconheceu cada caso, e suas datas apareceram divergentes em consultas diferentes. Enquanto o decreto, a autoridade e o parecer médico não forem lidos, nenhum caso será publicado como reconhecido.
-
 ## category — guia-curas-e-milagres
 
 milagres
@@ -62,11 +55,18 @@ milagres
 
 1
 
+## Quais casos têm ficha individual — guia-curas-e-milagres
+
+> [!info] Natureza: nota
+> Texto do acervo, conferido nas fontes em 8 de outubro de 2026; fontes e revisão abaixo.
+
+Só ganha ficha individual o caso em que o documento da decisão do bispo foi lido. Por isso há fichas para John Traynor (arcebispo de Liverpool, 2024) e para a Irmã Bernadette Moriau (bispo de Beauvais, 2018). O caso de Antonia Raco (2025) consta da lista de curas reconhecidas, com a data informada pelo santuário, mas continua em pesquisa até que o texto da decisão do bispo de Tursi-Lagonegro seja lido em fonte da Igreja. O caso de Catherine Latapie (1862) também continua em pesquisa.
+
 ## Revisão herdada do acervo — guia-curas-e-milagres
 
 **state:** pesquisa-documental
 
-**lastVerified:** 2026-10-04
+**lastVerified:** 2026-10-08
 
 **humanTheologicalReview:** não
 

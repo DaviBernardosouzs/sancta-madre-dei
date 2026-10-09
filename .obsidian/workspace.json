@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "2568559af0a502b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffa06162bbb2bf0d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aeb0c0172b0c37e1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "40ed16ab995c9cb1",
+    "type": "split",
+    "children": [
+      {
+        "id": "0fd08f831ee5e72a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66194a60a45905b1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "837161381fc20f9c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "a8c36c1d4c35a40b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8a0f760d78c14252",
+    "type": "split",
+    "children": [
+      {
+        "id": "b22f72784d974e88",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "137e67015a797551",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos"
+            }
+          },
+          {
+            "id": "d7192ef58a2030b8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "246bca137d87c72f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "105259dd0181a2cb",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "0a34696c68a15e94",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "aeb0c0172b0c37e1",
+  "lastOpenFiles": [
+    "docs/sancta-mater-dei-vault/07 - Orações e Devoções/Dai-lhes, Senhor, o eterno descanso (Requiem aeternam).md",
+    "docs/sancta-mater-dei-vault/07 - Orações e Devoções/Ladainha de Nossa Senhora.md",
+    "docs/sancta-mater-dei-vault/07 - Orações e Devoções/Pai-Nosso.md",
+    "docs/sancta-mater-dei-vault/05 - Santos e Videntes/Pierina Gilli.md",
+    "docs/sancta-mater-dei-vault/05 - Santos e Videntes/Afra Brígido Blanco.md",
+    "docs/sancta-mater-dei-vault/05 - Santos e Videntes/Marcelina Barroso Expósito.md",
+    "docs/sancta-mater-dei-vault/05 - Santos e Videntes/Estelle Faguette.md",
+    "docs/sancta-mater-dei-vault/12 - Fontes e Bibliografia/Fonte — Paulo VI, Constituição Apostólica Indulgentiarum doctrina (1º de janeiro de 1967).md",
+    "docs/sancta-mater-dei-vault/12 - Fontes e Bibliografia/Fonte — Terço e Ladainha pelas Almas do Purgatório (blog São Pio V, Curitiba, 2010).md",
+    "docs/sancta-mater-dei-vault/12 - Fontes e Bibliografia/Fonte — Coroa pelas almas do Purgatório (Paroquias.org).md",
+    "docs/sancta-mater-dei-vault/12 - Fontes e Bibliografia/Fonte — Congregação para o Culto Divino, carta aos presidentes das conferências episcopais sobre as invocações «Mater misericordiae», «Mater spei» e «Solacium migrantium» (20 de ju.md",
+    "docs/sancta-mater-dei-vault/12 - Fontes e Bibliografia/Fonte — Ladainha de Nossa Senhora (sítio do Vaticano, O Santo Rosário, versão em português).md",
+    "docs/sancta-mater-dei-vault/12 - Fontes e Bibliografia/Fonte — Pai Nosso (Vatican News, seção Orações, em português).md",
+    "docs/sancta-mater-dei-vault/12 - Fontes e Bibliografia/Fonte — Agência SIR, «Diocesi -  Tursi-Lagonegro, mons. Orofino dichiara “prodigiosa-miracolosa” la guarigione di Antonia Raco» (16 de abril de 2025).md",
+    "docs/sancta-mater-dei-vault/12 - Fontes e Bibliografia/Fonte — Conferência dos Bispos da França, «Le 70e miracle de Lourdes officiellement reconnu par l’évêque de Beauvais» (2018).md",
+    "docs/sancta-mater-dei-vault/12 - Fontes e Bibliografia/Fonte — Arcebispo de Liverpool, «Statement on the Case of John Traynor» (8 de dezembro de 2024).md",
+    "docs/sancta-mater-dei-vault/12 - Fontes e Bibliografia/Fonte — Dicastério para a Doutrina da Fé, carta ao bispo de Locri-Gerace sobre a experiência espiritual ligada ao santuário de Nossa Senhora «dello Scoglio» (5 de julho de 2024).md",
+    "docs/sancta-mater-dei-vault/12 - Fontes e Bibliografia/Fonte — Dicastério para a Doutrina da Fé, carta ao bispo de Brescia sobre a devoção a Maria Rosa Mística (Montichiari) (5 de julho de 2024).md",
+    "docs/sancta-mater-dei-vault/12 - Fontes e Bibliografia/Fonte — Dicastério para a Doutrina da Fé, «Deixa que Jesus te liberte» -  carta ao arcebispo de Prešov sobre a experiência espiritual no monte Zvir (Litmanová) (4 de julho de 2025).md",
+    "docs/sancta-mater-dei-vault/12 - Fontes e Bibliografia/Fonte — Dicastério para a Doutrina da Fé, «Uma luz em Espanha» -  carta ao arcebispo de Mérida-Badajoz sobre a experiência espiritual de Chandavila (22 de agosto de 2024).md",
+    "docs/sancta-mater-dei-vault/12 - Fontes e Bibliografia/Fonte — Vatican News, «Nossa Senhora da Misericórdia de Pellevoisin -  uma devoção que faz bem» (agosto de 2024).md",
+    "docs/sancta-mater-dei-vault/12 - Fontes e Bibliografia/Fonte — Dicastério para a Doutrina da Fé, «Nossa Senhora da Misericórdia nos leva ao Coração de Cristo» -  carta ao arcebispo de Bourges sobre a experiência espiritual de Estelle F.md",
+    "docs/sancta-mater-dei-vault/12 - Fontes e Bibliografia/Fonte — Francisco, videomensagem pela elevação do santuário de Knock a santuário internacional (19 de março de 2021).md",
+    "docs/sancta-mater-dei-vault/12 - Fontes e Bibliografia/Fonte — Reconhecimento das aparições de Banneux (site do santuário).md",
+    "docs/sancta-mater-dei-vault/12 - Fontes e Bibliografia/Fonte — Francisco, Angelus de 19 de setembro de 2021 (saudação a La Salette).md",
+    "docs/sancta-mater-dei-vault/12 - Fontes e Bibliografia/Originais/Edições/bd9313eae075/content/pesquisa-relacoes.json",
+    "docs/sancta-mater-dei-vault/12 - Fontes e Bibliografia/Originais/Edições/bd9313eae075/content",
+    "docs/sancta-mater-dei-vault/12 - Fontes e Bibliografia/Originais/Edições/bd9313eae075",
+    "docs/sancta-mater-dei-vault/12 - Fontes e Bibliografia/Originais/Edições/fb702c63f1f9/content/articles.json",
+    "docs/sancta-mater-dei-vault/12 - Fontes e Bibliografia/Originais/Edições/fb702c63f1f9/content",
+    "docs/sancta-mater-dei-vault/12 - Fontes e Bibliografia/Originais/Edições/fb702c63f1f9",
+    "docs/sancta-mater-dei-vault/12 - Fontes e Bibliografia/Originais/Edições/93deb1484982/content/curas-lourdes.json",
+    "docs/sancta-mater-dei-vault/12 - Fontes e Bibliografia/Originais/Edições/93deb1484982/content",
+    "docs/sancta-mater-dei-vault/12 - Fontes e Bibliografia/Originais/Edições/93deb1484982",
+    "docs/sancta-mater-dei-vault/12 - Fontes e Bibliografia/Originais/Edições/9d0f53ed0f85/content/titles.json",
+    "docs/sancta-mater-dei-vault/14 - Pesquisas Pendentes/Pendências documentais e divergências.md"
+  ]
+}

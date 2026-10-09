@@ -11,6 +11,10 @@ origens:
 - content/pesquisa-documentada.txt#capitulo-12
 tags:
 - mariana/estudo
+pagina_principal:
+- '[[Dormição e Assunção]]'
+- '[[Assunção de Maria]]'
+- '[[Celebração — Assunção da Virgem Maria]]'
 ---
 
 # Dormição: o que se pode afirmar e o que permanece aberto
@@ -51,6 +55,11 @@ tags:
 
 192. Essa esperança pode acompanhar quem vive o luto e a despedida.
 
+## Página principal no site e conferência
+
+Este capítulo resume uma fonte; a página principal do assunto é [[Dormição e Assunção]], [[Assunção de Maria]], [[Celebração — Assunção da Virgem Maria]].
+
 ## Relações e bibliografia
 
 - **fontes:** [[Referência F12 — Catequese pontifícia · 25 - 06 - 1997]]
+- **pagina principal:** [[Dormição e Assunção]], [[Assunção de Maria]], [[Celebração — Assunção da Virgem Maria]]

@@ -13,6 +13,9 @@ tags:
 - mariana/estudo
 menciona:
 - '[[Imaculada Conceição]]'
+pagina_principal:
+- '[[Imaculada Conceição]]'
+- '[[Nossa Senhora da Imaculada Conceição]]'
 ---
 
 # A promessa de Gênesis e a leitura mariana
@@ -53,7 +56,12 @@ menciona:
 
 32. A imagem da serpente vencida pertence a esse horizonte teológico.
 
+## Página principal no site e conferência
+
+Este capítulo resume uma fonte; a página principal do assunto é [[Imaculada Conceição]], [[Nossa Senhora da Imaculada Conceição]].
+
 ## Relações e bibliografia
 
 - **fontes:** [[Referência F02 — Interpretação bíblica no Magistério · 24 - 01 - 1996]]
 - **menciona:** [[Imaculada Conceição]]
+- **pagina principal:** [[Imaculada Conceição]], [[Nossa Senhora da Imaculada Conceição]]

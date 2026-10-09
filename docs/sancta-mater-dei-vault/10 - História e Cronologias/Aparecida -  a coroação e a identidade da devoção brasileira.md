@@ -13,6 +13,10 @@ tags:
 - mariana/estudo
 menciona:
 - '[[Imaculada Conceição]]'
+pagina_principal:
+- '[[Nossa Senhora Aparecida]]'
+- '[[Santuário Nacional de Nossa Senhora Aparecida]]'
+- '[[Celebração — Nossa Senhora Aparecida, padroeira do Brasil]]'
 ---
 
 # Aparecida: a coroação e a identidade da devoção brasileira
@@ -53,7 +57,12 @@ menciona:
 
 576. A celebração do centenário uniu memória histórica, gratidão e renovação da fé.
 
+## Página principal no site e conferência
+
+Este capítulo resume uma fonte; a página principal do assunto é [[Nossa Senhora Aparecida]], [[Santuário Nacional de Nossa Senhora Aparecida]], [[Celebração — Nossa Senhora Aparecida, padroeira do Brasil]].
+
 ## Relações e bibliografia
 
 - **fontes:** [[Referência F36 — João Paulo II, carta pelo centenário da coroação, 17 de julho de 2004]]
 - **menciona:** [[Imaculada Conceição]]
+- **pagina principal:** [[Nossa Senhora Aparecida]], [[Santuário Nacional de Nossa Senhora Aparecida]], [[Celebração — Nossa Senhora Aparecida, padroeira do Brasil]]

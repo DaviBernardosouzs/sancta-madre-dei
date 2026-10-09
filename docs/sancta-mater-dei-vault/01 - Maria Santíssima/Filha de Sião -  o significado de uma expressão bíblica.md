@@ -11,6 +11,8 @@ origens:
 - content/pesquisa-documentada.txt#capitulo-04
 tags:
 - mariana/estudo
+pagina_principal:
+- '[[O mundo em que Maria viveu]]'
 ---
 
 # Filha de Sião: o significado de uma expressão bíblica
@@ -51,6 +53,11 @@ tags:
 
 64. A dimensão comunitária impede uma leitura apenas individualista da devoção.
 
+## Página principal no site e conferência
+
+Este capítulo resume uma fonte; a página principal do assunto é [[O mundo em que Maria viveu]].
+
 ## Relações e bibliografia
 
 - **fontes:** [[Referência F04 — Catequese bíblica · 24 - 04 - 1996]]
+- **pagina principal:** [[O mundo em que Maria viveu]]

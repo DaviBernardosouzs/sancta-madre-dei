@@ -120,3 +120,11 @@ As obras usadas são de domínio público (Met Open Access, CC0) e os créditos 
 ## Atualizar o app
 
 Mudou o conteúdo? Rode o workflow de novo (ou crie uma tag `app-v1.0.1`) e envie o novo `.aab` na Play Console. O site da Cloudflare segue o fluxo normal.
+
+## Ícones e abertura (8 de outubro de 2026)
+Todos gerados com ImageMagick a partir de `site/src/assets/img/favicons/favicon-512x512.png` (a mesma arte dos favicons do site), com fundo marfim `#F8F1E1`:
+- Ícone adaptativo (`mipmap-*/ic_launcher_foreground.png`, 108 dp): a arte ocupa 54% do quadro, para caber no círculo seguro de 66 dp em qualquer máscara do sistema (calculado pelo raio máximo dos pixels da arte); fundo em `values/ic_launcher_background.xml`.
+- Ícones antigos (`ic_launcher.png`, quadrado arredondado, arte a 78%) e redondos (`ic_launcher_round.png`, arte a 72%), de 48 a 192 px.
+- Abertura: `splash_background` em `values/colors.xml` passou de azul-noite para marfim, porque o manto azul da arte desaparecia sobre o fundo escuro; as `splash.png` (retrato e paisagem) têm a arte centralizada a 36% da menor dimensão.
+- `store/icone-512.png`: quadrado cheio, sem transparência, arte a 74% (a Play Store arredonda os cantos).
+- Não compilado nesta máquina (sem Android SDK): conferir num build `npm run build:app` e no Android Studio antes de publicar.

@@ -710,5 +710,76 @@
     "formato": ".json",
     "edicao": "inicial",
     "registros": null
+  },
+  {
+    "caminho": "content/apparitions.json",
+    "copia": "12 - Fontes e Bibliografia/Originais/Edições/e49c9e0642f9/content/apparitions.json",
+    "bytes": 102927,
+    "sha256": "e49c9e0642f97a6b1f0077c7e8d0492d06aba48536bd885bc1fb56a931cd5304",
+    "formato": ".json",
+    "edicao": "expansao-editorial-2026-10-08",
+    "registros": 15
+  },
+  {
+    "caminho": "content/miracles.json",
+    "copia": "12 - Fontes e Bibliografia/Originais/Edições/9e899437f8b9/content/miracles.json",
+    "bytes": 13954,
+    "sha256": "9e899437f8b9ff8043e7509c766098aa46015dbf5a24e6f092322801171d9bde",
+    "formato": ".json",
+    "edicao": "expansao-editorial-2026-10-08",
+    "registros": 4
+  },
+  {
+    "caminho": "content/prayers.json",
+    "copia": "12 - Fontes e Bibliografia/Originais/Edições/352d83a291f1/content/prayers.json",
+    "bytes": 20504,
+    "sha256": "352d83a291f14cc3047a07ecceb9baf11037be08dabe1cb6ac44f2564e983aaf",
+    "formato": ".json",
+    "edicao": "expansao-editorial-2026-10-08",
+    "registros": 10
+  },
+  {
+    "caminho": "content/sources.json",
+    "copia": "12 - Fontes e Bibliografia/Originais/Edições/7c96c593c438/content/sources.json",
+    "bytes": 261471,
+    "sha256": "7c96c593c43828c3cc68732ec0e02187be5841d0307f1985d47bdcd7b41bc11f",
+    "formato": ".json",
+    "edicao": "expansao-editorial-2026-10-08",
+    "registros": 191
+  },
+  {
+    "caminho": "content/titles.json",
+    "copia": "12 - Fontes e Bibliografia/Originais/Edições/9d0f53ed0f85/content/titles.json",
+    "bytes": 57826,
+    "sha256": "9d0f53ed0f8534cc99f187e03bc326aecd5d63abb32bfb6caf3fe92f87fdf5aa",
+    "formato": ".json",
+    "edicao": "expansao-editorial-2026-10-08",
+    "registros": 14
+  },
+  {
+    "caminho": "content/curas-lourdes.json",
+    "copia": "12 - Fontes e Bibliografia/Originais/Edições/93deb1484982/content/curas-lourdes.json",
+    "bytes": 17335,
+    "sha256": "93deb1484982fc377efb19608a6e62599194facc3a7c479ecf1f75be02680455",
+    "formato": ".json",
+    "edicao": "expansao-editorial-2026-10-08",
+    "registros": 72
+  },
+  {
+    "caminho": "content/articles.json",
+    "copia": "12 - Fontes e Bibliografia/Originais/Edições/fb702c63f1f9/content/articles.json",
+    "bytes": 164175,
+    "sha256": "fb702c63f1f9bf44c45290b383ef051292e8b9c1f0239257d563abe06c4ca6c7",
+    "formato": ".json",
+    "edicao": "expansao-editorial-2026-10-08",
+    "registros": 54
+  },
+  {
+    "caminho": "content/pesquisa-relacoes.json",
+    "copia": "12 - Fontes e Bibliografia/Originais/Edições/bd9313eae075/content/pesquisa-relacoes.json",
+    "bytes": 4567,
+    "sha256": "bd9313eae075b9b12fa00639274ca361ccba7a1e51ea10a07db0d71b877ff078",
+    "formato": ".json",
+    "edicao": "expansao-editorial-2026-10-08"
   }
 ]

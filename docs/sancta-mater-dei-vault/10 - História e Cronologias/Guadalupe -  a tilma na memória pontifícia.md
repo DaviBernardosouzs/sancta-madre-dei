@@ -13,6 +13,9 @@ tags:
 - mariana/estudo
 menciona:
 - '[[São Juan Diego]]'
+pagina_principal:
+- '[[Nossa Senhora de Guadalupe (México)]]'
+- '[[Basílica de Nossa Senhora de Guadalupe (Cidade do México)]]'
 ---
 
 # Guadalupe: a tilma na memória pontifícia
@@ -53,7 +56,12 @@ menciona:
 
 416. Guadalupe aparece como memória religiosa que pede consequências na vida social.
 
+## Página principal no site e conferência
+
+Este capítulo resume uma fonte; a página principal do assunto é [[Nossa Senhora de Guadalupe (México)]], [[Basílica de Nossa Senhora de Guadalupe (Cidade do México)]].
+
 ## Relações e bibliografia
 
 - **fontes:** [[Referência F26 — Angelus pontifício · 26 - 01 - 1992]]
 - **menciona:** [[São Juan Diego]]
+- **pagina principal:** [[Nossa Senhora de Guadalupe (México)]], [[Basílica de Nossa Senhora de Guadalupe (Cidade do México)]]

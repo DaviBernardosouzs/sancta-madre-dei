@@ -13,6 +13,8 @@ tags:
 - mariana/estudo
 titulo_estudado:
 - '[[Nossa Senhora Salus Populi Romani]]'
+pagina_principal:
+- '[[Basílica de Santa Maria Maior (Roma)]]'
 ---
 
 # Salus Populi Romani: o ícone e a linguagem do acolhimento
@@ -53,7 +55,12 @@ titulo_estudado:
 
 272. O título romano expressa uma experiência local de confiança universal.
 
+## Página principal no site e conferência
+
+Este capítulo resume uma fonte; a página principal do assunto é [[Basílica de Santa Maria Maior (Roma)]].
+
 ## Relações e bibliografia
 
 - **fontes:** [[Referência F17 — Homilia pontifícia · 28 - 01 - 2018]]
 - **titulo estudado:** [[Nossa Senhora Salus Populi Romani]]
+- **pagina principal:** [[Basílica de Santa Maria Maior (Roma)]]

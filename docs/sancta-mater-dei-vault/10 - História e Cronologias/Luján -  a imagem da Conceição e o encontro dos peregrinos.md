@@ -15,6 +15,8 @@ titulo_estudado:
 - '[[Nossa Senhora de Luján]]'
 menciona:
 - '[[Imaculada Conceição]]'
+pagina_principal:
+- '[[Basílica de Nossa Senhora de Luján]]'
 ---
 
 # Luján: a imagem da Conceição e o encontro dos peregrinos
@@ -55,8 +57,13 @@ menciona:
 
 480. Seu lugar no atlas deve reunir imagem, comunidade e fonte documental.
 
+## Página principal no site e conferência
+
+Este capítulo resume uma fonte; a página principal do assunto é [[Basílica de Nossa Senhora de Luján]].
+
 ## Relações e bibliografia
 
 - **fontes:** [[Referência F30 — Angelus pontifício · 22 - 03 - 1992]]
 - **titulo estudado:** [[Nossa Senhora de Luján]]
 - **menciona:** [[Imaculada Conceição]]
+- **pagina principal:** [[Basílica de Nossa Senhora de Luján]]

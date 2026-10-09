@@ -12,14 +12,6 @@ on:
         default: '1.0.0'
   push:
     tags: ['app-v*']
-  pull_request:
-    paths:
-      - 'android/**'
-      - 'capacitor.config.json'
-      - 'site/**'
-      - 'content/**'
-      - 'package.json'
-      - '.github/workflows/android.yml'
 
 jobs:
   android:
@@ -42,6 +34,8 @@ jobs:
           java-version: 21
 
       - uses: android-actions/setup-android@v3
+        with:
+          packages: 'platform-tools platforms;android-36 build-tools;36.0.0'
 
       - name: Dependências
         run: npm ci

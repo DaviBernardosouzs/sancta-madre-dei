@@ -18,6 +18,10 @@ catalogo:
 - '[[Alphonsine Mumureke]]'
 - '[[Nathalie Mukamazimpaka]]'
 - '[[Marie-Claire Mukangango]]'
+- '[[Estelle Faguette]]'
+- '[[Marcelina Barroso Expósito]]'
+- '[[Afra Brígido Blanco]]'
+- '[[Pierina Gilli]]'
 ---
 
 # Índice — vidente
@@ -28,4 +32,4 @@ catalogo:
 
 ## Relações e bibliografia
 
-- **catalogo:** [[Lúcia dos Santos]], [[Adele Brise]], [[Maximin Giraud]], [[Mélanie Calvat]], [[Mariette Beco]], [[Alphonsine Mumureke]], [[Nathalie Mukamazimpaka]], [[Marie-Claire Mukangango]]
+- **catalogo:** [[Lúcia dos Santos]], [[Adele Brise]], [[Maximin Giraud]], [[Mélanie Calvat]], [[Mariette Beco]], [[Alphonsine Mumureke]], [[Nathalie Mukamazimpaka]], [[Marie-Claire Mukangango]], [[Estelle Faguette]], [[Marcelina Barroso Expósito]], [[Afra Brígido Blanco]], [[Pierina Gilli]]

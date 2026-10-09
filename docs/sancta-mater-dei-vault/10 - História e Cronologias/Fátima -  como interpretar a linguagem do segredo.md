@@ -13,6 +13,9 @@ tags:
 - mariana/estudo
 documento_contextual:
 - '[[A Mensagem de Fátima (2000)]]'
+pagina_principal:
+- '[[Aparições de Fátima (1917)]]'
+- '[[Nossa Senhora de Fátima]]'
 ---
 
 # Fátima: como interpretar a linguagem do segredo
@@ -53,7 +56,12 @@ documento_contextual:
 
 944. O documento relaciona a mensagem ao crescimento na fé, esperança e caridade.
 
+## Página principal no site e conferência
+
+Este capítulo resume uma fonte; a página principal do assunto é [[Aparições de Fátima (1917)]], [[Nossa Senhora de Fátima]].
+
 ## Relações e bibliografia
 
 - **fontes:** [[Referência F59 — Congregação para a Doutrina da Fé, A Mensagem de Fátima, 26 de junho de 2000]]
 - **documento contextual:** [[A Mensagem de Fátima (2000)]]
+- **pagina principal:** [[Aparições de Fátima (1917)]], [[Nossa Senhora de Fátima]]

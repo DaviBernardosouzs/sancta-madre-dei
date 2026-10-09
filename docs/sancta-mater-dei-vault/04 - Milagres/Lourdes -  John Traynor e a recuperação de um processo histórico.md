@@ -13,6 +13,8 @@ tags:
 - mariana/estudo
 menciona:
 - '[[John Traynor]]'
+pagina_principal:
+- '[[Cura atribuída — John Traynor]]'
 ---
 
 # Lourdes: John Traynor e a recuperação de um processo histórico
@@ -53,7 +55,15 @@ menciona:
 
 736. Sua história mostra por que relatos antigos exigem pesquisa documental cuidadosa.
 
+## Página principal no site e conferência
+
+Este capítulo resume uma fonte; a página principal do assunto é [[Cura atribuída — John Traynor]].
+
+> [!warning] Nota de conferência (8 de outubro de 2026)
+> A afirmação 725 atribui o relatório de 1926 aos três médicos ligados à peregrinação. Segundo a declaração do arcebispo de Liverpool, o relatório é do Dr. Vallet, então presidente interino do Bureau médico de Lourdes, que examinou Traynor em julho de 1926 junto com esses três médicos. Fontes: traynor-declaracao-2024.
+
 ## Relações e bibliografia
 
 - **fontes:** [[Referência F46 — Vatican News, reconhecimento da cura de John Traynor, dezembro de 2024]]
 - **menciona:** [[John Traynor]]
+- **pagina principal:** [[Cura atribuída — John Traynor]]

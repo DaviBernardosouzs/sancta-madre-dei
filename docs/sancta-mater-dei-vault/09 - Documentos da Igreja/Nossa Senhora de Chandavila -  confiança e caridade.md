@@ -13,6 +13,8 @@ tags:
 - mariana/estudo
 titulo_estudado:
 - '[[Nossa Senhora de Chandavila]]'
+pagina_principal:
+- '[[Relatos e discernimento — Nossa Senhora de Chandavila]]'
 ---
 
 # Nossa Senhora de Chandavila: confiança e caridade
@@ -53,7 +55,12 @@ titulo_estudado:
 
 816. A caridade concreta constitui um elemento importante dessa apreciação pastoral.
 
+## Página principal no site e conferência
+
+Este capítulo resume uma fonte; a página principal do assunto é [[Relatos e discernimento — Nossa Senhora de Chandavila]].
+
 ## Relações e bibliografia
 
 - **fontes:** [[Referência F51 — Dicastério para a Doutrina da Fé, carta sobre Chandavila, 22 de agosto de 2024]]
 - **titulo estudado:** [[Nossa Senhora de Chandavila]]
+- **pagina principal:** [[Relatos e discernimento — Nossa Senhora de Chandavila]]

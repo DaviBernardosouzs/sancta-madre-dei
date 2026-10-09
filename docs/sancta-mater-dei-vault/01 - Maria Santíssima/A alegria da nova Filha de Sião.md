@@ -11,6 +11,8 @@ origens:
 - content/pesquisa-documentada.txt#capitulo-05
 tags:
 - mariana/estudo
+pagina_principal:
+- '[[A Anunciação]]'
 ---
 
 # A alegria da nova Filha de Sião
@@ -51,6 +53,11 @@ tags:
 
 80. Por isso, alegria e disponibilidade caminham juntas na espiritualidade mariana.
 
+## Página principal no site e conferência
+
+Este capítulo resume uma fonte; a página principal do assunto é [[A Anunciação]].
+
 ## Relações e bibliografia
 
 - **fontes:** [[Referência F05 — Catequese bíblica · 01 - 05 - 1996]]
+- **pagina principal:** [[A Anunciação]]

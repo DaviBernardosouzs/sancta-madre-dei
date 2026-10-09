@@ -24,6 +24,8 @@ export const CAMINHOS = {
   /** Arquivos copiados para dist/assets/: estilos, scripts, fontes, imagens e bibliotecas. */
   ativos: doSite('src', 'assets'),
   obras: doSite('src', 'assets', 'img', 'obras'),
+  /** Modelo do service worker do PWA (o build grava sw.js na raiz da saída, com a versão e a lista de pré-cache). */
+  pwa: doSite('src', 'pwa'),
   /** Dicionários de interface (ui/) e traduções do conteúdo (content/). */
   i18n: doSite('i18n'),
   /** Originais das obras, baixados por fetch-art (fora do git). */

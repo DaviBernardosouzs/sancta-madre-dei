@@ -58,13 +58,14 @@ A edição atual inclui:
 - leitura guiada;
 - fundamentos da fé;
 - dossiê documental com 32 capítulos e 512 afirmações numeradas;
-- aparições de Lourdes e Fátima;
-- seção dedicada a milagres e critérios de investigação;
+- pesquisa documentada com 64 capítulos, ligada às páginas de cada assunto;
+- doze fichas de aparições (Lourdes, Fátima, Kibeho, La Salette, Banneux, Knock, Champion, Pellevoisin, Chandavila, Medjugorje, Litmanová e Montichiari), cada uma com a situação eclesial na terminologia da época da decisão, cronologia e mapa;
+- seção dedicada a milagres e critérios de investigação, com fichas individuais e a lista de curas reconhecidas de Lourdes;
 - devoções marianas;
 - Rosário;
 - mensagem de Lourdes;
 - títulos marianos;
-- sete orações tradicionais;
+- dez orações tradicionais, incluindo o Pai-Nosso, a Ladainha de Nossa Senhora e o «Dai-lhes, Senhor, o eterno descanso» em português e em latim;
 - guia do Rosário;
 - modo de leitura;
 - galeria de arte sacra;
@@ -74,6 +75,7 @@ A edição atual inclui:
 - créditos das imagens;
 - metodologia;
 - busca;
+- aplicativo instalável no Android e no iPhone (PWA), com página de instruções e leitura sem internet das páginas já abertas;
 - filtros;
 - páginas institucionais e editoriais.
 
@@ -211,7 +213,8 @@ A documentação interna do projeto inclui:
 - `docs/AUDITORIA-VISUAL.md` — auditoria das reproduções artísticas;
 - `docs/REVISAO-CINEMATOGRAFICA.md` — revisão da apresentação visual;
 - `docs/VERIFICACAO.md` — verificações realizadas;
-- `docs/PENDENCIAS.md` — limitações e trabalhos futuros.
+- `docs/PENDENCIAS.md` — limitações e trabalhos futuros;
+- `docs/MATRIZ-EVIDENCIAS-2026-10-08.md` — matriz de trabalho e de evidências da expansão editorial de 8/10/2026.
 
 ---
 

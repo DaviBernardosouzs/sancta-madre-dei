@@ -3,16 +3,18 @@ id: dossie-s28
 tipo: fonte
 titulo: Fonte — Santuário de Banneux, The apparitions (1933), com data do reconhecimento episcopal.
 aliases: []
-fontes_verificadas: false
-estado_pesquisa: referencia-herdada-nao-reconsultada
+fontes_verificadas: true
+estado_pesquisa: conferido-na-fonte
 fontes: []
 origens:
 - content/sources.json#dossie-s28
+- content/sources.json#banneux-santuario-aparicoes
 tags:
 - mariana/fonte
 natureza_documentacao: estudo
 natureza_fonte: estudo
 url: https://banneux-nd.be/en/the-apparitions/
+consultado_em: '2026-10-08'
 ---
 
 # Fonte — Santuário de Banneux, The apparitions (1933), com data do reconhecimento episcopal.
@@ -66,3 +68,23 @@ Referência S28 incorporada do dossiê de pesquisa.
 - 383. O reconhecimento das aparições ocorreu em 2 de julho de 1949.
 
 - 384. As duas histórias não devem ser fundidas num único acontecimento belga.
+
+## Afirmações conferidas em 8 de outubro de 2026 — banneux-santuario-aparicoes
+
+- De 15 de janeiro a 2 de março de 1933, Nossa Senhora, que se apresenta como Virgem dos Pobres, aparece oito vezes a Mariette Beco.
+
+- Mariette Beco nasceu em 25 de março de 1921 e era a mais velha de sete filhos; a família vivia em condições difíceis numa casa isolada, afastada da aldeia, diante de um bosque de abetos.
+
+- Em 15 de janeiro de 1933, à noite, a Senhora apareceu no jardim da casa; a mãe proibiu Mariette de sair.
+
+- Em 18 de janeiro, a Senhora levou Mariette pela estrada até uma poça de água da fonte e disse: «Mergulha as mãos na água» e «Esta fonte está reservada para mim».
+
+- Em 19 de janeiro, à pergunta de Mariette, respondeu: «Eu sou a Virgem dos Pobres» e «Esta fonte está reservada a todas as nações... para aliviar os doentes».
+
+- Em 20 de janeiro pediu «uma pequena capela»; em 11 de fevereiro disse «Venho aliviar o sofrimento»; em 15 de fevereiro, ao pedido de um sinal feito pelo capelão Jamin, respondeu «Crede em mim, eu crerei em vós» e confiou um segredo a Mariette.
+
+- Em 20 de fevereiro disse «Minha querida criança, reza muito»; na última aparição, em 2 de março de 1933, disse «Eu sou a Mãe do Salvador, Mãe de Deus. Rezai muito».
+
+- A capela das aparições foi construída e inaugurada no verão de 1933.
+
+Registro no acervo do site: `content/sources.json#banneux-santuario-aparicoes`.
