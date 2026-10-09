@@ -32,7 +32,10 @@
       ],
       "shrines": [],
       "celebrations": [],
-      "miracles": [],
+      "miracles": [
+        "mil-lourdes-traynor",
+        "mil-lourdes-moriau"
+      ],
       "prayers": []
     },
     "review": {
@@ -988,52 +991,23 @@
     },
     "blocks": [
       {
-        "kind": "decisao",
-        "heading": "A decisão do bispo de Green Bay (2010)",
-        "text": "Em 8 de dezembro de 2010, o bispo de Green Bay, Dom David L. Ricken, aprovou como dignas de crença (embora não obrigatórias) as aparições e locuções dadas a Adele Brise em outubro de 1859, declarando que elas exibem a substância de caráter sobrenatural. Ele encoraja os peregrinos a visitar o lugar como lugar de consolo e de orações atendidas. A decisão é do bispo diocesano e diz expressamente que a crença não é obrigatória.",
+        "kind": "relato",
+        "heading": "Em resumo",
+        "text": "Nossa Senhora do Bom Socorro é o título venerado no santuário de Champion, no Wisconsin, ligado às aparições relatadas por Adele Brise em outubro de 1859. Em 2010, o bispo de Green Bay aprovou as aparições como dignas de crença, sem torná-las obrigatórias. O relato, a missão atribuída a Adele e o decreto estão na página da aparição.",
         "sources": [
           "champion-decreto-2010"
         ]
-      },
-      {
-        "kind": "nota",
-        "heading": "O que esta página ainda não traz",
-        "text": "O relato detalhado das aparições (o que Adele Brise teria visto e ouvido), a história da capela e o processo de investigação não foram lidos em fontes primárias nesta edição, por isso não são narrados aqui.",
-        "sources": []
       }
     ],
-    "decisions": [
-      {
-        "id": "d-ch-2010",
-        "date": "2010-12-08",
-        "datePrecision": "dia",
-        "authority": "Dom David L. Ricken, bispo de Green Bay",
-        "authorityLevel": "diocesano",
-        "kinds": [
-          "reconhecimento-da-aparicao",
-          "autorizacao-de-culto"
-        ],
-        "scope": "Aprova as aparições de 1859 como dignas de crença (não obrigatória) pelos fiéis e encoraja a peregrinação; alcance e autoridade diocesanos.",
-        "document": "Decreto de 8 de dezembro de 2010 (texto em inglês, reproduzido por CatholicCulture.org).",
-        "documentSourceId": "champion-decreto-2010",
-        "plain": "O bispo da diocese aprovou as aparições como dignas de crença, sem obrigar ninguém a crer, e incentivou a peregrinação.",
-        "sources": [
-          "champion-decreto-2010"
-        ],
-        "quote": "do hereby approve these apparitions as worthy of belief (although not obligatory) by the Christian faithful.",
-        "quoteLang": "en"
-      }
-    ],
+    "decisions": [],
     "symbols": [],
-    "gaps": [
-      "Nenhuma fonte primária sobre o relato das aparições e sobre o santuário foi lida.",
-      "A designação do santuário como santuário nacional (conferência dos bispos dos EUA) foi indicada por resultados de busca, mas o documento não foi aberto.",
-      "O arquivo original do decreto, no sítio da Diocese de Green Bay, não foi aberto."
-    ],
+    "gaps": [],
     "relations": {
       "shrines": [],
       "titles": [],
-      "apparitions": [],
+      "apparitions": [
+        "apar-champion-1859"
+      ],
       "articles": [],
       "devotions": [],
       "prayers": [],
@@ -1042,9 +1016,10 @@
     },
     "review": {
       "state": "pesquisa-documental",
-      "lastVerified": "2026-10-04",
+      "lastVerified": "2026-10-08",
       "humanTheologicalReview": false
-    }
+    },
+    "mainRecord": "apar-champion-1859"
   },
   {
     "id": "tit-kibeho",
@@ -1052,7 +1027,7 @@
     "type": "titulo",
     "status": "published",
     "title": "Nossa Senhora de Kibeho (Ruanda)",
-    "summary": "Aparições relatadas a três jovens em Kibeho, em Ruanda, a partir de 1981, declaradas autênticas pelo bispo de Gikongoro em 2001.",
+    "summary": "Título ligado às aparições relatadas em Kibeho, em Ruanda, a partir de 1981. Em 2001, o bispo de Gikongoro declarou autênticas as aparições às três primeiras videntes.",
     "names": [
       {
         "name": "Nossa Senhora de Kibeho",
@@ -1094,49 +1069,21 @@
     },
     "blocks": [
       {
-        "kind": "decisao",
-        "heading": "A declaração do bispo de Gikongoro (2001)",
-        "text": "Em 29 de junho de 2001, Dom Augustin Misago, bispo de Gikongoro, declarou que a Virgem Maria apareceu em Kibeho em 28 de novembro de 1981 e nos meses seguintes, reconhecendo como autênticas apenas as três primeiras videntes: Alphonsine Mumureke, Nathalie Mukamazimpaka e Marie Claire Mukangango. A declaração deixa de fora as supostas aparições de Jesus relatadas a partir de julho de 1982 e outros videntes, e diz que a mensagem não é nova revelação, mas um modo de recordar o ensino ordinário da Igreja. O reconhecimento não é exigência de fé: cada cristão é livre para crer ou não.",
+        "kind": "relato",
+        "heading": "Em resumo",
+        "text": "Nossa Senhora de Kibeho é o título ligado às aparições relatadas a partir de 28 de novembro de 1981 no colégio de Kibeho, em Ruanda. Segundo a declaração do bispo de Gikongoro de 29 de junho de 2001, a Virgem se apresentou às videntes como «Nyina wa Jambo», Mãe do Verbo. A declaração reconheceu como autênticas só as aparições às três primeiras videntes. A história, as decisões de 1988 e 2001 e o seu alcance estão na página da aparição.",
         "sources": [
-          "kibeho-declaracao-2001"
+          "kibeho-boletim-2001"
         ]
-      },
-      {
-        "kind": "nota",
-        "heading": "O que esta página ainda não traz",
-        "text": "O relato das aparições, o trabalho das comissões médica e teológica, os eventos entre 1981 e 1989 e o contexto histórico de Ruanda não foram lidos em fontes primárias nesta edição, por isso não são narrados aqui.",
-        "sources": []
       }
     ],
-    "decisions": [
-      {
-        "id": "d-ki-2001",
-        "date": "2001-06-29",
-        "datePrecision": "dia",
-        "authority": "Dom Augustin Misago, bispo de Gikongoro",
-        "authorityLevel": "diocesano",
-        "kinds": [
-          "reconhecimento-da-aparicao"
-        ],
-        "scope": "Reconhece como autênticas as aparições às três primeiras videntes; exclui as supostas aparições de Jesus e os demais videntes; a crença é livre.",
-        "document": "Declaração de 29 de junho de 2001 (tradução em inglês, publicada no L'Osservatore Romano, edição semanal em inglês, 11 de julho de 2001, p. 8).",
-        "documentSourceId": "kibeho-declaracao-2001",
-        "plain": "O bispo da diocese declarou autênticas as aparições da Virgem às três primeiras videntes e disse que ninguém é obrigado a crer.",
-        "sources": [
-          "kibeho-declaracao-2001"
-        ],
-        "quote": "The recognition of these apparitions should not be considered a requirement of faith. Therefore each Christian is free to believe or not.",
-        "quoteLang": "en"
-      }
-    ],
+    "decisions": [],
     "symbols": [],
-    "gaps": [
-      "Fonte terciária cita aprovação da devoção pública pelo bispo de Gikongoro em 15 de agosto de 1988 e o envio da declaração pela Santa Sé em 2 de julho de 2001; os documentos não foram lidos, e por isso não constam do histórico.",
-      "O relatório de 23 páginas (em francês) que acompanha a declaração não foi lido.",
-      "O santuário e sua situação atual não foram pesquisados."
-    ],
+    "gaps": [],
     "relations": {
-      "apparitions": [],
+      "apparitions": [
+        "apar-kibeho-1981"
+      ],
       "articles": [],
       "devotions": [],
       "titles": [],
@@ -1147,10 +1094,11 @@
     },
     "review": {
       "state": "pesquisa-documental",
-      "lastVerified": "2026-10-04",
+      "lastVerified": "2026-10-08",
       "humanTheologicalReview": false
     },
-    "portrait": "retrato-kibeho"
+    "portrait": "retrato-kibeho",
+    "mainRecord": "apar-kibeho-1981"
   },
   {
     "id": "tit-la-salette",
@@ -1201,51 +1149,22 @@
     },
     "blocks": [
       {
-        "kind": "decisao",
-        "heading": "A decisão do bispo de Grenoble (1851)",
-        "text": "Em 19 de setembro de 1851, no quinto aniversário do acontecimento, o bispo de Grenoble, Dom de Bruillard, publicou uma carta pastoral em que julga que a aparição da Virgem a dois pastores em 19 de setembro de 1846, na montanha de La Salette, «traz em si todas as características da verdade» e que os fiéis têm fundamento para crer nela como indubitável e certa; autoriza a devoção a Nossa Senhora de La Salette e proíbe os fiéis e o clero da diocese de falar ou escrever contra o acontecimento. É uma decisão do bispo diocesano, na linguagem da época; não é reclassificada com a terminologia das normas de 2024.",
+        "kind": "relato",
+        "heading": "Em resumo",
+        "text": "Nossa Senhora de La Salette é o título ligado à aparição relatada por dois pastores, Maximin Giraud e Mélanie Calvat, em 19 de setembro de 1846, nos Alpes franceses. A Senhora foi descrita em lágrimas. O bispo de Grenoble declarou a aparição digna de crédito em 1851. O relato, a decisão e a fundação do santuário estão na página da aparição.",
         "sources": [
+          "lasalette-santuario-historia",
           "lasalette-bruillard-1851"
         ]
-      },
-      {
-        "kind": "nota",
-        "heading": "O que esta página ainda não traz",
-        "text": "O relato dos pastores, a mensagem atribuída à aparição, as controvérsias históricas, o santuário e eventuais decisões posteriores da Santa Sé não foram lidos em fontes primárias nesta edição, por isso não são tratados aqui.",
-        "sources": []
       }
     ],
-    "decisions": [
-      {
-        "id": "d-ls-1851",
-        "date": "1851-09-19",
-        "datePrecision": "dia",
-        "authority": "Dom Philibert de Bruillard, bispo de Grenoble",
-        "authorityLevel": "diocesano",
-        "kinds": [
-          "reconhecimento-da-aparicao",
-          "autorizacao-de-culto"
-        ],
-        "scope": "Julga que a aparição tem as características da verdade e autoriza a devoção, no âmbito da diocese de Grenoble; proíbe falar contra o acontecimento na diocese.",
-        "document": "Carta pastoral de 19 de setembro de 1851 (tradução em inglês, reproduzida por Miracle Hunter).",
-        "documentSourceId": "lasalette-bruillard-1851",
-        "plain": "O bispo da diocese reconheceu a aparição como digna de crédito e autorizou o culto a Nossa Senhora de La Salette.",
-        "sources": [
-          "lasalette-bruillard-1851"
-        ],
-        "quote": "bears within Itself all the characteristics of truth",
-        "quoteLang": "en",
-        "sourceNote": "Tradução em inglês; o original em francês não foi lido."
-      }
-    ],
+    "decisions": [],
     "symbols": [],
-    "gaps": [
-      "Uma fonte terciária indica coroação canônica por Leão XIII em 21 de agosto de 1879; o documento não foi lido e o ato não consta do histórico.",
-      "Falta o relato dos pastores e a mensagem, com fonte primária.",
-      "Falta a história do santuário e das controvérsias do século XIX."
-    ],
+    "gaps": [],
     "relations": {
-      "apparitions": [],
+      "apparitions": [
+        "apar-la-salette-1846"
+      ],
       "articles": [],
       "devotions": [],
       "titles": [],
@@ -1256,10 +1175,11 @@
     },
     "review": {
       "state": "pesquisa-documental",
-      "lastVerified": "2026-10-04",
+      "lastVerified": "2026-10-08",
       "humanTheologicalReview": false
     },
-    "portrait": "retrato-la-salette"
+    "portrait": "retrato-la-salette",
+    "mainRecord": "apar-la-salette-1846"
   },
   {
     "id": "tit-akita",
@@ -1428,55 +1348,21 @@
     "blocks": [
       {
         "kind": "relato",
-        "heading": "As aparições relatadas",
-        "text": "Segundo uma compilação secundária, Mariette Beco, de 11 anos, relatou oito aparições entre 15 de janeiro e 2 de março de 1933.",
+        "heading": "Em resumo",
+        "text": "Nossa Senhora de Banneux, ou Virgem dos Pobres, é o título ligado às oito aparições relatadas por Mariette Beco entre 15 de janeiro e 2 de março de 1933, na Bélgica. Segundo o relato, a Senhora disse «Eu sou a Virgem dos Pobres» e indicou uma fonte «para aliviar os doentes». O bispo de Liège reconheceu as aparições sem reservas em 1949. O relato completo e a decisão estão na página da aparição.",
         "sources": [
-          "banneux-kerkhofs-1949"
+          "banneux-santuario-aparicoes",
+          "banneux-santuario-reconhecimento"
         ]
-      },
-      {
-        "kind": "decisao",
-        "heading": "A declaração do bispo de Liège (1949)",
-        "text": "Em 22 de agosto de 1949, segundo a citação reproduzida pela compilação (do livro de Dessain, 1967), Dom Louis-Joseph Kerkhofs, bispo de Liège, declarou que as aparições já tinham sido reconhecidas oficialmente em 1942 e em 1947 e que, depois de mais dois anos de oração e observação, considerava poder e dever reconhecer sem reservas a realidade das oito aparições da Virgem a Mariette Beco. A decisão é do bispo diocesano. O texto original não foi lido.",
-        "sources": [
-          "banneux-kerkhofs-1949"
-        ]
-      },
-      {
-        "kind": "nota",
-        "heading": "O que esta página ainda não traz",
-        "text": "A mensagem atribuída, o santuário e os atos anteriores de 1942 e 1947 (e um suposto reconhecimento de 1952) não foram verificados em fontes primárias e não constam do histórico.",
-        "sources": []
       }
     ],
-    "decisions": [
-      {
-        "id": "d-bn-1949",
-        "date": "1949-08-22",
-        "datePrecision": "dia",
-        "authority": "Dom Louis-Joseph Kerkhofs, bispo de Liège",
-        "authorityLevel": "diocesano",
-        "kinds": [
-          "reconhecimento-da-aparicao"
-        ],
-        "scope": "Reconhece sem reservas a realidade das oito aparições a Mariette Beco; decisão diocesana.",
-        "document": "Declaração de 22 de agosto de 1949, conforme citação de Dessain, «Notre Dame de Banneux», 1967, p. 207, reproduzida por Miracle Hunter.",
-        "documentSourceId": "banneux-kerkhofs-1949",
-        "plain": "O bispo da diocese reconheceu a realidade das oito aparições.",
-        "sources": [
-          "banneux-kerkhofs-1949"
-        ],
-        "sourceNote": "Citação de segunda mão; o texto original não foi lido."
-      }
-    ],
+    "decisions": [],
     "symbols": [],
-    "gaps": [
-      "Os atos de 1942 (culto) e de 1947 (reconhecimento preliminar) foram só citados pela declaração de 1949; não foram lidos.",
-      "A compilação fala em reconhecimento do Vaticano em 1952, sem documento; não é afirmado aqui.",
-      "Falta fonte primária ou do santuário sobre o relato e a mensagem."
-    ],
+    "gaps": [],
     "relations": {
-      "apparitions": [],
+      "apparitions": [
+        "apar-banneux-1933"
+      ],
       "articles": [],
       "devotions": [],
       "titles": [],
@@ -1487,10 +1373,11 @@
     },
     "review": {
       "state": "pesquisa-documental",
-      "lastVerified": "2026-10-04",
+      "lastVerified": "2026-10-08",
       "humanTheologicalReview": false
     },
-    "portrait": "retrato-banneux"
+    "portrait": "retrato-banneux",
+    "mainRecord": "apar-banneux-1933"
   },
   {
     "id": "tit-knock",
@@ -1542,117 +1429,21 @@
     "blocks": [
       {
         "kind": "relato",
-        "heading": "A aparição relatada",
-        "text": "Segundo o santuário, na noite de 21 de agosto de 1879, na parede lateral da igreja paroquial de Knock, teria aparecido Nossa Senhora, com São José e São João Evangelista, e ao lado deles o Cordeiro diante de uma cruz, sobre um altar, rodeado de anjos. Quinze testemunhas locais viram a cena durante cerca de duas horas. É um relato de testemunhas; nas fontes lidas não consta avaliação formal da natureza sobrenatural (ver abaixo).",
+        "heading": "Em resumo",
+        "text": "Nossa Senhora de Knock, também invocada como Rainha da Irlanda, é o título ligado à cena relatada por quinze moradores de Knock em 21 de agosto de 1879: Maria, São José, São João Evangelista e o Cordeiro sobre um altar, na parede da igreja paroquial. Duas comissões diocesanas julgaram os testemunhos dignos de confiança, mas nas fontes lidas não há declaração formal sobre a natureza do acontecimento. Os detalhes estão na página da aparição.",
         "sources": [
-          "knock-historia"
-        ]
-      },
-      {
-        "kind": "historia",
-        "heading": "O que as comissões de inquérito concluíram",
-        "text": "Em 8 de outubro de 1879, o arcebispo de Tuam, John MacHale, nomeou uma comissão de três eclesiásticos, que ouviu 15 testemunhas e concluiu que o testemunho de todas, tomado em conjunto, era digno de confiança e satisfatório. O arcebispo não fez declaração pública na época; em 1880, ao receber os primeiros peregrinos, disse ser grande bênção para o povo pobre do Oeste que a Virgem tivesse aparecido entre eles. Uma segunda comissão (1935-1936), convocada pelo arcebispo Gilmartin, ouviu sob juramento as testemunhas ainda vivas e examinou também curas atribuídas a Nossa Senhora de Knock, e de novo julgou os testemunhos satisfatórios. As comissões avaliaram a confiabilidade das testemunhas; as fontes lidas não trazem uma declaração formal da Igreja sobre a natureza sobrenatural do acontecimento.",
-        "sources": [
-          "knock-comissoes",
-          "knock-historia"
-        ]
-      },
-      {
-        "kind": "decisao",
-        "heading": "Honras concedidas pelos papas",
-        "text": "Em 30 de setembro de 1979, no centenário, João Paulo II visitou Knock, ofereceu ao santuário uma Rosa de ouro e anunciou que a nova igreja seria chamada Basílica de Nossa Senhora, Rainha da Irlanda. Em 2018 o papa Francisco visitou o santuário e, em 19 de março de 2021, segundo o santuário, o reconheceu como santuário internacional eucarístico e mariano, por meio do Pontifício Conselho para a Promoção da Nova Evangelização. Esses atos honram o lugar; não equivalem a declarar sobrenatural a aparição.",
-        "sources": [
-          "jp2-knock-1979",
-          "knock-historia"
-        ]
-      }
-    ],
-    "decisions": [
-      {
-        "id": "d-kn-1879",
-        "date": "1879-10-08",
-        "datePrecision": "dia",
-        "authority": "Arcebispo John MacHale, de Tuam (comissão por ele nomeada)",
-        "authorityLevel": "diocesano",
-        "kinds": [
-          "outra"
-        ],
-        "scope": "Inquérito sobre as testemunhas; relatório positivo sobre sua confiabilidade; o arcebispo não fez declaração pública sobre o acontecimento. Não é reconhecimento de aparição.",
-        "document": "Relatório da primeira comissão, conforme o site do santuário; o relatório original não foi lido.",
-        "documentSourceId": "knock-comissoes",
-        "plain": "Uma comissão da arquidiocese ouviu as testemunhas e concluiu que seus testemunhos eram dignos de confiança.",
-        "sources": [
-          "knock-comissoes",
-          "knock-historia"
-        ],
-        "quote": "the testimonies of all, taken as a whole, is trustworthy and satisfactory.",
-        "quoteLang": "en",
-        "sourceNote": "Citação como reproduzida pelo santuário."
-      },
-      {
-        "id": "d-kn-1936",
-        "date": "1936",
-        "datePrecision": "ano",
-        "authority": "Arcebispo Thomas Patrick Gilmartin, de Tuam (comissão por ele nomeada)",
-        "authorityLevel": "diocesano",
-        "kinds": [
-          "outra"
-        ],
-        "scope": "Segunda comissão (1935-1936): testemunhas e curas atribuídas; julgou os testemunhos satisfatórios. Não é reconhecimento de aparição nem de milagre.",
-        "document": "Relatório final da segunda comissão, conforme o site do santuário; não lido.",
-        "documentSourceId": "knock-comissoes",
-        "plain": "Uma segunda comissão da arquidiocese voltou a julgar satisfatórios os testemunhos.",
-        "sources": [
+          "knock-historia",
           "knock-comissoes"
         ]
-      },
-      {
-        "id": "d-kn-1979",
-        "date": "1979-09-30",
-        "datePrecision": "dia",
-        "authority": "Papa João Paulo II",
-        "authorityLevel": "papal",
-        "kinds": [
-          "titulo-de-basilica",
-          "outra"
-        ],
-        "scope": "Anúncio de que a igreja do santuário seria Basílica de Nossa Senhora, Rainha da Irlanda; oferta de uma Rosa de ouro. Não é reconhecimento de aparição.",
-        "document": "Homilia no Santuário de Knock (Santa Sé).",
-        "documentSourceId": "jp2-knock-1979",
-        "plain": "O papa elevou a igreja do santuário a basílica e ofereceu uma Rosa de ouro.",
-        "sources": [
-          "jp2-knock-1979",
-          "knock-historia"
-        ]
-      },
-      {
-        "id": "d-kn-2021",
-        "date": "2021-03-19",
-        "datePrecision": "dia",
-        "authority": "Papa Francisco, por meio do Pontifício Conselho para a Promoção da Nova Evangelização",
-        "authorityLevel": "santa-se",
-        "kinds": [
-          "titulo-de-basilica"
-        ],
-        "scope": "Reconhecimento de Knock como santuário internacional eucarístico e mariano. Não é reconhecimento de aparição.",
-        "document": "Relato do santuário; documento da Santa Sé não localizado.",
-        "documentSourceId": "knock-historia",
-        "plain": "A Santa Sé reconheceu Knock como santuário internacional.",
-        "sources": [
-          "knock-historia"
-        ],
-        "sourceNote": "Data e autoria segundo o site do santuário."
       }
     ],
+    "decisions": [],
     "symbols": [],
-    "gaps": [
-      "Os relatórios das comissões de 1879 e de 1935-1936 não foram lidos no original.",
-      "Não foi encontrada nesta edição uma declaração formal sobre a natureza sobrenatural da aparição; não se afirma que haja ou que não haja.",
-      "O documento da Santa Sé de 2021 não foi localizado; a data e a autoria vêm do santuário.",
-      "Faltam fontes independentes do santuário."
-    ],
+    "gaps": [],
     "relations": {
-      "apparitions": [],
+      "apparitions": [
+        "apar-knock-1879"
+      ],
       "articles": [],
       "devotions": [],
       "titles": [],
@@ -1663,9 +1454,10 @@
     },
     "review": {
       "state": "pesquisa-documental",
-      "lastVerified": "2026-10-04",
+      "lastVerified": "2026-10-08",
       "humanTheologicalReview": false
-    }
+    },
+    "mainRecord": "apar-knock-1879"
   },
   {
     "id": "tit-boa-saude-vailankanni",

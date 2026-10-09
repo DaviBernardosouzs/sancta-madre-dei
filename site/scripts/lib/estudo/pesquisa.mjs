@@ -16,6 +16,9 @@ const GRUPOS = [
 
 const slug = (s) => s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '').slice(0, 60);
 
+/** Capítulos da pesquisa (número, título, fonte, frases e slug), para ligar páginas do acervo aos capítulos. */
+export const capitulosPesquisa = () => carregar();
+
 function carregar() {
   const linhas = readFileSync(join(CAMINHOS.conteudo, 'pesquisa-documentada.txt'), 'utf8').split('\n');
   const caps = [];
@@ -41,14 +44,22 @@ function carregar() {
 const em = (arr, tam) => { const out = []; for (let i = 0; i < arr.length; i += tam) out.push(arr.slice(i, i + tam)); return out; };
 
 export function pesquisa(c) {
-  const { T, pagina, href, esc } = c;
+  const { T, pagina, href, esc, urlOf, pubById, srcById, pesquisaRelacoes } = c;
+  const relDe = (n) => pesquisaRelacoes?.capitulos?.[String(n)] ?? {};
+  // página principal de cada assunto: o capítulo resume a fonte e aponta para ela
+  const principais = (n) => {
+    const ids = (relDe(n).registros ?? []).filter((id) => pubById[id]);
+    if (!ids.length) return '';
+    return `<aside class="principal" aria-labelledby="pq-principal"><p class="principal__rotulo" id="pq-principal">${T(ids.length > 1 ? 'Páginas principais deste assunto no site' : 'Página principal deste assunto no site')}</p><ul>${ids.map((id) => `<li><a class="principal__link" href="${urlOf[id]}">${esc(pubById[id].title)}</a></li>`).join('')}</ul><p class="nota-peq">${T('Este capítulo resume uma fonte; a narrativa completa, as decisões e as lacunas estão na página principal.')}</p></aside>`;
+  };
+  const conferencia = (n) => (relDe(n).conferencia ?? []).map((x) => `<p class="cuidado"><strong>${T('Nota de conferência')}:</strong> ${crua(x.texto)} <span class="nota-peq">${T('Fonte')}: ${x.fontes.map((f) => `<a href="${href('biblioteca/')}#fonte-${f}">${esc(srcById[f]?.title ?? f)}</a>`).join('; ')}.</span></p>`).join('');
   const pt = L.code === 'pt';
   const caps = carregar();
   const total = caps.reduce((a, x) => a + x.frases.length, 0);
   const grupoDe = (n) => GRUPOS.find((g) => n >= g.de && n <= g.ate);
   const crua = (x) => (pt ? esc(x) : `<span lang="pt-BR">${esc(x)}</span>`);
   const aviso = pt ? '' : `<p class="cuidado"><strong>${T('Cuidado')}:</strong> ${T('Os textos desta seção ainda estão só em português.')}</p>`;
-  const notaCuras = (n) => (n >= 45 && n <= 47 ? `<p class="cuidado"><strong>${T('Cuidado')}:</strong> ${T('Este resumo se apoia em notícias oficiais que identificam decisões episcopais. Os decretos diocesanos completos ainda não foram anexados; até lá, esta é uma página de pesquisa documentada, não uma ficha definitiva.')}</p>` : '');
+  const notaCuras = (n) => (n >= 45 && n <= 47 ? `<p class="cuidado"><strong>${T('Cuidado')}:</strong> ${T('Este resumo se apoia em notícias oficiais que identificam decisões episcopais. A ficha definitiva de cada cura só é publicada quando o documento da decisão do bispo foi lido; veja abaixo se ela já existe.')}</p>` : '');
 
   const paginas = [];
   paginas.push(pagina({
@@ -77,6 +88,8 @@ ${GRUPOS.map((g, k) => `<section class="mov" aria-labelledby="pq-g${k}" data-mov
 <p class="doc__meta">${T(g.nome)} · ${x.n} / ${caps.length}</p>
 <p class="pq-fonte"><strong>${T('Fonte oficial')}:</strong> ${crua(x.fonte)} <span class="pq-fonte__id" lang="und">(${x.fonteId})</span></p>
 ${notaCuras(x.n)}
+${principais(x.n)}
+${conferencia(x.n)}
 <div class="pq-texto">${paras}</div>
 <nav class="dogma-nav" aria-label="${T('Outros capítulos')}"><ul>${ant ? `<li><a href="${href(`pesquisa/${ant.slug}/`)}" rel="prev"><span aria-hidden="true">←</span> ${crua(ant.titulo)}</a></li>` : ''}${prox ? `<li><a href="${href(`pesquisa/${prox.slug}/`)}" rel="next">${crua(prox.titulo)} <span aria-hidden="true">→</span></a></li>` : ''}<li><a href="${href('pesquisa/')}">${T('Todos os capítulos')}</a></li></ul></nav>`
     }));
@@ -86,5 +99,5 @@ ${notaCuras(x.n)}
 
 function tagsAviso(c) {
   const { T } = c;
-  return `<p class="cuidado"><strong>${T('Cuidado')}:</strong> ${T('Sobre as curas de Lourdes: a contagem de 71 passou a 72 com o anúncio de abril de 2025 (Antonietta Raco). Sempre que o número aparecer, a data da atualização deve acompanhá-lo.')}</p>`;
+  return `<p class="cuidado"><strong>${T('Cuidado')}:</strong> ${T('Sobre as curas de Lourdes: a contagem de 71 passou a 72 com o anúncio de abril de 2025 (Antonietta Raco). Em 8 de outubro de 2026, a página oficial do santuário continuava informando 72. Sempre que o número aparecer, a data da conferência deve acompanhá-lo.')}</p>`;
 }

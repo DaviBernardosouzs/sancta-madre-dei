@@ -24,9 +24,11 @@ test('dossiê preserva os 32 capítulos e as 512 afirmações numeradas', () => 
 });
 test('todo registro publicado tem página e consta no sitemap', () => {
   const sitemap = read('sitemap.xml');
-  for (const a of data.apparitions) assert.ok(sitemap.includes(`/aparicoes/${a.slug}/`));
-  for (const t of data.titles) assert.ok(sitemap.includes(`/titulos/${t.slug}/`));
-  for (const p of data.prayers) assert.ok(sitemap.includes(`/oracoes/${p.slug}/`));
+  const pub = (list) => list.filter((r) => r.status === 'published');
+  for (const a of pub(data.apparitions)) assert.ok(sitemap.includes(`/aparicoes/${a.slug}/`), a.slug);
+  for (const m of pub(data.miracles)) assert.ok(sitemap.includes(`/milagres/${m.slug}/`), m.slug);
+  for (const t of pub(data.titles)) assert.ok(sitemap.includes(`/titulos/${t.slug}/`), t.slug);
+  for (const p of pub(data.prayers)) assert.ok(sitemap.includes(`/oracoes/${p.slug}/`), p.slug);
   assert.ok(published.length > 0);
 });
 test('rascunhos não aparecem em sitemap, catálogos nem busca', () => {
@@ -38,21 +40,27 @@ test('rascunhos não aparecem em sitemap, catálogos nem busca', () => {
   assert.ok(!existsSync(join(ROOT, 'dist', 'milagres', 'catherine-latapie')));
   assert.ok(!existsSync(join(ROOT, 'dist', 'devocoes', 'promessas-do-rosario')));
 });
-test('milagres sem registros publicados mostram estado vazio honesto', () => {
+test('milagres: cada ficha separa acontecimento, investigação médica e decisão, e o catálogo mantém o aviso de saúde', () => {
   const html = read('milagres/index.html');
-  assert.ok(html.includes('Ainda não há fichas individuais publicadas'));
   assert.ok(html.includes('Nada aqui orienta a interromper tratamento médico'));
+  for (const m of data.miracles.filter((r) => r.status === 'published')) {
+    assert.ok(html.includes(`/milagres/${m.slug}/`), m.slug);
+    const page = read(`milagres/${m.slug}/index.html`);
+    for (const t of ['1. Acontecimento relatado', '2. Investigação médica', '3. Decisão eclesiástica']) assert.ok(page.includes(t), `${m.slug}: ${t}`);
+    assert.ok(page.includes(m.ecclesialDecision.authority), `${m.slug}: autoridade`);
+  }
 });
 test('a página de cada aparição mostra autoridade, data, alcance e documento da decisão', () => {
-  for (const a of data.apparitions) {
+  const NIVEL = { diocesano: 'Bispo diocesano', 'conferencia-episcopal': 'Conferência episcopal', 'santa-se': 'Santa Sé / Dicastério', papal: 'Papa' };
+  for (const a of data.apparitions.filter((r) => r.status === 'published')) {
     const html = read(`aparicoes/${a.slug}/index.html`);
     for (const d of a.decisions) {
       assert.ok(html.includes(d.authority.replace(/&/g, '&amp;')), 'autoridade');
-      assert.ok(html.includes(d.document), 'documento');
+      assert.ok(html.includes(d.document.replace(/&/g, '&amp;')), 'documento');
       assert.ok(html.includes('Alcance e limites'));
+      assert.ok(html.includes(NIVEL[d.authorityLevel]), `${a.slug}: nível da autoridade`);
     }
-    assert.ok(html.includes('Bispo diocesano'));
-    assert.ok(!/reconhecid[oa]s? pelo vaticano/i.test(html));
+    assert.ok(!/(reconhecid|aprovad)[oa]s? pelo vaticano/i.test(html));
   }
 });
 test('imagens exibem autoria e licença junto à figura', () => {
@@ -125,4 +133,32 @@ test('atlas: cada país com registro tem caminho clicável e itens com data-pais
   for (const iso of clicaveis) assert.ok(itens.has(iso), `país ${iso} clicável sem itens`);
   for (const iso of itens) assert.ok(clicaveis.includes(iso), `itens de ${iso} sem país no mapa`);
   assert.ok(/<option value="cn">/.test(html));
+});
+
+test('aparições: a situação eclesial aparece no catálogo e na ficha; nihil obstat nunca é apresentado como reconhecimento da aparição', () => {
+  const lista = read('aparicoes/index.html');
+  for (const a of data.apparitions.filter((r) => r.status === 'published')) {
+    const html = read(`aparicoes/${a.slug}/index.html`);
+    assert.ok(html.includes('Situação eclesial'), a.slug);
+    assert.ok(lista.includes(`apar__cat--${a.ecclesialCategory}`), a.slug);
+    if (a.ecclesialCategory === 'nihil-obstat-2024') assert.ok(!a.decisions.some((d) => d.kinds.includes('reconhecimento-da-aparicao')), a.slug);
+  }
+});
+
+test('pesquisa documentada liga cada capítulo à página principal, e a página principal liga de volta', () => {
+  const rel = data.pesquisaRelacoes.capitulos;
+  const html = read('aparicoes/kibeho/index.html');
+  assert.ok(html.includes('/pesquisa/38-'), 'ficha de Kibeho sem ligação para o capítulo 38');
+  const cap = readFileSync(join(ROOT, 'dist', 'pesquisa', execFileSync('ls', [join(ROOT, 'dist', 'pesquisa')]).toString().split('\n').find((d) => d.startsWith('38-')), 'index.html'), 'utf8');
+  assert.ok(cap.includes('/aparicoes/kibeho/'), 'capítulo 38 sem ligação para a ficha');
+  assert.ok(rel['45'].registros.every((id) => !id.startsWith('mil-lourdes-raco')), 'capítulo 45 não pode ligar ao rascunho');
+});
+
+test('rascunhos de aparições e milagres não vazam para atlas, títulos nem pesquisa', () => {
+  const dir = join(ROOT, 'dist', 'pesquisa');
+  const caps = execFileSync('ls', [dir]).toString().split('\n').filter((d) => /^\d{2}-/.test(d)).map((d) => readFileSync(join(dir, d, 'index.html'), 'utf8')).join('\n');
+  const surfaces = [read('maria-pelo-mundo/index.html'), read('titulos/index.html'), read('milagres/curas-reconhecidas-de-lourdes/index.html'), caps].join('\n');
+  for (const d of [...data.apparitions, ...data.miracles].filter((r) => r.status !== 'published')) {
+    assert.ok(!surfaces.includes(`/aparicoes/${d.slug}/`) && !surfaces.includes(`/milagres/${d.slug}/`), d.slug);
+  }
 });

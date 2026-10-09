@@ -18,6 +18,9 @@ Estados: **publicado** (página no site, com fontes lidas), **fonte localizada**
 | Nossa Senhora da Boa Saúde (Vailankanni) | IN | basílica menor, 1962 | site de divulgação; decreto não lido |
 | Medalha Milagrosa (Rue du Bac; devoção) | FR | nenhuma lida | página da congregação das Filhas da Caridade |
 
+## Aparições com ficha (8 de outubro de 2026)
+Lourdes, Fátima, Kibeho, La Salette, Banneux, Champion (aparição reconhecida pelo bispo diocesano); Knock (inquérito sem declaração formal); Pellevoisin, Chandavila, Medjugorje, Litmanová (nihil obstat, normas de 2024); Montichiari (juízo doutrinal do Dicastério). Os títulos correspondentes apontam para a ficha (`mainRecord`). Em rascunho: Beauraing, Pontmain, Madonna dello Scoglio. Ver `docs/MATRIZ-EVIDENCIAS-2026-10-08.md`.
+
 ## Fonte localizada, sem página
 Beauraing (BE; decisões de 1943 e 1949 só em compilação secundária), Luján (AR; fatos consistentes em imprensa, sem fonte primária lida; a página da Casa Rosada contém erro de nome do papa).
 
@@ -28,6 +31,7 @@ Częstochowa (PL; só a homilia de 1979 foi lida, falta fonte de história), Lor
 Santuários com página: Aparecida, Guadalupe (MX), Donglü. Celebrações: 12 de outubro (Aparecida), 12 de dezembro (Guadalupe). Lacuna: o calendário mariano completo.
 
 ## Milagres e calendário
+- **Atualização de 8/10/2026:** 72 registros, igual à contagem da página oficial do santuário nessa data; fichas publicadas de John Traynor e Bernadette Moriau; Antonia Raco e Catherine Latapie em rascunho. O texto abaixo é o registro anterior.
 - **Curas reconhecidas de Lourdes:** 71 registros (70 da lista oficial do santuário, com data de reconhecimento, mais John Traynor, 2024, pelo Vatican News). Decretos individuais, doença e data da cura **não** foram lidos. O 72º caso (2025) citado por outras fontes não foi lido.
 - **Lacrimação (Siracusa, Akita):** Akita tem página de título com a decisão do bispo; Siracusa ainda não foi pesquisada. Os rascunhos de milagres (Latapie, Raco) continuam fora do site.
 - **Calendário:** 18 celebrações (Calendário Romano Geral conforme reprodução anterior a 2018, mais Mãe da Igreja, Aparecida e Guadalupe).

@@ -30,3 +30,19 @@
 - Mais aparições, títulos e milagres: crescer só com registros verificados.
 - Licença do código e do repositório a definir antes de publicar.
 - Domínio e hospedagem a escolher; definir `SITE_URL` no build.
+
+## Expansão de 8/10/2026: pendências específicas
+Detalhes e evidências em `docs/MATRIZ-EVIDENCIAS-2026-10-08.md`.
+
+- **Antonia Raco (milagre, rascunho):** falta o texto da decisão do bispo de Tursi-Lagonegro em fonte da diocese ou da Igreja. O site da diocese não respondeu; a agência SIR só cita trechos; o texto completo apareceu apenas em imprensa local (MateraNews).
+- **Beauraing (aparição, rascunho):** o santuário fala em decreto de Roma de 16/5/1943; outras fontes em autorização de 2/2/1943. Ler a decisão de 2/7/1949 (diocese de Namur) e esclarecer o ato de 1943.
+- **Pontmain (aparição, rascunho):** ler o mandamento de Dom Wicart (2/2/1872) em fonte oficial; o site do santuário não respondeu.
+- **Madonna dello Scoglio (rascunho):** a carta do Dicastério não nomeia a pessoa nem data a experiência; falta fonte oficial para a narrativa e o decreto do bispo de Locri-Gerace.
+- **Decretos diocesanos posteriores às cartas do Dicastério:** Pellevoisin (Bourges), Chandavila (Mérida-Badajoz), Medjugorje (Mostar-Duvno), Litmanová (Prešov) e Montichiari (Brescia) não foram lidos.
+- **Originais não lidos:** mandamento de La Salette (1851, francês), ato de 1855; carta pastoral de Banneux (1949, francês) e atos de 1942 e 1947; texto integral da declaração de Kibeho (23 páginas) e ato de 1988; relatórios das comissões de Knock; decreto de 2021 do Pontifício Conselho sobre Knock; designação de Champion como santuário nacional (2016).
+- **Moriau:** confirmar se a reprodução da Conferência dos Bispos da França é a íntegra da declaração; localizar o original na diocese de Beauvais.
+- **Imagens:** Knock, Champion, Pellevoisin, Chandavila, Medjugorje, Litmanová e Montichiari estão sem imagem própria com licença livre conferida; as fichas abrem sem imagem em vez de usar obra de outro tema.
+- **Traduções:** as fichas, orações e textos novos aparecem em português nas versões em outros idiomas (o build registra as frases sem tradução); traduzir em `site/i18n/`.
+- **Orações:** Lembrai-vos (Memorare) e Rainha do Céu ainda não incluídas; nenhuma tradução de oração teve parecer jurídico sobre reprodução.
+- **Mapa:** na escala do mapa-múndi, os pontos europeus ficam próximos; não há aproximação por região na página de aparições (o atlas tem).
+- **Fora do escopo editorial, anteriores a esta etapa:** a auditoria de interação acusa estouro horizontal na página inicial a 320 px com texto a 150%, e a auditoria visual acusa contraste insuficiente no rótulo do seletor de idioma da página inicial. Os dois problemas já existiam no commit b27516e (conferido num build separado). O teste `tests/vault_integrity_test.py` depende de `scripts/vault-validate.py`, que não está no repositório.

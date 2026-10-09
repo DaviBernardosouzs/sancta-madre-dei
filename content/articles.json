@@ -331,7 +331,7 @@
       {
         "kind": "historia",
         "heading": "O que o santuário informa",
-        "text": "Segundo o santuário de Lourdes, 72 casos de curas inexplicadas foram reconhecidos como milagrosos pela Igreja (número lido na consulta de 4 de outubro de 2026). O Bureau das Constatações Médicas, criado em 1883, registrou mais de 7.000 dossiês de curas. Ou seja: a imensa maioria dos dossiês não resultou em reconhecimento de milagre.",
+        "text": "Segundo o santuário de Lourdes, 72 casos de curas inexplicadas foram reconhecidos como milagrosos pela Igreja (número lido em 4 de outubro de 2026 e reconferido em 8 de outubro de 2026). O Bureau das Constatações Médicas, criado em 1883, registrou mais de 7.000 dossiês de curas. Ou seja: a imensa maioria dos dossiês não resultou em reconhecimento de milagre.",
         "sources": [
           "lourdes-curas",
           "lourdes-milagres"
@@ -351,9 +351,12 @@
       },
       {
         "kind": "nota",
-        "heading": "Por que não há fichas individuais ainda",
-        "text": "Os casos citados pelo santuário (como o de Catherine Latapie e o de Antonia Raco) estão em rascunho. A página do santuário consultada não detalha a autoridade que reconheceu cada caso, e suas datas apareceram divergentes em consultas diferentes. Enquanto o decreto, a autoridade e o parecer médico não forem lidos, nenhum caso será publicado como reconhecido.",
+        "heading": "Quais casos têm ficha individual",
+        "text": "Só ganha ficha individual o caso em que o documento da decisão do bispo foi lido. Por isso há fichas para John Traynor (arcebispo de Liverpool, 2024) e para a Irmã Bernadette Moriau (bispo de Beauvais, 2018). O caso de Antonia Raco (2025) consta da lista de curas reconhecidas, com a data informada pelo santuário, mas continua em pesquisa até que o texto da decisão do bispo de Tursi-Lagonegro seja lido em fonte da Igreja. O caso de Catherine Latapie (1862) também continua em pesquisa.",
         "sources": [
+          "traynor-declaracao-2024",
+          "cef-moriau-2018",
+          "lourdes-raco-2025",
           "lourdes-curas"
         ]
       }
@@ -369,7 +372,7 @@
     },
     "review": {
       "state": "pesquisa-documental",
-      "lastVerified": "2026-10-04",
+      "lastVerified": "2026-10-08",
       "humanTheologicalReview": false
     },
     "banner": "obra-bellini-dormindo",
@@ -2432,7 +2435,9 @@
       "articles": [],
       "prayers": [],
       "titles": [],
-      "apparitions": [],
+      "apparitions": [
+        "apar-fatima-1917"
+      ],
       "devotions": []
     },
     "review": {
@@ -2467,7 +2472,9 @@
       "articles": [],
       "prayers": [],
       "titles": [],
-      "apparitions": [],
+      "apparitions": [
+        "apar-lourdes-1858"
+      ],
       "devotions": []
     },
     "review": {
@@ -2607,7 +2614,9 @@
       "articles": [],
       "prayers": [],
       "titles": [],
-      "apparitions": [],
+      "apparitions": [
+        "apar-la-salette-1846"
+      ],
       "devotions": []
     },
     "review": {
@@ -2641,7 +2650,9 @@
       "articles": [],
       "prayers": [],
       "titles": [],
-      "apparitions": [],
+      "apparitions": [
+        "apar-knock-1879"
+      ],
       "devotions": []
     },
     "review": {
@@ -2676,7 +2687,9 @@
       "articles": [],
       "prayers": [],
       "titles": [],
-      "apparitions": [],
+      "apparitions": [
+        "apar-banneux-1933"
+      ],
       "devotions": []
     },
     "review": {
@@ -2710,7 +2723,9 @@
       "articles": [],
       "prayers": [],
       "titles": [],
-      "apparitions": [],
+      "apparitions": [
+        "apar-kibeho-1981"
+      ],
       "devotions": []
     },
     "review": {

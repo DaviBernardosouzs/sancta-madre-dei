@@ -15,12 +15,12 @@ const PLACE = ['place.name', 'place.locality', 'place.region', 'place.coordinate
 /** Campos de texto livre que cada coleção traduz. Valores repetidos (instituições, licenças, regiões) vão pelo dicionário de interface. */
 export const SCHEMA = {
   articles: ['title', 'summary', 'dogmaRank', ...BLOCKS],
-  apparitions: ['title', 'summary', ...PLACE, 'people[].name', 'people[].role', ...BLOCKS, ...DECISIONS, 'gaps[]'],
-  miracles: ['title', 'summary', 'place.locality', 'event.description', 'medicalInvestigation.summary', 'medicalInvestigation.notDocumented', 'ecclesialDecision.authority', 'ecclesialDecision.document', ...BLOCKS],
+  apparitions: ['title', 'summary', ...PLACE, 'people[].name', 'people[].role', ...BLOCKS, 'timeline[].text', ...DECISIONS, 'gaps[]'],
+  miracles: ['title', 'summary', 'place.locality', 'event.description', 'medicalInvestigation.summary', 'medicalInvestigation.notDocumented', 'ecclesialDecision.authority', 'ecclesialDecision.document', 'ecclesialDecision.scope', ...BLOCKS],
   devotions: ['title', 'summary', 'attribution.kind', 'attribution.who', 'attribution.how', 'attribution.limits', 'promises[].text', 'promises[].attributedTo', 'promises[].origin', 'promises[].natureOfAttribution', 'promises[].limits', ...BLOCKS, 'gaps[]'],
   titles: ['title', 'summary', ...PLACE, ...BLOCKS, ...DECISIONS, 'gaps[]', 'feast.text', 'symbols[].name', 'symbols[].text'],
   shrines: ['title', 'summary', ...PLACE, ...BLOCKS, ...DECISIONS, 'gaps[]'],
-  prayers: ['title', 'summary', 'text[]', 'provenance', 'rights'],
+  prayers: ['title', 'summary', 'text[]', 'provenance', 'rights', ...BLOCKS],
   celebrations: ['title', 'summary', 'note', 'calendar', 'date.movable'],
   sources: ['title', 'note'],
   images: ['title', 'alt', 'caption'],

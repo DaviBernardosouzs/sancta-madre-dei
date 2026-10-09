@@ -72,4 +72,4 @@ A página `/pedidos-de-oracao/` tem o formulário (nome e necessidade) e o mural
 `/`, `/vida-de-maria/…`, `/fe-catolica/…`, `/aparicoes/…`, `/milagres/…`, `/promessas/` e `/devocoes/…`, `/titulos/…`, `/oracoes/…` (inclui `/oracoes/rosario/`), `/galeria/`, `/cronologia/`, `/biblioteca/`, `/sobre/`, `/busca/`, `/404.html`, `sitemap.xml`, `robots.txt`, `assets/obras.json` (dados da visualização ampliada, carregado só ao abrir uma obra).
 
 ## Mapa
-Adiado: nenhuma coordenada foi verificada em fonte. O modelo já aceita `place.coordinates`. A lista de locais e a cronologia são as alternativas acessíveis.
+Atlas `/maria-pelo-mundo/` (interativo) e, desde 8/10/2026, mapa estático em `/aparicoes/` (mesmos contornos e projeção, `apparitionsMap()` em `build.mjs`). Só entram coordenadas conferidas no Wikidata, e cada ponto diz se marca o acontecimento, o santuário ou a localidade (`refersTo`). A lista de locais com coordenadas e a cronologia são as alternativas em texto.

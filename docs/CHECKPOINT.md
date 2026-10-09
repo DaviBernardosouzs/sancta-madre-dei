@@ -20,3 +20,9 @@ Atualizado em 5 de outubro de 2026.
 - Atlas `/maria-pelo-mundo/`: mapa com países clicáveis (Natural Earth), seletor de país equivalente por teclado, filtros por região e tipo, busca por variantes do nome. `place.iso` agora é obrigatório.
 - Novos modelos: títulos v2, `shrines`, `celebrations`; novas fontes e 9 títulos. Ver `docs/INVENTARIO-PESQUISA.md`.
 - Falta: CSS final do atlas (o front será refeito por outra ferramenta), milagres, orações, calendário completo, manto estrelado, introdução animada, capturas em navegador do atlas em celular, documentação final.
+
+
+## 8 de outubro de 2026
+- Expansão editorial: 10 fichas novas de aparições (12 no total), categoria eclesial validada, cronologia por aparição, mapa estático em `/aparicoes/`; fichas de milagres de Traynor e Moriau; lista de Lourdes com 72 casos; Pai-Nosso e Ladainha; pesquisa de 64 capítulos ligada às páginas principais (`content/pesquisa-relacoes.json`).
+- Evidências e pendências: `docs/MATRIZ-EVIDENCIAS-2026-10-08.md` e `docs/PENDENCIAS.md`.
+- Próximos passos sugeridos: ler os decretos diocesanos pendentes (Raco, Beauraing, Pontmain e os decretos posteriores às cartas do Dicastério), traduzir os textos novos, buscar imagens com licença para as fichas sem imagem.

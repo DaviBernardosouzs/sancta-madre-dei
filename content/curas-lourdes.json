@@ -627,7 +627,9 @@
     "country": "França",
     "recognitionDate": "2018-02-11",
     "datePrecision": "dia",
-    "sourceId": "lourdes-curas-lista"
+    "sourceId": "lourdes-curas-lista",
+    "authority": "Bispo de Beauvais, Noyon e Senlis (declaração de 11 de fevereiro de 2018)",
+    "healingDate": "2008-07-11"
   },
   {
     "id": "cura-john-traynor",
@@ -637,7 +639,17 @@
     "recognitionDate": "2024-12-08",
     "datePrecision": "dia",
     "healingDate": "1923-07-25",
-    "sourceId": "vaticannews-traynor-2024",
-    "authority": "Arcebispo de Liverpool (anúncio de 8 de dezembro de 2024, segundo o Vatican News)"
+    "sourceId": "traynor-declaracao-2024",
+    "authority": "Arcebispo de Liverpool (declaração de 8 de dezembro de 2024)"
+  },
+  {
+    "id": "cura-antonia-raco",
+    "name": "Antonia RACO (Sra. Lofiego)",
+    "place": "Tursi-Lagonegro (diocese)",
+    "country": "Itália",
+    "recognitionDate": "2025-04-16",
+    "datePrecision": "dia",
+    "sourceId": "lourdes-raco-2025",
+    "authority": "Bispo de Tursi-Lagonegro (proclamação de 16 de abril de 2025, segundo o santuário)"
   }
 ]

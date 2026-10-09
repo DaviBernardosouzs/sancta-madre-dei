@@ -603,3 +603,49 @@ body.modo-leitura h1 { font-size: 1.7rem; }
 .chamada-pedido { margin: var(--e4) 0; padding: var(--e3) var(--e3) var(--e2); background: var(--papel-2); border-left: 3px solid var(--ouro-filete); }
 .chamada-pedido h2 { display: flex; align-items: center; gap: .6rem; margin-top: 0; }
 .chamada-pedido h2 .pedir__icone { width: 26px; height: 26px; color: var(--ouro); }
+
+/* ---------- aparições: situação eclesial, mapa e cronologia (lote de 8/10/2026) ---------- */
+.apar__cat { display: inline-block; margin: 0 0 0.35rem; padding: 0.15rem 0.6rem; font-size: 0.8125rem; font-weight: 700; letter-spacing: 0.02em; line-height: 1.5; border: 1px solid currentColor; border-radius: 2px; }
+.apar__cat--aparicao-reconhecida { color: var(--ultramar); }
+.apar__cat--inquerito-sem-declaracao { color: var(--tinta-2); border-style: dashed; }
+.apar__cat--nihil-obstat-2024 { color: var(--verde); }
+.apar__cat--juizo-doutrinal-2024 { color: var(--madder); border-style: dotted; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .apar__cat--nihil-obstat-2024 { color: #b7c89a; } }
+:root[data-theme="dark"] .apar__cat--nihil-obstat-2024 { color: #b7c89a; }
+.apar-cats { display: grid; gap: var(--e2); margin: var(--e2) 0; max-width: var(--medida); }
+.apar-cats dt { margin: 0; }
+.apar-cats dd { margin: 0.2rem 0 0; color: var(--tinta-2); }
+.apar-mapa { margin: var(--e3) 0; max-width: 56rem; }
+.apar-mapa svg { display: block; width: 100%; height: auto; background: var(--papel-3); border: 1px solid var(--filete); }
+.apar-mapa__terra { fill: var(--papel-2); stroke: var(--filete); stroke-width: 0.6; }
+.apar-mapa__ponto circle, .apar-mapa__ponto rect { fill: var(--madder); stroke: var(--papel-3); stroke-width: 1.5; }
+.apar-mapa__ponto--santuario circle { fill: var(--papel-3); stroke: var(--madder); stroke-width: 2.5; }
+.apar-mapa__ponto--localidade rect { fill: var(--ultramar); }
+.apar-mapa__ponto:focus-visible { outline: none; }
+.apar-mapa__ponto:focus-visible circle, .apar-mapa__ponto:focus-visible rect, .apar-mapa__ponto:hover circle, .apar-mapa__ponto:hover rect { stroke: var(--foco); stroke-width: 3; }
+.apar-mapa figcaption { margin-top: var(--e1); }
+.apar-mapa__chaves { list-style: none; padding: 0; margin: 0 0 0.4rem; display: flex; flex-wrap: wrap; gap: 0.4rem 1.2rem; }
+.apar-mapa__chaves li { max-width: none; }
+.chave-ap { display: inline-block; width: 0.8rem; height: 0.8rem; vertical-align: -0.05rem; margin-right: 0.25rem; }
+.chave-ap--acontecimento { background: var(--madder); border-radius: 50%; }
+.chave-ap--santuario { border: 2px solid var(--madder); border-radius: 50%; }
+.chave-ap--localidade { background: var(--ultramar); }
+.apar-cron { margin: var(--e5) 0 var(--e4); }
+.apar-cron__lista { list-style: none; padding: 0 0 0 1.4rem; margin: var(--e3) 0 0; border-left: 2px solid var(--filete); max-width: var(--medida); }
+.apar-cron__item { position: relative; padding-bottom: var(--e3); max-width: none; }
+.apar-cron__item::before { content: ""; position: absolute; left: calc(-1.4rem - 6px); top: 0.55rem; width: 10px; height: 10px; background: var(--papel); border: 1.5px solid var(--ouro); transform: rotate(45deg); }
+.apar-cron__item--decisao::before { background: var(--ultramar); border-color: var(--ultramar); }
+.apar-cron__item--relato::before { border-radius: 50%; transform: none; }
+.apar-cron__item p { margin: 0.1rem 0; }
+.apar-cron__data { font-family: var(--serifa); font-variant-numeric: lining-nums tabular-nums; font-weight: 600; font-size: 1.35rem; color: var(--ultramar); }
+.apar-cron__tipo { font-family: var(--sans); font-weight: 400; font-size: 0.8125rem; color: var(--ouro); margin-left: 0.5rem; }
+
+/* página principal de um assunto (títulos e capítulos da pesquisa que resumem uma ficha) */
+.principal { margin: var(--e3) 0; padding: var(--e2) 1.25rem; border: 1px solid var(--filete); border-left: 3px solid var(--ultramar); background: var(--papel-3); max-width: var(--medida); }
+.principal__rotulo { margin: 0 0 0.3rem; font-size: 0.8125rem; font-weight: 700; letter-spacing: 0.04em; color: var(--ouro); }
+.principal ul { margin: 0 0 0.4rem; padding-left: 1.1rem; }
+.principal__link { font-family: var(--serifa); font-size: 1.45rem; font-weight: 600; }
+.principal p:last-child { margin-bottom: 0; }
+.oracao__notas { margin-top: var(--e4); }
+body.modo-leitura .oracao__notas, body.modo-leitura .principal { display: none; }
+@media (forced-colors: active) { .principal, .apar__cat { border: 1px solid CanvasText; } .apar-mapa__ponto circle, .apar-mapa__ponto rect { fill: LinkText; stroke: Canvas; } }
