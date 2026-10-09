@@ -1,0 +1,36 @@
+{
+  "checks": [
+    "Navegação disponível durante a entrada",
+    "ScrollTriggers criados",
+    "Enquadramento responde à rolagem",
+    "Ler sem animações remove todos os ScrollTriggers",
+    "Preferência persistente",
+    "Modo estático restaurado sem animação na recarga",
+    "Céu estrelado cintila quando visível",
+    "Controle pausa o céu estrelado",
+    "Céu pausa fora da tela",
+    "Mudança dinâmica da preferência do sistema limpa animações",
+    "Retomar preferência não duplica triggers",
+    "Saída da página limpa os ScrollTriggers",
+    "Retorno do histórico restaura coreografia",
+    "Pular apresentação leva aos capítulos",
+    "Modo de leitura do capítulo funciona",
+    "Escape sai da leitura",
+    "Galeria abre e troca obra por teclado",
+    "Galeria devolve foco",
+    "Busca restaura consulta",
+    "Estado vazio da busca",
+    "Menu móvel abre",
+    "Escape fecha o menu",
+    "Texto ampliado para 150%",
+    "Reflow a 320px com texto 150%",
+    "sem-js: título e obra visíveis",
+    "sem-gsap: título e obra visíveis",
+    "sem-storage: título e obra visíveis",
+    "Controle funciona sem localStorage"
+  ],
+  "metric": {
+    "cls": 0,
+    "lcp": 400
+  }
+}

@@ -1,0 +1,97 @@
+/* Shared reflow. Controls live in the native disclosure; open panels reserve space. */
+.topo > .miolo { display: flex; flex-wrap: wrap; align-items: center; gap: .75rem 1.5rem; padding-block: .75rem; }
+.topo__linha { display: flex; flex-wrap: wrap; align-items: center; gap: .75rem 1.5rem; width: 100%; padding: 0; }
+.marca { flex: 1 1 12rem; min-width: 0; }
+.marca__nome, .marca__sub { overflow-wrap: anywhere; }
+.pedir { max-width: 100%; white-space: normal; }
+.pedir span { position: static; width: auto; height: auto; overflow: visible; clip: auto; white-space: normal; }
+.menu { width: 100%; min-width: 0; }
+.menu summary { display: flex; width: fit-content; max-width: 100%; margin-inline-start: auto; padding: .35rem .5rem; border: 0; }
+.menu summary::before { flex: none; }
+.menu__painel { padding-block: 1rem .5rem; border-top: 1px solid var(--filete); }
+.utilidades { display: flex; flex-wrap: wrap; justify-content: flex-start; gap: .75rem 1rem; min-width: 0; padding-bottom: 1rem; }
+.utilidades > * { min-width: 0; max-width: 100%; }
+.utilidades__links { display: none; }
+.texto-ctl, .topo:has(.menu__det[open]) .texto-ctl { display: inline-flex; }
+.texto-ctl button { min-width: 44px; padding-inline: .5rem; }
+.movimento-ctl { overflow-wrap: anywhere; text-align: start; }
+.menu__det[open] ul, .js .menu__det[open] ul {
+  position: static; display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 13rem), 1fr));
+  gap: .5rem 1.5rem; max-height: none; overflow: visible; padding: .5rem 0; box-shadow: none; border: 0;
+}
+.menu li, .menu a { min-width: 0; overflow-wrap: anywhere; }
+.menu a { padding: .6rem .25rem; }
+.idioma { flex: 1 1 12rem; }
+.idioma summary { margin: 0; background: var(--papel-3); color: var(--ultramar); border: 1px solid var(--filete); }
+.idioma summary::before { display: none; }
+.idioma[open] { flex-basis: 100%; }
+.menu__det[open] .idioma ul {
+  min-width: 0; width: 100%;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 10rem), 1fr));
+  padding: .5rem; margin-top: .5rem; background: var(--papel-3) !important; border: 1px solid var(--filete);
+}
+.idioma a { padding-inline: .75rem; }
+html:not(.js) .utilidades { display: flex; }
+html:not(.js) .movimento-ctl, html:not(.js) .texto-ctl { display: none; }
+.inicio .topo { position: relative; inset: auto; background: var(--f-noite); }
+.inicio .topo .menu__painel { background: var(--papel-3); color: var(--tinta); padding: 1rem; }
+.inicio .topo .menu__painel :is(summary, .movimento-ctl, .texto-ctl button) { color: var(--ultramar); }
+.inicio .topo .menu__painel .idioma summary { color: var(--ultramar); }
+.f-prologo { padding-block-start: clamp(2rem, 5vh, 5rem); }
+.f-palavra { max-width: 100%; white-space: normal; overflow-wrap: anywhere; }
+.pal, .pal__i { max-width: 100%; overflow-wrap: anywhere; }
+.f-ato { flex-wrap: wrap; }
+.f-ato span { white-space: normal; }
+:is(.f-prologo__grade, .f-cena__grade, .f-mundo__grade) > * { min-width: 0; }
+.f-creditos__in > *, .f-creditos__rolo > * { min-width: 0; max-width: 100%; }
+.f-creditos__in { grid-template-columns: minmax(0, 1fr); }
+.f-creditos__rolo { grid-template-columns: minmax(0, 1fr); }
+.mapa__atalhos { flex-wrap: wrap; overflow: visible; }
+.mapa__atalhos button { min-width: 44px; min-height: 44px; max-width: 100%; white-space: normal; }
+.viagem__grade > *, .viagem__etapas > *, .etapa__folha, .etapa__cab > * { min-width: 0; }
+.etapa__cab { flex-wrap: wrap; }
+.viagem__nav, .viagem__pontos { flex-wrap: wrap; }
+.viagem--viva .viagem__pontos a, .viagem--viva .viagem__seta { min-width: 44px; min-height: 44px; height: auto; }
+.viagem--viva .viagem__seta { display: inline-grid; }
+@media (max-height: 30rem) {
+  .viagem--viva .viagem__palco { position: relative; height: auto; }
+  .viagem--viva .viagem__moldura { flex: none; height: 60dvh; min-height: 12rem; }
+  .viagem--viva .etapa { scroll-margin-top: 1rem; }
+}
+.botao, .lb button { max-width: 100%; white-space: normal; overflow-wrap: anywhere; }
+:is(.filtros, .creditos .fonte, .indice li, .passagem, .percurso-nav) > * { min-width: 0; }
+.metodo { grid-template-columns: minmax(0, 1fr); }
+.metodo > * { min-width: 0; }
+.indice-site__pedir { grid-template-columns: minmax(0, 1fr); }
+.indice-site__pedir > * { min-width: 0; }
+.indice-site__pedir .pedir__icone, .indice-site__pr, .indice-site__seta { grid-column: 1; grid-row: auto; }
+@media (min-width: 40rem) {
+  .indice-site__pedir { grid-template-columns: auto minmax(0, 1fr) auto; }
+  .indice-site__pedir .pedir__icone { grid-row: 1 / span 2; }
+  .indice-site__pt, .indice-site__pr { grid-column: 2; }
+  .indice-site__seta { grid-column: 3; grid-row: 1 / span 2; }
+}
+@media (min-width: 48rem) { .metodo { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+.filtros input, .filtros select { min-width: 0; max-width: 100%; }
+.apar__cat { max-width: 100%; white-space: normal; overflow-wrap: anywhere; }
+.leitura__corpo, .leitura__acoes { min-width: 0; max-width: 100%; }
+.rodape a { overflow-wrap: anywhere; }
+.rodape__peq a { display: inline-block; min-height: 44px; max-width: 100%; padding-block: .5rem; }
+.rodape__idiomas a { min-height: 44px; min-width: 44px; white-space: normal; padding: .5rem; }
+body.modo-leitura .oracao__acoes { position: sticky; top: .5rem; right: auto; max-width: 100%; }
+.lb { height: 100dvh; background: #120c0a; }
+.lb__in { min-height: 100%; height: auto; grid-template-rows: auto minmax(10rem, 1fr) auto; }
+.lb__barra, .lb__nav { flex-wrap: wrap; }
+.lb__barra > *, .lb__nav > *, .lb__palco > * { min-width: 0; min-height: 0; }
+.lb__palco { grid-template-columns: minmax(0, 1fr); grid-template-rows: auto auto; align-items: start; }
+.lb__img { height: min(45dvh, 35rem); }
+.lb__img img { width: 100%; height: 100%; min-width: 0; min-height: 0; object-fit: contain; }
+.lb__legenda { max-height: none; overflow: visible; overflow-wrap: anywhere; }
+.lb__legenda h2 { margin-top: 0; }
+@media (min-width: 62rem) and (min-height: 40rem) {
+  .lb__in { height: 100dvh; grid-template-rows: auto minmax(0, 1fr) auto; }
+  .lb__palco { grid-template-columns: minmax(0, 1fr) minmax(0, 24rem); grid-template-rows: minmax(0, 1fr); }
+  .lb__img { height: 100%; }
+  .lb__legenda { max-height: 100%; overflow: auto; padding: .25rem; }
+}
+@media (max-height: 39.99rem) { .lb__palco { grid-template-columns: minmax(0, 1fr); grid-template-rows: auto auto; } }

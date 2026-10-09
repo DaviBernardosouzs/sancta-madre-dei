@@ -1,0 +1,44 @@
+[
+  {
+    "path": "/",
+    "zoom": 2,
+    "innerWidth": 640,
+    "dpr": 2,
+    "overflow": false
+  },
+  {
+    "path": "/biblioteca/",
+    "zoom": 2,
+    "innerWidth": 640,
+    "dpr": 2,
+    "overflow": false
+  },
+  {
+    "path": "/busca/",
+    "zoom": 2,
+    "innerWidth": 640,
+    "dpr": 2,
+    "overflow": false
+  },
+  {
+    "path": "/galeria/",
+    "zoom": 2,
+    "innerWidth": 640,
+    "dpr": 2,
+    "overflow": false
+  },
+  {
+    "path": "/maria-pelo-mundo/",
+    "zoom": 2,
+    "innerWidth": 640,
+    "dpr": 2,
+    "overflow": false
+  },
+  {
+    "path": "/sagrada-familia/",
+    "zoom": 2,
+    "innerWidth": 640,
+    "dpr": 2,
+    "overflow": false
+  }
+]

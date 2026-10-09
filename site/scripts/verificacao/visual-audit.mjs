@@ -4,7 +4,7 @@ import { mkdirSync, writeFileSync } from 'node:fs';
 import { CAMINHOS } from '../lib/caminhos.mjs';
 
 const base = process.env.PREVIEW_URL || 'http://localhost:4183';
-const out = CAMINHOS.capturas;
+const out = process.env.CAPTURE_DIR || `${CAMINHOS.capturas}/responsividade/regressao`;
 mkdirSync(out, { recursive: true });
 const browser = await chromium.launch({ headless: true });
 const results = [];

@@ -1,0 +1,983 @@
+[
+  {
+    "path": "/",
+    "viewport": {
+      "width": 320,
+      "height": 900
+    },
+    "state": "pt: menu, idiomas e fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/",
+    "viewport": {
+      "width": 320,
+      "height": 900
+    },
+    "state": "pt: fechado, fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/",
+    "viewport": {
+      "width": 390,
+      "height": 900
+    },
+    "state": "pt: menu, idiomas e fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/",
+    "viewport": {
+      "width": 390,
+      "height": 900
+    },
+    "state": "pt: fechado, fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/",
+    "viewport": {
+      "width": 768,
+      "height": 360
+    },
+    "state": "pt: menu, idiomas e fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/",
+    "viewport": {
+      "width": 768,
+      "height": 360
+    },
+    "state": "pt: fechado, fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/",
+    "viewport": {
+      "width": 1024,
+      "height": 900
+    },
+    "state": "pt: menu, idiomas e fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/",
+    "viewport": {
+      "width": 1024,
+      "height": 900
+    },
+    "state": "pt: fechado, fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "state": "pt: menu, idiomas e fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "state": "pt: fechado, fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/en/",
+    "viewport": {
+      "width": 320,
+      "height": 900
+    },
+    "state": "en: menu, idiomas e fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/en/",
+    "viewport": {
+      "width": 320,
+      "height": 900
+    },
+    "state": "en: fechado, fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/en/",
+    "viewport": {
+      "width": 390,
+      "height": 900
+    },
+    "state": "en: menu, idiomas e fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/en/",
+    "viewport": {
+      "width": 390,
+      "height": 900
+    },
+    "state": "en: fechado, fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/en/",
+    "viewport": {
+      "width": 768,
+      "height": 360
+    },
+    "state": "en: menu, idiomas e fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/en/",
+    "viewport": {
+      "width": 768,
+      "height": 360
+    },
+    "state": "en: fechado, fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/en/",
+    "viewport": {
+      "width": 1024,
+      "height": 900
+    },
+    "state": "en: menu, idiomas e fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/en/",
+    "viewport": {
+      "width": 1024,
+      "height": 900
+    },
+    "state": "en: fechado, fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/en/",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "state": "en: menu, idiomas e fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/en/",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "state": "en: fechado, fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/es/",
+    "viewport": {
+      "width": 320,
+      "height": 900
+    },
+    "state": "es: menu, idiomas e fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/es/",
+    "viewport": {
+      "width": 320,
+      "height": 900
+    },
+    "state": "es: fechado, fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/es/",
+    "viewport": {
+      "width": 390,
+      "height": 900
+    },
+    "state": "es: menu, idiomas e fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/es/",
+    "viewport": {
+      "width": 390,
+      "height": 900
+    },
+    "state": "es: fechado, fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/es/",
+    "viewport": {
+      "width": 768,
+      "height": 360
+    },
+    "state": "es: menu, idiomas e fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/es/",
+    "viewport": {
+      "width": 768,
+      "height": 360
+    },
+    "state": "es: fechado, fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/es/",
+    "viewport": {
+      "width": 1024,
+      "height": 900
+    },
+    "state": "es: menu, idiomas e fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/es/",
+    "viewport": {
+      "width": 1024,
+      "height": 900
+    },
+    "state": "es: fechado, fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/es/",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "state": "es: menu, idiomas e fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/es/",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "state": "es: fechado, fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/fr/",
+    "viewport": {
+      "width": 320,
+      "height": 900
+    },
+    "state": "fr: menu, idiomas e fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/fr/",
+    "viewport": {
+      "width": 320,
+      "height": 900
+    },
+    "state": "fr: fechado, fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/fr/",
+    "viewport": {
+      "width": 390,
+      "height": 900
+    },
+    "state": "fr: menu, idiomas e fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/fr/",
+    "viewport": {
+      "width": 390,
+      "height": 900
+    },
+    "state": "fr: fechado, fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/fr/",
+    "viewport": {
+      "width": 768,
+      "height": 360
+    },
+    "state": "fr: menu, idiomas e fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/fr/",
+    "viewport": {
+      "width": 768,
+      "height": 360
+    },
+    "state": "fr: fechado, fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/fr/",
+    "viewport": {
+      "width": 1024,
+      "height": 900
+    },
+    "state": "fr: menu, idiomas e fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/fr/",
+    "viewport": {
+      "width": 1024,
+      "height": 900
+    },
+    "state": "fr: fechado, fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/fr/",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "state": "fr: menu, idiomas e fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/fr/",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "state": "fr: fechado, fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/it/",
+    "viewport": {
+      "width": 320,
+      "height": 900
+    },
+    "state": "it: menu, idiomas e fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/it/",
+    "viewport": {
+      "width": 320,
+      "height": 900
+    },
+    "state": "it: fechado, fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/it/",
+    "viewport": {
+      "width": 390,
+      "height": 900
+    },
+    "state": "it: menu, idiomas e fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/it/",
+    "viewport": {
+      "width": 390,
+      "height": 900
+    },
+    "state": "it: fechado, fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/it/",
+    "viewport": {
+      "width": 768,
+      "height": 360
+    },
+    "state": "it: menu, idiomas e fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/it/",
+    "viewport": {
+      "width": 768,
+      "height": 360
+    },
+    "state": "it: fechado, fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/it/",
+    "viewport": {
+      "width": 1024,
+      "height": 900
+    },
+    "state": "it: menu, idiomas e fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/it/",
+    "viewport": {
+      "width": 1024,
+      "height": 900
+    },
+    "state": "it: fechado, fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/it/",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "state": "it: menu, idiomas e fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/it/",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "state": "it: fechado, fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/de/",
+    "viewport": {
+      "width": 320,
+      "height": 900
+    },
+    "state": "de: menu, idiomas e fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/de/",
+    "viewport": {
+      "width": 320,
+      "height": 900
+    },
+    "state": "de: fechado, fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/de/",
+    "viewport": {
+      "width": 390,
+      "height": 900
+    },
+    "state": "de: menu, idiomas e fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/de/",
+    "viewport": {
+      "width": 390,
+      "height": 900
+    },
+    "state": "de: fechado, fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/de/",
+    "viewport": {
+      "width": 768,
+      "height": 360
+    },
+    "state": "de: menu, idiomas e fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/de/",
+    "viewport": {
+      "width": 768,
+      "height": 360
+    },
+    "state": "de: fechado, fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/de/",
+    "viewport": {
+      "width": 1024,
+      "height": 900
+    },
+    "state": "de: menu, idiomas e fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/de/",
+    "viewport": {
+      "width": 1024,
+      "height": 900
+    },
+    "state": "de: fechado, fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/de/",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "state": "de: menu, idiomas e fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/de/",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "state": "de: fechado, fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/ja/",
+    "viewport": {
+      "width": 320,
+      "height": 900
+    },
+    "state": "ja: menu, idiomas e fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/ja/",
+    "viewport": {
+      "width": 320,
+      "height": 900
+    },
+    "state": "ja: fechado, fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/ja/",
+    "viewport": {
+      "width": 390,
+      "height": 900
+    },
+    "state": "ja: menu, idiomas e fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/ja/",
+    "viewport": {
+      "width": 390,
+      "height": 900
+    },
+    "state": "ja: fechado, fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/ja/",
+    "viewport": {
+      "width": 768,
+      "height": 360
+    },
+    "state": "ja: menu, idiomas e fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/ja/",
+    "viewport": {
+      "width": 768,
+      "height": 360
+    },
+    "state": "ja: fechado, fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/ja/",
+    "viewport": {
+      "width": 1024,
+      "height": 900
+    },
+    "state": "ja: menu, idiomas e fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/ja/",
+    "viewport": {
+      "width": 1024,
+      "height": 900
+    },
+    "state": "ja: fechado, fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/ja/",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "state": "ja: menu, idiomas e fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/ja/",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "state": "ja: fechado, fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/zh/",
+    "viewport": {
+      "width": 320,
+      "height": 900
+    },
+    "state": "zh: menu, idiomas e fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/zh/",
+    "viewport": {
+      "width": 320,
+      "height": 900
+    },
+    "state": "zh: fechado, fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/zh/",
+    "viewport": {
+      "width": 390,
+      "height": 900
+    },
+    "state": "zh: menu, idiomas e fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/zh/",
+    "viewport": {
+      "width": 390,
+      "height": 900
+    },
+    "state": "zh: fechado, fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/zh/",
+    "viewport": {
+      "width": 768,
+      "height": 360
+    },
+    "state": "zh: menu, idiomas e fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/zh/",
+    "viewport": {
+      "width": 768,
+      "height": 360
+    },
+    "state": "zh: fechado, fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/zh/",
+    "viewport": {
+      "width": 1024,
+      "height": 900
+    },
+    "state": "zh: menu, idiomas e fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/zh/",
+    "viewport": {
+      "width": 1024,
+      "height": 900
+    },
+    "state": "zh: fechado, fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/zh/",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "state": "zh: menu, idiomas e fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/zh/",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "state": "zh: fechado, fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/galeria/",
+    "viewport": {
+      "width": 320,
+      "height": 900
+    },
+    "state": "modal, fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/galeria/",
+    "viewport": {
+      "width": 360,
+      "height": 800
+    },
+    "state": "modal, fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/galeria/",
+    "viewport": {
+      "width": 375,
+      "height": 800
+    },
+    "state": "modal, fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/galeria/",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "state": "modal, fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/galeria/",
+    "viewport": {
+      "width": 430,
+      "height": 900
+    },
+    "state": "modal, fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/galeria/",
+    "viewport": {
+      "width": 768,
+      "height": 360
+    },
+    "state": "modal, fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/galeria/",
+    "viewport": {
+      "width": 1024,
+      "height": 768
+    },
+    "state": "modal, fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/galeria/",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "state": "modal, fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/galeria/",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "state": "modal, fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/galeria/",
+    "viewport": {
+      "width": 1920,
+      "height": 1080
+    },
+    "state": "modal, fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/biblioteca/",
+    "viewport": {
+      "width": 320,
+      "height": 900
+    },
+    "state": "conteúdo, fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/busca/",
+    "viewport": {
+      "width": 320,
+      "height": 900
+    },
+    "state": "conteúdo, fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/sagrada-familia/",
+    "viewport": {
+      "width": 320,
+      "height": 900
+    },
+    "state": "conteúdo, fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/iconografia/",
+    "viewport": {
+      "width": 320,
+      "height": 900
+    },
+    "state": "conteúdo, fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/aprofundar/",
+    "viewport": {
+      "width": 320,
+      "height": 900
+    },
+    "state": "conteúdo, fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/oracoes/pai-nosso/",
+    "viewport": {
+      "width": 320,
+      "height": 900
+    },
+    "state": "conteúdo, fonte160",
+    "overflow": false
+  },
+  {
+    "path": "/",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "state": "movimento: reduce",
+    "overflow": false
+  },
+  {
+    "path": "/",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "state": "reduce: [data-cena]",
+    "overflow": false
+  },
+  {
+    "path": "/",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "state": "reduce: [data-pelicula]",
+    "overflow": false
+  },
+  {
+    "path": "/",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "state": "reduce: [data-manto]",
+    "overflow": false
+  },
+  {
+    "path": "/",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "state": "reduce: [data-mundo]",
+    "overflow": false
+  },
+  {
+    "path": "/",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "state": "reduce: [data-creditos]",
+    "overflow": false
+  },
+  {
+    "path": "/",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "state": "animações ativadas",
+    "overflow": false
+  },
+  {
+    "path": "/",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "state": "movimento: no-preference",
+    "overflow": false
+  },
+  {
+    "path": "/",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "state": "no-preference: [data-cena]",
+    "overflow": false
+  },
+  {
+    "path": "/",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "state": "no-preference: [data-pelicula]",
+    "overflow": false
+  },
+  {
+    "path": "/",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "state": "no-preference: [data-manto]",
+    "overflow": false
+  },
+  {
+    "path": "/",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "state": "no-preference: [data-mundo]",
+    "overflow": false
+  },
+  {
+    "path": "/",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "state": "no-preference: [data-creditos]",
+    "overflow": false
+  }
+]

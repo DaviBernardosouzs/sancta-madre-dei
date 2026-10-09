@@ -1,0 +1,7494 @@
+{
+  "results": [
+    {
+      "path": "/",
+      "width": 320,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/",
+      "width": 320,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/",
+      "width": 320,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/",
+      "width": 320,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/",
+      "width": 360,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/",
+      "width": 360,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/",
+      "width": 360,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/",
+      "width": 360,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/",
+      "width": 375,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/",
+      "width": 375,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/",
+      "width": 375,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/",
+      "width": 375,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/",
+      "width": 390,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/",
+      "width": 390,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/",
+      "width": 390,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/",
+      "width": 390,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/",
+      "width": 430,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/",
+      "width": 430,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/",
+      "width": 430,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/",
+      "width": 430,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/",
+      "width": 639,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/",
+      "width": 639,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/",
+      "width": 639,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/",
+      "width": 639,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/",
+      "width": 640,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/",
+      "width": 640,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/",
+      "width": 640,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/",
+      "width": 640,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/",
+      "width": 767,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/",
+      "width": 767,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/",
+      "width": 767,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/",
+      "width": 767,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/",
+      "width": 768,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/",
+      "width": 768,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/",
+      "width": 768,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/",
+      "width": 768,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/",
+      "width": 991,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/",
+      "width": 991,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/",
+      "width": 991,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/",
+      "width": 991,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/",
+      "width": 992,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/",
+      "width": 992,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/",
+      "width": 992,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/",
+      "width": 992,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/",
+      "width": 1024,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/",
+      "width": 1024,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/",
+      "width": 1024,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/",
+      "width": 1024,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/",
+      "width": 1183,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/",
+      "width": 1183,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/",
+      "width": 1183,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/",
+      "width": 1183,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/",
+      "width": 1184,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/",
+      "width": 1184,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/",
+      "width": 1184,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/",
+      "width": 1184,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/",
+      "width": 1279,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/",
+      "width": 1279,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/",
+      "width": 1279,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/",
+      "width": 1279,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/",
+      "width": 1280,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/",
+      "width": 1280,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/",
+      "width": 1280,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/",
+      "width": 1280,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/",
+      "width": 1440,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/",
+      "width": 1440,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/",
+      "width": 1440,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/",
+      "width": 1440,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/",
+      "width": 1920,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/",
+      "width": 1920,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/",
+      "width": 1920,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/",
+      "width": 1920,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/biblioteca/",
+      "width": 320,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/biblioteca/",
+      "width": 320,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/biblioteca/",
+      "width": 320,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/biblioteca/",
+      "width": 320,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/biblioteca/",
+      "width": 360,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/biblioteca/",
+      "width": 360,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/biblioteca/",
+      "width": 360,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/biblioteca/",
+      "width": 360,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/biblioteca/",
+      "width": 375,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/biblioteca/",
+      "width": 375,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/biblioteca/",
+      "width": 375,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/biblioteca/",
+      "width": 375,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/biblioteca/",
+      "width": 390,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/biblioteca/",
+      "width": 390,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/biblioteca/",
+      "width": 390,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/biblioteca/",
+      "width": 390,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/biblioteca/",
+      "width": 430,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/biblioteca/",
+      "width": 430,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/biblioteca/",
+      "width": 430,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/biblioteca/",
+      "width": 430,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/biblioteca/",
+      "width": 639,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/biblioteca/",
+      "width": 639,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/biblioteca/",
+      "width": 639,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/biblioteca/",
+      "width": 639,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/biblioteca/",
+      "width": 640,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/biblioteca/",
+      "width": 640,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/biblioteca/",
+      "width": 640,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/biblioteca/",
+      "width": 640,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/biblioteca/",
+      "width": 767,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/biblioteca/",
+      "width": 767,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/biblioteca/",
+      "width": 767,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/biblioteca/",
+      "width": 767,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/biblioteca/",
+      "width": 768,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/biblioteca/",
+      "width": 768,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/biblioteca/",
+      "width": 768,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/biblioteca/",
+      "width": 768,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/biblioteca/",
+      "width": 991,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/biblioteca/",
+      "width": 991,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/biblioteca/",
+      "width": 991,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/biblioteca/",
+      "width": 991,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/biblioteca/",
+      "width": 992,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/biblioteca/",
+      "width": 992,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/biblioteca/",
+      "width": 992,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/biblioteca/",
+      "width": 992,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/biblioteca/",
+      "width": 1024,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/biblioteca/",
+      "width": 1024,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/biblioteca/",
+      "width": 1024,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/biblioteca/",
+      "width": 1024,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/biblioteca/",
+      "width": 1183,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/biblioteca/",
+      "width": 1183,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/biblioteca/",
+      "width": 1183,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/biblioteca/",
+      "width": 1183,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/biblioteca/",
+      "width": 1184,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/biblioteca/",
+      "width": 1184,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/biblioteca/",
+      "width": 1184,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/biblioteca/",
+      "width": 1184,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/biblioteca/",
+      "width": 1279,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/biblioteca/",
+      "width": 1279,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/biblioteca/",
+      "width": 1279,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/biblioteca/",
+      "width": 1279,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/biblioteca/",
+      "width": 1280,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/biblioteca/",
+      "width": 1280,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/biblioteca/",
+      "width": 1280,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/biblioteca/",
+      "width": 1280,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/biblioteca/",
+      "width": 1440,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/biblioteca/",
+      "width": 1440,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/biblioteca/",
+      "width": 1440,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/biblioteca/",
+      "width": 1440,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/biblioteca/",
+      "width": 1920,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/biblioteca/",
+      "width": 1920,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/biblioteca/",
+      "width": 1920,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/biblioteca/",
+      "width": 1920,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/busca/",
+      "width": 320,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/busca/",
+      "width": 320,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/busca/",
+      "width": 320,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/busca/",
+      "width": 320,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/busca/",
+      "width": 360,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/busca/",
+      "width": 360,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/busca/",
+      "width": 360,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/busca/",
+      "width": 360,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/busca/",
+      "width": 375,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/busca/",
+      "width": 375,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/busca/",
+      "width": 375,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/busca/",
+      "width": 375,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/busca/",
+      "width": 390,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/busca/",
+      "width": 390,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/busca/",
+      "width": 390,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/busca/",
+      "width": 390,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/busca/",
+      "width": 430,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/busca/",
+      "width": 430,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/busca/",
+      "width": 430,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/busca/",
+      "width": 430,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/busca/",
+      "width": 639,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/busca/",
+      "width": 639,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/busca/",
+      "width": 639,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/busca/",
+      "width": 639,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/busca/",
+      "width": 640,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/busca/",
+      "width": 640,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/busca/",
+      "width": 640,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/busca/",
+      "width": 640,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/busca/",
+      "width": 767,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/busca/",
+      "width": 767,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/busca/",
+      "width": 767,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/busca/",
+      "width": 767,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/busca/",
+      "width": 768,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/busca/",
+      "width": 768,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/busca/",
+      "width": 768,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/busca/",
+      "width": 768,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/busca/",
+      "width": 991,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/busca/",
+      "width": 991,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/busca/",
+      "width": 991,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/busca/",
+      "width": 991,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/busca/",
+      "width": 992,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/busca/",
+      "width": 992,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/busca/",
+      "width": 992,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/busca/",
+      "width": 992,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/busca/",
+      "width": 1024,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/busca/",
+      "width": 1024,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/busca/",
+      "width": 1024,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/busca/",
+      "width": 1024,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/busca/",
+      "width": 1183,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/busca/",
+      "width": 1183,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/busca/",
+      "width": 1183,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/busca/",
+      "width": 1183,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/busca/",
+      "width": 1184,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/busca/",
+      "width": 1184,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/busca/",
+      "width": 1184,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/busca/",
+      "width": 1184,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/busca/",
+      "width": 1279,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/busca/",
+      "width": 1279,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/busca/",
+      "width": 1279,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/busca/",
+      "width": 1279,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/busca/",
+      "width": 1280,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/busca/",
+      "width": 1280,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/busca/",
+      "width": 1280,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/busca/",
+      "width": 1280,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/busca/",
+      "width": 1440,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/busca/",
+      "width": 1440,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/busca/",
+      "width": 1440,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/busca/",
+      "width": 1440,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/busca/",
+      "width": 1920,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/busca/",
+      "width": 1920,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/busca/",
+      "width": 1920,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/busca/",
+      "width": 1920,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/galeria/",
+      "width": 320,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/galeria/",
+      "width": 320,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/galeria/",
+      "width": 320,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/galeria/",
+      "width": 320,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/galeria/",
+      "width": 360,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/galeria/",
+      "width": 360,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/galeria/",
+      "width": 360,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/galeria/",
+      "width": 360,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/galeria/",
+      "width": 375,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/galeria/",
+      "width": 375,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/galeria/",
+      "width": 375,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/galeria/",
+      "width": 375,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/galeria/",
+      "width": 390,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/galeria/",
+      "width": 390,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/galeria/",
+      "width": 390,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/galeria/",
+      "width": 390,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/galeria/",
+      "width": 430,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/galeria/",
+      "width": 430,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/galeria/",
+      "width": 430,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/galeria/",
+      "width": 430,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/galeria/",
+      "width": 639,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/galeria/",
+      "width": 639,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/galeria/",
+      "width": 639,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/galeria/",
+      "width": 639,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/galeria/",
+      "width": 640,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/galeria/",
+      "width": 640,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/galeria/",
+      "width": 640,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/galeria/",
+      "width": 640,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/galeria/",
+      "width": 767,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/galeria/",
+      "width": 767,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/galeria/",
+      "width": 767,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/galeria/",
+      "width": 767,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/galeria/",
+      "width": 768,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/galeria/",
+      "width": 768,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/galeria/",
+      "width": 768,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/galeria/",
+      "width": 768,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/galeria/",
+      "width": 991,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/galeria/",
+      "width": 991,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/galeria/",
+      "width": 991,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/galeria/",
+      "width": 991,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/galeria/",
+      "width": 992,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/galeria/",
+      "width": 992,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/galeria/",
+      "width": 992,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/galeria/",
+      "width": 992,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/galeria/",
+      "width": 1024,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/galeria/",
+      "width": 1024,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/galeria/",
+      "width": 1024,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/galeria/",
+      "width": 1024,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/galeria/",
+      "width": 1183,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/galeria/",
+      "width": 1183,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/galeria/",
+      "width": 1183,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/galeria/",
+      "width": 1183,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/galeria/",
+      "width": 1184,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/galeria/",
+      "width": 1184,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/galeria/",
+      "width": 1184,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/galeria/",
+      "width": 1184,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/galeria/",
+      "width": 1279,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/galeria/",
+      "width": 1279,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/galeria/",
+      "width": 1279,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/galeria/",
+      "width": 1279,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/galeria/",
+      "width": 1280,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/galeria/",
+      "width": 1280,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/galeria/",
+      "width": 1280,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/galeria/",
+      "width": 1280,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/galeria/",
+      "width": 1440,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/galeria/",
+      "width": 1440,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/galeria/",
+      "width": 1440,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/galeria/",
+      "width": 1440,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/galeria/",
+      "width": 1920,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/galeria/",
+      "width": 1920,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/galeria/",
+      "width": 1920,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/galeria/",
+      "width": 1920,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aparicoes/",
+      "width": 320,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aparicoes/",
+      "width": 320,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aparicoes/",
+      "width": 320,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aparicoes/",
+      "width": 320,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aparicoes/",
+      "width": 360,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aparicoes/",
+      "width": 360,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aparicoes/",
+      "width": 360,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aparicoes/",
+      "width": 360,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aparicoes/",
+      "width": 375,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aparicoes/",
+      "width": 375,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aparicoes/",
+      "width": 375,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aparicoes/",
+      "width": 375,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aparicoes/",
+      "width": 390,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aparicoes/",
+      "width": 390,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aparicoes/",
+      "width": 390,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aparicoes/",
+      "width": 390,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aparicoes/",
+      "width": 430,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aparicoes/",
+      "width": 430,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aparicoes/",
+      "width": 430,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aparicoes/",
+      "width": 430,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aparicoes/",
+      "width": 639,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aparicoes/",
+      "width": 639,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aparicoes/",
+      "width": 639,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aparicoes/",
+      "width": 639,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aparicoes/",
+      "width": 640,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aparicoes/",
+      "width": 640,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aparicoes/",
+      "width": 640,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aparicoes/",
+      "width": 640,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aparicoes/",
+      "width": 767,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aparicoes/",
+      "width": 767,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aparicoes/",
+      "width": 767,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aparicoes/",
+      "width": 767,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aparicoes/",
+      "width": 768,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aparicoes/",
+      "width": 768,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aparicoes/",
+      "width": 768,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aparicoes/",
+      "width": 768,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aparicoes/",
+      "width": 991,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aparicoes/",
+      "width": 991,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aparicoes/",
+      "width": 991,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aparicoes/",
+      "width": 991,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aparicoes/",
+      "width": 992,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aparicoes/",
+      "width": 992,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aparicoes/",
+      "width": 992,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aparicoes/",
+      "width": 992,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aparicoes/",
+      "width": 1024,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aparicoes/",
+      "width": 1024,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aparicoes/",
+      "width": 1024,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aparicoes/",
+      "width": 1024,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aparicoes/",
+      "width": 1183,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aparicoes/",
+      "width": 1183,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aparicoes/",
+      "width": 1183,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aparicoes/",
+      "width": 1183,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aparicoes/",
+      "width": 1184,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aparicoes/",
+      "width": 1184,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aparicoes/",
+      "width": 1184,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aparicoes/",
+      "width": 1184,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aparicoes/",
+      "width": 1279,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aparicoes/",
+      "width": 1279,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aparicoes/",
+      "width": 1279,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aparicoes/",
+      "width": 1279,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aparicoes/",
+      "width": 1280,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aparicoes/",
+      "width": 1280,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aparicoes/",
+      "width": 1280,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aparicoes/",
+      "width": 1280,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aparicoes/",
+      "width": 1440,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aparicoes/",
+      "width": 1440,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aparicoes/",
+      "width": 1440,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aparicoes/",
+      "width": 1440,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aparicoes/",
+      "width": 1920,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aparicoes/",
+      "width": 1920,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aparicoes/",
+      "width": 1920,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aparicoes/",
+      "width": 1920,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/maria-pelo-mundo/",
+      "width": 320,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/maria-pelo-mundo/",
+      "width": 320,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/maria-pelo-mundo/",
+      "width": 320,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/maria-pelo-mundo/",
+      "width": 320,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/maria-pelo-mundo/",
+      "width": 360,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/maria-pelo-mundo/",
+      "width": 360,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/maria-pelo-mundo/",
+      "width": 360,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/maria-pelo-mundo/",
+      "width": 360,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/maria-pelo-mundo/",
+      "width": 375,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/maria-pelo-mundo/",
+      "width": 375,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/maria-pelo-mundo/",
+      "width": 375,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/maria-pelo-mundo/",
+      "width": 375,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/maria-pelo-mundo/",
+      "width": 390,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/maria-pelo-mundo/",
+      "width": 390,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/maria-pelo-mundo/",
+      "width": 390,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/maria-pelo-mundo/",
+      "width": 390,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/maria-pelo-mundo/",
+      "width": 430,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/maria-pelo-mundo/",
+      "width": 430,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/maria-pelo-mundo/",
+      "width": 430,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/maria-pelo-mundo/",
+      "width": 430,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/maria-pelo-mundo/",
+      "width": 639,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/maria-pelo-mundo/",
+      "width": 639,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/maria-pelo-mundo/",
+      "width": 639,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/maria-pelo-mundo/",
+      "width": 639,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/maria-pelo-mundo/",
+      "width": 640,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/maria-pelo-mundo/",
+      "width": 640,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/maria-pelo-mundo/",
+      "width": 640,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/maria-pelo-mundo/",
+      "width": 640,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/maria-pelo-mundo/",
+      "width": 767,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/maria-pelo-mundo/",
+      "width": 767,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/maria-pelo-mundo/",
+      "width": 767,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/maria-pelo-mundo/",
+      "width": 767,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/maria-pelo-mundo/",
+      "width": 768,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/maria-pelo-mundo/",
+      "width": 768,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/maria-pelo-mundo/",
+      "width": 768,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/maria-pelo-mundo/",
+      "width": 768,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/maria-pelo-mundo/",
+      "width": 991,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/maria-pelo-mundo/",
+      "width": 991,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/maria-pelo-mundo/",
+      "width": 991,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/maria-pelo-mundo/",
+      "width": 991,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/maria-pelo-mundo/",
+      "width": 992,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/maria-pelo-mundo/",
+      "width": 992,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/maria-pelo-mundo/",
+      "width": 992,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/maria-pelo-mundo/",
+      "width": 992,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/maria-pelo-mundo/",
+      "width": 1024,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/maria-pelo-mundo/",
+      "width": 1024,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/maria-pelo-mundo/",
+      "width": 1024,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/maria-pelo-mundo/",
+      "width": 1024,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/maria-pelo-mundo/",
+      "width": 1183,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/maria-pelo-mundo/",
+      "width": 1183,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/maria-pelo-mundo/",
+      "width": 1183,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/maria-pelo-mundo/",
+      "width": 1183,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/maria-pelo-mundo/",
+      "width": 1184,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/maria-pelo-mundo/",
+      "width": 1184,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/maria-pelo-mundo/",
+      "width": 1184,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/maria-pelo-mundo/",
+      "width": 1184,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/maria-pelo-mundo/",
+      "width": 1279,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/maria-pelo-mundo/",
+      "width": 1279,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/maria-pelo-mundo/",
+      "width": 1279,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/maria-pelo-mundo/",
+      "width": 1279,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/maria-pelo-mundo/",
+      "width": 1280,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/maria-pelo-mundo/",
+      "width": 1280,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/maria-pelo-mundo/",
+      "width": 1280,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/maria-pelo-mundo/",
+      "width": 1280,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/maria-pelo-mundo/",
+      "width": 1440,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/maria-pelo-mundo/",
+      "width": 1440,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/maria-pelo-mundo/",
+      "width": 1440,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/maria-pelo-mundo/",
+      "width": 1440,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/maria-pelo-mundo/",
+      "width": 1920,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/maria-pelo-mundo/",
+      "width": 1920,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/maria-pelo-mundo/",
+      "width": 1920,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/maria-pelo-mundo/",
+      "width": 1920,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/vida-de-maria/anunciacao/",
+      "width": 320,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/vida-de-maria/anunciacao/",
+      "width": 320,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/vida-de-maria/anunciacao/",
+      "width": 320,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/vida-de-maria/anunciacao/",
+      "width": 320,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/vida-de-maria/anunciacao/",
+      "width": 360,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/vida-de-maria/anunciacao/",
+      "width": 360,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/vida-de-maria/anunciacao/",
+      "width": 360,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/vida-de-maria/anunciacao/",
+      "width": 360,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/vida-de-maria/anunciacao/",
+      "width": 375,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/vida-de-maria/anunciacao/",
+      "width": 375,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/vida-de-maria/anunciacao/",
+      "width": 375,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/vida-de-maria/anunciacao/",
+      "width": 375,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/vida-de-maria/anunciacao/",
+      "width": 390,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/vida-de-maria/anunciacao/",
+      "width": 390,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/vida-de-maria/anunciacao/",
+      "width": 390,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/vida-de-maria/anunciacao/",
+      "width": 390,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/vida-de-maria/anunciacao/",
+      "width": 430,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/vida-de-maria/anunciacao/",
+      "width": 430,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/vida-de-maria/anunciacao/",
+      "width": 430,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/vida-de-maria/anunciacao/",
+      "width": 430,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/vida-de-maria/anunciacao/",
+      "width": 639,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/vida-de-maria/anunciacao/",
+      "width": 639,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/vida-de-maria/anunciacao/",
+      "width": 639,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/vida-de-maria/anunciacao/",
+      "width": 639,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/vida-de-maria/anunciacao/",
+      "width": 640,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/vida-de-maria/anunciacao/",
+      "width": 640,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/vida-de-maria/anunciacao/",
+      "width": 640,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/vida-de-maria/anunciacao/",
+      "width": 640,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/vida-de-maria/anunciacao/",
+      "width": 767,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/vida-de-maria/anunciacao/",
+      "width": 767,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/vida-de-maria/anunciacao/",
+      "width": 767,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/vida-de-maria/anunciacao/",
+      "width": 767,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/vida-de-maria/anunciacao/",
+      "width": 768,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/vida-de-maria/anunciacao/",
+      "width": 768,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/vida-de-maria/anunciacao/",
+      "width": 768,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/vida-de-maria/anunciacao/",
+      "width": 768,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/vida-de-maria/anunciacao/",
+      "width": 991,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/vida-de-maria/anunciacao/",
+      "width": 991,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/vida-de-maria/anunciacao/",
+      "width": 991,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/vida-de-maria/anunciacao/",
+      "width": 991,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/vida-de-maria/anunciacao/",
+      "width": 992,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/vida-de-maria/anunciacao/",
+      "width": 992,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/vida-de-maria/anunciacao/",
+      "width": 992,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/vida-de-maria/anunciacao/",
+      "width": 992,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/vida-de-maria/anunciacao/",
+      "width": 1024,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/vida-de-maria/anunciacao/",
+      "width": 1024,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/vida-de-maria/anunciacao/",
+      "width": 1024,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/vida-de-maria/anunciacao/",
+      "width": 1024,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/vida-de-maria/anunciacao/",
+      "width": 1183,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/vida-de-maria/anunciacao/",
+      "width": 1183,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/vida-de-maria/anunciacao/",
+      "width": 1183,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/vida-de-maria/anunciacao/",
+      "width": 1183,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/vida-de-maria/anunciacao/",
+      "width": 1184,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/vida-de-maria/anunciacao/",
+      "width": 1184,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/vida-de-maria/anunciacao/",
+      "width": 1184,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/vida-de-maria/anunciacao/",
+      "width": 1184,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/vida-de-maria/anunciacao/",
+      "width": 1279,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/vida-de-maria/anunciacao/",
+      "width": 1279,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/vida-de-maria/anunciacao/",
+      "width": 1279,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/vida-de-maria/anunciacao/",
+      "width": 1279,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/vida-de-maria/anunciacao/",
+      "width": 1280,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/vida-de-maria/anunciacao/",
+      "width": 1280,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/vida-de-maria/anunciacao/",
+      "width": 1280,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/vida-de-maria/anunciacao/",
+      "width": 1280,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/vida-de-maria/anunciacao/",
+      "width": 1440,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/vida-de-maria/anunciacao/",
+      "width": 1440,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/vida-de-maria/anunciacao/",
+      "width": 1440,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/vida-de-maria/anunciacao/",
+      "width": 1440,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/vida-de-maria/anunciacao/",
+      "width": 1920,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/vida-de-maria/anunciacao/",
+      "width": 1920,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/vida-de-maria/anunciacao/",
+      "width": 1920,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/vida-de-maria/anunciacao/",
+      "width": 1920,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/oracoes/pai-nosso/",
+      "width": 320,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/oracoes/pai-nosso/",
+      "width": 320,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/oracoes/pai-nosso/",
+      "width": 320,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/oracoes/pai-nosso/",
+      "width": 320,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/oracoes/pai-nosso/",
+      "width": 360,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/oracoes/pai-nosso/",
+      "width": 360,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/oracoes/pai-nosso/",
+      "width": 360,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/oracoes/pai-nosso/",
+      "width": 360,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/oracoes/pai-nosso/",
+      "width": 375,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/oracoes/pai-nosso/",
+      "width": 375,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/oracoes/pai-nosso/",
+      "width": 375,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/oracoes/pai-nosso/",
+      "width": 375,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/oracoes/pai-nosso/",
+      "width": 390,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/oracoes/pai-nosso/",
+      "width": 390,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/oracoes/pai-nosso/",
+      "width": 390,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/oracoes/pai-nosso/",
+      "width": 390,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/oracoes/pai-nosso/",
+      "width": 430,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/oracoes/pai-nosso/",
+      "width": 430,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/oracoes/pai-nosso/",
+      "width": 430,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/oracoes/pai-nosso/",
+      "width": 430,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/oracoes/pai-nosso/",
+      "width": 639,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/oracoes/pai-nosso/",
+      "width": 639,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/oracoes/pai-nosso/",
+      "width": 639,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/oracoes/pai-nosso/",
+      "width": 639,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/oracoes/pai-nosso/",
+      "width": 640,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/oracoes/pai-nosso/",
+      "width": 640,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/oracoes/pai-nosso/",
+      "width": 640,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/oracoes/pai-nosso/",
+      "width": 640,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/oracoes/pai-nosso/",
+      "width": 767,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/oracoes/pai-nosso/",
+      "width": 767,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/oracoes/pai-nosso/",
+      "width": 767,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/oracoes/pai-nosso/",
+      "width": 767,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/oracoes/pai-nosso/",
+      "width": 768,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/oracoes/pai-nosso/",
+      "width": 768,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/oracoes/pai-nosso/",
+      "width": 768,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/oracoes/pai-nosso/",
+      "width": 768,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/oracoes/pai-nosso/",
+      "width": 991,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/oracoes/pai-nosso/",
+      "width": 991,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/oracoes/pai-nosso/",
+      "width": 991,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/oracoes/pai-nosso/",
+      "width": 991,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/oracoes/pai-nosso/",
+      "width": 992,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/oracoes/pai-nosso/",
+      "width": 992,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/oracoes/pai-nosso/",
+      "width": 992,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/oracoes/pai-nosso/",
+      "width": 992,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/oracoes/pai-nosso/",
+      "width": 1024,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/oracoes/pai-nosso/",
+      "width": 1024,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/oracoes/pai-nosso/",
+      "width": 1024,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/oracoes/pai-nosso/",
+      "width": 1024,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/oracoes/pai-nosso/",
+      "width": 1183,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/oracoes/pai-nosso/",
+      "width": 1183,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/oracoes/pai-nosso/",
+      "width": 1183,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/oracoes/pai-nosso/",
+      "width": 1183,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/oracoes/pai-nosso/",
+      "width": 1184,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/oracoes/pai-nosso/",
+      "width": 1184,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/oracoes/pai-nosso/",
+      "width": 1184,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/oracoes/pai-nosso/",
+      "width": 1184,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/oracoes/pai-nosso/",
+      "width": 1279,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/oracoes/pai-nosso/",
+      "width": 1279,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/oracoes/pai-nosso/",
+      "width": 1279,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/oracoes/pai-nosso/",
+      "width": 1279,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/oracoes/pai-nosso/",
+      "width": 1280,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/oracoes/pai-nosso/",
+      "width": 1280,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/oracoes/pai-nosso/",
+      "width": 1280,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/oracoes/pai-nosso/",
+      "width": 1280,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/oracoes/pai-nosso/",
+      "width": 1440,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/oracoes/pai-nosso/",
+      "width": 1440,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/oracoes/pai-nosso/",
+      "width": 1440,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/oracoes/pai-nosso/",
+      "width": 1440,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/oracoes/pai-nosso/",
+      "width": 1920,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/oracoes/pai-nosso/",
+      "width": 1920,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/oracoes/pai-nosso/",
+      "width": 1920,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/oracoes/pai-nosso/",
+      "width": 1920,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aprofundar/",
+      "width": 320,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aprofundar/",
+      "width": 320,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aprofundar/",
+      "width": 320,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aprofundar/",
+      "width": 320,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aprofundar/",
+      "width": 360,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aprofundar/",
+      "width": 360,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aprofundar/",
+      "width": 360,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aprofundar/",
+      "width": 360,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aprofundar/",
+      "width": 375,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aprofundar/",
+      "width": 375,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aprofundar/",
+      "width": 375,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aprofundar/",
+      "width": 375,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aprofundar/",
+      "width": 390,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aprofundar/",
+      "width": 390,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aprofundar/",
+      "width": 390,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aprofundar/",
+      "width": 390,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aprofundar/",
+      "width": 430,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aprofundar/",
+      "width": 430,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aprofundar/",
+      "width": 430,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aprofundar/",
+      "width": 430,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aprofundar/",
+      "width": 639,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aprofundar/",
+      "width": 639,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aprofundar/",
+      "width": 639,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aprofundar/",
+      "width": 639,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aprofundar/",
+      "width": 640,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aprofundar/",
+      "width": 640,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aprofundar/",
+      "width": 640,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aprofundar/",
+      "width": 640,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aprofundar/",
+      "width": 767,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aprofundar/",
+      "width": 767,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aprofundar/",
+      "width": 767,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aprofundar/",
+      "width": 767,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aprofundar/",
+      "width": 768,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aprofundar/",
+      "width": 768,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aprofundar/",
+      "width": 768,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aprofundar/",
+      "width": 768,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aprofundar/",
+      "width": 991,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aprofundar/",
+      "width": 991,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aprofundar/",
+      "width": 991,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aprofundar/",
+      "width": 991,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aprofundar/",
+      "width": 992,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aprofundar/",
+      "width": 992,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aprofundar/",
+      "width": 992,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aprofundar/",
+      "width": 992,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aprofundar/",
+      "width": 1024,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aprofundar/",
+      "width": 1024,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aprofundar/",
+      "width": 1024,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aprofundar/",
+      "width": 1024,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aprofundar/",
+      "width": 1183,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aprofundar/",
+      "width": 1183,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aprofundar/",
+      "width": 1183,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aprofundar/",
+      "width": 1183,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aprofundar/",
+      "width": 1184,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aprofundar/",
+      "width": 1184,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aprofundar/",
+      "width": 1184,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aprofundar/",
+      "width": 1184,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aprofundar/",
+      "width": 1279,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aprofundar/",
+      "width": 1279,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aprofundar/",
+      "width": 1279,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aprofundar/",
+      "width": 1279,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aprofundar/",
+      "width": 1280,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aprofundar/",
+      "width": 1280,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aprofundar/",
+      "width": 1280,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aprofundar/",
+      "width": 1280,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aprofundar/",
+      "width": 1440,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aprofundar/",
+      "width": 1440,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aprofundar/",
+      "width": 1440,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aprofundar/",
+      "width": 1440,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aprofundar/",
+      "width": 1920,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aprofundar/",
+      "width": 1920,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aprofundar/",
+      "width": 1920,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/aprofundar/",
+      "width": 1920,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/sagrada-familia/",
+      "width": 320,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/sagrada-familia/",
+      "width": 320,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/sagrada-familia/",
+      "width": 320,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/sagrada-familia/",
+      "width": 320,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/sagrada-familia/",
+      "width": 360,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/sagrada-familia/",
+      "width": 360,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/sagrada-familia/",
+      "width": 360,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/sagrada-familia/",
+      "width": 360,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/sagrada-familia/",
+      "width": 375,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/sagrada-familia/",
+      "width": 375,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/sagrada-familia/",
+      "width": 375,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/sagrada-familia/",
+      "width": 375,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/sagrada-familia/",
+      "width": 390,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/sagrada-familia/",
+      "width": 390,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/sagrada-familia/",
+      "width": 390,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/sagrada-familia/",
+      "width": 390,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/sagrada-familia/",
+      "width": 430,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/sagrada-familia/",
+      "width": 430,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/sagrada-familia/",
+      "width": 430,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/sagrada-familia/",
+      "width": 430,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/sagrada-familia/",
+      "width": 639,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/sagrada-familia/",
+      "width": 639,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/sagrada-familia/",
+      "width": 639,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/sagrada-familia/",
+      "width": 639,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/sagrada-familia/",
+      "width": 640,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/sagrada-familia/",
+      "width": 640,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/sagrada-familia/",
+      "width": 640,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/sagrada-familia/",
+      "width": 640,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/sagrada-familia/",
+      "width": 767,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/sagrada-familia/",
+      "width": 767,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/sagrada-familia/",
+      "width": 767,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/sagrada-familia/",
+      "width": 767,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/sagrada-familia/",
+      "width": 768,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/sagrada-familia/",
+      "width": 768,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/sagrada-familia/",
+      "width": 768,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/sagrada-familia/",
+      "width": 768,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/sagrada-familia/",
+      "width": 991,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/sagrada-familia/",
+      "width": 991,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/sagrada-familia/",
+      "width": 991,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/sagrada-familia/",
+      "width": 991,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/sagrada-familia/",
+      "width": 992,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/sagrada-familia/",
+      "width": 992,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/sagrada-familia/",
+      "width": 992,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/sagrada-familia/",
+      "width": 992,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/sagrada-familia/",
+      "width": 1024,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/sagrada-familia/",
+      "width": 1024,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/sagrada-familia/",
+      "width": 1024,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/sagrada-familia/",
+      "width": 1024,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/sagrada-familia/",
+      "width": 1183,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/sagrada-familia/",
+      "width": 1183,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/sagrada-familia/",
+      "width": 1183,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/sagrada-familia/",
+      "width": 1183,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/sagrada-familia/",
+      "width": 1184,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/sagrada-familia/",
+      "width": 1184,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/sagrada-familia/",
+      "width": 1184,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/sagrada-familia/",
+      "width": 1184,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/sagrada-familia/",
+      "width": 1279,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/sagrada-familia/",
+      "width": 1279,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/sagrada-familia/",
+      "width": 1279,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/sagrada-familia/",
+      "width": 1279,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/sagrada-familia/",
+      "width": 1280,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/sagrada-familia/",
+      "width": 1280,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/sagrada-familia/",
+      "width": 1280,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/sagrada-familia/",
+      "width": 1280,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/sagrada-familia/",
+      "width": 1440,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/sagrada-familia/",
+      "width": 1440,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/sagrada-familia/",
+      "width": 1440,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/sagrada-familia/",
+      "width": 1440,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/sagrada-familia/",
+      "width": 1920,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/sagrada-familia/",
+      "width": 1920,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/sagrada-familia/",
+      "width": 1920,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/sagrada-familia/",
+      "width": 1920,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/iconografia/",
+      "width": 320,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/iconografia/",
+      "width": 320,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/iconografia/",
+      "width": 320,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/iconografia/",
+      "width": 320,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/iconografia/",
+      "width": 360,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/iconografia/",
+      "width": 360,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/iconografia/",
+      "width": 360,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/iconografia/",
+      "width": 360,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/iconografia/",
+      "width": 375,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/iconografia/",
+      "width": 375,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/iconografia/",
+      "width": 375,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/iconografia/",
+      "width": 375,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/iconografia/",
+      "width": 390,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/iconografia/",
+      "width": 390,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/iconografia/",
+      "width": 390,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/iconografia/",
+      "width": 390,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/iconografia/",
+      "width": 430,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/iconografia/",
+      "width": 430,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/iconografia/",
+      "width": 430,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/iconografia/",
+      "width": 430,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/iconografia/",
+      "width": 639,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/iconografia/",
+      "width": 639,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/iconografia/",
+      "width": 639,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/iconografia/",
+      "width": 639,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/iconografia/",
+      "width": 640,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/iconografia/",
+      "width": 640,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/iconografia/",
+      "width": 640,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/iconografia/",
+      "width": 640,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/iconografia/",
+      "width": 767,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/iconografia/",
+      "width": 767,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/iconografia/",
+      "width": 767,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/iconografia/",
+      "width": 767,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/iconografia/",
+      "width": 768,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/iconografia/",
+      "width": 768,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/iconografia/",
+      "width": 768,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/iconografia/",
+      "width": 768,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/iconografia/",
+      "width": 991,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/iconografia/",
+      "width": 991,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/iconografia/",
+      "width": 991,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/iconografia/",
+      "width": 991,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/iconografia/",
+      "width": 992,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/iconografia/",
+      "width": 992,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/iconografia/",
+      "width": 992,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/iconografia/",
+      "width": 992,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/iconografia/",
+      "width": 1024,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/iconografia/",
+      "width": 1024,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/iconografia/",
+      "width": 1024,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/iconografia/",
+      "width": 1024,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/iconografia/",
+      "width": 1183,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/iconografia/",
+      "width": 1183,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/iconografia/",
+      "width": 1183,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/iconografia/",
+      "width": 1183,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/iconografia/",
+      "width": 1184,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/iconografia/",
+      "width": 1184,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/iconografia/",
+      "width": 1184,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/iconografia/",
+      "width": 1184,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/iconografia/",
+      "width": 1279,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/iconografia/",
+      "width": 1279,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/iconografia/",
+      "width": 1279,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/iconografia/",
+      "width": 1279,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/iconografia/",
+      "width": 1280,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/iconografia/",
+      "width": 1280,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/iconografia/",
+      "width": 1280,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/iconografia/",
+      "width": 1280,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/iconografia/",
+      "width": 1440,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/iconografia/",
+      "width": 1440,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/iconografia/",
+      "width": 1440,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/iconografia/",
+      "width": 1440,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/iconografia/",
+      "width": 1920,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/iconografia/",
+      "width": 1920,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/iconografia/",
+      "width": 1920,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/iconografia/",
+      "width": 1920,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/instalar/",
+      "width": 320,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/instalar/",
+      "width": 320,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/instalar/",
+      "width": 320,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/instalar/",
+      "width": 320,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/instalar/",
+      "width": 360,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/instalar/",
+      "width": 360,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/instalar/",
+      "width": 360,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/instalar/",
+      "width": 360,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/instalar/",
+      "width": 375,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/instalar/",
+      "width": 375,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/instalar/",
+      "width": 375,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/instalar/",
+      "width": 375,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/instalar/",
+      "width": 390,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/instalar/",
+      "width": 390,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/instalar/",
+      "width": 390,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/instalar/",
+      "width": 390,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/instalar/",
+      "width": 430,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/instalar/",
+      "width": 430,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/instalar/",
+      "width": 430,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/instalar/",
+      "width": 430,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/instalar/",
+      "width": 639,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/instalar/",
+      "width": 639,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/instalar/",
+      "width": 639,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/instalar/",
+      "width": 639,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/instalar/",
+      "width": 640,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/instalar/",
+      "width": 640,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/instalar/",
+      "width": 640,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/instalar/",
+      "width": 640,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/instalar/",
+      "width": 767,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/instalar/",
+      "width": 767,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/instalar/",
+      "width": 767,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/instalar/",
+      "width": 767,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/instalar/",
+      "width": 768,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/instalar/",
+      "width": 768,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/instalar/",
+      "width": 768,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/instalar/",
+      "width": 768,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/instalar/",
+      "width": 991,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/instalar/",
+      "width": 991,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/instalar/",
+      "width": 991,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/instalar/",
+      "width": 991,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/instalar/",
+      "width": 992,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/instalar/",
+      "width": 992,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/instalar/",
+      "width": 992,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/instalar/",
+      "width": 992,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/instalar/",
+      "width": 1024,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/instalar/",
+      "width": 1024,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/instalar/",
+      "width": 1024,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/instalar/",
+      "width": 1024,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/instalar/",
+      "width": 1183,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/instalar/",
+      "width": 1183,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/instalar/",
+      "width": 1183,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/instalar/",
+      "width": 1183,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/instalar/",
+      "width": 1184,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/instalar/",
+      "width": 1184,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/instalar/",
+      "width": 1184,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/instalar/",
+      "width": 1184,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/instalar/",
+      "width": 1279,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/instalar/",
+      "width": 1279,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/instalar/",
+      "width": 1279,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/instalar/",
+      "width": 1279,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/instalar/",
+      "width": 1280,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/instalar/",
+      "width": 1280,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/instalar/",
+      "width": 1280,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/instalar/",
+      "width": 1280,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/instalar/",
+      "width": 1440,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/instalar/",
+      "width": 1440,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/instalar/",
+      "width": 1440,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/instalar/",
+      "width": 1440,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/instalar/",
+      "width": 1920,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/instalar/",
+      "width": 1920,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/instalar/",
+      "width": 1920,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/instalar/",
+      "width": 1920,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/pedidos-de-oracao/",
+      "width": 320,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/pedidos-de-oracao/",
+      "width": 320,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/pedidos-de-oracao/",
+      "width": 320,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/pedidos-de-oracao/",
+      "width": 320,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/pedidos-de-oracao/",
+      "width": 360,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/pedidos-de-oracao/",
+      "width": 360,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/pedidos-de-oracao/",
+      "width": 360,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/pedidos-de-oracao/",
+      "width": 360,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/pedidos-de-oracao/",
+      "width": 375,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/pedidos-de-oracao/",
+      "width": 375,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/pedidos-de-oracao/",
+      "width": 375,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/pedidos-de-oracao/",
+      "width": 375,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/pedidos-de-oracao/",
+      "width": 390,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/pedidos-de-oracao/",
+      "width": 390,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/pedidos-de-oracao/",
+      "width": 390,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/pedidos-de-oracao/",
+      "width": 390,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/pedidos-de-oracao/",
+      "width": 430,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/pedidos-de-oracao/",
+      "width": 430,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/pedidos-de-oracao/",
+      "width": 430,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/pedidos-de-oracao/",
+      "width": 430,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/pedidos-de-oracao/",
+      "width": 639,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/pedidos-de-oracao/",
+      "width": 639,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/pedidos-de-oracao/",
+      "width": 639,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/pedidos-de-oracao/",
+      "width": 639,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/pedidos-de-oracao/",
+      "width": 640,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/pedidos-de-oracao/",
+      "width": 640,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/pedidos-de-oracao/",
+      "width": 640,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/pedidos-de-oracao/",
+      "width": 640,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/pedidos-de-oracao/",
+      "width": 767,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/pedidos-de-oracao/",
+      "width": 767,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/pedidos-de-oracao/",
+      "width": 767,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/pedidos-de-oracao/",
+      "width": 767,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/pedidos-de-oracao/",
+      "width": 768,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/pedidos-de-oracao/",
+      "width": 768,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/pedidos-de-oracao/",
+      "width": 768,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/pedidos-de-oracao/",
+      "width": 768,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/pedidos-de-oracao/",
+      "width": 991,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/pedidos-de-oracao/",
+      "width": 991,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/pedidos-de-oracao/",
+      "width": 991,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/pedidos-de-oracao/",
+      "width": 991,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/pedidos-de-oracao/",
+      "width": 992,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/pedidos-de-oracao/",
+      "width": 992,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/pedidos-de-oracao/",
+      "width": 992,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/pedidos-de-oracao/",
+      "width": 992,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/pedidos-de-oracao/",
+      "width": 1024,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/pedidos-de-oracao/",
+      "width": 1024,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/pedidos-de-oracao/",
+      "width": 1024,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/pedidos-de-oracao/",
+      "width": 1024,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/pedidos-de-oracao/",
+      "width": 1183,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/pedidos-de-oracao/",
+      "width": 1183,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/pedidos-de-oracao/",
+      "width": 1183,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/pedidos-de-oracao/",
+      "width": 1183,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/pedidos-de-oracao/",
+      "width": 1184,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/pedidos-de-oracao/",
+      "width": 1184,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/pedidos-de-oracao/",
+      "width": 1184,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/pedidos-de-oracao/",
+      "width": 1184,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/pedidos-de-oracao/",
+      "width": 1279,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/pedidos-de-oracao/",
+      "width": 1279,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/pedidos-de-oracao/",
+      "width": 1279,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/pedidos-de-oracao/",
+      "width": 1279,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/pedidos-de-oracao/",
+      "width": 1280,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/pedidos-de-oracao/",
+      "width": 1280,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/pedidos-de-oracao/",
+      "width": 1280,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/pedidos-de-oracao/",
+      "width": 1280,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/pedidos-de-oracao/",
+      "width": 1440,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/pedidos-de-oracao/",
+      "width": 1440,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/pedidos-de-oracao/",
+      "width": 1440,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/pedidos-de-oracao/",
+      "width": 1440,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/pedidos-de-oracao/",
+      "width": 1920,
+      "state": "fechado",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/pedidos-de-oracao/",
+      "width": 1920,
+      "state": "menu",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/pedidos-de-oracao/",
+      "width": 1920,
+      "state": "idiomas",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    },
+    {
+      "path": "/pedidos-de-oracao/",
+      "width": 1920,
+      "state": "fonte160",
+      "overflow": false,
+      "overlaps": [],
+      "outside": []
+    }
+  ],
+  "errors": [],
+  "failures": []
+}

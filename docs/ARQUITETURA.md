@@ -1,6 +1,8 @@
 # Arquitetura
 
 ## Visão geral
+
+Responsividade (9/10/2026): `site/src/assets/css/responsive.css`, carregado após as folhas de cada área e incluído no pré-cache da PWA, corrige o reflow dos componentes compartilhados. Idiomas, tamanho do texto e movimento ficam no painel nativo do menu; o cabeçalho e os painéis reservam altura no fluxo. Auditorias e evidências: [RESPONSIVIDADE.md](RESPONSIVIDADE.md), `npm run audit:responsive` e `docs/capturas/responsividade/`.
 Gerador estático em Node, sem dependências de execução. Conteúdo em JSON versionado, validado a cada build. Saída em HTML semântico; JavaScript e GSAP são melhoria progressiva.
 
 Atualização visual (05/10/2026): `site/src/assets/css/cinematic.css` complementa o sistema original; `site/src/assets/js/app.js` concentra a preferência de movimento, as timelines e sua limpeza. Playwright, axe e Lighthouse são apenas dependências de desenvolvimento para as auditorias reproduzíveis em `site/scripts/verificacao/*-audit.mjs`. `prepare-images.mjs --only-derived` atualiza os recortes e o manifesto sem remover as variantes completas. Notas Obsidian foram consultadas; a atualização desta execução é mantida em `docs/` no repositório.

@@ -1,0 +1,145 @@
+{
+  "results": [
+    {
+      "device": "celular",
+      "page": "inicio",
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "device": "celular",
+      "page": "leitura",
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "device": "celular",
+      "page": "galeria",
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "device": "celular",
+      "page": "atlas",
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "device": "celular",
+      "page": "aparicoes",
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "device": "tablet",
+      "page": "inicio",
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "device": "tablet",
+      "page": "leitura",
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "device": "tablet",
+      "page": "galeria",
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "device": "tablet",
+      "page": "atlas",
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "device": "tablet",
+      "page": "aparicoes",
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "device": "desktop",
+      "page": "inicio",
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "device": "desktop",
+      "page": "leitura",
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "device": "desktop",
+      "page": "galeria",
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "device": "desktop",
+      "page": "atlas",
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "device": "desktop",
+      "page": "aparicoes",
+      "overflow": false,
+      "violations": []
+    },
+    {
+      "device": "estatico-light",
+      "page": "inicio",
+      "violations": []
+    },
+    {
+      "device": "estatico-light",
+      "page": "leitura",
+      "violations": []
+    },
+    {
+      "device": "estatico-light",
+      "page": "galeria",
+      "violations": []
+    },
+    {
+      "device": "estatico-light",
+      "page": "atlas",
+      "violations": []
+    },
+    {
+      "device": "estatico-light",
+      "page": "aparicoes",
+      "violations": []
+    },
+    {
+      "device": "estatico-dark",
+      "page": "inicio",
+      "violations": []
+    },
+    {
+      "device": "estatico-dark",
+      "page": "leitura",
+      "violations": []
+    },
+    {
+      "device": "estatico-dark",
+      "page": "galeria",
+      "violations": []
+    },
+    {
+      "device": "estatico-dark",
+      "page": "atlas",
+      "violations": []
+    },
+    {
+      "device": "estatico-dark",
+      "page": "aparicoes",
+      "violations": []
+    }
+  ],
+  "errors": []
+}

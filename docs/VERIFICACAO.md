@@ -60,3 +60,7 @@ Oceano azul-noite com paralelos, meridianos e contorno do globo (Equal Earth); p
 - O build `--app` não contém manifesto, `sw.js`, `pwa.js` nem a página de instalação.
 - `npm run check`: 56 testes (um novo, do PWA), 2024 páginas no verificador, sem problemas.
 - Não testado: instalação real em aparelho Android e iPhone (só emulação de navegador), Safari e Firefox.
+
+## Responsividade (9 de outubro de 2026)
+
+Verificações, causas, páginas, larguras e capturas registradas em [RESPONSIVIDADE.md](RESPONSIVIDADE.md). Matriz: 936 estados geométricos, 109 casos adicionais de idiomas/interações e seis páginas com zoom real de 200%, sem falhas na execução final. `npm run check`: 56 testes passaram, oito idiomas, 2.032 páginas verificadas.
