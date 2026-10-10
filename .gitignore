@@ -7,3 +7,6 @@ dist-app/
 dist-orig/
 .wrangler/
 __pycache__/
+
+# Capturas locais da auditoria de responsividade; relatórios continuam versionados.
+docs/capturas/responsividade/**/*.png

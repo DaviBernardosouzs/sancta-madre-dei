@@ -164,6 +164,8 @@ A galeria procura preservar a relação entre a obra artística, seu contexto hi
 
 ## Tecnologia
 
+Para executar localmente: Node.js 20 ou superior, `npm ci`, `npm run build` e `npm run serve` (http://localhost:4173). `npm run check` valida o acervo, executa os testes, gera os oito idiomas e verifica os links. `npm run audit:responsive`, com o servidor aberto e Chromium do Playwright instalado, verifica larguras, idiomas, controles e zoom de 200%; evidências em `docs/capturas/responsividade/`. Veja [a revisão de responsividade](docs/RESPONSIVIDADE.md).
+
 O Sancta Mater Dei é desenvolvido como um site estático, permitindo distribuição simples, rápida e com baixa dependência de infraestrutura.
 
 A arquitetura prioriza:

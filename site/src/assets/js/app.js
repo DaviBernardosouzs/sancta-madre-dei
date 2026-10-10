@@ -33,7 +33,7 @@
   var langMenu = document.querySelector('[data-idioma-menu]');
   if (langMenu) {
     document.addEventListener('click', function (e) { if (langMenu.open && !langMenu.contains(e.target)) langMenu.open = false; });
-    document.addEventListener('keydown', function (e) { if (e.key === 'Escape' && langMenu.open) { langMenu.open = false; var sm = langMenu.querySelector('summary'); if (sm) sm.focus(); } });
+    document.addEventListener('keydown', function (e) { if (e.key === 'Escape' && langMenu.open) { langMenu.open = false; e.preventDefault(); var sm = langMenu.querySelector('summary'); if (sm) sm.focus(); } });
   }
 
   var motionQuery = matchMedia('(prefers-reduced-motion: reduce)');
@@ -52,15 +52,28 @@
     });
   });
 
-  /* ---------- menu: aberto no desktop, recolhido no celular ---------- */
+  /* Native disclosures: state, Escape and focus return; nested languages close first. */
   var det = document.querySelector('.menu__det');
-  if (det && window.matchMedia) {
-    var mq = matchMedia('(min-width: 62rem)');
-    var sync = function () { det.open = false; };
+  [det, langMenu].filter(Boolean).forEach(function (details) {
+    var summary = details.querySelector('summary');
+    var sync = function () { summary.setAttribute('aria-expanded', String(details.open)); };
     sync();
-    if (mq.addEventListener) mq.addEventListener('change', sync);
-    document.addEventListener('keydown', function (e) { if (e.key === 'Escape' && det.open) { det.open = false; det.querySelector('summary').focus(); } });
-    document.addEventListener('click', function (e) { if (!det.contains(e.target)) det.open = false; });
+    details.addEventListener('toggle', sync);
+  });
+  if (det) {
+    document.addEventListener('keydown', function (e) {
+      if (e.key === 'Escape' && det.open && !e.defaultPrevented) {
+        det.open = false;
+        det.querySelector('summary').focus();
+        e.preventDefault();
+      }
+    });
+    document.addEventListener('click', function (e) {
+      if (det.open && !det.contains(e.target)) {
+        if (det.contains(document.activeElement)) det.querySelector('summary').focus();
+        det.open = false;
+      }
+    });
   }
 
   /* sumário do capítulo: aberto no desktop, recolhido no celular */

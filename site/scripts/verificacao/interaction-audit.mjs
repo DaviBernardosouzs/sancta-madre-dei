@@ -1,11 +1,16 @@
 import { chromium } from '@playwright/test';
 import assert from 'node:assert/strict';
-import { writeFileSync } from 'node:fs';
+import { mkdirSync, writeFileSync } from 'node:fs';
 import { join } from 'node:path';
 import { CAMINHOS } from '../lib/caminhos.mjs';
 const browser = await chromium.launch({ headless: true });
 const base = process.env.PREVIEW_URL || 'http://localhost:4183';
+const out = process.env.CAPTURE_DIR || `${CAMINHOS.capturas}/responsividade/regressao`;
+mkdirSync(out, { recursive: true });
 const checks = [];
+async function openMenu(page) {
+  if (!await page.locator('.menu__det').evaluate(el => el.open)) await page.locator('.menu > details > summary').click();
+}
 const check = (label, value) => { assert.ok(value, label); checks.push(label); };
 try {
   const context = await browser.newContext({ viewport: { width: 1440, height: 1000 } });
@@ -16,10 +21,10 @@ try {
     new PerformanceObserver(list => { window.metrics.lcp = list.getEntries().at(-1).startTime; }).observe({ type: 'largest-contentful-paint', buffered: true });
   });
   await page.goto(base);
-  await page.screenshot({ path: join(CAMINHOS.capturas, 'entrada-inicial.png') });
-  check('Navegação disponível durante a entrada', await page.locator('.menu summary').isVisible());
+  await page.screenshot({ path: join(out, 'entrada-inicial.png') });
+  check('Navegação disponível durante a entrada', await page.locator('.menu > details > summary').isVisible());
   await page.waitForTimeout(650);
-  await page.screenshot({ path: join(CAMINHOS.capturas, 'entrada-650ms.png') });
+  await page.screenshot({ path: join(out, 'entrada-650ms.png') });
   await page.waitForTimeout(2300);
   check('ScrollTriggers criados', await page.evaluate(() => ScrollTrigger.getAll().length > 0));
   const metric = await page.evaluate(() => window.metrics);
@@ -27,18 +32,20 @@ try {
   const triggersIniciais = await page.evaluate(() => ScrollTrigger.getAll().length);
   await scene.evaluate(el => scrollTo({ top: el.getBoundingClientRect().top + scrollY + innerHeight * .6, behavior: 'instant' }));
   await page.waitForTimeout(1200);
-  await page.screenshot({ path: join(CAMINHOS.capturas, 'rolagem-cena-fim.png') });
+  await page.screenshot({ path: join(out, 'rolagem-cena-fim.png') });
   const transformEnd = await scene.locator('[data-cena-quadro]').evaluate(el => getComputedStyle(el).transform);
   await page.evaluate(() => scrollTo({ top: 0, behavior: 'instant' }));
   await page.waitForTimeout(1200);
   const transformStart = await scene.locator('[data-cena-quadro]').evaluate(el => getComputedStyle(el).transform);
   check('Enquadramento responde à rolagem', transformStart !== transformEnd);
-  await page.screenshot({ path: join(CAMINHOS.capturas, 'rolagem-cena-inicio.png') });
+  await page.screenshot({ path: join(out, 'rolagem-cena-inicio.png') });
+  await openMenu(page);
   await page.locator('[data-motion-toggle]').click();
   check('Ler sem animações remove todos os ScrollTriggers', await page.evaluate(() => ScrollTrigger.getAll().length === 0));
   check('Preferência persistente', await page.evaluate(() => localStorage.getItem('smd-movimento') === 'off'));
   await page.reload();
   check('Modo estático restaurado sem animação na recarga', await page.evaluate(() => document.documentElement.classList.contains('sem-movimento') && ScrollTrigger.getAll().length === 0));
+  await openMenu(page);
   await page.locator('[data-motion-toggle]').click();
   await page.locator('[data-manto]').scrollIntoViewIfNeeded();
   await page.waitForTimeout(100);
@@ -91,14 +98,15 @@ try {
   check('Estado vazio da busca', await page.locator('[data-vazio]').isVisible());
   await page.goto(base);
   await page.setViewportSize({ width: 320, height: 780 });
-  await page.locator('.menu summary').click();
+  await page.locator('.menu > details > summary').click();
   check('Menu móvel abre', await page.locator('.menu__det').evaluate(el => el.open));
   await page.keyboard.press('Escape');
   check('Escape fecha o menu', await page.locator('.menu__det').evaluate(el => !el.open));
+  await openMenu(page);
   for (let i = 0; i < 5; i++) await page.locator('[data-fonte="10"]').click();
   check('Texto ampliado para 150%', await page.evaluate(() => document.documentElement.style.fontSize === '150%'));
   check('Reflow a 320px com texto 150%', await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth));
-  await page.screenshot({ path: join(CAMINHOS.capturas, 'reflow-320.png') });
+  await page.screenshot({ path: join(out, 'reflow-320.png') });
   await context.close();
 
   for (const mode of ['sem-js', 'sem-gsap', 'sem-storage']) {
@@ -111,12 +119,13 @@ try {
     await p.waitForTimeout(mode === 'sem-storage' ? 5500 : 600);
     check(`${mode}: título e obra visíveis`, await p.locator('h1').isVisible() && await p.locator('.f-quadro--heroi img').isVisible() && await p.evaluate(() => [...document.querySelectorAll('.f-letra, [data-prologo-quadro], .f-intro')].every((el) => getComputedStyle(el).opacity === '1')));
     if (mode === 'sem-storage') {
+      await openMenu(p);
       await p.locator('[data-motion-toggle]').click();
       check('Controle funciona sem localStorage', await p.evaluate(() => document.documentElement.classList.contains('sem-movimento')));
     }
-    await p.screenshot({ path: join(CAMINHOS.capturas, `${mode}.png`) });
+    await p.screenshot({ path: join(out, `${mode}.png`) });
     await fallback.close();
   }
-  writeFileSync(join(CAMINHOS.capturas, 'interacoes.json'), JSON.stringify({ checks, metric }, null, 2));
+  writeFileSync(join(out, 'interacoes.json'), JSON.stringify({ checks, metric }, null, 2));
   console.log(JSON.stringify({ passed: checks.length, metric }, null, 2));
 } finally { await browser.close(); }

@@ -272,7 +272,7 @@ const GLOBE = `<svg class="idioma__icone" viewBox="0 0 24 24" width="18" height=
 
 function langSwitcher(path) {
   const items = LOCALES.map((x) => `<li><a href="${hrefIn(x.code, path)}" hreflang="${x.lang}" lang="${x.lang}" data-idioma="${x.code}"${x.code === L.code ? ' aria-current="true"' : ''}>${esc(x.native)}</a></li>`).join('');
-  return `<details class="idioma" data-idioma-menu><summary aria-label="${esc(_('Idioma: {idioma}', { idioma: L.native }))}">${GLOBE}<span>${L.short}</span></summary><ul>${items}</ul></details>`;
+  return `<details class="idioma" data-idioma-menu><summary aria-controls="idiomas-lista" aria-label="${esc(_('Idioma: {idioma}', { idioma: L.native }))}">${GLOBE}<span>${L.short}</span></summary><ul id="idiomas-lista">${items}</ul></details>`;
 }
 
 function layout({ title, description, path, body, section = '', jsonLd = null, art = null, home = false, ogImage = null, alternates = true, css = [], js = [] }) {
@@ -314,6 +314,7 @@ ${APP ? '' : `<link rel="manifest" href="${asset(`manifest.${L.code}.webmanifest
 <link rel="stylesheet" href="${asset('assets/css/cinematic.css')}">
 <link rel="stylesheet" href="${asset('assets/css/filme.css')}">
 ${css.map((f) => `<link rel="stylesheet" href="${asset(`assets/css/${f}`)}">`).join('\n')}
+<link rel="stylesheet" href="${asset('assets/css/responsive.css')}">
 ${lcpId ? `<link rel="preload" as="image" type="image/webp" href="${fileOf(lcpId, midOf(lcpId))}" imagesrcset="${srcsetOf(lcpId)}" imagesizes="${lcpSizes}" fetchpriority="high">` : ''}
 ${jsonLd ? `<script type="application/ld+json">${JSON.stringify(jsonLd)}</script>` : ''}
 <script>(function(d){var h=d.documentElement;h.classList.add('js');try{var s=localStorage.getItem('smd-fonte');if(s)h.style.fontSize=s+'%'}catch(e){}try{if(localStorage.getItem('smd-movimento')==='off')h.classList.add('sem-movimento')}catch(e){}if(!h.classList.contains('sem-movimento')&&!matchMedia('(prefers-reduced-motion: reduce)').matches){h.classList.add('anim');setTimeout(function(){if(!h.classList.contains('f-ok'))h.classList.add('anim-off')},3500)}})(document)</script>
@@ -327,20 +328,22 @@ ${jsonLd ? `<script type="application/ld+json">${JSON.stringify(jsonLd)}</script
     <div class="topo__linha">
       <a class="marca" href="${href()}"><span class="marca__nome" translate="no">Sancta Mater Dei</span><span class="marca__sub">${esc(_('Santa Mãe de Deus'))}</span></a>
       <a class="pedir" href="${href('pedidos-de-oracao/')}"${section === 'pedidos-de-oracao/' ? ' aria-current="page"' : ''}>${VELA}<span>${esc(_('Pedir oração'))}</span></a>
-      <div class="utilidades"><button class="movimento-ctl" type="button" data-motion-toggle aria-pressed="false" hidden>${esc(_('Ler sem animações'))}</button>
-        <span class="utilidades__links">${util}</span>
-        ${alternates ? langSwitcher(path) : ''}
-        <div class="texto-ctl" role="group" aria-label="${esc(_('Tamanho do texto'))}">
-          <button type="button" data-fonte="-10" aria-label="${esc(_('Diminuir o texto'))}">A-</button>
-          <button type="button" data-fonte="0" aria-label="${esc(_('Tamanho padrão do texto'))}">A</button>
-          <button type="button" data-fonte="10" aria-label="${esc(_('Aumentar o texto'))}">A+</button>
-        </div>
-      </div>
     </div>
     <nav class="menu" aria-label="${esc(_('Principal'))}">
       <details class="menu__det">
-        <summary>${esc(_('Menu'))}</summary>
+        <summary aria-controls="menu-painel">${esc(_('Menu'))}</summary>
+        <div class="menu__painel" id="menu-painel">
+          <div class="utilidades"><button class="movimento-ctl" type="button" data-motion-toggle aria-pressed="false" hidden>${esc(_('Ler sem animações'))}</button>
+            <span class="utilidades__links">${util}</span>
+            ${alternates ? langSwitcher(path) : ''}
+            <div class="texto-ctl" role="group" aria-label="${esc(_('Tamanho do texto'))}">
+              <button type="button" data-fonte="-10" aria-label="${esc(_('Diminuir o texto'))}">A-</button>
+              <button type="button" data-fonte="0" aria-label="${esc(_('Tamanho padrão do texto'))}">A</button>
+              <button type="button" data-fonte="10" aria-label="${esc(_('Aumentar o texto'))}">A+</button>
+            </div>
+          </div>
         <ul>${nav}${UTIL.map(([p, label]) => `<li class="menu__extra"><a href="${href(p)}"${p === section ? ' aria-current="page"' : ''}>${esc(_(label))}</a></li>`).join('')}</ul>
+        </div>
       </details>
     </nav>
     <script>if(!matchMedia('(min-width: 62rem)').matches){var d=document.querySelector('.menu__det');if(d)d.removeAttribute('open')}</script>
@@ -1925,7 +1928,7 @@ if (isDefault) {
   cpSync(join(CAMINHOS.ativos, 'img', 'favicons', 'favicon.ico'), join(OUT, 'favicon.ico'));
   if (!APP) {
     const pre = [
-      'assets/css/style.css', 'assets/css/cinematic.css', 'assets/css/filme.css', 'assets/css/instalar.css',
+      'assets/css/responsive.css', 'assets/css/style.css', 'assets/css/cinematic.css', 'assets/css/filme.css', 'assets/css/instalar.css',
       'assets/js/app.js', 'assets/js/filme.js', 'assets/js/filtro.js', 'assets/js/pwa.js',
       'assets/vendor/gsap.min.js', 'assets/vendor/ScrollTrigger.min.js',
       'assets/fonts/cormorant-garamond-latin-500-normal.woff2', 'assets/fonts/atkinson-hyperlegible-latin-400-normal.woff2',

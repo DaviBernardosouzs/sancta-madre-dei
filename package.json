@@ -23,6 +23,7 @@
     "audit:visual": "node site/scripts/verificacao/visual-audit.mjs",
     "audit:interactions": "node site/scripts/verificacao/interaction-audit.mjs",
     "audit:performance": "node site/scripts/verificacao/performance-audit.mjs",
+    "audit:responsive": "node site/scripts/verificacao/responsive-audit.mjs && node site/scripts/verificacao/responsive-states.mjs && node site/scripts/verificacao/responsive-zoom.mjs",
     "build:pt": "node site/scripts/build.mjs",
     "i18n": "node site/scripts/ferramentas/i18n.mjs",
     "i18n:keys": "I18N_COLLECT=1 LOCALE=pt node site/scripts/build.mjs",

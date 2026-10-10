@@ -382,7 +382,7 @@ main:focus { outline: none; }
 
 /* ---------- documental ---------- */
 .doc { display: grid; grid-template-columns: minmax(0, 1fr); gap: var(--e4); padding-block: var(--e3) var(--e5); }
-@media (min-width: 62rem) { .doc { grid-template-columns: minmax(0, 1fr) 20rem; gap: var(--e5); align-items: start; } .doc__lado { position: sticky; top: 1.5rem; } .doc__lado .ficha { margin-top: 0; padding: var(--e2) 0; border-top: 2px solid var(--ultramar); border-bottom: 1px solid var(--filete); }
+@media (min-width: 62rem) { .doc { grid-template-columns: minmax(0, 1fr) 20rem; gap: var(--e5); align-items: start; } .doc__lado { position: sticky; top: 1.5rem; } .doc__lado .ficha { margin-top: 0; padding: var(--e2) 0; border-top: 2px solid var(--ultramar); border-bottom: 1px solid var(--filete); } }
 .doc__lado nav ol { list-style: none; margin: var(--e2) 0 0; padding: 0 0 0 0.9rem; border-left: 1px solid var(--filete); font-size: var(--t-pequeno); }
 .doc__lado nav li { max-width: none; }
 .doc__lado nav a { display: flex; align-items: center; min-height: 44px; color: var(--tinta-2); text-decoration: none; line-height: 1.35; }
